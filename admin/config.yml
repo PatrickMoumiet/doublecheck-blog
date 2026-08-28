@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: PatrickMoumiet/doublecheck-blog
+  branch: main
+
+# This makes /admin editable content go straight into your GitHub repo,
+# which then triggers a rebuild via GitHub Pages automatically.
+media_folder: "src/assets/images"
+public_folder: "/blog/assets/images"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
+      - { label: "Hero Image", name: "heroImage", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
