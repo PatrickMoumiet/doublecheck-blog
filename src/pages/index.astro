@@ -16,7 +16,35 @@ const posts = (await getCollection('blog'))
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
+			.hero {
+				position: relative;
+				overflow: hidden;
+			}
+			.hero video {
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				min-width: 100%;
+				min-height: 100%;
+				width: auto;
+				height: auto;
+				transform: translate(-50%, -50%);
+				object-fit: cover;
+				opacity: 0.14;
+				z-index: 0;
+				border: none;
+				border-radius: 0;
+			}
+			.hero::after {
+				content: '';
+				position: absolute;
+				inset: 0;
+				background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, #ffffff 90%);
+				z-index: 1;
+			}
 			.intro {
+				position: relative;
+				z-index: 2;
 				max-width: 720px;
 				margin: 3rem auto 3.5rem auto;
 				padding: 0 1rem;
@@ -96,13 +124,18 @@ const posts = (await getCollection('blog'))
 	<body>
 		<Header />
 		<main>
-			<div class="intro">
-				<span class="eyebrow">Research &amp; Insights</span>
-				<h1>DoubleCheck Legal</h1>
-				<p>
-					Data and analysis on how businesses use AI to draft legal work, and where professional
-					review still matters.
-				</p>
+			<div class="hero">
+				<video autoplay muted loop playsinline preload="none">
+					<source src="/hero-video.mp4" type="video/mp4" />
+				</video>
+				<div class="intro">
+					<span class="eyebrow">Research &amp; Insights</span>
+					<h1>DoubleCheck Legal</h1>
+					<p>
+						Data and analysis on how businesses use AI to draft legal work, and where professional
+						review still matters.
+					</p>
+				</div>
 			</div>
 
 			<div class="section-header">
