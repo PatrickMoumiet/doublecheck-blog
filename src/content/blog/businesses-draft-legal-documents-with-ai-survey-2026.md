@@ -2,6 +2,23 @@
 title: 'New Data: Businesses draft legal documents with AI and seek professional review'
 description: 'A new survey of 304 startup workers and business developers reveals how they use AI to produce legal documents and seek professional verification.'
 pubDate: 'Aug 21 2026'
+authorName: 'Tyler Peters'
+authorImage: '/author-tyler.png'
+toc:
+  - label: 'Key findings'
+    anchor: 'key-findings'
+  - label: 'Executive summary'
+    anchor: 'executive-summary'
+  - label: 'Methodology'
+    anchor: 'methodology'
+  - label: '01. Adoption'
+    anchor: '01-adoption-ai-has-become-the-norm-for-internal-document-creation'
+  - label: '02. Review barriers'
+    anchor: '02-review-barriers-most-of-this-work-reaches-use-without-a-lawyer'
+  - label: '03. Demand'
+    anchor: '03-demand-companies-are-already-seeking-review'
+  - label: '04. Beyond legal documents'
+    anchor: '04-beyond-legal-documents-demand-extends-past-legal-documents'
 ---
 
 *A new survey of 304 startup workers and business developers reveal how they use AI to produce legal documents and seek professional verification.*
