@@ -128,4 +128,21 @@ import HeaderLink from './HeaderLink.astro';
 			display: none;
 		}
 	}
+	@media (max-width: 520px) {
+		nav {
+			grid-template-columns: 1fr;
+			justify-items: center;
+			row-gap: 0;
+			padding: 0.6em 0 0.2em 0;
+		}
+		nav h2 {
+			justify-self: center;
+		}
+		.internal-links {
+			justify-self: center;
+		}
+		nav .internal-links a {
+			padding: 0.6em 0.7em;
+		}
+	}
 </style>
