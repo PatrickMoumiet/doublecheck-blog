@@ -1,0 +1,47 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Learning | ${SITE_TITLE}`}
+			description="Guides and resources on using AI for legal work responsibly, coming soon from DoubleCheck Legal."
+		/>
+		<style>
+			main {
+				max-width: 720px;
+			}
+			.placeholder-card {
+				border: 1px dashed rgb(var(--gray-light));
+				border-radius: 6px;
+				padding: 2.5rem 1.5rem;
+				text-align: center;
+				margin-top: 1.5rem;
+			}
+			.placeholder-card p {
+				color: rgb(var(--gray));
+				max-width: 420px;
+				margin: 0 auto;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<span class="eyebrow">Resources</span>
+			<h1>Learning</h1>
+			<div class="placeholder-card">
+				<p>
+					Guides and resources on using AI for legal work responsibly — coming soon. In the
+					meantime, check out our <a href="/blog">research and insights</a>.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
