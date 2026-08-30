@@ -32,6 +32,17 @@ const fallbackImageURL = new URL('/logo-square.png', Astro.site);
 <meta name="generator" content={Astro.generator} />
 <meta name="google-site-verification" content="TElfGtzs7D3gfcJMwgBY1rGySLBSchLLsPZGxKTsLLs" />
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QF58WXXSMZ"></script>
+<script is:inline>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'G-QF58WXXSMZ');
+</script>
+
 <Font cssVariable="--font-atkinson" preload />
 
 <!-- Canonical URL -->
