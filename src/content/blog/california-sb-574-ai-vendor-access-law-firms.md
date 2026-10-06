@@ -38,6 +38,8 @@ In this post you will learn which parts of SB 574 reach transactional work, how 
 
 Now that the question is framed, the first task is to separate the provisions that matter to a transactional firm from the provisions that matter only to litigators.
 
+![SB 574: the access test for AI-native law firms. An attorney's input passes through the firm's app to the AI model provider, where authorized access covers what the service needs — but provider staff and subprocessors sit in a zone of potentially unresolved third-party access that the statute leaves open.](/images/sb-574/access-test-flow.webp)
+
 ## Only the Confidentiality and Verification Duties Reach Transactional Work
 
 Section 6068.1 governs an attorney "who uses generative artificial intelligence to assist in the practice of law," a phrase that covers contract review and advisory work as fully as it covers litigation.\[1\] Two provisions reach only court work. The disclosure duty in subdivision (a)(3)(C) applies to documents that the attorney submits to a court, and the amendment to Code of Civil Procedure section 128.7 bars any citation that the responsible attorney has not personally verified in a paper filed in any court.\[1\] A firm that files no papers faces neither provision.
@@ -57,6 +59,8 @@ A firm that hosts an open-weight model on infrastructure it controls can list th
 The confidentiality duty never mentions retention, the training of models on inputs, or opt-outs.\[1\] Retention matters only through access, because a longer retention window gives more people more occasions to reach the data. Provider documentation shows how uneven the windows are, and as of October 5, 2026 it reads as follows. OpenAI states that it retains abuse monitoring logs, which may contain prompts and responses, for up to 30 days by default, unless the law requires longer retention or the protection of its services reasonably necessitates it, and that eligible customers can obtain zero data retention or modified abuse monitoring after approval.\[4\] Anthropic states that it deletes commercial API inputs and outputs within 30 days subject to four exceptions: services with longer retention under the customer's control, agreed arrangements such as zero data retention, retention needed to enforce its usage policy, and retention required by law.\[5\]
 
 A zero-retention label also varies by model. Anthropic's help center states that for designated covered models it retains prompts and outputs for 30 days to support safety work, including for organizations that otherwise operate under zero data retention, subject to limited arrangements it describes.\[6\] A firm therefore cannot treat "zero retention" as a uniform fact about a provider, and it cannot treat any retention period as a statement about who has access. Both questions need an answer in the contract, which leads to the point where the statute gives the least guidance.
+
+![Retention is not the same as access. Retention describes how long data is kept — 30 days, zero retention, or exceptions for security and legal requirements. Access describes who can reach it — provider employees, support staff, or subprocessors. SB 574's confidentiality test turns on access.](/images/sb-574/retention-vs-access.webp)
 
 ## Provider Staff Access Is the Open Question
 
@@ -91,6 +95,8 @@ The statute makes the attorney the authorizing party, so a record can show that 
 ### Four Questions a Firm Can Put to an AI Vendor Before January 1
 
 A firm can put four questions to a vendor. First, which companies and which people can read an input, including staff who review flagged content, and what confidentiality obligation binds each of them? Second, how long does each company keep prompts and outputs, and which exceptions, such as abuse monitoring and legal process, override the stated period? Third, does the contract bind the vendor's own subprocessors to the same obligations? Fourth, can the firm show, from the contract and from its own logs, that no one outside the authorized group can reach an input?
+
+![Four questions to ask every AI vendor before January 1, 2027: who can read the input, how long is it retained, are subprocessors bound by the same confidentiality obligations, and can the vendor prove the access boundary with contracts, authorization records, and access logs.](/images/sb-574/four-questions-ai-vendor.webp)
 
 ## SB 574 Settles the Access Test and Leaves Provider Staff Open
 
