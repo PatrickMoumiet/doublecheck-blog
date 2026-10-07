@@ -81,6 +81,7 @@
 <span class="line"><span>    continue workflow</span></span></code></pre>
 <p>The decision model is therefore not replacing the attorney and is not replacing the model producing the draft.</p>
 <p>It is helping the software make the <strong>workflow decision between steps</strong>.</p>
+<p><img src="/images/jev/decision-ai-workflow-fit.webp" alt="How decision AI fits into a boutique law firm workflow: a client matter or legal task goes to generative AI, which drafts, summarizes, and extracts clauses. A decision AI layer then classifies the workflow, scores confidence, and routes the output to attorney review, AI revision, or the next step. The attorney retains judgment, strategy, and final approval throughout."></p>
 <h2 id="example-document-review-routing">Example: Document-Review Routing</h2>
 <p>The same architecture could help with high-volume document review.</p>
 <p>Suppose a small firm receives dozens of documents from clients.</p>
@@ -127,6 +128,7 @@
 <p>TypeSafe explicitly describes Jev as useful for AI-powered workflows and “smart if-statements,” while OpenAI’s Decisions API similarly exposes structured choice, predicate, and score outputs that applications can consume programmatically.</p>
 <p>That could be one of the more consequential changes in how professional AI software is built.</p>
 <h2 id="the-right-architecture-for-a-boutique-law-firm">The Right Architecture for a Boutique Law Firm</h2>
+<p><img src="/images/jev/why-decision-models-matter.webp" alt="Why decision models matter for legal AI: traditional if/then rules are fast but break on nuance, generative AI alone is great at drafting but inconsistent for decisions, and a decision AI layer turns insights into action by classifying the next step, scoring confidence, and routing to attorney review, AI revision, or the next workflow step. The best architecture for small law firms splits the work — code handles hard rules, generative AI handles writing, decision AI handles routing and branching, and lawyers handle judgment."></p>
 <p>The safest conceptual model is a layered one.</p>
 <p><strong>Hard rules remain code.</strong> Permissions, authentication, payment rules, document access, deadlines entered by users, and other deterministic requirements should not be delegated to probabilistic AI.</p>
 <p><strong>Generative models handle language.</strong> Drafting, summarization, explanation, extraction, and conversational assistance remain natural LLM tasks.</p>
