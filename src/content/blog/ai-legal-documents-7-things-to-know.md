@@ -2,7 +2,20 @@
 title: 'How to Use AI for Legal Documents: 7 Things to Know Before You Draft'
 description: 'What to check before you rely on an AI-drafted contract, NDA, or legal letter — citations, confidentiality, model choice, and when to bring in an attorney.'
 pubDate: 'Oct 2 2026'
-authorName: 'Patrick'
+authorName: 'Patrick Moumiet'
+faq:
+  - question: 'Can I use ChatGPT, Claude or Gemini to write a contract?'
+    answer: "Yes, as a starting draft. A contract's validity depends on its terms and the parties' agreement, not on who or what wrote it. But AI can omit key clauses or misstate the law, so review the draft carefully and have an attorney check anything high-stakes."
+  - question: 'Which AI is best for legal documents?'
+    answer: 'It depends on the task. Published comparisons tend to favor Claude for careful drafting and contract analysis, ChatGPT for general drafting and numerical work, and Gemini for very long documents and research. Purpose-built legal tools add verified citations and stronger security. Test on your own documents.'
+  - question: 'Can AI hallucinate legal information?'
+    answer: 'Yes. Every major model can produce fake cases, invented statutes and misquoted rules in confident language. Treat every citation and legal claim as unverified until you have read the source.'
+  - question: 'Is it safe to put confidential information into an AI tool?'
+    answer: 'Only with care. Consumer tools may not protect confidentiality, and a 2026 U.S. ruling found documents made with a public AI tool were not privileged. Prefer enterprise plans with written data terms, and remove identifying details where possible.'
+  - question: 'Is an AI-generated contract legally binding?'
+    answer: 'It can be, if it meets the usual requirements for a valid contract in your jurisdiction and the parties agree to it. Being AI-written neither helps nor hurts. Errors, missing terms and unenforceable clauses are the real risk.'
+  - question: 'Do I still need a lawyer if I use AI?'
+    answer: 'For anything with real money, rights or liability at stake, yes. AI can speed up drafting and help you prepare, but it cannot give advice tailored to your situation or take responsibility for the outcome.'
 toc:
   - label: '1. Verify every citation'
     anchor: '1-verify-every-citation'
@@ -23,6 +36,13 @@ toc:
 ---
 
 *AI can draft a contract, NDA or demand letter in seconds, but it cannot promise the result is correct. Check the sources, protect confidential data, pick the right model for the task, and have an attorney review anything that matters. This is general information, not legal advice.*
+
+**Key takeaways:**
+
+- AI can fabricate citations, cases and statutes that look real — verify every one against the original source.
+- Public chatbots don't protect confidentiality; a 2026 federal ruling found AI-drafted documents on a public tool were not privileged.
+- No model wins every task — Claude, ChatGPT and Gemini each have different strengths for legal drafting.
+- An AI draft is a starting point, not a finished document — have an attorney review anything with real money, rights or liability at stake.
 
 ## 7 things to know when drafting legal documents with AI
 

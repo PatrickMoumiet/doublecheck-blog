@@ -8,13 +8,45 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc } =
+const { title, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq } =
 	Astro.props;
+
+// Structured data for search and AI answer engines (GEO): Article metadata plus,
+// when the post defines Q&A pairs, FAQPage schema so engines can extract direct answers.
+const articleSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: title,
+	description: description,
+	datePublished: pubDate.toISOString(),
+	...(updatedDate && { dateModified: updatedDate.toISOString() }),
+	...(authorName && { author: { '@type': 'Person', name: authorName } }),
+	publisher: {
+		'@type': 'Organization',
+		name: 'DoubleCheck Legal',
+		url: 'https://www.contactdoublecheck.com',
+	},
+};
+
+const faqSchema = faq && faq.length > 0 && {
+	'@context': 'https://schema.org',
+	'@type': 'FAQPage',
+	mainEntity: faq.map((item) => ({
+		'@type': 'Question',
+		name: item.question,
+		acceptedAnswer: {
+			'@type': 'Answer',
+			text: item.answer,
+		},
+	})),
+};
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 		<style>
 			main {
 				width: calc(100% - 2em);

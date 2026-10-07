@@ -17,6 +17,8 @@ const blog = defineCollection({
 			authorName: z.string().optional(),
 			authorImage: z.string().optional(),
 			toc: z.array(z.object({ label: z.string(), anchor: z.string() })).optional(),
+			// Q&A pairs rendered as schema.org FAQPage JSON-LD for AI answer engines and search.
+			faq: z.array(z.object({ question: z.string(), answer: z.string() })).optional(),
 		}),
 });
 
