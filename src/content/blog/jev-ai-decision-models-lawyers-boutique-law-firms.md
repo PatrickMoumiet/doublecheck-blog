@@ -7,8 +7,6 @@ faq:
     answer: 'Jev is a decision-focused AI model from TypeSafe AI. Instead of generating open-ended text, it evaluates supplied information against predefined questions and returns structured choices, scores, or probabilities. TypeSafe released it in September 2026 as its first "System One Model."'
   - question: 'Can lawyers use Jev to draft contracts?'
     answer: 'Not directly. Jev is not a generative text model. A lawyer could use an LLM for drafting and use Jev separately for classification, workflow routing, scoring, or checking whether another step should occur.'
-  - question: 'What is OpenAI Decision OS?'
-    answer: 'There is no confirmed OpenAI product named "Decision OS." OpenAI does offer a Decisions API, which accepts shared input and structured predicate, choice, and scoring questions.'
   - question: 'How could a boutique law firm use decision AI?'
     answer: 'Potential uses include document routing, workflow triage, AI-output quality gates, deciding when a draft needs another revision, flagging when a human should review an AI workflow, and classifying documents into predefined internal processes.'
   - question: 'Is a decision model always correct?'
@@ -57,8 +55,6 @@ Traditionally, developers solve these problems with rules and `if/else` statemen
 A new category of AI is emerging specifically for that layer. [Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev), released by TypeSafe AI in September 2026, is designed to make bounded, structured decisions rather than generate prose. OpenAI has also introduced a [Decisions API](https://developers.openai.com/api/reference/typescript/resources/decisions) for evaluating predicates, choices, and scores against shared input.
 
 For independent attorneys and boutique firms, these systems could eventually become an important complement to the generative models they already use.
-
-> **Note:** There is no confirmed, official OpenAI product called "Decision OS." OpenAI currently documents a [Decisions API](https://developers.openai.com/api/reference/typescript/resources/decisions), so that is the product referenced in this article.
 
 ## The Problem: Lawyers Do Not Only Need AI to Write
 
@@ -334,10 +330,6 @@ Jev is a decision-focused AI model developed by TypeSafe AI. Instead of generati
 ### Can lawyers use Jev to draft contracts?
 
 Not directly. Jev is not a generative text model. A lawyer could use an LLM for drafting and potentially use Jev as a separate decision layer for classification, workflow routing, scoring, or checking whether another step should occur.
-
-### What is OpenAI Decision OS?
-
-There is no confirmed official OpenAI product currently named **Decision OS**. OpenAI does, however, offer a **Decisions API**, which accepts shared input and structured predicate, choice, and scoring questions.
 
 ### How could a boutique law firm use decision AI?
 
