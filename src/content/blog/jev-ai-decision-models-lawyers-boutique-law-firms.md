@@ -172,6 +172,8 @@ The decision model is therefore not replacing the attorney and is not replacing 
 
 It is helping the software make the **workflow decision between steps**.
 
+![How decision AI fits into a boutique law firm workflow: a client matter or legal task goes to generative AI, which drafts, summarizes, and extracts clauses. A decision AI layer then classifies the workflow, scores confidence, and routes the output to attorney review, AI revision, or the next step. The attorney retains judgment, strategy, and final approval throughout.](/images/jev/decision-ai-workflow-fit.webp)
+
 ## Example: Document-Review Routing
 
 The same architecture could help with high-volume document review.
@@ -264,6 +266,8 @@ TypeSafe explicitly describes Jev as useful for AI-powered workflows and "smart 
 That could be one of the more consequential changes in how professional AI software is built.
 
 ## The Right Architecture for a Boutique Law Firm
+
+![Why decision models matter for legal AI: traditional if/then rules are fast but break on nuance, generative AI alone is great at drafting but inconsistent for decisions, and a decision AI layer turns insights into action by classifying the next step, scoring confidence, and routing to attorney review, AI revision, or the next workflow step. The best architecture for small law firms splits the work — code handles hard rules, generative AI handles writing, decision AI handles routing and branching, and lawyers handle judgment.](/images/jev/why-decision-models-matter.webp)
 
 The safest conceptual model is a layered one.
 
