@@ -1,6 +1,7 @@
 ---
 title: 'How Small Businesses Can Use AI for Legal Work Without Taking Unnecessary Risks'
-description: 'Learn how small business owners can use AI for contracts, legal questions, policies, and business documents while reducing the risk of outdated information, hallucinations, and incorrect legal assumptions.'
+seoTitle: 'Small Businesses: Use AI for Legal Work Without the Risk'
+description: 'How small businesses can use AI for contracts, legal questions, and policies while reducing the risk of hallucinations and outdated information.'
 pubDate: 'Oct 10 2026'
 authorName: 'Patrick Moumiet'
 faq:

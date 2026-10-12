@@ -1,6 +1,7 @@
 ---
 title: 'New Data: Businesses draft legal documents with AI and seek professional review'
-description: 'A new survey of 304 startup workers and business developers reveals how they use AI to produce legal documents and seek professional verification.'
+seoTitle: 'Survey: How Businesses Draft Legal Documents With AI'
+description: 'A survey of 304 startup workers and business developers on how they use AI to produce legal documents and seek professional review.'
 pubDate: 'Aug 21 2026'
 authorName: 'Tyler Peters'
 authorImage: '/author-tyler.png'

@@ -1,6 +1,7 @@
 ---
 title: 'How to Use AI for Legal Documents: 7 Things to Know Before You Draft'
-description: 'What to check before you rely on an AI-drafted contract, NDA, or legal letter — citations, confidentiality, model choice, and when to bring in an attorney.'
+seoTitle: 'AI Legal Documents: 7 Things to Know Before You Draft'
+description: 'What to check before relying on an AI-drafted contract, NDA, or legal letter: citations, confidentiality, model choice, and when to hire an attorney.'
 pubDate: 'Oct 2 2026'
 authorName: 'Patrick Moumiet'
 faq:

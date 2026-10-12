@@ -1,6 +1,7 @@
 ---
 title: 'How to Find a Lawyer to Review a Contract You Drafted With ChatGPT'
-description: 'Drafted a contract with ChatGPT? Learn how to find the right lawyer to review it, what to send them, what questions to ask, and how AI can reduce the time and cost of contract review.'
+seoTitle: 'How to Find a Lawyer to Review a ChatGPT-Drafted Contract'
+description: 'Drafted a contract with ChatGPT? How to find the right lawyer, what to send them, what to ask, and how AI can cut review time and cost.'
 pubDate: 'Oct 12 2026'
 authorName: 'Patrick Moumiet'
 faq:

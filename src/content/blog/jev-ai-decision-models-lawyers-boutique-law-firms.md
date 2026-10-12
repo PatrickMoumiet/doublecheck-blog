@@ -1,6 +1,7 @@
 ---
 title: "Jev for Lawyers: How AI Decision Models and OpenAI's Decisions API Can Improve Boutique Law Firm Workflows"
-description: "How Jev and OpenAI's Decisions API can help independent attorneys and boutique law firms build more reliable AI workflows for document review, drafting, triage, and quality control — without replacing the lawyer or the generative AI doing the writing."
+seoTitle: 'Jev for Lawyers: AI Decision Models for Boutique Firms'
+description: "How Jev and OpenAI's Decisions API can help boutique law firms build reliable AI workflows for document review, drafting, triage, and QA."
 pubDate: 'Oct 6 2026'
 faq:
   - question: 'What is Jev AI?'

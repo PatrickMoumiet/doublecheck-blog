@@ -1,6 +1,7 @@
 ---
 title: 'How to Launch an AI Startup in the U.S.: A Step-by-Step Guide for First-Time Founders'
-description: 'Learn how to launch an AI or tech startup in the U.S., from choosing a problem and finding product-market fit to naming your company, incorporating, using AI for legal work, and preparing to scale.'
+seoTitle: 'How to Launch an AI Startup in the U.S.: Founder Guide'
+description: 'How to launch an AI startup in the U.S.: pick a problem, find product-market fit, name and incorporate your company, and use AI for legal work.'
 pubDate: 'Oct 10 2026'
 authorName: 'Patrick Moumiet'
 faq:

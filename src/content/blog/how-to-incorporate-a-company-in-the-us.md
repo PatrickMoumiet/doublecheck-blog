@@ -1,6 +1,7 @@
 ---
 title: 'How to Incorporate a Company in the U.S.: A Founder''s Simple Playbook'
-description: 'A step-by-step playbook for incorporating a U.S. company: choosing a structure, picking a state, filing, and the documents that matter after formation.'
+seoTitle: 'How to Incorporate a Company in the U.S.: Simple Playbook'
+description: 'A step-by-step playbook for incorporating a U.S. company: choosing a structure, picking a state, filing, and the documents that matter after.'
 pubDate: 'Oct 6 2026'
 authorName: 'Patrick Moumiet'
 faq:

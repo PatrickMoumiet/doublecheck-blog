@@ -9,7 +9,7 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & { slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq, slug } =
+const { title, seoTitle, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq, slug } =
 	Astro.props;
 
 // Internal links: the most recent other posts, for readers and crawlers.
@@ -51,7 +51,7 @@ const faqSchema = faq && faq.length > 0 && {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} type="article" />
+		<BaseHead title={seoTitle ?? title} description={description} type="article" />
 		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 		<style>

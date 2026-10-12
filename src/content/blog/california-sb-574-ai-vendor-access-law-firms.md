@@ -1,6 +1,7 @@
 ---
 title: 'What California SB 574 Can Mean for AI-Native Law Firms'
-description: 'SB 574 ties the attorney confidentiality duty to who can reach an AI input, not how long a vendor retains it — what that means for AI-native firms, and four questions to ask any AI vendor before January 1.'
+seoTitle: 'California SB 574 and AI-Native Law Firms'
+description: 'SB 574 ties attorney confidentiality to who can access an AI input, not how long a vendor retains it. Four questions to ask any AI vendor.'
 pubDate: 'Oct 5 2026'
 authorName: 'Daishi Miguel-Tanaka'
 toc:

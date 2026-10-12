@@ -1,6 +1,7 @@
 ---
 title: 'How to Use AI for Your Business: The Rise of Agentic Law for Entrepreneurs and Lawyers'
-description: 'Learn how agentic AI is changing legal work for entrepreneurs and lawyers — from understanding legal issues and finding the right attorney to drafting, document review, research, and workflow automation.'
+seoTitle: 'Agentic Law: How AI Helps Entrepreneurs and Lawyers'
+description: 'How agentic AI is changing legal work for entrepreneurs and lawyers, from finding an attorney to drafting, document review, and research.'
 pubDate: 'Oct 8 2026'
 authorName: 'Patrick Moumiet'
 faq:
