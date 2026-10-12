@@ -1,15 +1,22 @@
 ---
 import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & { slug?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq } =
+const { title, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq, slug } =
 	Astro.props;
+
+// Internal links: the most recent other posts, for readers and crawlers.
+const related = (await getCollection('blog'))
+	.filter((p) => p.id !== slug)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 3);
 
 // Structured data for search and AI answer engines (GEO): Article metadata plus,
 // when the post defines Q&A pairs, FAQPage schema so engines can extract direct answers.
@@ -44,7 +51,7 @@ const faqSchema = faq && faq.length > 0 && {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} type="article" />
 		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 		<style>
@@ -152,6 +159,17 @@ const faqSchema = faq && faq.length > 0 && {
 					columns: 1;
 				}
 			}
+			.related {
+				margin-top: 3em;
+				padding-top: 1em;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			.related ul {
+				padding-left: 1.2em;
+			}
+			.related li {
+				margin-bottom: 0.5em;
+			}
 			.last-updated-on {
 				font-style: italic;
 			}
@@ -206,6 +224,20 @@ const faqSchema = faq && faq.length > 0 && {
 						)
 					}
 					<slot />
+					{
+						related.length > 0 && (
+							<aside class="related">
+								<h2>Related articles</h2>
+								<ul>
+									{related.map((p) => (
+										<li>
+											<a href={`/blog/${p.id}/`}>{p.data.title}</a>
+										</li>
+									))}
+								</ul>
+							</aside>
+						)
+					}
 				</div>
 			</article>
 		</main>
