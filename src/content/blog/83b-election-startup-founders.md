@@ -47,7 +47,7 @@ For first-time founders, this can be confusing, because an **83(b) election is n
 
 Very broadly, Section 83 of the Internal Revenue Code addresses when property received in connection with services becomes taxable. An 83(b) election allows an eligible recipient to elect to include the relevant value in income at the time of transfer, rather than waiting until the property later becomes substantially vested.
 
-The actual tax consequences depend on the facts, so founders should not assume that filing is automatically beneficial in every situation. For startup founders receiving restricted stock at a very early stage, the election often comes up because the company's shares may initially have a relatively low value while being subject to vesting. You can read the statute itself at [26 U.S.C. § 83](https://www.law.cornell.edu/uscode/text/26/83).
+The actual tax consequences depend on the facts, so founders should not assume that filing is automatically beneficial in every situation. For startup founders receiving restricted stock at a very early stage, the election often comes up because the company's shares may initially have a relatively low value while being subject to vesting.
 
 ## Why founders should care about the 30-day clock
 
@@ -71,7 +71,7 @@ Before treating an AI-generated answer as definitive, confirm basic facts such a
 - Has the 30-day window begun?
 - Does an 83(b) election actually apply to the equity you received?
 
-The election generally involves information such as your identity, a description of the property, the transfer date, the restrictions, the fair market value, and the amount you paid. IRS [Publication 525](https://www.irs.gov/publications/p525) discusses the topic.
+The election is made in writing, so use the IRS form or ask your tax advisor what to include rather than assembling it from memory.
 
 ![What to double-check first: type of equity, transfer date, vesting or forfeiture, price paid, fair market value, whether the 30 days have started, and whether 83(b) applies](/images/83b-election-startup-founders/what-to-double-check.webp)
 

@@ -7,12 +7,8 @@ authorName: 'Patrick Moumiet'
 faq:
   - question: 'What does SAFE stand for?'
     answer: 'SAFE means Simple Agreement for Future Equity.'
-  - question: 'Is a SAFE a loan?'
-    answer: 'A standard SAFE is generally described as not being debt: it does not carry interest or a maturity date the way a convertible note typically does. Always confirm against the exact document you are signing.'
   - question: 'Does a SAFE give the investor shares immediately?'
     answer: 'No. Under the standard SAFE structure, the investor receives contractual rights that can later convert into shares upon specified events.'
-  - question: 'What is a post-money SAFE?'
-    answer: 'A post-money SAFE expresses the valuation cap on a post-money basis, which means the cap includes the SAFEs themselves. Y Combinator has used post-money SAFEs as its standard form since 2018.'
   - question: 'Can AI review a SAFE?'
     answer: 'AI can explain clauses, compare the SAFE with public templates, identify modifications, and help model scenarios. Important financing decisions should still receive appropriate verification.'
   - question: 'What should founders check most carefully?'
@@ -22,16 +18,14 @@ toc:
     anchor: 'what-should-a-founder-understand-before-signing-a-safe'
   - label: 'Valuation cap'
     anchor: 'what-is-a-valuation-cap'
-  - label: 'SAFE vs. note'
-    anchor: 'safe-vs-convertible-note'
   - label: 'Prompting AI'
     anchor: 'do-not-only-ask-ai-to-review-my-safe'
   - label: 'Base form'
     anchor: 'compare-the-document-against-the-source-template'
   - label: 'Dilution'
     anchor: 'watch-cumulative-dilution'
-  - label: 'Approvals'
-    anchor: 'approvals-and-paperwork-also-matter'
+  - label: 'Records'
+    anchor: 'look-beyond-the-document'
   - label: 'Using DoubleCheck'
     anchor: 'how-doublecheck-could-make-safe-review-easier'
   - label: 'FAQ'
@@ -71,19 +65,13 @@ This is where founders can get into trouble. A single SAFE may look manageable. 
 
 ## What is a valuation cap?
 
-A valuation cap sets a valuation used to determine the conversion economics when the SAFE converts. Under a post-money SAFE, the ownership an investment represents can be understood in relation to the investment amount and the post-money valuation cap.
+A valuation cap is a term that sets a valuation used when working out how a SAFE converts into shares. The exact mechanics depend on the SAFE form and the wording in your document, so ask AI to point to the exact language rather than summarize it from memory.
 
 For founders, the practical question is:
 
 > How much of the company am I effectively promising across all of these instruments?
 
 That matters more than simply asking whether the document is "standard."
-
-## SAFE vs. convertible note
-
-A SAFE and a convertible note are not the same instrument. A standard SAFE is generally described as neither debt nor stock before it converts: it has no interest and no maturity date. A convertible note is debt and generally has interest and a maturity date. That distinction is useful for founders who hear the terms used interchangeably.
-
-![SAFE vs. convertible note: a standard SAFE has no interest and no maturity date, while a convertible note is debt that usually has interest and a maturity date](/images/safe-agreement-startup-founders/safe-vs-convertible-note.webp)
 
 ## Do not only ask AI to "review my SAFE"
 
@@ -122,16 +110,19 @@ A common founder mistake is reviewing each SAFE individually. The more useful qu
 
 Even standardized instruments can produce an outcome a founder did not expect if enough capital is raised through them. AI can help build an ownership model, but calculations should be checked carefully before you rely on them.
 
-## Approvals and paperwork also matter
+![Review every SAFE together: SAFE number one, SAFE number two, further SAFEs added over several months, and what you own when they all convert](/images/safe-agreement-startup-founders/all-safes-together.webp)
 
-Issuing a SAFE is a corporate action, so the financing workflow is larger than filling out the document. Depending on your company's documents and counsel's advice, it can involve board approval and other steps, such as:
+## Look beyond the document
 
-- approval steps,
+A SAFE is more than a signed PDF. Keep your records straight, because the financing involves more than filling out the form:
+
 - signatures,
 - cap-table updates,
 - side letters,
 - investor records,
 - and later conversion mechanics.
+
+If you are unsure which approvals or filings your company needs, ask your attorney rather than relying on a general answer.
 
 ## How DoubleCheck could make SAFE review easier
 
@@ -144,7 +135,7 @@ A normal chatbot can explain a SAFE. [DoubleCheck](https://www.contactdoublechec
 - **Pro rata side letter:** present
 - **Base form comparison:** 2 modifications detected
 - **Potential dilution:** run scenario
-- **Board approval:** verify
+- **Records and signatures:** verify
 
 Then each item can connect back to the actual document and supporting source. That is much more useful than a long paragraph saying, "This appears to be a fairly standard SAFE." If something deserves deeper judgment, founders can add human review or speak with an attorney.
 
@@ -154,17 +145,9 @@ Then each item can connect back to the actual document and supporting source. Th
 
 SAFE means Simple Agreement for Future Equity.
 
-**Is a SAFE a loan?**
-
-A standard SAFE is generally described as not being debt: it does not carry interest or a maturity date the way a convertible note typically does. Always confirm against the exact document you are signing.
-
 **Does a SAFE give the investor shares immediately?**
 
 No. Under the standard SAFE structure, the investor receives contractual rights that can later convert into shares upon specified events.
-
-**What is a post-money SAFE?**
-
-A post-money SAFE expresses the valuation cap on a post-money basis, which means the cap includes the SAFEs themselves. Y Combinator has used post-money SAFEs as its standard form since 2018.
 
 **Can AI review a SAFE?**
 
