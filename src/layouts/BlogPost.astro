@@ -12,27 +12,128 @@ type Props = CollectionEntry<'blog'>['data'] & { slug?: string };
 const { title, seoTitle, description, pubDate, updatedDate, heroImage, authorName, authorImage, toc, faq, slug } =
 	Astro.props;
 
-// Internal links: the most recent other posts, for readers and crawlers.
-const related = (await getCollection('blog'))
-	.filter((p) => p.id !== slug)
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 3);
+// Stop words for topic similarity calculation
+const stopWords = new Set([
+	'a', 'an', 'the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by',
+	'from', 'up', 'about', 'into', 'over', 'after', 'is', 'are', 'was', 'were', 'be', 'been',
+	'how', 'what', 'why', 'who', 'which', 'this', 'that', 'these', 'those', 'your', 'you',
+	'we', 'our', 'their', 'they', 'it', 'its', 'as'
+]);
 
-// Structured data for search and AI answer engines (GEO): Article metadata plus,
-// when the post defines Q&A pairs, FAQPage schema so engines can extract direct answers.
+function extractKeywords(text: string): Set<string> {
+	return new Set(
+		text
+			.toLowerCase()
+			.replace(/[^a-z0-9\s]/g, ' ')
+			.split(/\s+/)
+			.filter((word) => word.length > 2 && !stopWords.has(word))
+	);
+}
+
+const currentKeywords = extractKeywords(`${title} ${description}`);
+
+const allPosts = await getCollection('blog');
+const otherPosts = allPosts.filter((p) => p.id !== slug);
+
+// Score other posts by keyword overlap for topic similarity
+const scoredPosts = otherPosts.map((p) => {
+	const otherKeywords = extractKeywords(`${p.data.title} ${p.data.description}`);
+	let overlap = 0;
+	for (const word of currentKeywords) {
+		if (otherKeywords.has(word)) {
+			overlap++;
+		}
+	}
+	return { post: p, score: overlap };
+});
+
+scoredPosts.sort((a, b) => {
+	if (b.score !== a.score) {
+		return b.score - a.score;
+	}
+	return b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf();
+});
+
+const related = scoredPosts.slice(0, 3).map((item) => item.post);
+
+// Contextual product recommendation linking to non-www main site
+const lowerContent = `${title} ${description} ${slug ?? ''}`.toLowerCase();
+const isTemplateTopic =
+	lowerContent.includes('template') ||
+	lowerContent.includes('incorporat') ||
+	lowerContent.includes('draft') ||
+	lowerContent.includes('launch') ||
+	lowerContent.includes('playbook') ||
+	lowerContent.includes('startup');
+
+const productCta = isTemplateTopic
+	? {
+			url: 'https://contactdoublecheck.com/generate-template',
+			badge: 'AI Legal Drafting',
+			heading: 'Draft Tailored Legal Documents with AI',
+			body: 'Create customized contracts, startup formation documents, and business agreements in minutes with DoubleCheck Legal’s AI agent, then have them verified by licensed attorneys.',
+			anchorText: 'Draft with DoubleCheck Legal →',
+	  }
+	: {
+			url: 'https://contactdoublecheck.com/marketplace',
+			badge: 'Attorney Verification',
+			heading: 'Need an Attorney to Review Your Work?',
+			body: 'AI drafts fast, but legal enforceability requires licensed human review. Connect with vetted attorneys specializing in AI contracts and business law on DoubleCheck Legal.',
+			anchorText: 'Find a Reviewing Attorney on DoubleCheck →',
+	  };
+
+const postUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const imageUrl = heroImage ? new URL(heroImage.src, Astro.site).toString() : undefined;
+
+// Structured data for search and AI answer engines (GEO):
+// Article metadata + BreadcrumbList + FAQPage schema
 const articleSchema = {
 	'@context': 'https://schema.org',
 	'@type': 'Article',
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': postUrl,
+	},
 	headline: title,
 	description: description,
+	...(imageUrl && { image: imageUrl }),
 	datePublished: pubDate.toISOString(),
 	...(updatedDate && { dateModified: updatedDate.toISOString() }),
 	...(authorName && { author: { '@type': 'Person', name: authorName } }),
 	publisher: {
 		'@type': 'Organization',
 		name: 'DoubleCheck Legal',
-		url: 'https://www.contactdoublecheck.com',
+		url: 'https://contactdoublecheck.com',
+		logo: {
+			'@type': 'ImageObject',
+			url: 'https://contactdoublecheck.com/favicon.png',
+		},
 	},
+};
+
+const breadcrumbSchema = {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: [
+		{
+			'@type': 'ListItem',
+			position: 1,
+			name: 'Home',
+			item: 'https://contactdoublecheck.com',
+		},
+		{
+			'@type': 'ListItem',
+			position: 2,
+			name: 'Blog',
+			item: 'https://blog.contactdoublecheck.com/blog',
+		},
+		{
+			'@type': 'ListItem',
+			position: 3,
+			name: title,
+			item: postUrl,
+		},
+	],
 };
 
 const faqSchema = faq && faq.length > 0 && {
@@ -51,8 +152,9 @@ const faqSchema = faq && faq.length > 0 && {
 
 <html lang="en">
 	<head>
-		<BaseHead title={seoTitle ?? title} description={description} type="article" />
+		<BaseHead title={seoTitle ?? title} description={description} image={heroImage} type="article" />
 		<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 		{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 		<style>
 			main {
@@ -173,6 +275,48 @@ const faqSchema = faq && faq.length > 0 && {
 			.last-updated-on {
 				font-style: italic;
 			}
+			.contextual-cta {
+				margin: 3em 0 2em;
+				padding: 1.5em;
+				background: var(--card-bg);
+				border: 1px solid var(--accent);
+				border-radius: 8px;
+			}
+			.cta-badge {
+				display: inline-block;
+				font-size: 0.72em;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.08em;
+				color: var(--accent);
+				margin-bottom: 0.4em;
+			}
+			.cta-heading {
+				margin: 0 0 0.5em 0;
+				font-size: 1.25em;
+				color: rgb(var(--black));
+			}
+			.cta-body {
+				margin: 0 0 1.2em 0;
+				font-size: 0.95em;
+				line-height: 1.5;
+				color: rgb(var(--gray-dark));
+			}
+			.cta-link {
+				display: inline-block;
+				font-weight: 600;
+				font-size: 0.95em;
+				color: #ffffff;
+				background: var(--accent);
+				padding: 0.6em 1.2em;
+				border-radius: 6px;
+				text-decoration: none;
+				transition: background 0.15s ease;
+			}
+			.cta-link:hover {
+				background: var(--accent-dark);
+				color: #ffffff;
+			}
 		</style>
 	</head>
 
@@ -224,6 +368,14 @@ const faqSchema = faq && faq.length > 0 && {
 						)
 					}
 					<slot />
+					<aside class="contextual-cta">
+						<span class="cta-badge">{productCta.badge}</span>
+						<h3 class="cta-heading">{productCta.heading}</h3>
+						<p class="cta-body">{productCta.body}</p>
+						<a href={productCta.url} class="cta-link" target="_blank" rel="noopener">
+							{productCta.anchorText}
+						</a>
+					</aside>
 					{
 						related.length > 0 && (
 							<aside class="related">
