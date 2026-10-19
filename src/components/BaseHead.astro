@@ -11,11 +11,12 @@ interface Props {
 	description: string;
 	image?: ImageMetadata;
 	type?: 'website' | 'article';
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description, image, type = 'website' } = Astro.props;
+const { title, description, image, type = 'website', noindex = false } = Astro.props;
 const ogImageURL = image ? new URL(image.src, Astro.site) : new URL('/og-image.png', Astro.site);
 ---
 
@@ -31,6 +32,7 @@ const ogImageURL = image ? new URL(image.src, Astro.site) : new URL('/og-image.p
 	href={new URL('rss.xml', Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
+{noindex && <meta name="robots" content="noindex, follow" />}
 <meta name="google-site-verification" content="TElfGtzs7D3gfcJMwgBY1rGySLBSchLLsPZGxKTsLLs" />
 
 <!-- Google tag (gtag.js) -->
