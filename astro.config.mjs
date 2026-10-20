@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig, fontProviders } from 'astro/config';
 import fs from 'node:fs';
+import rehypeImageAttrs from './rehype-image-attrs.mjs';
 
 // Map each blog URL to its last-modified date (updatedDate, else pubDate) for the sitemap.
 const lastmod = {};
@@ -18,10 +19,11 @@ for (const f of fs.readdirSync('./src/content/blog')) {
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://blog.contactdoublecheck.com',
+	markdown: { rehypePlugins: [rehypeImageAttrs] },
 	integrations: [
 		mdx(),
 		sitemap({
-			filter: (page) => !page.includes('/blog/welcome/'),
+			filter: (page) => !page.includes('/blog/welcome/') && !page.includes('/learning/'),
 			serialize(item) {
 				const path = new URL(item.url).pathname;
 				if (lastmod[path]) item.lastmod = lastmod[path];
