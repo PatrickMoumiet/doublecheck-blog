@@ -157,6 +157,12 @@ Remember that founders' interests are not identical. The person drafting is not 
 
 If you drafted a co-founder agreement with ChatGPT or Claude, [DoubleCheck](https://www.contactdoublecheck.com) is built for the next step: double-checking the work and, when warranted, bringing in an independent attorney. DoubleCheck's attorneys are independent professionals, and an attorney-client relationship is formed only if an attorney accepts the engagement.
 
+## Related reading
+
+- [How co-founders split equity: what Carta's data shows](/blog/how-co-founders-split-equity-data/)
+- [Founder vesting and the one-year cliff](/blog/cofounder-vesting-cliff-explained/)
+- [83(b) election for startup founders](/blog/83b-election-startup-founders/)
+
 ## FAQ
 
 **What is a co-founder agreement?**

@@ -164,6 +164,15 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 
 [Check your startup documents with DoubleCheck](https://www.contactdoublecheck.com)
 
+## Go deeper on specific steps
+
+- [How to get an EIN for your business for free](/blog/how-to-get-an-ein-for-your-business-free/)
+- [How to incorporate in Delaware, step by step](/blog/how-to-incorporate-in-delaware-step-by-step/) and [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/)
+- [Delaware LLC annual tax and the June 1 deadline](/blog/delaware-llc-annual-tax-june-1/)
+- [S corp election deadline (Form 2553)](/blog/s-corp-election-form-2553-deadline/) and [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/)
+- [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/)
+- [How to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/)
+
 ## FAQ: Incorporating a U.S. company
 
 **What is the easiest way to start a company in the U.S.?**
