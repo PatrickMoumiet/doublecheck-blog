@@ -172,6 +172,7 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 - [S corp election deadline (Form 2553)](/blog/s-corp-election-form-2553-deadline/) and [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/)
 - [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/)
 - [How to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/)
+- Solo founder? Start with [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/) and the [solo founder legal checklist](/blog/solo-founder-legal-checklist-using-ai/)
 
 ## FAQ: Incorporating a U.S. company
 
