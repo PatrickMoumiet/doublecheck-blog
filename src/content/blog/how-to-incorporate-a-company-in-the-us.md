@@ -172,6 +172,9 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 - [S corp election deadline (Form 2553)](/blog/s-corp-election-form-2553-deadline/) and [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/)
 - [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/)
 - [How to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/)
+- Outside the U.S.? [Start a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/), [get an EIN without an SSN](/blog/get-ein-without-ssn-foreign-founder/), [from China](/blog/set-up-us-company-from-china/), or [depuis la France (en français)](/blog/creer-societe-aux-etats-unis-depuis-la-france/)
+- In California? [How to start an LLC in California](/blog/how-to-start-an-llc-in-california-step-by-step/)
+- On an H-1B? [Can you start a company on an H-1B?](/blog/start-company-on-h1b-visa-ownership-vs-work/)
 - Solo founder? Start with [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/) and the [solo founder legal checklist](/blog/solo-founder-legal-checklist-using-ai/)
 
 ## FAQ: Incorporating a U.S. company
