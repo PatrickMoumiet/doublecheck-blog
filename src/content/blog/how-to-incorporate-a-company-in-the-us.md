@@ -3,7 +3,7 @@ title: 'How to Incorporate a Company in the U.S.: A Founder''s Simple Playbook'
 seoTitle: 'How to Incorporate a Business in the U.S.: Step by Step'
 description: 'A step-by-step playbook for incorporating a U.S. company: choosing a structure, picking a state, filing, and the documents that matter after.'
 pubDate: 'Oct 6 2026'
-updatedDate: 'Nov 5 2026'
+updatedDate: 'Nov 6 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the easiest way to start a company in the U.S.?'
@@ -167,6 +167,8 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 
 ## Go deeper on specific steps
 
+- State guides: [Florida](/blog/how-to-start-an-llc-in-florida/), [New York](/blog/how-to-start-an-llc-in-new-york/), [Wyoming](/blog/how-to-start-an-llc-in-wyoming/), [Nevada](/blog/how-to-start-an-llc-in-nevada/), [Washington](/blog/how-to-start-an-llc-in-washington-state/), [Georgia](/blog/how-to-start-an-llc-in-georgia/), [Illinois](/blog/how-to-start-an-llc-in-illinois/), [Arizona](/blog/how-to-start-an-llc-in-arizona/), [Colorado](/blog/how-to-start-an-llc-in-colorado/), and [which state to choose](/blog/best-state-to-form-an-llc-comparison/)
+- [Converting an LLC to a C-corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/) and [adding a member to an LLC](/blog/how-to-add-a-member-to-an-llc/)
 - [How to get an EIN for your business for free](/blog/how-to-get-an-ein-for-your-business-free/)
 - [How to incorporate in Delaware, step by step](/blog/how-to-incorporate-in-delaware-step-by-step/) and [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/)
 - [Delaware LLC annual tax and the June 1 deadline](/blog/delaware-llc-annual-tax-june-1/)
