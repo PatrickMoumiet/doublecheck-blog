@@ -3,7 +3,7 @@ title: 'How to Incorporate a Company in the U.S.: A Founder''s Simple Playbook'
 seoTitle: 'How to Incorporate a Business in the U.S.: Step by Step'
 description: 'A step-by-step playbook for incorporating a U.S. company: choosing a structure, picking a state, filing, and the documents that matter after.'
 pubDate: 'Oct 6 2026'
-updatedDate: 'Nov 6 2026'
+updatedDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the easiest way to start a company in the U.S.?'
@@ -167,7 +167,7 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 
 ## Go deeper on specific steps
 
-- State guides: [Florida](/blog/how-to-start-an-llc-in-florida/), [New York](/blog/how-to-start-an-llc-in-new-york/), [Wyoming](/blog/how-to-start-an-llc-in-wyoming/), [Nevada](/blog/how-to-start-an-llc-in-nevada/), [Washington](/blog/how-to-start-an-llc-in-washington-state/), [Georgia](/blog/how-to-start-an-llc-in-georgia/), [Illinois](/blog/how-to-start-an-llc-in-illinois/), [Arizona](/blog/how-to-start-an-llc-in-arizona/), [Colorado](/blog/how-to-start-an-llc-in-colorado/), and [which state to choose](/blog/best-state-to-form-an-llc-comparison/)
+- State guides: [Florida](/blog/how-to-start-an-llc-in-florida/), [New York](/blog/how-to-start-an-llc-in-new-york/), [Wyoming](/blog/how-to-start-an-llc-in-wyoming/), [Nevada](/blog/how-to-start-an-llc-in-nevada/), [Washington](/blog/how-to-start-an-llc-in-washington-state/), [Georgia](/blog/how-to-start-an-llc-in-georgia/), [Illinois](/blog/how-to-start-an-llc-in-illinois/), [Arizona](/blog/how-to-start-an-llc-in-arizona/), [Colorado](/blog/how-to-start-an-llc-in-colorado/), [Texas](/blog/how-to-start-an-llc-in-texas/), [New Jersey](/blog/how-to-start-an-llc-in-new-jersey/), [Massachusetts](/blog/how-to-start-an-llc-in-massachusetts/), [Pennsylvania](/blog/how-to-start-an-llc-in-pennsylvania/), [Virginia](/blog/how-to-start-an-llc-in-virginia/), [North Carolina](/blog/how-to-start-an-llc-in-north-carolina/), [Ohio](/blog/how-to-start-an-llc-in-ohio/), [Michigan](/blog/how-to-start-an-llc-in-michigan/), and [which state to choose](/blog/best-state-to-form-an-llc-comparison/)
 - [Converting an LLC to a C-corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/) and [adding a member to an LLC](/blog/how-to-add-a-member-to-an-llc/)
 - [How to get an EIN for your business for free](/blog/how-to-get-an-ein-for-your-business-free/)
 - [How to incorporate in Delaware, step by step](/blog/how-to-incorporate-in-delaware-step-by-step/) and [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/)
@@ -176,10 +176,11 @@ Before relying on those documents for a bank, investor, employee, customer, or f
 - [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/)
 - [How to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/)
 - By business type: [SaaS or AI startup](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/), [Amazon or e-commerce seller](/blog/how-to-form-llc-amazon-seller-ecommerce/), [restaurant](/blog/how-to-incorporate-a-restaurant/), [rental property](/blog/real-estate-rental-llc-do-you-need-one/), [consultant or freelancer](/blog/consulting-freelance-llc-vs-sole-proprietor/), [content creator](/blog/llc-for-content-creators-influencers/), [nonprofit](/blog/how-to-start-a-501c3-nonprofit/), [doctor, lawyer, or accountant (PLLC)](/blog/pllc-vs-llc-doctors-lawyers-accountants/), [contractor](/blog/contractor-construction-business-llc/), [retail store or family business](/blog/retail-store-family-business-llc-or-partnership/)
-- Visas for founders and employees: [OPT/STEM OPT](/blog/f1-opt-stem-opt-start-your-own-startup/), [E-2](/blog/e-2-treaty-investor-visa-for-founders/), [L-1A](/blog/l-1a-visa-new-office-foreign-founders/), [startup parole (IER)](/blog/international-entrepreneur-rule-startup-parole-2026/)
+- Visas for founders and employees: [OPT/STEM OPT](/blog/f1-opt-stem-opt-start-your-own-startup/), [E-2](/blog/e-2-treaty-investor-visa-for-founders/), [L-1A](/blog/l-1a-visa-new-office-foreign-founders/), [startup parole (IER)](/blog/international-entrepreneur-rule-startup-parole-2026/), [B-1/B-2 for founders](/blog/b-1-b-2-visa-business-visitor-what-founders-can-do/), [F-1 to O-1](/blog/f-1-to-o-1-change-of-status-founders/)
 - Outside the U.S.? [Start a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/), [get an EIN without an SSN](/blog/get-ein-without-ssn-foreign-founder/), [from China](/blog/set-up-us-company-from-china/), or [depuis la France (en français)](/blog/creer-societe-aux-etats-unis-depuis-la-france/)
 - In California? [How to start an LLC in California](/blog/how-to-start-an-llc-in-california-step-by-step/)
 - On an H-1B? [Can you start a company on an H-1B?](/blog/start-company-on-h1b-visa-ownership-vs-work/)
+- Raising money? [Founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/) and [Form D / Rule 506](/blog/form-d-rule-506-fundraising-startups/)
 - Solo founder? Start with [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/) and the [solo founder legal checklist](/blog/solo-founder-legal-checklist-using-ai/)
 
 ## FAQ: Incorporating a U.S. company
