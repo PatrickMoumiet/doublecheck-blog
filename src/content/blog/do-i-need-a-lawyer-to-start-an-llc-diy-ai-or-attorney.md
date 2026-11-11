@@ -8,7 +8,7 @@ faq:
   - question: 'Can I form an LLC myself without a lawyer?'
     answer: 'Yes. Per LegalZoom, no law requires a lawyer to form an LLC, and you can file directly with your state, usually the Secretary of State. A lawyer is optional and mostly useful for more complex setups.'
   - question: 'How much does a lawyer cost to form an LLC?'
-    answer: 'Attorney formation costs depend on the state, the lawyer's experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check your state's own page for the filing fee.'
+    answer: 'Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.'
   - question: 'Can AI write my LLC operating agreement?'
     answer: 'It can produce a useful first draft, but you must check it against your state''s LLC law and your owners'' actual agreement. The SBA says an operating agreement is widely recommended even where not required.'
   - question: 'When should I definitely talk to an attorney?'
@@ -100,7 +100,7 @@ Yes. Per LegalZoom, no law requires a lawyer to form an LLC, and you can file di
 
 **How much does a lawyer cost to form an LLC?**
 
-Attorney formation costs depend on the state, the lawyer's experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check your state's own page for the filing fee.
+Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.
 
 **Can AI write my LLC operating agreement?**
 
