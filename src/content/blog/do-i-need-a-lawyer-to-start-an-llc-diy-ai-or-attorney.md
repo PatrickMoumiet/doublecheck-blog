@@ -86,6 +86,8 @@ Per Swyft Filings, a lawyer makes the most sense with multiple owners, outside i
 
 Cost matters, so ask for a **flat fee for a defined scope** (formation plus operating agreement review). Our guide on [startup lawyer costs, flat fee versus hourly](/blog/how-much-does-a-startup-business-lawyer-cost-flat-fee-vs-hourly/) covers the structures, and [how to tell if a lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/) helps you choose. The hybrid approach, AI drafts and an attorney verifies, is the one DoubleCheck is built around.
 
+**Related reading:** [Startup LLC checklist: your first 30 days](/blog/startup-llc-first-30-days-checklist-after-you-form/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

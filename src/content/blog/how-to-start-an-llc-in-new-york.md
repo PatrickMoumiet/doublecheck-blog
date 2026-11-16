@@ -75,6 +75,8 @@ Every two years the LLC files a biennial statement with the Department of State;
 
 New York also has a beneficial ownership disclosure law for LLCs; see [the NY LLC Transparency Act explainer](/blog/new-york-llc-transparency-act-beneficial-ownership/). Costs compared with other states are in [LLC formation cost: California, Texas, Florida, New York](/blog/llc-formation-cost-california-texas-florida-new-york/). For the full process, see [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/), and compare [Florida](/blog/how-to-start-an-llc-in-florida/).
 
+**Related reading:** [Startup LLC checklist: your first 30 days](/blog/startup-llc-first-30-days-checklist-after-you-form/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

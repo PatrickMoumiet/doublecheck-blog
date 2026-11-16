@@ -61,6 +61,8 @@ Data tells you what others did, not what is right for your team. Decide with you
 
 The mistakes we see discussed most are avoiding the conversation and leaving the split undocumented. Put it in writing: see [IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/) so the company, not individuals, owns what founders create.
 
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

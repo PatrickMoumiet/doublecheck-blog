@@ -151,7 +151,7 @@ Depending on your state and structure, you may have annual reports, franchise ta
 
 Keep your important corporate documents together from day one.
 
-That includes your formation documents, operating agreement or bylaws, ownership records, founder agreements, IP assignments, financing documents, important contracts, and major company approvals.
+That includes your formation documents, [operating agreement](/blog/llc-operating-agreement-with-ai/) or bylaws, ownership records, founder agreements, IP assignments, financing documents, important contracts, and major company approvals.
 
 ## Incorporating is easy. Getting the documents right is harder.
 

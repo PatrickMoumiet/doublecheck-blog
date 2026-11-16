@@ -73,6 +73,8 @@ Cooley cautions that significant redemptions, reorganizations, or conversions ca
 
 Because QSBS requires a C corporation, an LLC taxed as a partnership is not eligible. Read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/) and [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/).
 
+**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

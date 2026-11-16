@@ -91,6 +91,8 @@ Whether a given share qualifies depends on facts such as the exact issuance date
 
 **When to handle it yourself vs. get an attorney.** Making your own checklist and collecting records is something you can do, and AI can help you organize it. Get an attorney or tax adviser to review before you convert an entity, issue stock near a financing, do a buyback, or file a claim, since a single missed step can cost the exclusion. See [how to incorporate in Delaware](/blog/how-to-incorporate-in-delaware-step-by-step/), [incorporating a SaaS or AI startup](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/), the [co-founder agreement](/blog/co-founder-agreement-startups/) and [how to choose a good lawyer](/blog/how-to-choose-good-lawyer/).
 
+**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

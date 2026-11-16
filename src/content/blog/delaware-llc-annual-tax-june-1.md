@@ -59,7 +59,7 @@ Late payment incurs a $200 penalty plus 1.5% monthly interest on the tax and pen
 
 ## 4. Beware of look-alike solicitations
 
-The Division warns entities to be wary of deceptive tax or annual report solicitations that do not come from the State or the entity's Delaware registered agent. Pay through the Division's site or your registered agent, not a mailer.
+The Division warns entities to be wary of deceptive tax or annual report solicitations that do not come from the State or the entity's [Delaware registered agent](/blog/delaware-registered-agent-requirements/). Pay through the Division's site or your registered agent, not a mailer.
 
 ## 5. A yearly routine
 

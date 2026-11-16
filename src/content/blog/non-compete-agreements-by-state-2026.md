@@ -66,7 +66,9 @@ Per Loio's tracker (secondary source; verify against the statutes):
 
 Selling a business is treated differently from employment. Per Loio, California, North Dakota, and Montana each keep a sale-of-business exception, and Becker's reports Colorado's law also allows non-competes tied to a sale of business. The tracker did not list one for Oklahoma, so do not assume it. If you are buying or selling a company, build the restriction into the purchase documents ([buy or sell a small business checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/)).
 
-If your state limits employee non-competes, common alternatives are confidentiality agreements, invention assignment, and narrow non-solicitation clauses, though enforceability varies. Also confirm the worker is correctly classified ([employee vs. contractor](/blog/employee-vs-independent-contractor-classification-startups/), [contractor agreements](/blog/independent-contractor-agreement-what-to-include/)). Because states change these laws often, check the current statute for the worker's state before signing.
+If your state limits employee non-competes, common alternatives are confidentiality agreements, invention assignment, and narrow [non-solicitation clauses](/blog/non-solicitation-agreements-explained/), though enforceability varies. Also confirm the worker is correctly classified ([employee vs. contractor](/blog/employee-vs-independent-contractor-classification-startups/), [contractor agreements](/blog/independent-contractor-agreement-what-to-include/)). Because states change these laws often, check the current statute for the worker's state before signing.
+
+**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/)
 
 ## Where DoubleCheck fits
 

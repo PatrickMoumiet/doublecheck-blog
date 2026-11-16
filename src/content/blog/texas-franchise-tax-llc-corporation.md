@@ -76,6 +76,8 @@ Track annualized revenue, compare it to the threshold, identify the correct repo
 
 See [how much it costs to form an LLC in different states](/blog/llc-formation-cost-california-texas-florida-new-york/) for the ongoing costs side by side.
 
+**Related reading:** [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

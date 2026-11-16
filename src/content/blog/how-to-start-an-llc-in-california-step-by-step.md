@@ -63,6 +63,8 @@ If you operate in California, forming elsewhere does not avoid California regist
 
 You can live elsewhere, including outside the U.S., and still form a California LLC, but a foreign owner has extra filings. See [how to start a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/). San Francisco founders can also read [finding a startup lawyer in San Francisco](/blog/find-startup-lawyer-san-francisco/).
 
+**Related reading:** [Startup LLC checklist: your first 30 days](/blog/startup-llc-first-30-days-checklist-after-you-form/); [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

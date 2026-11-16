@@ -61,6 +61,8 @@ The IRS also notes that at-risk rules and passive activity loss limits may restr
 
 See [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/) and [quarterly estimated taxes](/blog/quarterly-estimated-taxes-solo-business-owner/).
 
+**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

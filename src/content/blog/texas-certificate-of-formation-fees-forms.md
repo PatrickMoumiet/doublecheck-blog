@@ -77,6 +77,8 @@ Check name availability and consider the preclearance or name reservation option
 
 The filing fee is not your whole cost. See [LLC formation costs in California, Texas, Florida, and New York](/blog/llc-formation-cost-california-texas-florida-new-york/).
 
+**Related reading:** [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/); [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -41,7 +41,7 @@ toc:
 
 ## 1. The ten steps
 
-Wolters Kluwer's Delaware incorporation guide lays out ten steps: choose a corporate name, decide on share structure, obtain a Delaware registered agent, file the Certificate of Incorporation, hold an organizational meeting, prepare bylaws, issue shares, get an EIN, select a tax election (such as an S election on Form 2553), and comply with ongoing tax and regulatory requirements, including the annual report and franchise tax.
+Wolters Kluwer's Delaware incorporation guide lays out ten steps: choose a corporate name, decide on share structure, obtain a [Delaware registered agent](/blog/delaware-registered-agent-requirements/), file the Certificate of Incorporation, hold an organizational meeting, prepare bylaws, issue shares, get an EIN, select a tax election (such as an S election on [Form 2553](/blog/s-corp-election-form-2553-deadline/)), and comply with ongoing tax and regulatory requirements, including the annual report and franchise tax.
 
 ![Core steps to incorporate in Delaware](/images/how-to-incorporate-in-delaware-step-by-step/steps.webp)
 
@@ -66,6 +66,8 @@ We have not included Delaware's filing fee amounts here because we could not con
 ## 5. If you work from another state
 
 Incorporating in Delaware does not remove obligations in the state where you operate. See [Delaware corporation doing business in California](/blog/delaware-corporation-doing-business-in-california/) and [California vs. Delaware](/blog/incorporate-california-vs-delaware-startup/).
+
+**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/); [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/)
 
 ## Where DoubleCheck fits
 

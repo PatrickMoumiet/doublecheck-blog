@@ -45,7 +45,7 @@ Founders often ask whether an S corporation is better than a C corporation becau
 
 ## 2. What an S corporation must satisfy
 
-From the IRS Form 2553 instructions, an S corporation:
+From the IRS [Form 2553](/blog/s-corp-election-form-2553-deadline/) instructions, an S corporation:
 
 - has no more than **100 shareholders**
 - has only **eligible shareholders**: individuals, estates, certain exempt organizations, or certain trusts

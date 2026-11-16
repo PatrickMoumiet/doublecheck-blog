@@ -67,6 +67,8 @@ Use written contracts: [freelance contracts](/blog/how-to-write-a-freelance-cont
 
 See [AI vendor contract checklist](/blog/ai-vendor-contract-checklist/), [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/), and [using AI for legal work safely](/blog/small-business-ai-legal-work-safely/).
 
+**Related reading:** [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -80,6 +80,8 @@ Ownership, board seat, and job are three separate things, and each is changed di
 - **Reasonable to handle with the right forms:** an amicable departure, clear vesting, signed IP assignment, and a founder who agrees to the terms. Clerky and similar guides provide templates.
 - **Get an attorney's review:** any disagreement, vested shares you want to buy, a board or investor involved, missing agreements, or a founder with a board-designation right. Missed steps here are expensive and hard to reverse. For cap table context, see [how co-founders split equity](/blog/how-co-founders-split-equity-data/) and, if you are choosing counsel, [finding a startup lawyer in San Francisco](/blog/find-startup-lawyer-san-francisco/) and [how to know if your lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/). Setting up the company correctly in the first place is covered in [how to incorporate in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/).
 
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

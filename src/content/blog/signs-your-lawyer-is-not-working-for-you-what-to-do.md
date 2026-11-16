@@ -82,6 +82,8 @@ Document everything: save the engagement agreement, invoices, emails, and your o
 
 **Where AI can help.** Use AI to turn your notes into a clean timeline, draft the questions above, and explain jargon in a bill or letter before you talk to your lawyer. See [using ChatGPT on a contract](/blog/lawyer-review-chatgpt-contract/) and [AI lawyer for small business](/blog/ai-lawyer-small-business/). AI can miss facts and jurisdiction details, so treat its output as prep and a second set of eyes, not a verdict. Do not paste confidential material into tools without checking their terms. If the stakes are high, have an attorney verify the key points. Also read our [first-meeting checklist](/blog/how-to-prepare-for-first-meeting-with-startup-lawyer/) before meeting a new lawyer.
 
+**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

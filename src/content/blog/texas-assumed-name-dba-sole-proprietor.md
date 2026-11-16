@@ -59,6 +59,8 @@ If you are forming an LLC, see [Texas certificate of formation fees and forms](/
 
 A DBA lets you operate under a name; it does not by itself give you ownership of the name or stop others from using it. Run a name check first; see [trademark and business name checks](/blog/trademark-business-name-check/).
 
+**Related reading:** [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

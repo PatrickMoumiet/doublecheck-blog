@@ -71,6 +71,8 @@ Work through them with your co-founders, your accountant, and a startup lawyer. 
 
 The state question sits next to the entity question. Read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/) before you pick a state, and review founder equity with [founder vesting](/blog/cofounder-vesting-cliff-explained/) and [83(b) elections](/blog/83b-election-startup-founders/).
 
+**Related reading:** [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

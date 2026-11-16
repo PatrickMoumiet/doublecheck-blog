@@ -65,7 +65,7 @@ According to the NVCA's page, the financing documents include:
 - **Indemnification Agreement** (July 2020)
 - **Model Legal Opinion**
 
-In general terms, the certificate of incorporation sets out the preferred stock terms, the stock purchase agreement covers the sale of the shares, and the other agreements address investor rights, voting, and transfers. Always read the actual drafts.
+In general terms, the [certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/) sets out the preferred stock terms, the stock purchase agreement covers the sale of the shares, and the other agreements address investor rights, voting, and transfers. Always read the actual drafts.
 
 ## 3. SAFE round vs. priced round
 

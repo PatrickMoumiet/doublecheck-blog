@@ -72,7 +72,7 @@ Stripe adds that reinstatement requires back reports and accumulated fees. Set a
 
 Per Stripe, LLC profits pass through to your personal return by default, and you register with the NC Department of Revenue if you sell taxable goods or services. City or county privilege licenses and zoning vary by municipality, and the state filing does not check them. Professional or occupational licenses may apply regardless of the LLC. See [business license requirements](/blog/business-license-requirements-small-business/).
 
-Stripe also warns that commingling personal and business funds can let courts pierce the LLC veil, so keep a separate bank account. For federal tax treatment, read [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/).
+Stripe also warns that [commingling personal and business funds](/blog/llc-startup-bank-account-commingling-liability-protection-habits/) can let courts pierce the LLC veil, so keep a separate bank account. For federal tax treatment, read [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/).
 
 Comparing states? See the [best state to form an LLC](/blog/best-state-to-form-an-llc-comparison/) and [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/). Sibling guides: [Virginia](/blog/how-to-start-an-llc-in-virginia/) and [Georgia](/blog/how-to-start-an-llc-in-georgia/).
 

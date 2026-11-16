@@ -98,6 +98,8 @@ This article covers corporations. Delaware LLCs have their own annual requiremen
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
+**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/)
+
 **Sources:** [Delaware Division of Corporations: Pay Taxes](https://corp.delaware.gov/paytaxes/) and [Delaware fees and calculators](https://corp.delaware.gov/fee/).
 
 ## FAQ

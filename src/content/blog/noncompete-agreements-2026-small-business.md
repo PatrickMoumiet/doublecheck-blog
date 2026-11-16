@@ -48,7 +48,7 @@ Noncompetes are one of the most misunderstood clauses in employment. The federal
 
 In April 2024, the FTC issued a rule broadly prohibiting noncompete agreements. In August 2024, a federal court in Texas blocked the FTC from enforcing it nationwide. In September 2025, the FTC withdrew its appeal.
 
-According to a July 2026 law-firm overview, there is no nationwide FTC noncompete ban in effect. The agency now favors case-by-case enforcement.
+According to a July 2026 law-firm overview, there is no nationwide [FTC noncompete ban](/blog/ftc-noncompete-rule-status-2026-what-small-businesses-can-still-do/) in effect. The agency now favors case-by-case enforcement.
 
 ![Federal rule versus state law: the FTC rule was issued in April 2024, blocked in August 2024, appeal withdrawn in September 2025, and state law now governs](/images/noncompete-agreements-2026-small-business/federal-vs-state.webp)
 

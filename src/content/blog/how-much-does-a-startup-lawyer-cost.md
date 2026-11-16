@@ -53,7 +53,7 @@ All figures here come from [Promise Legal](https://blog.promise.legal/startup-le
 - **Founder NDAs:** $500 to $1,500 each.
 - **Hourly rates:** $200 to $500.
 
-Promise Legal also lists state filing fees: $300 for a Texas LLC or corporation, $89 for a Delaware C-Corp certificate of incorporation plus a $175 minimum annual franchise tax, and about $110 for a Delaware LLC plus a $300 annual tax, with registered agents at $50 to $300 per year. Check the state agency before relying on these.
+Promise Legal also lists state filing fees: $300 for a Texas LLC or corporation, $89 for a Delaware C-Corp [certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/) plus a $175 minimum annual franchise tax, and about $110 for a Delaware LLC plus a $300 annual tax, with registered agents at $50 to $300 per year. Check the state agency before relying on these.
 
 [Thumbtack](https://thumbtack.com/p/small-business-lawyer-cost) reports a national average fixed price of $290 for a corporate lawyer, with a range of $170 to $420, and gives an Illinois example of $500 for the simplest one-person business, excluding state filing fees of $175 to $750. It also gives an example of $10,000 for a larger startup. Thumbtack says its figures come from estimates it receives from local professionals and are for information only.
 
@@ -80,6 +80,8 @@ What typically moves the price up:
 - **Use AI to draft questions and summaries, then verify** what matters. See [using AI for legal work as a small business](/blog/ai-lawyer-small-business/).
 
 Whether to spend on a lawyer at all depends on the stakes; [when to hire a lawyer for a small business](/blog/when-to-hire-lawyer-small-business/) covers that decision.
+
+**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/)
 
 ## Where DoubleCheck fits
 

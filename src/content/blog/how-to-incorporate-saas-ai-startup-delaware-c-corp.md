@@ -49,13 +49,13 @@ Per Rho, founders typically buy shares at par value through stock purchase agree
 
 ## 3. The 83(b) election
 
-The Treasury regulation says an 83(b) election must be filed not later than 30 days after the property is transferred. It may be filed before the transfer, a copy goes to the company, and it generally cannot be revoked without the Commissioner's consent. Without it, each vesting tranche is taxed as ordinary income as it vests, per Rho. If you make the election, later appreciation is not taxed as compensation.
+The Treasury regulation says an [83(b) election](/blog/83b-election-startup-founders/) must be filed not later than 30 days after the property is transferred. It may be filed before the transfer, a copy goes to the company, and it generally cannot be revoked without the Commissioner's consent. Without it, each vesting tranche is taxed as ordinary income as it vests, per Rho. If you make the election, later appreciation is not taxed as compensation.
 
 ![Deadlines SaaS founders often miss](/images/how-to-incorporate-saas-ai-startup-delaware-c-corp/deadlines.webp)
 
 ## 4. Delaware costs and QSBS
 
-Delaware's franchise tax and annual report are due on or before March 1; the minimum is $175 under the Authorized Shares Method or $400 under the Assumed Par Value Capital Method, the annual report fee is $50 for non-exempt filers, and the late penalty is $200 plus 1.5% interest per month, per the state. Rho lists certificate of incorporation fees of at least $109. See [Delaware franchise tax](/blog/delaware-franchise-tax-startups/).
+Delaware's franchise tax and annual report are due on or before March 1; the minimum is $175 under the Authorized Shares Method or $400 under the Assumed Par Value Capital Method, the annual report fee is $50 for non-exempt filers, and the late penalty is $200 plus 1.5% interest per month, per the state. Rho lists [certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/) fees of at least $109. See [Delaware franchise tax](/blog/delaware-franchise-tax-startups/).
 
 Under 26 U.S.C. 1202 (Cornell LII), stock acquired after July 4, 2025 gets a 50% exclusion at three years, 75% at four, and 100% at five or more, with a per-issuer cap of the greater of $15 million or ten times basis, and the issuer's gross assets must be no more than $75 million. Older stock keeps the earlier rules. Read [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/) and [how to incorporate in Delaware](/blog/how-to-incorporate-in-delaware-step-by-step/).
 

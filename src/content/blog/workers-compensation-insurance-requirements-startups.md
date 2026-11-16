@@ -45,7 +45,7 @@ toc:
 
 ## 2. Who must carry it, and how states differ
 
-TechInsurance says workers' comp is required in nearly every state, usually once you hire your first employee, and that independent contractors and sole proprietors generally are not required to carry it. Examples of state variation:
+TechInsurance says workers' comp is required in nearly every state, usually once you hire your [first employee](/blog/how-to-hire-first-employee-legal-checklist/), and that independent contractors and sole proprietors generally are not required to carry it. Examples of state variation:
 
 - **California:** coverage is required for businesses with at least one part- or full-time employee, including out-of-state businesses with an employee working in California, per Hourly. Hourly also reports that some licensed contractors must carry coverage even without employees, and that all California contractors must from 2026. Employers must post a notice and notify new hires of benefits.
 - **Alabama and Mississippi:** coverage required at five or more employees (TechInsurance).

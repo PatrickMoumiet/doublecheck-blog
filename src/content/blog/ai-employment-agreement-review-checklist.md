@@ -66,7 +66,7 @@ Cooley GO's list of what a strong offer letter covers is a practical checklist f
 - **Prior-employer restrictions:** a bar on using a former employer's confidential information, and a duty to disclose existing non-competes.
 - **Contingencies:** background checks and proof of U.S. work eligibility.
 
-Cooley also suggests consulting counsel before including arbitration or any non-compete or non-solicitation terms.
+Cooley also suggests consulting counsel before including arbitration or any non-compete or [non-solicitation](/blog/non-solicitation-agreements-explained/) terms.
 
 ![Five-step workflow for using AI to review an employment agreement](/images/ai-employment-agreement-review-checklist/steps.webp)
 

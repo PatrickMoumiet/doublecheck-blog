@@ -181,7 +181,7 @@ This is an area where tax, legal, ownership, and fundraising considerations can 
 
 Once you decide on the entity and state, the typical formation process can include: choosing the company name, selecting the state, appointing a registered agent, filing formation documents, obtaining an EIN, creating internal governance documents, documenting founder ownership, opening a business bank account, setting up bookkeeping and tax systems, and obtaining any licenses or registrations your business requires.
 
-Depending on the company, you may also need founder IP assignments, equity documents, bylaws, an operating agreement, board approvals, or other records.
+Depending on the company, you may also need founder IP assignments, equity documents, bylaws, an [operating agreement](/blog/llc-operating-agreement-with-ai/), board approvals, or other records.
 
 **Creating the entity is only the first part.** Keeping the ownership and company records organized matters as the business grows.
 

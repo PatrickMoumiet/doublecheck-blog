@@ -64,7 +64,7 @@ Starting a company with a co-founder is exciting, and that is exactly why the ha
 
 A co-founder agreement records how the founders agree to build the company together. It covers who does what, who owns what, how decisions get made, and what happens if the relationship changes.
 
-It usually sits alongside your corporate documents, not in place of them. The share terms themselves, such as vesting and repurchase rights, typically end up in documents like founder stock purchase agreements, so the two need to match. If you have not formed the company yet, start with our guide to [incorporating a company in the US](/blog/how-to-incorporate-a-company-in-the-us/).
+It usually sits alongside your corporate documents, not in place of them. The share terms themselves, such as vesting and repurchase rights, typically end up in documents like [founder stock purchase agreements](/blog/issue-founder-stock-purchase-agreement/), so the two need to match. If you have not formed the company yet, start with our guide to [incorporating a company in the US](/blog/how-to-incorporate-a-company-in-the-us/).
 
 ![Nine things co-founders should settle early: roles and time, equity split, vesting, IP assignment, decisions, pay and outside work, what happens if someone leaves, disputes, and tax timing](/images/co-founder-agreement-startups/nine-things.webp)
 
@@ -152,6 +152,8 @@ AI is useful for getting organized. A practical approach:
 ![Workflow from talking it through to writing it down, drafting with AI or a template, checking it against corporate documents, and signing with review when stakes are high](/images/co-founder-agreement-startups/agreement-workflow.webp)
 
 Remember that founders' interests are not identical. The person drafting is not automatically looking out for everyone, so consider whether each founder should have independent advice before signing. Equity, vesting, and IP are the kind of issues where an attorney's review can matter most.
+
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/)
 
 ## Where DoubleCheck fits
 

@@ -72,7 +72,7 @@ How long do the confidentiality duties last? Some run for a fixed number of year
 
 ## 5. Governing law and where disputes go
 
-Look for the governing law and the court or arbitration forum. A distant venue can make a dispute costly. Also scan for unusual terms such as non-solicitation or non-compete language hiding in an NDA.
+Look for the governing law and the court or arbitration forum. A distant venue can make a dispute costly. Also scan for unusual terms such as [non-solicitation](/blog/non-solicitation-agreements-explained/) or non-compete language hiding in an NDA.
 
 ## 6. AI first, then your judgment
 

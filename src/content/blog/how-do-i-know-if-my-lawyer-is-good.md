@@ -163,6 +163,8 @@ Ask yourself:
 
 No lawyer will be perfect at every moment. But if you consistently cannot answer these positively, it may be worth a direct conversation, or another opinion.
 
+**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/)
+
 ## Where DoubleCheck fits
 
 DoubleCheck is built partly around the idea that people should be able to understand and verify more of their legal work. Use AI to understand an issue, organize documents, examine sources, and prepare better questions. If you want another professional perspective, DoubleCheck provides a path to independent attorneys.

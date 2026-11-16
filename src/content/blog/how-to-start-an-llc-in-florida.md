@@ -76,6 +76,8 @@ If you sell taxable goods or services, you may need a sales tax certificate from
 
 Comparing states? The [LLC formation cost comparison](/blog/llc-formation-cost-california-texas-florida-new-york/) and [best state to form an LLC](/blog/best-state-to-form-an-llc-comparison/) put Florida next to other states. For the broader picture, see [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/). Compare sibling guides for [Georgia](/blog/how-to-start-an-llc-in-georgia/) and [New York](/blog/how-to-start-an-llc-in-new-york/).
 
+**Related reading:** [Startup LLC checklist: your first 30 days](/blog/startup-llc-first-30-days-checklist-after-you-form/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

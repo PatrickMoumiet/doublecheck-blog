@@ -63,6 +63,8 @@ State rules are where the choice gets real.
 
 If you may raise outside money later, read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/). If you use AI to draft your own operating agreement, see [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/) and verify it.
 
+**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/); [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

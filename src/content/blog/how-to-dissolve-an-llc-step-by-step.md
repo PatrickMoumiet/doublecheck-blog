@@ -45,7 +45,7 @@ toc:
 
 ## 2. Vote, document, and settle taxes
 
-Per Stripe's guide, check your operating agreement for the approval threshold (simple majority, supermajority, or unanimous), record the vote in a signed written consent, and set a dissolution date. Then handle final returns. The IRS says the form depends on how the LLC is taxed:
+Per Stripe's guide, check your [operating agreement](/blog/llc-operating-agreement-with-ai/) for the approval threshold (simple majority, supermajority, or unanimous), record the vote in a signed written consent, and set a dissolution date. Then handle final returns. The IRS says the form depends on how the LLC is taxed:
 
 - **Sole proprietor (single-member LLC):** Schedule C with your individual return.
 - **Partnership:** Form 1065, marked final, with final K-1s.

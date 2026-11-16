@@ -75,7 +75,7 @@ That gives you a much faster starting point than reading the entire agreement wi
 
 One of the biggest benefits of legal AI is not necessarily getting a final answer. It is learning what you should be asking.
 
-Suppose you are hiring your first employee. You may not know that your questions should involve:
+Suppose you are hiring your [first employee](/blog/how-to-hire-first-employee-legal-checklist/). You may not know that your questions should involve:
 
 - employment classification,
 - intellectual property,

@@ -74,6 +74,8 @@ Practical steps for a small business:
 
 Mayer Brown described the FTC's 2024 non-compete rule as uncertain in July 2024 and did not say whether it covers non-solicits. Check the agency page and our non-compete posts for the current status. If you are ending a relationship, see [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
 
+**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
