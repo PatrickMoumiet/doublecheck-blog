@@ -86,6 +86,8 @@ Information filed is confidential and available only by court order, to authoriz
 
 If you hold a New York LLC through a foreign parent, your tax filings may matter more than this Act; see [Form 5472 for foreign-owned single-member LLCs](/blog/form-5472-foreign-owned-single-member-llc/). Founders outside the U.S. can also read [starting a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/) and [how to incorporate a company in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/). An attorney can confirm whether your structure is covered.
 
+**Related reading:** [Incorporating in 2026: what changed](/blog/incorporate-a-small-business-in-2026-what-changed-boi-annual-reports-and-new-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

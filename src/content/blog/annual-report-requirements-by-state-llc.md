@@ -80,6 +80,8 @@ Practical effects of losing good standing or being dissolved:
 
 If you operate in more than one state, you may owe reports in each state where you are registered as a foreign LLC. If you no longer use the entity, closing it properly is cheaper than letting it lapse; see [how to dissolve an LLC](/blog/how-to-dissolve-an-llc-step-by-step/) and, for California, [closing a California LLC](/blog/close-california-llc-avoid-800-tax/). Compare ongoing costs in [LLC formation costs by state](/blog/llc-formation-cost-california-texas-florida-new-york/).
 
+**Related reading:** [Incorporating in 2026: what changed](/blog/incorporate-a-small-business-in-2026-what-changed-boi-annual-reports-and-new-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

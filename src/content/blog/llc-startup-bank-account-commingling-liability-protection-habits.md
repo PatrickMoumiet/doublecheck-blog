@@ -84,6 +84,8 @@ Use this as a starting list, not a legal standard.
 
 **Handle it yourself vs. get an attorney.** The bank account, bookkeeping and signature habits are DIY. Get an attorney involved if you have already mixed significant funds, face a claim, are signing a lease or loan with a personal guarantee, or are deciding whether to move to a different entity; see [do you need a lawyer to start an LLC](/blog/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/) and [LLC vs C corp for startups](/blog/llc-vs-c-corp-startups/).
 
+**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

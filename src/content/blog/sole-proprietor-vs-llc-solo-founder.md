@@ -63,7 +63,7 @@ State rules are where the choice gets real.
 
 If you may raise outside money later, read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/). If you use AI to draft your own operating agreement, see [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/) and verify it.
 
-**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/); [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/)
+**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/); [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/); [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [How to incorporate a business: complete guide](/blog/how-to-incorporate-a-business-complete-guide-llc-s-corp-c-corp-costs-timeline/)
 
 ## Where DoubleCheck fits
 

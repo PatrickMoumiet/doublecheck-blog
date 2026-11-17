@@ -84,6 +84,8 @@ Also check that you chose the right entity at the start: [LLC vs C corp for star
 
 For the broader overview, see [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/) and [do I need a lawyer to start an LLC](/blog/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/).
 
+**Related reading:** [How to incorporate a business: complete guide](/blog/how-to-incorporate-a-business-complete-guide-llc-s-corp-c-corp-costs-timeline/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

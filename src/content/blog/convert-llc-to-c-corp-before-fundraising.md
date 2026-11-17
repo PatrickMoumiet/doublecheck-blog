@@ -74,6 +74,8 @@ Costs after conversion include Delaware annual report and franchise tax, per Rho
 
 Rho recommends counsel when members have different economics, there are outstanding profits interests or convertible instruments, or the conversion is tied to a financing, as is an out-of-state LLC. An AI tool can help you list what to gather and what to ask, but the tax analysis and filings need a lawyer and a CPA.
 
+**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Startup LLC operating agreement clauses](/blog/startup-llc-operating-agreement-clauses-investors-vesting-and-conversion/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

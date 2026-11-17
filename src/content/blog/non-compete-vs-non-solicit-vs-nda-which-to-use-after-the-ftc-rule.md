@@ -90,6 +90,8 @@ California is the classic ban state. Pearl Cohen reported in November 2020 that 
 
 **Handle it yourself vs. get an attorney.** A standard NDA and IP assignment for a simple hire may be a reasonable DIY step with a verified template. Anything with a non-compete, a worker in more than one state, or a senior hire is worth an attorney's look, because enforceability depends on state law and the facts.
 
+**Related reading:** [FTC noncompete ban: what employees should do](/blog/ftc-noncompete-ban-what-employees-should-do-now-to-check-their-own-noncompete/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

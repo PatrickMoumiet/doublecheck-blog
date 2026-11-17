@@ -79,6 +79,8 @@ Common mistakes:
 
 For a one-person company comparing structures, see [sole proprietor vs LLC](/blog/sole-proprietor-vs-llc-solo-founder/). If your name could conflict with a brand, a lawyer should look before you build signage and a website. You can also use AI to prepare your form and checklist, then have an attorney verify it; see [do I need a lawyer to start an LLC](/blog/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/).
 
+**Related reading:** [DBA in Texas: complete guide](/blog/dba-texas-complete-guide-sole-proprietor-llc-and-corporation/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

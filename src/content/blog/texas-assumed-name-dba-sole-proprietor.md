@@ -59,7 +59,7 @@ If you are forming an LLC, see [Texas certificate of formation fees and forms](/
 
 A DBA lets you operate under a name; it does not by itself give you ownership of the name or stop others from using it. Run a name check first; see [trademark and business name checks](/blog/trademark-business-name-check/).
 
-**Related reading:** [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/)
+**Related reading:** [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/); [DBA in Texas: complete guide](/blog/dba-texas-complete-guide-sole-proprietor-llc-and-corporation/)
 
 ## Where DoubleCheck fits
 

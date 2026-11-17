@@ -163,7 +163,7 @@ Ask yourself:
 
 No lawyer will be perfect at every moment. But if you consistently cannot answer these positively, it may be worth a direct conversation, or another opinion.
 
-**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/)
+**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/); [Lawyer not returning calls: what to do](/blog/lawyer-not-returning-calls-what-you-can-do-before-you-switch/)
 
 ## Where DoubleCheck fits
 

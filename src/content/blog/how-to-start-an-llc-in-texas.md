@@ -74,7 +74,7 @@ Two things trip up new Texas owners. First, a small LLC usually owes no franchis
 
 A single-member LLC is usually taxed as a disregarded entity federally; see [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/). Comparing states? Use [best state to form an LLC](/blog/best-state-to-form-an-llc-comparison/) and [LLC formation cost in California, Texas, Florida, and New York](/blog/llc-formation-cost-california-texas-florida-new-york/). For the full picture, see [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/).
 
-**Related reading:** [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/); [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/); [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/)
+**Related reading:** [Texas LLC assumed name certificate](/blog/texas-llc-assumed-name-dba-certificate-county-state-filing-renewal/); [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/); [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/); [DBA in Texas: complete guide](/blog/dba-texas-complete-guide-sole-proprietor-llc-and-corporation/)
 
 ## Where DoubleCheck fits
 

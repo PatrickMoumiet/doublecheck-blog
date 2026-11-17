@@ -1,0 +1,149 @@
+---
+title: 'Co-Founder Agreement Clauses Checklist With Sample Language and Common Mistakes'
+seoTitle: 'Co-Founder Agreement Clauses Checklist and Sample Language'
+description: 'A clause-by-clause co-founder agreement checklist with illustrative plain-English sample wording, plus the common mistakes that cause founder disputes.'
+pubDate: 'Nov 17 2026'
+authorName: 'Patrick Moumiet'
+faq:
+  - question: 'What should a co-founder agreement include?'
+    answer: 'At minimum: equity split, vesting, roles and time commitment, IP assignment, decision rights, departure and buy-back terms, confidentiality and any state-appropriate restrictive covenants, and a dispute resolution clause. Ramp (May 2026) and EquityList (October 2026) both list these core elements.'
+  - question: 'What is the standard vesting schedule for co-founders?'
+    answer: 'Ramp (May 2026) describes four years with a one-year cliff as the standard: nothing vests before the first anniversary, then equity vests monthly or quarterly over the remaining three years. Your own terms can differ.'
+  - question: 'Do I need a co-founder agreement if we are friends?'
+    answer: 'Yes, it is still worth writing down. Sources such as eChai and Vestd examples describe disputes among friends who relied on a handshake. The agreement records expectations before conflict arises.'
+  - question: 'Can a co-founder agreement include a non-compete?'
+    answer: 'It can, but enforceability depends on state law. EquityList notes the US has no federal non-compete law and that California prohibits post-employment non-competes. Check the governing state, and consider a narrower non-solicit or confidentiality clause.'
+  - question: 'When should co-founders sign the agreement?'
+    answer: 'Before shares are issued and before meaningful work or outside money, per eChai. Vesting is hard to add to shares already issued without every founder consenting, per EquityList.'
+toc:
+  - label: '1. Quick answer'
+    anchor: '1-the-quick-answer'
+  - label: '2. Equity, vesting, roles'
+    anchor: '2-clauses-1-to-3-equity-vesting-and-roles'
+  - label: '3. IP and decision rights'
+    anchor: '3-clauses-4-and-5-ip-assignment-and-decision-rights'
+  - label: '4. Departure, non-compete'
+    anchor: '4-clauses-6-and-7-departure-and-non-compete-limits'
+  - label: '5. Disputes and signing'
+    anchor: '5-clause-8-dispute-resolution-and-how-to-sign'
+  - label: '6. Mistakes and attorney review'
+    anchor: '6-common-mistakes-and-when-to-get-an-attorney'
+  - label: 'Where DoubleCheck fits'
+    anchor: 'where-doublecheck-fits'
+  - label: 'FAQ'
+    anchor: 'faq'
+---
+
+*A clause-by-clause checklist for co-founders: what to settle in writing, illustrative wording, and the mistakes to avoid.*
+
+**Key takeaways:**
+
+- Eight clauses to settle: equity, vesting, roles, IP assignment, decision rights, departure, non-compete limits, dispute resolution.
+- Ramp (May 2026) describes four-year vesting with a one-year cliff as standard.
+- IP created by a founder is not automatically the company's; EquityList says to assign it expressly, including pre-incorporation work.
+- Non-compete enforceability depends on state law; have an attorney review before you issue shares or take money.
+
+## 1. The quick answer
+
+**Quick answer:** A co-founder agreement clauses checklist with sample language should cover eight things: equity split, vesting, roles, IP assignment, decision rights, what happens when someone leaves, the limits of non-competes, and how disputes get resolved. Per a May 2026 Ramp guide, the standard vesting schedule is four years with a one-year cliff, and per EquityList (October 2026), IP created by a founder belongs to the founder, not the company, unless an express assignment says otherwise. Sign before shares are issued and before you build much together.
+
+This guide goes clause by clause. Each section gives the point of the clause, a short plain-English example of wording (clearly marked as an illustration, not a template to paste), and the mistakes that cause real fights. For the basics first, see [co-founder agreements for startups](/blog/co-founder-agreement-startups/); for the 50/50 case, see [deadlock clauses that prevent a stalemate](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/).
+
+![Six of the eight co-founder agreement clauses to settle](/images/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/grid.webp)
+
+## 2. Clauses 1 to 3: equity, vesting and roles
+
+**Clause 1: Equity split.** Record each founder's share count and price per share. EquityList notes that later financings dilute these percentages, so it is worth stating how you will treat future issuances. How to arrive at the split is a separate question; see [how co-founders split equity](/blog/how-co-founders-split-equity-data/) and [founder equity split: how to divide](/blog/founder-equity-split-how-to-divide/).
+
+**Clause 2: Vesting.** Vesting means a founder earns shares over time instead of owning them on day one. Ramp (May 2026) describes the standard schedule as four years with a one-year cliff: nothing vests if a founder leaves before the first anniversary, then equity typically vests monthly or quarterly over the remaining three years. EquityList adds that vesting terms should also be documented in a restricted stock purchase agreement when shares are issued, so the company has a right to repurchase unvested shares. Per a summary of EquityList on eChai, vesting cannot be added to issued shares without every founder's consent, which is why timing matters. See [cofounder vesting and the cliff explained](/blog/cofounder-vesting-cliff-explained/) and [issuing founder stock](/blog/issue-founder-stock-purchase-agreement/). The IRS also sets a short deadline for an 83(b) election when stock is subject to vesting; read [the 83(b) election guide](/blog/83b-election-startup-founders/) before you issue shares.
+
+*Illustration only, not a template:* "Each founder's shares vest over 48 months starting on the vesting start date, with no shares vesting before the first 12-month anniversary. If a founder stops providing services to the company for any reason, the company may repurchase that founder's unvested shares at the original purchase price."
+
+**Clause 3: Roles and time commitment.** State each founder's title, main duties and expected time. A founder who goes part-time while the other stays full-time is a common source of resentment, and a written time commitment gives you something concrete to point to.
+
+*Illustration only:* "Founder A leads product and engineering. Founder B leads sales and finance. Each founder will work on the company full time, and will tell the other in writing before taking any outside paid role."
+
+## 3. Clauses 4 and 5: IP assignment and decision rights
+
+**Clause 4: IP assignment.** EquityList states that under US copyright law, IP vests in the individual creator by default, not the company, and recommends an express assignment covering both pre-incorporation and post-incorporation work. Ramp (May 2026) goes further: code, designs, patents and trademarks should belong to the company whether created before or during the startup, and it notes courts have sided with founders claiming personal ownership of after-hours work when the agreement was silent. Missing assignments can also surface during diligence on your first term sheet, per EquityList. Pair this with a confidentiality clause; see [confidentiality and IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/).
+
+*Illustration only:* "Each founder assigns to the company all rights in any code, designs, writing, inventions and trademarks created for the business, whether before or after the company was formed, listed on Schedule A. A founder keeps ownership of the items listed on Schedule B."
+
+**Clause 5: Decision rights.** EquityList describes day-to-day decisions in a founder's own area as unilateral, with "reserved matters" needing collective consent. Ramp lists fundraising, adding co-founders and selling the company as typical unanimous-consent items, and suggests naming a tiebreaker (an advisor, board member or designated person) for a two-founder company.
+
+*Illustration only:* "The following need the written approval of both founders: issuing new shares, taking outside investment, selling the company, hiring or firing another founder, and spending above $10,000 that is not in the budget. If the founders cannot agree on a reserved matter within 30 days, they will ask the named advisor to decide."
+
+The dollar and day figures above are made up for illustration; pick numbers that fit your company.
+
+![Five steps for putting a co-founder agreement in place](/images/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/steps.webp)
+
+## 4. Clauses 6 and 7: departure and non-compete limits
+
+**Clause 6: Departure and exit.** This is the clause people regret skipping. EquityList says "good leaver" and "bad leaver" have no statutory US definition, so the agreement must define them; its typical examples are death, permanent incapacity or termination without cause for a good leaver, and termination for cause, resignation without adequate notice or breach for a bad leaver. Ramp adds that most agreements let the company repurchase unvested shares at the original price and include buy-back rights at a predetermined price. For the mechanics, see [how to remove or buy out a co-founder](/blog/how-to-remove-or-buy-out-a-co-founder/) and [buy-sell agreements for partners](/blog/buy-sell-agreement-small-business-partners/).
+
+*Illustration only:* "A founder who resigns with 60 days written notice keeps vested shares. A founder removed for a breach described in Section 9 that is not fixed within 30 days of written notice may be required to sell vested shares back to the company at a price set by an independent valuation."
+
+**Clause 7: Non-compete limits.** Treat any non-compete cautiously. EquityList states that the US has no federal non-compete law and that enforceability depends on the governing state; it also says California prohibits post-employment non-competes under Business and Professions Code Section 16600. Rules differ widely by state and have shifted, so read [non-compete agreements by state](/blog/non-compete-agreements-by-state-2026/) and [the FTC non-compete rule status](/blog/ftc-noncompete-rule-status-2026-what-small-businesses-can-still-do/) before relying on one. Often a narrower tool does most of the work. See [non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/).
+
+*Illustration only:* "For 12 months after leaving, a founder will not use the company's confidential information and will not solicit the company's employees or customers on the company's behalf."
+
+Whether wording like that is enforceable in your state is a question for a lawyer there, not a drafting tip.
+
+## 5. Clause 8: dispute resolution and how to sign
+
+**Clause 8: Dispute resolution.** EquityList warns that without a dispute resolution clause, an unresolved disagreement between co-founders defaults to litigation, and suggests specifying arbitration rules, the seat and how arbitrators are appointed. Ramp prefers mediation and arbitration as faster, cheaper and more private. A common structure is a ladder: talk, then mediate, then arbitrate.
+
+*Illustration only:* "The founders will first meet to resolve any dispute in good faith within 14 days of written notice. If unresolved, they will try mediation. If mediation fails, the dispute will be decided by binding arbitration under the rules named in Section 12, in the state named in Section 12."
+
+**Governing law.** EquityList says governing law is typically the law of the state of incorporation and should be confirmed when drafting, not after a dispute. If you are weighing states, see [incorporating in Texas vs Delaware](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/).
+
+**Where the agreement lives.** A founders' agreement is not the same as an LLC operating agreement or a corporation's bylaws and stockholder documents. EquityList notes a shareholders' agreement mainly protects investors and is typically signed at a raise. Make sure the documents do not contradict each other. For LLCs, see [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/).
+
+**When to sign.** eChai's guidance is to sign before writing meaningful code together or taking outside money, and before shares are issued.
+
+## 6. Common mistakes and when to get an attorney
+
+Across the sources above (Ramp, May 2026; EquityList, October 2026; eChai), the same mistakes keep appearing:
+
+- **Relying on a handshake.** Friendship is not a substitute for paperwork.
+- **No vesting schedule**, or vesting added after shares are issued.
+- **Vague departure terms**, or "good leaver" and "bad leaver" used without definitions.
+- **No express IP assignment**, especially for pre-incorporation work.
+- **No tiebreaker or deadlock path** in a 50/50 company.
+- **Leaning on a non-compete** without checking the governing state.
+- **A generic template** with no state-specific customization.
+- **Waiting too long** to formalize.
+
+**What you can handle yourself and what to check.** Founders can usually agree on roles, time commitment and the business rules between themselves, and AI is useful for drafting plain-English first versions and for comparing your draft to this checklist. Equity, vesting, tax elections, IP assignment and non-compete wording interact with state law and tax rules, so have a startup attorney review the final documents before you issue shares or take money. Ramp puts a startup attorney's review of a founders' agreement at $1,000 to $3,000 and founder litigation in the tens of thousands of dollars; treat those as one source's ranges, not quotes. See [how to prepare for a first meeting with a startup lawyer](/blog/how-to-prepare-for-first-meeting-with-startup-lawyer/) and [the founder agreement overview](/blog/co-founder-agreement-startups/).
+
+## Where DoubleCheck fits
+
+[DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
+
+**Sources:** [Ramp, What is in a startup founder agreement (May 2026)](https://ramp.com/blog/what-is-in-a-startup-founder-agreement); [EquityList, Founders' Agreement for U.S. Companies (Oct 13, 2026)](https://www.equitylist.co/blog-post/founders-agreement-for-us-companies); [eChai Ventures, what should go in a co-founder agreement](https://echai.ventures/startingup/finding-cofounder/what-should-go-in-a-co-founder-agreement-and-when-do-we-actually-sign-it). Sample wording is illustrative only.
+
+## FAQ
+
+**What should a co-founder agreement include?**
+
+At minimum: equity split, vesting, roles and time commitment, IP assignment, decision rights, departure and buy-back terms, confidentiality and any state-appropriate restrictive covenants, and a dispute resolution clause. Ramp (May 2026) and EquityList (October 2026) both list these core elements.
+
+**What is the standard vesting schedule for co-founders?**
+
+Ramp (May 2026) describes four years with a one-year cliff as the standard: nothing vests before the first anniversary, then equity vests monthly or quarterly over the remaining three years. Your own terms can differ.
+
+**Do I need a co-founder agreement if we are friends?**
+
+Yes, it is still worth writing down. Sources such as eChai and Vestd examples describe disputes among friends who relied on a handshake. The agreement records expectations before conflict arises.
+
+**Can a co-founder agreement include a non-compete?**
+
+It can, but enforceability depends on state law. EquityList notes the US has no federal non-compete law and that California prohibits post-employment non-competes. Check the governing state, and consider a narrower non-solicit or confidentiality clause.
+
+**When should co-founders sign the agreement?**
+
+Before shares are issued and before meaningful work or outside money, per eChai. Vesting is hard to add to shares already issued without every founder consenting, per EquityList.
+
+---
+
+*General information only. This article is not legal, tax, investment, or accounting advice.*

@@ -59,6 +59,8 @@ Delaware's Division of Corporations warns entities to be wary of deceptive tax o
 
 See [how to incorporate in Delaware step by step](/blog/how-to-incorporate-in-delaware-step-by-step/) and the [Delaware LLC annual tax](/blog/delaware-llc-annual-tax-june-1/). For other states' requirements, see [LLC formation costs across four states](/blog/llc-formation-cost-california-texas-florida-new-york/).
 
+**Related reading:** [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

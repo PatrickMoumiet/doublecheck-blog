@@ -67,7 +67,7 @@ We have not included Delaware's filing fee amounts here because we could not con
 
 Incorporating in Delaware does not remove obligations in the state where you operate. See [Delaware corporation doing business in California](/blog/delaware-corporation-doing-business-in-california/) and [California vs. Delaware](/blog/incorporate-california-vs-delaware-startup/).
 
-**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/); [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/)
+**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/); [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/); [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/); [How to incorporate a business: complete guide](/blog/how-to-incorporate-a-business-complete-guide-llc-s-corp-c-corp-costs-timeline/)
 
 ## Where DoubleCheck fits
 

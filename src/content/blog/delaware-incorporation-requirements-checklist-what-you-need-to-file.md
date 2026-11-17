@@ -76,7 +76,7 @@ These items are not filed with Delaware, but they are the usual next layer of th
 
 **What to handle yourself and when to ask an attorney.** A plain one-class common stock company with founders you already trust is something many founders can assemble from the checklist above. Get an attorney to look when you have multiple founders with different contributions, plan to raise from investors soon, have non-U.S. owners, or want to change share terms. The overview is in [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/).
 
-**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/); [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/)
+**Related reading:** [What goes in a Delaware certificate of incorporation](/blog/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/); [Incorporating as a solo founder, step by step](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/); [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/)
 
 ## Where DoubleCheck fits
 

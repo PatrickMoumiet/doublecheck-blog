@@ -75,6 +75,8 @@ Use your plan, not the headline, to choose.
 
 **Get an attorney to look at it when** you have co-founders, investors in discussion, an existing Texas LLC you might convert, or equity promised to employees. Draft and organize your documents with AI if you like, but have a person check state forms, fees and deadlines against the current agency pages as of November 2026; they change, and a wrong filing is slow to fix. The step-by-step order is in [how to incorporate a business as a solo founder](/blog/incorporate-a-business-as-a-solo-founder-order-of-steps/), and the broader overview is in [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/).
 
+**Related reading:** [How to incorporate a business: complete guide](/blog/how-to-incorporate-a-business-complete-guide-llc-s-corp-c-corp-costs-timeline/); [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

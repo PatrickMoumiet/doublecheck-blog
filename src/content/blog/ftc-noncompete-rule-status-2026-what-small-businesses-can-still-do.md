@@ -82,7 +82,7 @@ The pattern in these matters is broad noncompetes imposed on large numbers of wo
 
 You can use AI to summarize an agreement and list questions (see [AI and small business legal work](/blog/ai-lawyer-small-business/)). Get an attorney licensed in the relevant state to verify before you enforce a noncompete, sign one that restricts your livelihood, or leave a job that has one.
 
-**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/)
+**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/); [FTC noncompete ban: what employees should do](/blog/ftc-noncompete-ban-what-employees-should-do-now-to-check-their-own-noncompete/)
 
 ## Where DoubleCheck fits
 

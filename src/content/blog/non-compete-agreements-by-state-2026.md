@@ -68,7 +68,7 @@ Selling a business is treated differently from employment. Per Loio, California,
 
 If your state limits employee non-competes, common alternatives are confidentiality agreements, invention assignment, and narrow [non-solicitation clauses](/blog/non-solicitation-agreements-explained/), though enforceability varies. Also confirm the worker is correctly classified ([employee vs. contractor](/blog/employee-vs-independent-contractor-classification-startups/), [contractor agreements](/blog/independent-contractor-agreement-what-to-include/)). Because states change these laws often, check the current statute for the worker's state before signing.
 
-**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/)
+**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/); [FTC noncompete ban: what employees should do](/blog/ftc-noncompete-ban-what-employees-should-do-now-to-check-their-own-noncompete/)
 
 ## Where DoubleCheck fits
 

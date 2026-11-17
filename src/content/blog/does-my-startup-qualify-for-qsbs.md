@@ -67,7 +67,7 @@ Also: less than 10% of asset value can be real estate not used in the business, 
 
 Pair this with [how to choose a good lawyer](/blog/how-to-choose-good-lawyer/) and [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
-**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/)
+**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/); [QSBS exit checklist](/blog/qsbs-exit-checklist-what-to-verify-before-you-sell-your-stock/)
 
 ## Where DoubleCheck fits
 

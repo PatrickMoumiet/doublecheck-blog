@@ -95,6 +95,8 @@ Keep it factual and keep a copy. If you are preparing for a new lawyer, see [how
 
 **Handle it yourself vs. get another attorney.** For a short check-in or a billing question, handle it yourself with the email above. If a deadline, a court filing or a large amount of money is involved, get a second attorney to review the file before you decide. A second set of eyes can tell you whether the pace is normal for that type of matter.
 
+**Related reading:** [Lawyer not returning calls: what to do](/blog/lawyer-not-returning-calls-what-you-can-do-before-you-switch/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

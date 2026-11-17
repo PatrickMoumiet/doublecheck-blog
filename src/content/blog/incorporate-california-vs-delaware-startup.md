@@ -71,7 +71,7 @@ Work through them with your co-founders, your accountant, and a startup lawyer. 
 
 The state question sits next to the entity question. Read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/) before you pick a state, and review founder equity with [founder vesting](/blog/cofounder-vesting-cliff-explained/) and [83(b) elections](/blog/83b-election-startup-founders/).
 
-**Related reading:** [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/)
+**Related reading:** [Texas vs Delaware for a Texas startup](/blog/incorporate-in-texas-vs-delaware-for-a-texas-based-startup/); [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/); [How to incorporate a business: complete guide](/blog/how-to-incorporate-a-business-complete-guide-llc-s-corp-c-corp-costs-timeline/)
 
 ## Where DoubleCheck fits
 

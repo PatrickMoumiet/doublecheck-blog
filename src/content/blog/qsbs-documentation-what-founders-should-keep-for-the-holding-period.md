@@ -71,6 +71,8 @@ EisnerAmper (September 23, 2026) says corporations are not required to certify Q
 
 **Handle yourself vs. get help.** A founder can build the folder: a shared drive with the four record sets, a one-page business description, and a dated change log. Use AI to organize and flag gaps, then verify it (see [verify AI-generated legal documents](/blog/verify-ai-generated-legal-document/)). Bring an attorney or CPA in before you issue stock to a new investor, convert from an LLC ([convert LLC to C corp](/blog/convert-llc-to-c-corp-before-fundraising/)), do a buyback, pivot your business, or sell. Also see [does my startup qualify for QSBS](/blog/does-my-startup-qualify-for-qsbs/).
 
+**Related reading:** [QSBS exit checklist](/blog/qsbs-exit-checklist-what-to-verify-before-you-sell-your-stock/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

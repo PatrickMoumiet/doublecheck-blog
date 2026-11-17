@@ -81,7 +81,7 @@ What typically moves the price up:
 
 Whether to spend on a lawyer at all depends on the stakes; [when to hire a lawyer for a small business](/blog/when-to-hire-lawyer-small-business/) covers that decision.
 
-**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/)
+**Related reading:** [How to tell if your lawyer is actually working on your matter](/blog/how-to-tell-if-your-lawyer-is-actually-working-on-your-matter/); [Lawyer not returning calls: what to do](/blog/lawyer-not-returning-calls-what-you-can-do-before-you-switch/)
 
 ## Where DoubleCheck fits
 

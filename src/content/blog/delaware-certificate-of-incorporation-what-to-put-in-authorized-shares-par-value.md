@@ -78,6 +78,8 @@ Decisions are easier to make than to undo. Delaware says changes to stock or par
 
 **Handle yourself vs. get an attorney.** A single-class common stock company with a typical share count and low par is the kind of filing many founders do through a standard form or an AI-assisted checklist, provided they verify each line against Delaware sources ([verify AI-generated legal documents](/blog/verify-ai-generated-legal-document/)). Ask an attorney when you want preferred or dual-class stock, a public benefit corporation, unusual director or officer liability terms, a foreign-founder structure, or you are weighing [Delaware vs California](/blog/incorporate-california-vs-delaware-startup/) or reading [Delaware SB 21 for controlling stockholders](/blog/delaware-sb-21-controlling-stockholder-startups/).
 
+**Related reading:** [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
