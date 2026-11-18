@@ -80,6 +80,8 @@ Insurance also does not replace the paperwork that limits owner exposure, such a
 
 An AI tool can help you list your risks and draft questions for an agent, but it cannot see your actual policy wording. Have a licensed agent or an attorney check exclusions and limits before you rely on coverage.
 
+**Related reading:** [HIPAA for Small Business: When It Applies and the Basics](/blog/hipaa-small-business-when-it-applies-and-basics/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

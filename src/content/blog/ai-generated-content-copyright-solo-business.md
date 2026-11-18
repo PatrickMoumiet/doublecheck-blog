@@ -59,6 +59,8 @@ The Copyright Office cited *Thaler v. Perlmutter*, where the court agreed that A
 
 The Office did not recommend new rights for AI-generated output, reasoning that copyright incentives are meant for human authors. This is a summary of one report and not a prediction of how courts will rule; ask an IP attorney about assets that matter to your business.
 
+**Related reading:** [DMCA Takedown Notice: How to Send One and How to Respond (Small Business Guide)](/blog/dmca-takedown-notice-how-to-send-and-respond-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

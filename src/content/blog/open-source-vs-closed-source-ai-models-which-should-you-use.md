@@ -91,6 +91,8 @@ Model names and rankings change every few weeks, so we deliberately do not name 
 
 **Handle it yourself vs get an attorney.** Choosing a model for low-risk drafting is a reasonable solo decision. Get an attorney to look when the output will be signed, filed or sent to a counterparty, when a license or vendor agreement has terms you do not understand, or when regulated personal data is involved.
 
+**Related reading:** [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

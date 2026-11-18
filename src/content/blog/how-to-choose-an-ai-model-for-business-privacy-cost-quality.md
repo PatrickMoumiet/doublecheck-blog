@@ -86,6 +86,8 @@ Questions to ask any vendor: Is customer content used for training? How long is 
 
 For a side-by-side of the big hosted brands for legal tasks, see [ChatGPT vs Claude vs Gemini for legal work](/blog/chatgpt-vs-claude-vs-gemini-legal-work/). For broader context on the open-versus-closed trade-offs, see [open-source vs closed-source AI models](/blog/open-source-vs-closed-source-ai-models-which-should-you-use/). Write your choice down: model, plan, data allowed, and reviewer. A one-page policy is easier to follow, and easier to show a client or investor.
 
+**Related reading:** [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [AI Vendor Data Retention and Training Opt-Outs: What to Check in Settings](/blog/ai-vendor-data-retention-and-training-opt-outs-what-to-check-in-settings/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

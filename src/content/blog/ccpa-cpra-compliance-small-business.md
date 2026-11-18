@@ -80,6 +80,8 @@ The AG notes that for most violations only the Attorney General or the CPPA can 
 
 Next steps: confirm whether you meet a threshold, write a privacy policy that matches your practices ([AI privacy policy guide](/blog/ai-write-privacy-policy/), [privacy policy generators](/blog/privacy-policy-generator-small-business/)), review vendor and AI tool terms ([AI vendor contract checklist](/blog/ai-vendor-contract-checklist/)), and pair this with solid [website terms](/blog/website-terms-of-service-saas-startups/).
 
+**Related reading:** [CAN-SPAM Act Email Marketing Rules for Small Business: What You Must Do](/blog/can-spam-act-email-marketing-small-business-rules/); [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/); [HIPAA for Small Business: When It Applies and the Basics](/blog/hipaa-small-business-when-it-applies-and-basics/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

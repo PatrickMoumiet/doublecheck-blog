@@ -77,6 +77,8 @@ These are maximums. Authorities must weigh factors such as intent, steps taken t
 
 Practical next steps: decide honestly whether you target the EU, write a privacy notice that matches what you do ([how to write a privacy policy with AI](/blog/ai-write-privacy-policy/), [privacy policy generators](/blog/privacy-policy-generator-small-business/)), sign data processing terms with vendors, and compare with California's rules in our [CCPA/CPRA guide](/blog/ccpa-cpra-compliance-small-business/). Pair this with solid [website terms](/blog/website-terms-of-service-saas-startups/).
 
+**Related reading:** [CAN-SPAM Act Email Marketing Rules for Small Business: What You Must Do](/blog/can-spam-act-email-marketing-small-business-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -87,7 +87,7 @@ A small-business prep list:
 
 The first call after a real incident should be to an attorney.
 
-**Related reading:** [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
+**Related reading:** [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/); [HIPAA for Small Business: When It Applies and the Basics](/blog/hipaa-small-business-when-it-applies-and-basics/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
 
 ## Where DoubleCheck fits
 

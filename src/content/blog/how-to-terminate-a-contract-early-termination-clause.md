@@ -74,7 +74,7 @@ Before you send notice:
 4. Keep performing what you owe until termination takes effect.
 5. Have an attorney review a high-value termination notice. AI can summarize the clause and draft a notice for you to verify; see [AI contract review for small business](/blog/ai-contract-review-small-business/) and [contract red flags](/blog/contract-red-flags-small-business/).
 
-**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/)
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
 
 ## Where DoubleCheck fits
 

@@ -119,6 +119,8 @@ Contract lawyers spend significant time negotiating repetitive commercial terms,
 
 That is a very different workflow, and one reason verification matters more, not less. See [how business owners use AI for legal work](/blog/business-owner-ai-legal-work/).
 
+**Related reading:** [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/)
+
 ## Where DoubleCheck fits
 
 If an AI agent negotiated a contract for your business, ask one final question before signing: **what exactly did it agree to?** Bring the resulting agreement, examine the terms, identify changes and potential issues, and decide what deserves professional review. Our guide to [verifying an AI-generated legal document](/blog/verify-ai-generated-legal-document/) gives the method.

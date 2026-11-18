@@ -84,7 +84,7 @@ Questions to ask before you send:
 
 **Handle it yourself vs. get an attorney.** A simple, low-stakes document may need only a quick check. For anything that binds you for years, involves equity, IP, employment or immigration, or where you cannot confirm a source, send the package. Also see [how to prepare for a first meeting with a startup lawyer](/blog/how-to-prepare-for-first-meeting-with-startup-lawyer/) and [lawyer review of a ChatGPT contract](/blog/lawyer-review-chatgpt-contract/).
 
-**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/)
 
 ## Where DoubleCheck fits
 

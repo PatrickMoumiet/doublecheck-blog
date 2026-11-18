@@ -91,6 +91,8 @@ Checklist for a small business:
 
 For handling a bad review you think is false, read [online reviews and defamation](/blog/online-reviews-defamation-what-business-can-do/). If a regulator or competitor writes to you, see [how to respond to a cease and desist letter](/blog/how-to-respond-cease-and-desist-letter/). Subscription marketing has its own rules in [FTC click-to-cancel rules for SaaS](/blog/ftc-click-to-cancel-subscription-rules-saas/).
 
+**Related reading:** [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

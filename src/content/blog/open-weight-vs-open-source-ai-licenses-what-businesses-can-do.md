@@ -88,6 +88,8 @@ Also consider:
 
 If a license affects your product, your customer contracts or your fundraising diligence, that is a reasonable point to have an attorney read it. AI can summarize a license quickly, but it can misstate conditions, so check the summary against the text.
 
+**Related reading:** [Open Source License Compliance for Startups: MIT, GPL, Apache and What to Check](/blog/open-source-license-compliance-startups-mit-gpl-apache-what-to-check/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -75,7 +75,7 @@ Practical steps, drawn from Aaron Hall and Barclay Damon:
 
 Related reading: [how to terminate a contract early](/blog/how-to-terminate-a-contract-early-termination-clause/), [contract red flags](/blog/contract-red-flags-small-business/), the [AI vendor contract checklist](/blog/ai-vendor-contract-checklist/), and [what makes a contract binding](/blog/what-makes-a-contract-legally-binding/).
 
-**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/)
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/); [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/); [CAN-SPAM Act Email Marketing Rules for Small Business: What You Must Do](/blog/can-spam-act-email-marketing-small-business-rules/)
 
 ## Where DoubleCheck fits
 

@@ -86,6 +86,8 @@ The opposite case needs more caution. When both models agree, that is weaker evi
 
 **Handle it yourself vs. get an attorney.** Low-value, standard documents with reversible terms may be fine to review yourself with this method. Get an attorney to look when the contract is large, long-term, has uncapped liability, covers IP or equity, or when the two models disagree on something that matters.
 
+**Related reading:** [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

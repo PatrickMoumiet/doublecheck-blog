@@ -77,7 +77,7 @@ A valid-in-principle signature can still be challenged. Per Troutman, courts gen
 
 Our own practical suggestions: keep the signed PDF and the audit trail together, and make sure the person signing has authority for the company. For which terms to read first, see [contract red flags](/blog/contract-red-flags-small-business/) and [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/). For freelance and customer agreements, see [how to write a freelance contract](/blog/how-to-write-a-freelance-contract/) and [reviewing customer contract redlines](/blog/review-customer-contract-redlines/).
 
-**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/)
 
 ## Where DoubleCheck fits
 

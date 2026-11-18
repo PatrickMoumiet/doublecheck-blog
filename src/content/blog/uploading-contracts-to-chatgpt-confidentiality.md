@@ -76,7 +76,7 @@ Before you upload a contract, run this short routine:
 
 Companies can formalize this in an [AI policy for small businesses](/blog/ai-policy-template-small-business/). After the summary, verify it using [3 checks for ChatGPT and Claude legal work](/blog/chatgpt-claude-legal-work-3-checks/), and see [the 7 things to know about AI legal documents](/blog/ai-legal-documents-7-things-to-know/) and [AI contract review for small business](/blog/ai-contract-review-small-business/). Where a contract is high-stakes or the confidentiality question is unclear, [a lawyer's review of your AI output](/blog/lawyer-review-chatgpt-contract/) is the safer step.
 
-**Related reading:** [Workplace Investigation Complaint: How Employers Should Respond](/blog/workplace-investigation-complaint-how-employers-should-respond/)
+**Related reading:** [Workplace Investigation Complaint: How Employers Should Respond](/blog/workplace-investigation-complaint-how-employers-should-respond/); [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/); [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/)
 
 ## Where DoubleCheck fits
 

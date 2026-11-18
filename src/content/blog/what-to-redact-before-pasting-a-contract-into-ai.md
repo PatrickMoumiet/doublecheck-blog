@@ -87,6 +87,8 @@ This is general information, and the rules depend on your location and the data 
 
 **Handle it yourself vs. get an attorney.** Redacting a template or your own simple draft is a reasonable DIY step. If the contract holds other people's personal data, is under an NDA, or involves regulated data (health, financial, children), ask an attorney how to handle it before it goes into any AI tool. See [small business AI legal work safely](/blog/small-business-ai-legal-work-safely/).
 
+**Related reading:** [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [Negotiate a Contract With AI: Redline Workflow and What to Verify](/blog/negotiate-a-contract-with-ai-redline-workflow-and-what-to-verify/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

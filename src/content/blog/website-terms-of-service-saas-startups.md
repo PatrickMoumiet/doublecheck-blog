@@ -73,6 +73,8 @@ Practical setup: use a clickwrap at signup and checkout, link the terms and priv
 
 ![Clickwrap, sign-in-wrap, and browsewrap compared](/images/website-terms-of-service-saas-startups/cols.webp)
 
+**Related reading:** [DMCA Takedown Notice: How to Send One and How to Respond (Small Business Guide)](/blog/dmca-takedown-notice-how-to-send-and-respond-small-business/); [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

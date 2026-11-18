@@ -98,6 +98,8 @@ Using AI to understand a general concept, draft a first version of a routine doc
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
+**Related reading:** [AI Vendor Data Retention and Training Opt-Outs: What to Check in Settings](/blog/ai-vendor-data-retention-and-training-opt-outs-what-to-check-in-settings/)
+
 **Sources:** [Orrick: Court Rules AI Conversations Are Not Privileged](https://www.orrick.com/Insights/2026/03/Court-Rules-AI-Conversations-Are-Not-Privileged-What-United-States-v-Heppner-Means-for-You); [Lawfare: AI and Privilege After United States v. Heppner](https://www.lawfaremedia.org/article/ai-and-privilege-after-united-states-v.-heppner).
 
 ## FAQ

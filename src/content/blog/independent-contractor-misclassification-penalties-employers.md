@@ -95,6 +95,8 @@ Run this review now, not after a worker files for unemployment or a claim lands.
 
 Use a written agreement for genuine contractors; see [what to include in an independent contractor agreement](/blog/independent-contractor-agreement-what-to-include/). Hiring your first employee instead? Start with the [first employee legal checklist](/blog/how-to-hire-first-employee-legal-checklist/) and [state payroll tax registration](/blog/register-for-state-payroll-taxes-new-employer/). If you ask AI to classify a worker, [verify the output](/blog/verify-ai-generated-legal-document/), and consider [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
+**Related reading:** [Work for Hire vs Assignment: Designer or Developer, Who Owns the IP?](/blog/work-for-hire-vs-assignment-designer-developer-who-owns-the-ip/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

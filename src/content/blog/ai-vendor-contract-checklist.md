@@ -143,6 +143,8 @@ Before signing, make sure you can answer seven questions:
 
 If you cannot answer one of them, investigate before deploying the tool with sensitive company information. Put the internal rules in writing too, with our [AI policy template](/blog/ai-policy-template-small-business/).
 
+**Related reading:** [Open Source License Compliance for Startups: MIT, GPL, Apache and What to Check](/blog/open-source-license-compliance-startups-mit-gpl-apache-what-to-check/); [CAN-SPAM Act Email Marketing Rules for Small Business: What You Must Do](/blog/can-spam-act-email-marketing-small-business-rules/); [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/)
+
 ## Where DoubleCheck fits
 
 You can use AI to review the contract, but then you are using AI to tell you whether another AI company's legal terms are acceptable. That is where verification becomes valuable. Bring the vendor agreement, use AI to identify the important provisions, examine relevant sources, and surface questions that deserve attention. If the vendor will access valuable data, operate important systems, or create significant contractual exposure, you can then move it to an independent attorney. You build on top of the AI work instead of throwing it away.

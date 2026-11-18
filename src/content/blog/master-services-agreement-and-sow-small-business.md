@@ -87,7 +87,7 @@ When you are the customer or the vendor, read these first:
 
 Our [contract red flags](/blog/contract-red-flags-small-business/) and [vendor contract checklist](/blog/ai-vendor-contract-checklist/) walk through more of these, and if a customer sends you their paper, see [reviewing customer redlines](/blog/review-customer-contract-redlines/). AI can summarize terms and flag unusual clauses quickly. Whether a liability cap or IP clause is acceptable for your business is a judgment call that an independent attorney can help with, particularly for large or long contracts. This is general information, not legal advice.
 
-**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Entire Agreement (Merger) Clause Explained: What It Wipes Out](/blog/entire-agreement-merger-clause-explained-what-it-wipes-out/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/)
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Entire Agreement (Merger) Clause Explained: What It Wipes Out](/blog/entire-agreement-merger-clause-explained-what-it-wipes-out/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
 
 ## Where DoubleCheck fits
 

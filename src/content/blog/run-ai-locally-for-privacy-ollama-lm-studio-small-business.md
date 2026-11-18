@@ -80,6 +80,8 @@ Many businesses mix both: local for the most sensitive drafts, hosted for everyt
 
 **Handle it yourself vs get an attorney.** Installing a tool and testing it on non-sensitive text is a fine solo project. Get an attorney to look when the output will be signed or sent to others, when you handle regulated personal data (see [state privacy laws](/blog/state-privacy-laws-2027-small-business-checklist/)), or when contract or license terms are unclear.
 
+**Related reading:** [AI Contract Review Prompts: What to Ask and What to Verify](/blog/ai-contract-review-prompts-what-to-ask-and-what-to-verify/); [AI Vendor Data Retention and Training Opt-Outs: What to Check in Settings](/blog/ai-vendor-data-retention-and-training-opt-outs-what-to-check-in-settings/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -93,6 +93,8 @@ If personal data leaves the EEA, the DPA should include or reference a transfer 
 
 Pair this with the [AI vendor contract checklist](/blog/ai-vendor-contract-checklist/), the [state privacy laws checklist](/blog/state-privacy-laws-2027-small-business-checklist/), and the guide on [uploading contracts to ChatGPT and confidentiality](/blog/uploading-contracts-to-chatgpt-confidentiality/). For a broader approach, see [using AI for legal work safely](/blog/small-business-ai-legal-work-safely/).
 
+**Related reading:** [TCPA Text Message Marketing Consent: What Small Businesses Need to Know](/blog/tcpa-text-message-marketing-consent-small-business/); [HIPAA for Small Business: When It Applies and the Basics](/blog/hipaa-small-business-when-it-applies-and-basics/); [Software License Agreement vs SaaS Agreement: Key Differences](/blog/software-license-agreement-vs-saas-agreement-differences/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

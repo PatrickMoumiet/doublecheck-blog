@@ -81,7 +81,7 @@ A handbook is a promise you will be held to.
 
 Business Management Daily recommends consulting an employment attorney before finalizing. AI can produce a first draft quickly, but do not publish it without checking each rule against your state and your actual practice. See [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/). This is general information, not legal advice.
 
-**Related reading:** [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/); [Paid Sick Leave Laws by State for Small Business Employers in 2026](/blog/paid-sick-leave-laws-by-state-small-business-2026/)
+**Related reading:** [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/); [Paid Sick Leave Laws by State for Small Business Employers in 2026](/blog/paid-sick-leave-laws-by-state-small-business-2026/); [HIPAA for Small Business: When It Applies and the Basics](/blog/hipaa-small-business-when-it-applies-and-basics/)
 
 ## Where DoubleCheck fits
 

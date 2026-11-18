@@ -80,6 +80,8 @@ Per the Copyright Office's [Circular 4 on fees](https://www.copyright.gov/circs/
 
 If a work is being copied now, the options turn on your registration status and dates, which is a good moment to talk to an IP attorney.
 
+**Related reading:** [DMCA Takedown Notice: How to Send One and How to Respond (Small Business Guide)](/blog/dmca-takedown-notice-how-to-send-and-respond-small-business/); [Work for Hire vs Assignment: Designer or Developer, Who Owns the IP?](/blog/work-for-hire-vs-assignment-designer-developer-who-owns-the-ip/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

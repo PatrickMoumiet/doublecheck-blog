@@ -141,6 +141,8 @@ If you receive a cease-and-desist letter:
 
 AI can make steps three through six much faster. But the more serious the dispute, the less you should rely on an AI-generated response without professional judgment.
 
+**Related reading:** [DMCA Takedown Notice: How to Send One and How to Respond (Small Business Guide)](/blog/dmca-takedown-notice-how-to-send-and-respond-small-business/)
+
 ## Where DoubleCheck fits
 
 You can bring an existing cease-and-desist or demand letter into an AI-assisted workflow instead of starting from zero: use AI to understand the document, identify the allegations, organize the facts, and surface questions, then verify the important parts. If the matter warrants professional advice, DoubleCheck provides a path to independent attorneys.
