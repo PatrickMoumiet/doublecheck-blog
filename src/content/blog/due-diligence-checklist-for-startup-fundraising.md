@@ -81,6 +81,8 @@ For a deeper line-by-line view, see our [Series A legal due diligence checklist]
 
 **Practical tips.** Disclose known gaps early with a plan to fix them. Use consistent file names, NDA gates, and access controls. Fix problems before they are discovered, and make sure your [SAFE or convertible note terms](/blog/safe-review-before-you-sign/) are reflected in the cap table. If you are weighing instruments, see [SAFE vs. convertible note](/blog/safe-vs-convertible-note-startups/) and [startup funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/).
 
+**Related reading:** [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

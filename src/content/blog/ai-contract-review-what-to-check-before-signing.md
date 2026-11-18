@@ -78,6 +78,8 @@ ABA Formal Opinion 512 says lawyers must assess the risk that others could acces
 
 **Why attorney verification matters.** AI can be wrong, can miss context, and does not owe you professional duties. A licensed attorney can confirm what the clauses mean in your state, tell you which to negotiate, and take responsibility for the advice. Use AI to get organized, then [lawyer-review your AI-assisted contract](/blog/lawyer-review-chatgpt-contract/) when the money or risk is meaningful, and see [verifying AI-generated legal documents](/blog/verify-ai-generated-legal-document/).
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Entire Agreement (Merger) Clause Explained: What It Wipes Out](/blog/entire-agreement-merger-clause-explained-what-it-wipes-out/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

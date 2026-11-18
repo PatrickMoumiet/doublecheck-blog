@@ -68,6 +68,8 @@ Ruul's guide lists clauses that support contractor status: a statement of indepe
 
 In practice, avoid set working hours, mandatory company events, and step-by-step instructions, and manage by deliverables. Read [employee vs. independent contractor classification](/blog/employee-vs-independent-contractor-classification-startups/) before you sign. Also add a governing-law and dispute path (negotiation, mediation, then arbitration or court), and review agreements annually. If the contractor works outside the U.S., see [hiring international workers](/blog/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/).
 
+**Related reading:** [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [Late Payment Fees and Net 30 Payment Terms: How to Write the Clause for Your Small Business](/blog/late-payment-fees-net-30-payment-terms-clause-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

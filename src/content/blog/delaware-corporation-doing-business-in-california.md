@@ -71,6 +71,8 @@ FTB states the **$800 minimum franchise tax** applies to corporations incorporat
 
 Use the list to decide what to ask your accountant and lawyer. Ask who on your team owns each deadline.
 
+**Related reading:** [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

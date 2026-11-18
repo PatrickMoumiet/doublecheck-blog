@@ -79,6 +79,8 @@ Build to the strictest state you sell into, since you usually cannot tell which 
 
 Subscription flows also collect personal data, so read the [state privacy law checklist for 2027](/blog/state-privacy-laws-2027-small-business-checklist/) and [CCPA/CPRA compliance for small businesses](/blog/ccpa-cpra-compliance-small-business/). For flow and wording review before launch, [using AI to review a contract](/blog/ai-contract-review-what-to-check-before-signing/) is a reasonable first pass, followed by an attorney for the final call.
 
+**Related reading:** [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

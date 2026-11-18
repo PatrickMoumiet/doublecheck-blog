@@ -158,6 +158,8 @@ Before hiring someone, make sure you can answer:
 
 You do not necessarily need the most famous attorney. You need someone appropriate for the problem you actually have.
 
+**Related reading:** [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/)
+
 ## Where DoubleCheck fits
 
 A warm referral from someone you trust is a great way to start, but not everyone has the right lawyer in their network. DoubleCheck gives people another path: begin with the legal issue or AI-generated work you already have, clarify the matter, and connect with independent attorneys whose practice areas are relevant. Then apply the same standards you would use with any attorney: **relevant experience, jurisdiction, scope, communication, cost, and fit.**

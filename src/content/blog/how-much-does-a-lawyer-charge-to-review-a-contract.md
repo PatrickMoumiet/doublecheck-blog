@@ -77,6 +77,8 @@ You can often reduce cost by narrowing what the lawyer has to do, not by skippin
 - **Use AI to prepare, not to replace.** An AI summary can help you write sharper questions, but it can miss things or invent them. Read [how a lawyer can review a ChatGPT-reviewed contract](/blog/lawyer-review-chatgpt-contract/) and [how to save money on legal work with AI](/blog/save-money-legal-work-with-ai/).
 - **Match the lawyer to the stakes.** A routine vendor form and a long-term exclusive deal do not need the same level of review. If you are unsure, see [when to hire a lawyer for a small business](/blog/when-to-hire-lawyer-small-business/) and [how to choose a good lawyer](/blog/how-to-choose-good-lawyer/).
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -79,6 +79,8 @@ Using Harris County, Texas justice court as a worked example from its [filing gu
 
 That Texas page does not describe enforcing a judgment (such as garnishment or liens), so ask the court clerk or an attorney how collection works in your state. A win on paper is not payment. Also see [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/) for larger or contested claims.
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

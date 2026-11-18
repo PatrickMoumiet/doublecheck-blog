@@ -84,6 +84,8 @@ Questions to ask before you send:
 
 **Handle it yourself vs. get an attorney.** A simple, low-stakes document may need only a quick check. For anything that binds you for years, involves equity, IP, employment or immigration, or where you cannot confirm a source, send the package. Also see [how to prepare for a first meeting with a startup lawyer](/blog/how-to-prepare-for-first-meeting-with-startup-lawyer/) and [lawyer review of a ChatGPT contract](/blog/lawyer-review-chatgpt-contract/).
 
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

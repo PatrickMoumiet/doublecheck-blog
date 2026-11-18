@@ -79,6 +79,8 @@ Then compare the promise to your policies. Promise Legal warns that mismatches b
 
 Next steps: read the sibling post on the [limitation of liability clause](/blog/limitation-of-liability-clause-explained/), run through [contract red flags](/blog/contract-red-flags-small-business/), and use the [AI vendor contract checklist](/blog/ai-vendor-contract-checklist/) if the counterparty is an AI vendor. For high-stakes deals, have an attorney review the clause ([what review costs](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/)).
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

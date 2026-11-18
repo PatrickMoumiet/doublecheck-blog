@@ -80,6 +80,8 @@ Venable's practical warnings:
 
 Force majeure rarely stands alone. Compare it with the [termination clause](/blog/how-to-terminate-a-contract-early-termination-clause/), the [limitation of liability clause](/blog/limitation-of-liability-clause-explained/), and our [contract red flags](/blog/contract-red-flags-small-business/). If the other side is the one invoking it on your order, see the [master services agreement and SOW](/blog/master-services-agreement-and-sow-small-business/) guide for how performance obligations are structured, and consider [attorney review](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/) before a high-value dispute.
 
+**Related reading:** [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

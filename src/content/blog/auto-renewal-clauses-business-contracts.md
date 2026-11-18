@@ -75,6 +75,8 @@ Practical steps, drawn from Aaron Hall and Barclay Damon:
 
 Related reading: [how to terminate a contract early](/blog/how-to-terminate-a-contract-early-termination-clause/), [contract red flags](/blog/contract-red-flags-small-business/), the [AI vendor contract checklist](/blog/ai-vendor-contract-checklist/), and [what makes a contract binding](/blog/what-makes-a-contract-legally-binding/).
 
+**Related reading:** [Contract Amendment vs New Contract: How to Change a Signed Agreement](/blog/contract-amendment-vs-new-contract-how-to-change-a-signed-agreement/); [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [How to Void or Cancel a Contract: Grounds and Limits for Small Businesses](/blog/how-to-void-or-cancel-a-contract-grounds-and-limits/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

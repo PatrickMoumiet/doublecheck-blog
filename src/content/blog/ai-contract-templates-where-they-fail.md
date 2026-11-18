@@ -86,6 +86,8 @@ Templates are reasonable for low-stakes, standard paperwork where you understand
 
 When a lawyer reviews your AI draft, bring the facts, your goals, and the questions your own checks raised. Tell them the document came from AI. Our guides on [lawyer review of a ChatGPT contract](/blog/lawyer-review-chatgpt-contract/), [what review costs](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/), and [verifying an AI-generated legal document](/blog/verify-ai-generated-legal-document/) walk through the process. For the bigger picture, read [7 things to know about AI legal documents](/blog/ai-legal-documents-7-things-to-know/).
 
+**Related reading:** [Late Payment Fees and Net 30 Payment Terms: How to Write the Clause for Your Small Business](/blog/late-payment-fees-net-30-payment-terms-clause-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -74,6 +74,8 @@ Before you send notice:
 4. Keep performing what you owe until termination takes effect.
 5. Have an attorney review a high-value termination notice. AI can summarize the clause and draft a notice for you to verify; see [AI contract review for small business](/blog/ai-contract-review-small-business/) and [contract red flags](/blog/contract-red-flags-small-business/).
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

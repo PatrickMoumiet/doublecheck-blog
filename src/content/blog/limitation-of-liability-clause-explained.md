@@ -85,6 +85,8 @@ Pair this with the checklists in [contract red flags for small business](/blog/c
 
 AI can flag the cap and carve-outs in a long contract (see [AI contract review for small business](/blog/ai-contract-review-small-business/)), but whether it is enforceable depends on your state and facts; an independent attorney can advise. See [lawyer review of a ChatGPT contract](/blog/lawyer-review-chatgpt-contract/).
 
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

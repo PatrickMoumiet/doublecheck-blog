@@ -81,6 +81,8 @@ You do not need to cancel a deal because it started on a call. Turn it into a re
 
 An AI tool can draft a confirming message or a one-page agreement from your notes, which you should then verify. See [AI contract review for small business](/blog/ai-contract-review-small-business/) and [lawyer review of a ChatGPT contract](/blog/lawyer-review-chatgpt-contract/).
 
+**Related reading:** [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/); [Entire Agreement (Merger) Clause Explained: What It Wipes Out](/blog/entire-agreement-merger-clause-explained-what-it-wipes-out/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

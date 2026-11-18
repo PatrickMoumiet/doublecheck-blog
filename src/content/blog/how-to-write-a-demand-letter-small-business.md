@@ -76,6 +76,8 @@ Also check your contract's notice clause. Terms.law says many contracts specify 
 
 **If they do not respond,** the next step is often small claims for smaller amounts; see [how to collect unpaid invoices in small claims](/blog/how-to-collect-unpaid-invoices-small-claims/). If you are the one who received a letter, read [how to respond to a cease and desist letter](/blog/how-to-respond-cease-and-desist-letter/) and [what to do if your business is served a lawsuit](/blog/what-to-do-if-your-small-business-is-served-a-lawsuit/). Check your contract for notice and cure terms first, and see [contract red flags](/blog/contract-red-flags-small-business/) for clauses that change your options.
 
+**Related reading:** [Breach of Contract Remedies: What You Can Recover as a Small Business](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/); [Late Payment Fees and Net 30 Payment Terms: How to Write the Clause for Your Small Business](/blog/late-payment-fees-net-30-payment-terms-clause-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
