@@ -65,7 +65,7 @@ Terms.law says a founders agreement should cover roles, decision-making authorit
 
 Common failure points: a split decided on a handshake, no vesting, a 50/50 split with no deadlock plan, and equity promised but never documented. Investors will later ask for the documents, so see the [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/). Also see [cap table basics](/blog/cap-table-basics-for-first-time-founders/) to see how your split looks after a round.
 
-**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
 
 ## Where DoubleCheck fits
 

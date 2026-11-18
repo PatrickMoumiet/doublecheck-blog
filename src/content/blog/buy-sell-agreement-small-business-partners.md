@@ -78,7 +78,7 @@ Common mistakes flagged by Bay Legal and Belfint: copying a generic trigger list
 
 SVA stresses these agreements are not do-it-yourself projects. For a sale of the whole business, see [how to buy or sell a small business](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/). To decide when professional help is worth it, read [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
-**Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+**Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/)
 
 ## Where DoubleCheck fits
 

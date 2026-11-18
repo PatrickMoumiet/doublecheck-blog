@@ -74,7 +74,7 @@ Costs after conversion include Delaware annual report and franchise tax, per Rho
 
 Rho recommends counsel when members have different economics, there are outstanding profits interests or convertible instruments, or the conversion is tied to a financing, as is an out-of-state LLC. An AI tool can help you list what to gather and what to ask, but the tax analysis and filings need a lawyer and a CPA.
 
-**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Startup LLC operating agreement clauses](/blog/startup-llc-operating-agreement-clauses-investors-vesting-and-conversion/)
+**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Startup LLC operating agreement clauses](/blog/startup-llc-operating-agreement-clauses-investors-vesting-and-conversion/); [Reg CF Equity Crowdfunding for Startups: Legal Basics Founders Need](/blog/reg-cf-equity-crowdfunding-startups-legal-basics/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
 
 ## Where DoubleCheck fits
 

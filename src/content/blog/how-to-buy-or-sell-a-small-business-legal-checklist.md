@@ -72,7 +72,7 @@ Buyers tend to prefer asset deals for liability selection and tax basis; stock d
 
 **SBA financing basics.** If the buyer uses an SBA 7(a) loan, per a July 2026 Beancount summary, SBA SOP 50 10 8 took effect June 1, 2025: a minimum 10% equity injection for a change of ownership, seller notes counting toward up to 50% of that injection if on full standby, and no phased ownership transitions. SBA rules change, so confirm with an SBA lender.
 
-**Related reading:** [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/)
+**Related reading:** [Assignment Clause Explained: Can Your Contract Be Transferred?](/blog/assignment-clause-explained-can-your-contract-be-transferred/); [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/); [Earnout Clauses Explained: Selling a Small Business](/blog/earnout-clauses-explained-selling-a-small-business/)
 
 ## Where DoubleCheck fits
 

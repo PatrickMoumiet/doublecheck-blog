@@ -104,6 +104,8 @@ Use this list on any contract you sign, and again before any sale or major vendo
 
 **Self-handle or get an attorney?** For a routine vendor agreement you can use the list above and an AI first pass to flag the clause. Before a sale of your company, a financing, or any contract that is critical to revenue, have an attorney confirm what the wording does under your governing law. See [AI contract review: what to check before signing](/blog/ai-contract-review-what-to-check-before-signing/). Rules and case law vary by state as of November 2026.
 
+**Related reading:** [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

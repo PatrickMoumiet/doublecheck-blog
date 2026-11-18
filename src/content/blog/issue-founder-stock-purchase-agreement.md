@@ -77,7 +77,7 @@ A sensible order:
 
 Also align with your [co-founder agreement](/blog/co-founder-agreement-startups/), and if QSBS matters, read [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/). Have a startup attorney tailor the documents to your situation.
 
-**Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+**Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/); [Cap Table Cleanup Before Series A: Common Problems and How to Fix Them](/blog/cap-table-cleanup-before-series-a-common-problems/)
 
 ## Where DoubleCheck fits
 

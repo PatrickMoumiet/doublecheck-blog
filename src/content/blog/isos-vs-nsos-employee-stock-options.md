@@ -83,7 +83,7 @@ For founders issuing options:
 
 For employees: before exercising, model the AMT, the cash you need, and your 3-month window with a tax professional. If you plan to exercise early, read about the [83(b) election](/blog/83b-election-startup-founders/). If the company might qualify, see [QSBS](/blog/qsbs-section-1202-explained-startup-founders/). Neither this article nor DoubleCheck gives tax advice.
 
-**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
 
 ## Where DoubleCheck fits
 

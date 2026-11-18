@@ -72,7 +72,7 @@ Before you sign:
 - Model your ownership under the pool and the preference, not only the headline valuation (Fieldfisher lists focusing on valuation alone as a pitfall).
 - Have counsel review the term sheet, and prepare for diligence: [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/), [Series A diligence](/blog/series-a-legal-due-diligence-checklist/).
 
-**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
 
 ## Where DoubleCheck fits
 

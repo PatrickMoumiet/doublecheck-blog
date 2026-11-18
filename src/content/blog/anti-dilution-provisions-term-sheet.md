@@ -80,6 +80,8 @@ Why it matters beyond the math: the extra shares come out of common holders' sha
 
 An attorney can read the actual charter definitions, which control over any summary.
 
+**Related reading:** [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

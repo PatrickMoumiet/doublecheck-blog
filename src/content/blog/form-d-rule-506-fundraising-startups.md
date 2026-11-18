@@ -78,6 +78,8 @@ Daeryun Law adds that the first sale generally occurs when an investor becomes i
 
 For terms on a priced round, read [term sheet key terms](/blog/term-sheet-key-terms-explained/), and for the stage context, [funding stages from pre-seed to Series B](/blog/startup-funding-stages-pre-seed-to-series-b/). Securities law is technical and a late or missing filing can matter, so have a securities attorney review your approach. This article is general information, not securities advice.
 
+**Related reading:** [Reg CF Equity Crowdfunding for Startups: Legal Basics Founders Need](/blog/reg-cf-equity-crowdfunding-startups-legal-basics/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/); [Valuation Cap vs Discount on a SAFE: How They Work Together](/blog/valuation-cap-vs-discount-safe-how-they-work-together/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

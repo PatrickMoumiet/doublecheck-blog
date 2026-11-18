@@ -73,7 +73,7 @@ Cooley cautions that significant redemptions, reorganizations, or conversions ca
 
 Because QSBS requires a C corporation, an LLC taxed as a partnership is not eligible. Read [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/) and [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/).
 
-**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/); [QSBS exit checklist](/blog/qsbs-exit-checklist-what-to-verify-before-you-sell-your-stock/)
+**Related reading:** [QSBS documentation to keep](/blog/qsbs-documentation-what-founders-should-keep-for-the-holding-period/); [QSBS exit checklist](/blog/qsbs-exit-checklist-what-to-verify-before-you-sell-your-stock/); [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
 
 ## Where DoubleCheck fits
 

@@ -73,7 +73,7 @@ Clauses worth including, per Cake Equity: clear scope and expectations, the type
 
 Also expect questions later: advisor grants appear on your [cap table](/blog/cap-table-basics-for-first-time-founders/) and in [fundraising diligence](/blog/due-diligence-checklist-for-startup-fundraising/). Cap them, because each grant dilutes [founder equity](/blog/founder-equity-split-how-to-divide/).
 
-**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
 
 ## Where DoubleCheck fits
 

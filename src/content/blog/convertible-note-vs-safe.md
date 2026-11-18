@@ -77,6 +77,8 @@ There is no universally better instrument. Use this order of questions:
 
 Always model total dilution from every note and SAFE together, because conversion happens at the same priced round. A [term sheet](/blog/term-sheet-key-terms-explained/) for that round will set the new price, and a [cap table](/blog/cap-table-basics-for-first-time-founders/) shows the combined result. If an instrument departs from the standard form, review it before you sign ([SAFE review checklist](/blog/safe-review-before-you-sign/)).
 
+**Related reading:** [Valuation Cap vs Discount on a SAFE: How They Work Together](/blog/valuation-cap-vs-discount-safe-how-they-work-together/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

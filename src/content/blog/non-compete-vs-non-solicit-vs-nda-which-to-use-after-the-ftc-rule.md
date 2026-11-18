@@ -90,7 +90,7 @@ California is the classic ban state. Pearl Cohen reported in November 2020 that 
 
 **Handle it yourself vs. get an attorney.** A standard NDA and IP assignment for a simple hire may be a reasonable DIY step with a verified template. Anything with a non-compete, a worker in more than one state, or a senior hire is worth an attorney's look, because enforceability depends on state law and the facts.
 
-**Related reading:** [FTC noncompete ban: what employees should do](/blog/ftc-noncompete-ban-what-employees-should-do-now-to-check-their-own-noncompete/); [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/)
+**Related reading:** [FTC noncompete ban: what employees should do](/blog/ftc-noncompete-ban-what-employees-should-do-now-to-check-their-own-noncompete/); [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/); [Earnout Clauses Explained: Selling a Small Business](/blog/earnout-clauses-explained-selling-a-small-business/)
 
 ## Where DoubleCheck fits
 

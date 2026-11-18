@@ -88,6 +88,8 @@ Drafting practices recommended by Heritage Law and JD Supra:
 
 AI can draft a first version and flag inconsistent labels, but a human with deal experience should check what binds you. Pair this with the [buy or sell a small business checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/), the [NDA guide](/blog/how-to-write-an-nda-startups/) for the confidentiality piece, [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/), and [term sheet key terms](/blog/term-sheet-key-terms-explained/) for startup financings. See also [attorney review costs](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/).
 
+**Related reading:** [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/); [Earnout Clauses Explained: Selling a Small Business](/blog/earnout-clauses-explained-selling-a-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

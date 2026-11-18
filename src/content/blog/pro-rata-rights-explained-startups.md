@@ -83,7 +83,7 @@ Treat pro rata as something you grant deliberately, round by round, not a defaul
 
 An attorney can check that the defined terms (major investor, offer notice, waiver) match what you negotiated.
 
-**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/); [Side Letters with Startup Investors: What They Grant](/blog/side-letters-startup-investors-what-they-grant/); [Valuation Cap vs Discount on a SAFE: How They Work Together](/blog/valuation-cap-vs-discount-safe-how-they-work-together/)
 
 ## Where DoubleCheck fits
 

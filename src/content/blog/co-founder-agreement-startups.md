@@ -153,7 +153,7 @@ AI is useful for getting organized. A practical approach:
 
 Remember that founders' interests are not identical. The person drafting is not automatically looking out for everyone, so consider whether each founder should have independent advice before signing. Equity, vesting, and IP are the kind of issues where an attorney's review can matter most.
 
-**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/)
 
 ## Where DoubleCheck fits
 

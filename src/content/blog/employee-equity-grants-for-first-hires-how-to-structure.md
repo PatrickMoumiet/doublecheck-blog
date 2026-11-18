@@ -91,6 +91,8 @@ Before you offer equity to your first hire:
 
 Hiring is also a payroll and classification decision; read the [first employee legal checklist](/blog/how-to-hire-first-employee-legal-checklist/) and [employee vs. independent contractor classification](/blog/employee-vs-independent-contractor-classification-startups/). Equity for advisors follows different rules: see [advisor agreements](/blog/advisor-agreement-equity-startups/). If AI drafts your grant documents, [verify them](/blog/verify-ai-generated-legal-document/) and consider an attorney review.
 
+**Related reading:** [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

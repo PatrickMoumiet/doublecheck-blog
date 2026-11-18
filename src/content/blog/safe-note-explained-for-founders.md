@@ -73,6 +73,8 @@ Numbers below are our own arithmetic on hypothetical terms, using the YC guide's
 
 The lesson from Wilson Sonsini's analysis of the post-money form: every additional dollar raised on a fixed post-money cap dilutes founders, so model the total you plan to raise before you sign. The older pre-money form, which excluded other SAFEs from the cap calculation, is described by [Terms.law](https://terms.law/Invest-USA/startup-investing/safe-agreements.html) as a legacy form. Also compare with [priced-round terms](/blog/term-sheet-key-terms-explained/) and the [funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/).
 
+**Related reading:** [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Reg CF Equity Crowdfunding for Startups: Legal Basics Founders Need](/blog/reg-cf-equity-crowdfunding-startups-legal-basics/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

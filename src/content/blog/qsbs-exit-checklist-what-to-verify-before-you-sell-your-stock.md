@@ -109,6 +109,8 @@ Put the roles in writing before signing a letter of intent.
 
 ![Five steps to coordinate a QSBS sale with a CPA and attorney](/images/qsbs-exit-checklist-what-to-verify-before-you-sell-your-stock/steps.webp)
 
+**Related reading:** [Earnout Clauses Explained: Selling a Small Business](/blog/earnout-clauses-explained-selling-a-small-business/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

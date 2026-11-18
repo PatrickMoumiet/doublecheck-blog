@@ -82,7 +82,7 @@ Colovic adds two checks: percentages must total 100%, and you must know whether 
 
 Each financing adds a row: [funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/) lays out the sequence, and investors will check your records in diligence ([due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/)). Keep the table matched to your stock ledger, board approvals, and signed agreements.
 
-**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Reg CF Equity Crowdfunding for Startups: Legal Basics Founders Need](/blog/reg-cf-equity-crowdfunding-startups-legal-basics/)
 
 ## Where DoubleCheck fits
 

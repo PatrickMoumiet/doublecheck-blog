@@ -123,6 +123,8 @@ You can reasonably handle a short, low-stakes agreement yourself with a careful 
 
 AI can help you read the clause, list the questions above and compare it with your other contracts. It can also miss jurisdiction-specific points and state-by-state variations, so treat its output as a first draft of your questions. See [how to verify an AI-generated legal document](/blog/verify-ai-generated-legal-document/) and [when to hire a lawyer for your small business](/blog/when-to-hire-lawyer-small-business/). If a contract has a dispute-resolution clause you do not understand, a short attorney review is usually cheaper than the dispute it governs; see [how much a lawyer charges to review a contract](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/).
 
+**Related reading:** [Earnout Clauses Explained: Selling a Small Business](/blog/earnout-clauses-explained-selling-a-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
