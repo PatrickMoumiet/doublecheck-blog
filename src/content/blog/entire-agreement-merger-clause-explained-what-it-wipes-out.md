@@ -108,6 +108,8 @@ If you are the drafter, use recognized language such as "completely integrated" 
 
 **When to get a lawyer.** If a large amount of money, an exclusive relationship or a heavily negotiated deal rides on statements made outside the contract, have an attorney read the clause before you sign. Courts in different states treat these clauses differently, and that is a state-law question as of November 2026.
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

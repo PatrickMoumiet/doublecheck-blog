@@ -78,6 +78,8 @@ State rules vary widely: some states void most employee non-competes, others use
 
 Before signing, also confirm the governing-law and venue clauses, because they decide which state's rules apply to a dispute. If a document will bind you or your company, use the general approach in [how to verify an AI-generated legal document](/blog/verify-ai-generated-legal-document/) and the [7 things to know about AI legal documents](/blog/ai-legal-documents-7-things-to-know/). For a draft you plan to send to a new hire, an independent attorney in your state can confirm the pieces that depend on local law. Related: the [employee handbook guide](/blog/employee-handbook-small-business-what-to-include/) and [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

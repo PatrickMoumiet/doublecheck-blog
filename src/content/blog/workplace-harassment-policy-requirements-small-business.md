@@ -81,6 +81,8 @@ The policy belongs in your handbook; see [what to include in a small business em
 
 ![Six states with detailed harassment training laws](/images/workplace-harassment-policy-requirements-small-business/grid.webp)
 
+**Related reading:** [Performance Improvement Plan (PIP) Legal Risks for Employers: What to Check Before You Issue One](/blog/performance-improvement-plan-pip-legal-risks-employers/); [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/); [Workplace Investigation Complaint: How Employers Should Respond](/blog/workplace-investigation-complaint-how-employers-should-respond/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

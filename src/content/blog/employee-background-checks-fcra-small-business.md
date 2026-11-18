@@ -83,6 +83,8 @@ If you then take the action, notify the person orally, in writing, or electronic
 
 **Do not DIY the forms blindly.** Disclosure and authorization language is where many disputes start. Have an attorney review your template. For related processes, see [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/) and the [contractor vs. employee](/blog/employee-vs-independent-contractor-classification-startups/) question, since the FCRA steps apply to employment decisions.
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -85,6 +85,8 @@ Put these in the handbook; [what to include in a small business employee handboo
 
 ![Five steps for writing a PTO policy](/images/pto-vacation-pay-laws-small-business/steps.webp)
 
+**Related reading:** [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

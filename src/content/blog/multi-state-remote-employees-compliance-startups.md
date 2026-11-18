@@ -78,6 +78,8 @@ Hybrid workers who split time between states make this harder, so track location
 
 ![Five-step checklist for each new state](/images/multi-state-remote-employees-compliance-startups/steps.webp)
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

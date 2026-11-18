@@ -162,6 +162,8 @@ For a routine hire using a well-established company template, you may not need a
 
 One useful approach is to have an attorney approve a strong standard template, then use AI to populate and check it for individual hires, escalating unusual cases for review. See [how to find a lawyer to review a document you drafted with ChatGPT](/blog/lawyer-review-chatgpt-contract/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+
 ## Where DoubleCheck fits
 
 Offer letters are a natural use case. In [DoubleCheck's 2026 survey](/blog/businesses-draft-legal-documents-with-ai-survey-2026/) of businesses using AI for legal documents, 51% reported using AI for employment agreements or offer letters, one of the most common categories. Draft the first version with ChatGPT, Claude, or Gemini, then bring the existing document into DoubleCheck instead of starting over. The workflow helps identify missing information, surface relevant sources, flag parts that deserve attention, and provide a path to an independent attorney when professional review is warranted.

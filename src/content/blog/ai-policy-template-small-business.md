@@ -170,6 +170,8 @@ Professional review becomes more useful if your company operates in a regulated 
 
 You can draft the first version with AI. Then check it: look for missing issues, verify the sources behind any legal claims, and decide whether a qualified attorney should review it. For ways to keep that review focused and affordable, see [how to save money on legal work with AI](/blog/save-money-legal-work-with-ai/).
 
+**Related reading:** [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

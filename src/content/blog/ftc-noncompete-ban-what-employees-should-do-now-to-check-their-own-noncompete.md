@@ -135,6 +135,8 @@ Consider an employment attorney when:
 
 To choose counsel, see [how do I know if my lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/).
 
+**Related reading:** [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

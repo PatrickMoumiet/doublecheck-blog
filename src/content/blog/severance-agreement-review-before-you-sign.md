@@ -81,6 +81,8 @@ Items employees often ask about: more time, a longer benefits or COBRA subsidy, 
 
 You can usually read a short, standard agreement yourself. Get an attorney to look when the release is broad, you are 40 or older, you have a claim or complaint pending, equity or a restrictive covenant is involved, you hold a visa, or the amount is large. For employer drafts, see the [AI employment agreement review checklist](/blog/ai-employment-agreement-review-checklist/) and [how to tell if your lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

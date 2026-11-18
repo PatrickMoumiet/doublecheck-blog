@@ -81,6 +81,8 @@ AB 5 took effect January 1, 2020 and applies to the Labor Code, the Unemployment
 
 Penalties differ by regime. Under California Labor Code section 226.8, willful misclassification carries civil penalties of $5,000 to $15,000 per violation, or $10,000 to $25,000 for a pattern or practice, per the Hunton law firm. Separate exposure can include unpaid payroll taxes, back wages, and workers' compensation issues. Related reading: [workers' compensation for startups](/blog/workers-compensation-insurance-requirements-startups/) and [hiring international workers](/blog/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/); [Independent Contractor Misclassification Penalties for Employers: What You Can Owe](/blog/independent-contractor-misclassification-penalties-employers/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

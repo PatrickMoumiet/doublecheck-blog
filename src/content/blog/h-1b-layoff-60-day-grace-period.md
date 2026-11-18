@@ -76,6 +76,8 @@ If you have an approved I-140, see [I-140 portability](/blog/i-140-portability-a
 
 ![Records to keep after an H-1B layoff](/images/h-1b-layoff-60-day-grace-period/grid.webp)
 
+**Related reading:** [Performance Improvement Plan (PIP) Legal Risks for Employers: What to Check Before You Issue One](/blog/performance-improvement-plan-pip-legal-risks-employers/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

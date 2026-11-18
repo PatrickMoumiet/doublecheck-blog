@@ -76,6 +76,8 @@ Before you upload a contract, run this short routine:
 
 Companies can formalize this in an [AI policy for small businesses](/blog/ai-policy-template-small-business/). After the summary, verify it using [3 checks for ChatGPT and Claude legal work](/blog/chatgpt-claude-legal-work-3-checks/), and see [the 7 things to know about AI legal documents](/blog/ai-legal-documents-7-things-to-know/) and [AI contract review for small business](/blog/ai-contract-review-small-business/). Where a contract is high-stakes or the confidentiality question is unclear, [a lawyer's review of your AI output](/blog/lawyer-review-chatgpt-contract/) is the safer step.
 
+**Related reading:** [Workplace Investigation Complaint: How Employers Should Respond](/blog/workplace-investigation-complaint-how-employers-should-respond/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

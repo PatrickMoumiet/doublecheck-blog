@@ -70,6 +70,8 @@ Keep the process consistent for every hire, and see the DoubleCheck guide to [hi
 
 **Penalties.** A law-firm summary of a DHS final rule reports per-form paperwork penalties of $288 to $2,861 for violations assessed after January 2, 2025. These are inflation-adjusted regularly and knowing-hire penalties are separate, so check the current amounts before relying on them. See also [self-employment and contractor basics](/blog/independent-contractor-vs-employee/) and [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

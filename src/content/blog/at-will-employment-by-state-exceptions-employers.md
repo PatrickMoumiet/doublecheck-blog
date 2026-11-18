@@ -83,6 +83,8 @@ Habits that reduce risk in any state:
 
 You can usually handle routine documentation yourself. Consider an employment attorney when the employee recently complained, took leave, or reported a safety issue; when you operate in Montana or have an employee there (see [multi-state remote employees](/blog/multi-state-remote-employees-compliance-startups/)); when a written agreement mentions cause or a term; or when you are offering severance (see [reviewing a severance agreement](/blog/severance-agreement-review-before-you-sign/)). Also see the [first employee checklist](/blog/how-to-hire-first-employee-legal-checklist/).
 
+**Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

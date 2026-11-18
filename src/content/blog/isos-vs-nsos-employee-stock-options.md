@@ -83,6 +83,8 @@ For founders issuing options:
 
 For employees: before exercising, model the AMT, the cash you need, and your 3-month window with a tax professional. If you plan to exercise early, read about the [83(b) election](/blog/83b-election-startup-founders/). If the company might qualify, see [QSBS](/blog/qsbs-section-1202-explained-startup-founders/). Neither this article nor DoubleCheck gives tax advice.
 
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

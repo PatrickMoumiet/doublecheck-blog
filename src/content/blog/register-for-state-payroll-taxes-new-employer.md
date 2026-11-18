@@ -77,7 +77,7 @@ If you employ people in several states, the same federal page says you can eithe
 
 Pair this with the broader [first employee legal checklist](/blog/how-to-hire-first-employee-legal-checklist/), and decide worker status first using [employee vs. independent contractor](/blog/employee-vs-independent-contractor-classification-startups/). Registration is only setup: deposits and returns then follow each agency's schedule, per LegalZoom.
 
-**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/)
+**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/); [Final Paycheck Laws by State: When Employers Must Pay](/blog/final-paycheck-laws-by-state-when-employers-must-pay/); [Paid Sick Leave Laws by State for Small Business Employers in 2026](/blog/paid-sick-leave-laws-by-state-small-business-2026/); [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
 
 ## Where DoubleCheck fits
 

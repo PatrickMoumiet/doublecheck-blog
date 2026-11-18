@@ -59,6 +59,8 @@ Treating someone as a contractor also raises a classification question; see [ind
 
 The summary does not say whether or when the threshold will be indexed for inflation. Confirm current instructions on IRS.gov or with your accountant before you file.
 
+**Related reading:** [Independent Contractor Misclassification Penalties for Employers: What You Can Owe](/blog/independent-contractor-misclassification-penalties-employers/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

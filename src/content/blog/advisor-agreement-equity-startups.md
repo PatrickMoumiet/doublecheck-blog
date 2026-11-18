@@ -73,6 +73,8 @@ Clauses worth including, per Cake Equity: clear scope and expectations, the type
 
 Also expect questions later: advisor grants appear on your [cap table](/blog/cap-table-basics-for-first-time-founders/) and in [fundraising diligence](/blog/due-diligence-checklist-for-startup-fundraising/). Cap them, because each grant dilutes [founder equity](/blog/founder-equity-split-how-to-divide/).
 
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

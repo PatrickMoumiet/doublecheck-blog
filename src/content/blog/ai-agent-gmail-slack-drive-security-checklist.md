@@ -145,6 +145,8 @@ An ordinary chatbot can give you a bad answer. An agent can potentially give you
 
 For legal work, you might let an agent analyze a contract, search relevant sources, organize documents, compare versions, and prepare questions. But before accepting legal terms, sending important communications, or making a consequential decision, add a human checkpoint. We cover this in [agentic AI for entrepreneurs' legal work](/blog/agentic-ai-lawyers-entrepreneurs-legal-work/).
 
+**Related reading:** [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
+
 ## Where DoubleCheck fits
 
 The same principle applies to legal agents: use AI to do more of the research, organization, drafting, and preparation, then verify the result. The more capable agents become, the more important one question gets:

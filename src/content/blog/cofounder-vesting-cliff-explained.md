@@ -105,7 +105,7 @@ Write the answers down. See also [LLC operating agreements](/blog/llc-operating-
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/)
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
 
 **Sources:** [Stripe: Founder vesting](https://stripe.com/au/resources/more/founder-vesting); [WilmerHale: Five things about founder stock vesting](https://launch.wilmerhale.com/research/blog/five-things-about-founder-stock-vesting).
 

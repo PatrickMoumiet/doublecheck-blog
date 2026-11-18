@@ -65,6 +65,8 @@ Terms.law says a founders agreement should cover roles, decision-making authorit
 
 Common failure points: a split decided on a handshake, no vesting, a 50/50 split with no deadlock plan, and equity promised but never documented. Investors will later ask for the documents, so see the [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/). Also see [cap table basics](/blog/cap-table-basics-for-first-time-founders/) to see how your split looks after a round.
 
+**Related reading:** [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

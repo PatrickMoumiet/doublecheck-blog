@@ -70,6 +70,8 @@ Vistra's practitioners suggest planning at six, twelve, and eighteen months befo
 
 A practical order: decide whether the person will really be independent or an employee you direct; check the local rules in their country; choose contractor, EOR, or entity accordingly; and sign agreements that cover scope, payment, confidentiality, and [IP assignment](/blog/confidentiality-ip-assignment-agreements-startups/). For a worker who will come to the U.S., you must complete Form I-9 ([I-9 and E-Verify for startups](/blog/i-9-and-e-verify-for-startups/)). If your company itself is run from abroad, see [starting a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/) and [foreign founder taxes](/blog/foreign-founder-us-taxes-substantial-presence-test/). Use AI to draft, then verify with a local professional; see [drafting an offer letter with AI](/blog/draft-job-offer-letter-with-ai/).
 
+**Related reading:** [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

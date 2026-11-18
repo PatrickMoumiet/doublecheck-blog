@@ -84,6 +84,8 @@ Factors it lists include whether the idea can be reverse engineered, whether it 
 
 **Handle yourself vs get an attorney.** You can inventory secrets, tighten logins and use a vetted NDA template yourself. Get an attorney to review your employee IP agreement and whistleblower language, anything in a state with unusual restrictions, and before you accuse a departing employee or send a demand letter. If AI-generated code or documents are involved, see [AI-generated code and IP](/blog/ai-generated-code-ip-startup-founders/), and for hiring see the [first employee checklist](/blog/how-to-hire-first-employee-legal-checklist/).
 
+**Related reading:** [Employee Confidentiality vs Whistleblower Rights: What You Cannot Restrict](/blog/employee-confidentiality-vs-whistleblower-rights-what-you-cannot-restrict/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -79,7 +79,7 @@ The post-termination window is where employees most often lose value. Wallin say
 
 For founders, see [founder equity splits](/blog/founder-equity-split-how-to-divide/) and [how options show up on the cap table](/blog/cap-table-basics-for-first-time-founders/).
 
-**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/)
 
 ## Where DoubleCheck fits
 

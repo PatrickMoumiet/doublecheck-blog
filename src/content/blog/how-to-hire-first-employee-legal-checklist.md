@@ -82,7 +82,7 @@ Next, make the job rules visible. Write a handbook, or at least a short set of p
 
 Also plan for the end of the relationship from the start. [How to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/) explains why documentation made now matters later. If your first hire is abroad, the rules change; see [hiring international employees](/blog/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/).
 
-**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/)
+**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/); [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/); [Paid Sick Leave Laws by State for Small Business Employers in 2026](/blog/paid-sick-leave-laws-by-state-small-business-2026/)
 
 ## Where DoubleCheck fits
 
