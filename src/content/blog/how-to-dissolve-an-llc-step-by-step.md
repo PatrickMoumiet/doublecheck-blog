@@ -69,6 +69,8 @@ Close bank accounts only after outstanding checks clear and payment processor pa
 
 Do not let the LLC simply go inactive. Stripe warns that fees and franchise taxes keep accruing until dissolution is filed, so check [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/). If you are selling rather than closing, use the [buy or sell checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/).
 
+**Related reading:** [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

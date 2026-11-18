@@ -77,6 +77,8 @@ A lawsuit often follows an earlier warning. If you got a demand letter first, se
 
 Entity structure matters too: whether the suit can reach personal assets depends on how the business is formed. See [LLC vs. C-corp](/blog/llc-vs-c-corp-startups/) and [how to incorporate in the US](/blog/how-to-incorporate-a-company-in-the-us/). AI tools can help you organize a timeline and summarize the complaint, but do not use them to decide your deadline or whether to respond. Confirm both with an independent attorney. This is general information, not legal advice.
 
+**Related reading:** [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

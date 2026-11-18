@@ -82,7 +82,7 @@ The main weakness is money. Astris Law says the better-funded side holds the adv
 
 You can draft a first-pass list yourselves: who decides what, how you escalate, who the neutral would be, and what happens to shares if someone leaves. Do that while you still like each other. Then have an independent attorney in your state check how it fits your entity, because LLC operating agreements, corporate bylaws and stockholder agreements work differently, and a tie-break right or buy-sell price formula can have tax and enforceability consequences. If your founders are in different states or countries, equity or IP is already contested, or a clause includes a forced sale, get a lawyer before signing. Also see [using AI on an operating agreement](/blog/llc-operating-agreement-with-ai/) and [how to know if your lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/).
 
-**Related reading:** [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/)
+**Related reading:** [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
 
 ## Where DoubleCheck fits
 

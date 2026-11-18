@@ -79,6 +79,8 @@ The post-termination window is where employees most often lose value. Wallin say
 
 For founders, see [founder equity splits](/blog/founder-equity-split-how-to-divide/) and [how options show up on the cap table](/blog/cap-table-basics-for-first-time-founders/).
 
+**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

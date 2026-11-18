@@ -67,6 +67,8 @@ Per the IRS instructions for Form SS-4, the online EIN application is not availa
 
 Owning a U.S. company does not by itself let you live or work here. Founders usually look at options such as [O-1A](/blog/o-1a-visa-for-startup-founders-evidence/), [EB-1A](/blog/eb-1a-vs-o-1-founder-which-path/), or the [national interest waiver](/blog/niw-eb-2-national-interest-waiver-founders/) with an immigration lawyer ([how to find one](/blog/how-to-find-good-immigration-lawyer-startup-founder/)). If you already hold H-1B status, read [can you start a company on an H-1B](/blog/start-company-on-h1b-visa-ownership-vs-work/).
 
+**Related reading:** [How to Open a Business Bank Account for an LLC or Corporation: Documents Banks Ask For](/blog/how-to-open-a-business-bank-account-llc-corporation-documents/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

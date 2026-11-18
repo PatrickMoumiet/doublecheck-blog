@@ -82,6 +82,8 @@ Next, make the job rules visible. Write a handbook, or at least a short set of p
 
 Also plan for the end of the relationship from the start. [How to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/) explains why documentation made now matters later. If your first hire is abroad, the rules change; see [hiring international employees](/blog/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/).
 
+**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

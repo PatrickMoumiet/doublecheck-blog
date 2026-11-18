@@ -71,6 +71,8 @@ If you do not meet the requirements, the IRS says a private letter ruling and us
 
 An S election is a tax choice, not a legal structure. Whether it fits a company that plans to raise venture money is a separate question; see [S corp vs. C corp for venture-backed startups](/blog/s-corp-vs-c-corp-venture-backed-startup/) and [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/).
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

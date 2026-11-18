@@ -84,6 +84,8 @@ Mistakes that cause trouble later:
 
 Because the answer changes by state and by what your agreement says, have an attorney read the amendment, especially when equity is offered for services or an investor is involved. See [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/); [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Personal Guarantee on a Business Loan: What You Are Signing](/blog/personal-guarantee-business-loan-what-you-are-signing/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

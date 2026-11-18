@@ -99,6 +99,8 @@ Choose by how much changes and how risky it is.
 
 You can handle a simple date or price change yourself if the contract is short and the other side agrees. Get an attorney to check when the change affects liability caps, indemnities, IP, exclusivity, payment security, or when the contract is large or governed by another state. AI can help you compare versions and draft a first amendment; it can miss a no-oral-modification clause or a consent requirement, so verify it. See [AI contract review: what to check](/blog/ai-contract-review-what-to-check-before-signing/) and [how to verify an AI-generated legal document](/blog/verify-ai-generated-legal-document/). To pass a draft to counsel, see [handing off an AI-drafted document to an attorney](/blog/hand-off-an-ai-drafted-legal-document-to-an-attorney-package/).
 
+**Related reading:** [Change LLC Name or Business Name: Steps and Filings (2026)](/blog/change-llc-name-or-business-name-steps-and-filings/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

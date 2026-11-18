@@ -78,6 +78,8 @@ Common mistakes flagged by Bay Legal and Belfint: copying a generic trigger list
 
 SVA stresses these agreements are not do-it-yourself projects. For a sale of the whole business, see [how to buy or sell a small business](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/). To decide when professional help is worth it, read [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
+**Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

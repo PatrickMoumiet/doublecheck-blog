@@ -68,6 +68,8 @@ The penalty is $25,000 for failing to file a complete and correct Form 5472 on t
 
 What a founder usually tracks: your day count, your personal return, the company's return, Form 5472 if applicable, and a U.S. EIN ([EIN without an SSN](/blog/get-ein-without-ssn-foreign-founder/)). See [forming a company from abroad](/blog/start-us-company-as-non-us-resident/), [China setup](/blog/set-up-us-company-from-china/), and the [visa comparison](/blog/us-visa-options-for-startup-founders-compared/).
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

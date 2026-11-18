@@ -126,6 +126,8 @@ Venture investors typically buy preferred stock, which only corporations issue, 
 
 Delaware fee and franchise tax figures differ across sources, so confirm them with the Division of Corporations; see [Delaware franchise tax](/blog/delaware-franchise-tax-startups/) and [how to incorporate in the US](/blog/how-to-incorporate-a-company-in-the-us/). Bring in an attorney when you have two or more founders, outside investors, debt, valuable assets in the LLC or non-US owners.
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/); [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

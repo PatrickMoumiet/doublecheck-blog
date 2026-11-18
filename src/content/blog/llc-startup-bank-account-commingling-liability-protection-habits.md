@@ -84,7 +84,7 @@ Use this as a starting list, not a legal standard.
 
 **Handle it yourself vs. get an attorney.** The bank account, bookkeeping and signature habits are DIY. Get an attorney involved if you have already mixed significant funds, face a claim, are signing a lease or loan with a personal guarantee, or are deciding whether to move to a different entity; see [do you need a lawyer to start an LLC](/blog/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/) and [LLC vs C corp for startups](/blog/llc-vs-c-corp-startups/).
 
-**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/)
+**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Change LLC Name or Business Name: Steps and Filings (2026)](/blog/change-llc-name-or-business-name-steps-and-filings/); [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/)
 
 ## Where DoubleCheck fits
 

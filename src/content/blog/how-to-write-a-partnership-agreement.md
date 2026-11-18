@@ -83,6 +83,8 @@ Many small owners find an LLC fits better than a general partnership; compare in
 
 An AI draft or a template is a fine starting point for organizing the conversation. Your state's rules, your tax situation, and your partners' specific bargain are what an attorney reviews. Consider a lawyer before signing if the partnership holds real assets, involves large capital, or partners disagree on any term. See [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/). This is general information, not legal advice.
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/); [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

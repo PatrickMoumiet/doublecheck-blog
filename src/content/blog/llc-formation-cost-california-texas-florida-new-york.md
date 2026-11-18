@@ -67,6 +67,8 @@ Add registered agent fees, name reservation, and professional fees. We do not gi
 
 Total the first-year and ongoing costs before choosing a state. Our general guide is [how to incorporate a company in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/), and [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/) can help you decide how much help to buy.
 
+**Related reading:** [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/); [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

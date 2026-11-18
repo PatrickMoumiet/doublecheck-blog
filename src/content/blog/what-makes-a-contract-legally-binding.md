@@ -79,7 +79,7 @@ Before signing, read for the points in [contract red flags for small business](/
 
 An AI tool can help you summarize and flag unusual terms (see [AI contract review for small business](/blog/ai-contract-review-small-business/)), but it does not decide whether a clause is enforceable in your state. For a high-value or unusual deal, have a licensed attorney look at it. Cost expectations are in [how much a lawyer charges to review a contract](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/).
 
-**Related reading:** [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/)
+**Related reading:** [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Statute of Limitations for Breach of Contract by State: Small Business Guide](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/); [Personal Guarantee on a Business Loan: What You Are Signing](/blog/personal-guarantee-business-loan-what-you-are-signing/)
 
 ## Where DoubleCheck fits
 

@@ -67,6 +67,8 @@ Dissolution alone does not stop actions begun by or against the corporation befo
 
 Related: [closing a California LLC](/blog/close-california-llc-avoid-800-tax/), [IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/), and [Delaware franchise tax](/blog/delaware-franchise-tax-startups/).
 
+**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

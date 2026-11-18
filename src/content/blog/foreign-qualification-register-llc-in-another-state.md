@@ -84,6 +84,8 @@ Keep your home-state entity in good standing, because the new state will rely on
 
 See also [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/) and [small business AI legal work, safely](/blog/small-business-ai-legal-work-safely/).
 
+**Related reading:** [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/); [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

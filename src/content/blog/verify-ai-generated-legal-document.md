@@ -172,7 +172,7 @@ You can contact a law firm or attorney directly, ask an attorney your company al
 
 For more on what to send and what to ask, see [how to find a lawyer to review a contract you drafted with ChatGPT](/blog/lawyer-review-chatgpt-contract/).
 
-**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/)
+**Related reading:** [Arbitration Clause Explained: Small Business Contracts, Pros and Cons](/blog/arbitration-clause-explained-small-business-contracts-pros-cons/); [Governing Law and Venue Clause Explained: Which State Law Applies](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/); [Liquidated Damages vs Penalty Clause: When Is It Enforceable for a Small Business?](/blog/liquidated-damages-vs-penalty-clause-enforceable-small-business/); [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
 
 ## Where DoubleCheck fits
 

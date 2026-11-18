@@ -72,6 +72,8 @@ A state registration is checked through the Secretary of State and covers that s
 
 If AI helped you generate a name or logo, check [AI-generated content and copyright](/blog/ai-generated-content-copyright-solo-business/) and consider how a [cease and desist](/blog/how-to-respond-cease-and-desist-letter/) would be handled before you build the brand.
 
+**Related reading:** [Change LLC Name or Business Name: Steps and Filings (2026)](/blog/change-llc-name-or-business-name-steps-and-filings/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

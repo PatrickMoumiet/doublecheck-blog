@@ -74,7 +74,7 @@ Practical steps for a small business:
 
 Mayer Brown described the FTC's 2024 non-compete rule as uncertain in July 2024 and did not say whether it covers non-solicits. Check the agency page and our non-compete posts for the current status. If you are ending a relationship, see [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
 
-**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/)
+**Related reading:** [Non-compete vs non-solicit vs NDA](/blog/non-compete-vs-non-solicit-vs-nda-which-to-use-after-the-ftc-rule/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
 
 ## Where DoubleCheck fits
 

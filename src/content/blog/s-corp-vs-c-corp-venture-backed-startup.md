@@ -72,6 +72,8 @@ Per the Cooley QSBS cheat sheet, the issuer of qualified small business stock mu
 
 Founders who expect to bootstrap may reasonably choose differently from founders planning a venture round. Neither is right for everyone.
 
+**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

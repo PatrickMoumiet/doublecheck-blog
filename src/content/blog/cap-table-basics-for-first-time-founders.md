@@ -82,6 +82,8 @@ Colovic adds two checks: percentages must total 100%, and you must know whether 
 
 Each financing adds a row: [funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/) lays out the sequence, and investors will check your records in diligence ([due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/)). Keep the table matched to your stock ledger, board approvals, and signed agreements.
 
+**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

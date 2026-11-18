@@ -86,7 +86,7 @@ So a US-formed LLC generally does not file a BOI report now. State rules are sep
 
 **Handle it yourself vs. get an attorney.** A solo founder with a simple service business can often do the EIN, bank account and basic recordkeeping alone and use AI to draft a first operating agreement, then verify it. Ask an attorney to look when you have more than one owner, outside investors or equity promises, foreign owners, employees or contractors who will build your IP, or a regulated business. A short review of the operating agreement and IP assignment before you build further is usually easier to fix than a dispute later; see [when to hire a lawyer for a small business](/blog/when-to-hire-lawyer-small-business/).
 
-**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Startup LLC operating agreement clauses](/blog/startup-llc-operating-agreement-clauses-investors-vesting-and-conversion/)
+**Related reading:** [Startup LLC: the complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/); [Startup LLC operating agreement clauses](/blog/startup-llc-operating-agreement-clauses-investors-vesting-and-conversion/); [Change LLC Name or Business Name: Steps and Filings (2026)](/blog/change-llc-name-or-business-name-steps-and-filings/); [How to Open a Business Bank Account for an LLC or Corporation: Documents Banks Ask For](/blog/how-to-open-a-business-bank-account-llc-corporation-documents/); [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
 
 ## Where DoubleCheck fits
 

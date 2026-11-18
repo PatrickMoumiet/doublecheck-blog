@@ -80,7 +80,7 @@ Practical effects of losing good standing or being dissolved:
 
 If you operate in more than one state, you may owe reports in each state where you are registered as a foreign LLC. If you no longer use the entity, closing it properly is cheaper than letting it lapse; see [how to dissolve an LLC](/blog/how-to-dissolve-an-llc-step-by-step/) and, for California, [closing a California LLC](/blog/close-california-llc-avoid-800-tax/). Compare ongoing costs in [LLC formation costs by state](/blog/llc-formation-cost-california-texas-florida-new-york/).
 
-**Related reading:** [Incorporating in 2026: what changed](/blog/incorporate-a-small-business-in-2026-what-changed-boi-annual-reports-and-new-rules/)
+**Related reading:** [Incorporating in 2026: what changed](/blog/incorporate-a-small-business-in-2026-what-changed-boi-annual-reports-and-new-rules/); [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/); [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
 
 ## Where DoubleCheck fits
 

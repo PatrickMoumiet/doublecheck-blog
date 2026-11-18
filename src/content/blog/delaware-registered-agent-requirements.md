@@ -59,7 +59,7 @@ Delaware's Division of Corporations warns entities to be wary of deceptive tax o
 
 See [how to incorporate in Delaware step by step](/blog/how-to-incorporate-in-delaware-step-by-step/) and the [Delaware LLC annual tax](/blog/delaware-llc-annual-tax-june-1/). For other states' requirements, see [LLC formation costs across four states](/blog/llc-formation-cost-california-texas-florida-new-york/).
 
-**Related reading:** [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/)
+**Related reading:** [Delaware incorporation cost, first year](/blog/delaware-incorporation-cost-breakdown-first-year-fees-and-ongoing-taxes/); [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
 
 ## Where DoubleCheck fits
 

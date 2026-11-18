@@ -61,7 +61,7 @@ The IRS also notes that at-risk rules and passive activity loss limits may restr
 
 See [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/) and [quarterly estimated taxes](/blog/quarterly-estimated-taxes-solo-business-owner/).
 
-**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/)
+**Related reading:** [Protecting the LLC liability shield](/blog/llc-startup-bank-account-commingling-liability-protection-habits/); [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/); [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/); [Change LLC Name or Business Name: Steps and Filings (2026)](/blog/change-llc-name-or-business-name-steps-and-filings/)
 
 ## Where DoubleCheck fits
 

@@ -53,6 +53,8 @@ Plan for delays. The IRS says fax takes about four business days and mail about 
 
 ![Common mistakes when a foreign founder applies for an EIN](/images/get-ein-without-ssn-foreign-founder/mistakes.webp)
 
+**Related reading:** [How to Open a Business Bank Account for an LLC or Corporation: Documents Banks Ask For](/blog/how-to-open-a-business-bank-account-llc-corporation-documents/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -61,7 +61,7 @@ Data tells you what others did, not what is right for your team. Decide with you
 
 The mistakes we see discussed most are avoiding the conversation and leaving the split undocumented. Put it in writing: see [IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/) so the company, not individuals, owns what founders create.
 
-**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/)
+**Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/)
 
 ## Where DoubleCheck fits
 

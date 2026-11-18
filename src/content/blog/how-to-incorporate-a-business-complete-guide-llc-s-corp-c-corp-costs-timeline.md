@@ -114,6 +114,8 @@ Many older guides still tell owners to file a beneficial ownership (BOI) report.
 
 **Your next step:** list your owners, your state, whether you will raise money and who is not a US tax resident. Draft your answers, let AI help you organize and check them, and then have an attorney or CPA confirm entity type and elections. For a long, startup-specific walkthrough see [the startup LLC complete guide](/blog/startup-llc-complete-guide-formation-taxes-operating-agreement-and-conversion/).
 
+**Related reading:** [S Corp Reasonable Compensation: Owner Salary Rules, Explained](/blog/s-corp-reasonable-compensation-owner-salary-rules/); [How to Open a Business Bank Account for an LLC or Corporation: Documents Banks Ask For](/blog/how-to-open-a-business-bank-account-llc-corporation-documents/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

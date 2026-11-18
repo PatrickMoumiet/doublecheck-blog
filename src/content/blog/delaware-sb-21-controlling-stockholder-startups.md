@@ -80,6 +80,8 @@ Practical steps for a Delaware corporation:
 
 Choosing Delaware also carries tax and compliance costs; see [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/) and [how to incorporate a SaaS or AI startup in Delaware](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/). Applying the statute to a specific deal is a question for a corporate attorney, and [a startup lawyer's cost](/blog/how-much-does-a-startup-lawyer-cost/) is worth knowing before you ask.
 
+**Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

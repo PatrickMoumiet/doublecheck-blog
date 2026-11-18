@@ -57,6 +57,8 @@ Per the IRS, a single-member LLC is a disregarded entity for income tax and a mu
 
 LegalZoom lists series LLC statutes in Delaware, Texas, Illinois, Nevada, and Wyoming, says other states may not recognize them, notes IRS final guidance is lacking, California charges $800 per series, bankruptcy treatment is unsettled, and protection can collapse with commingling. The state list comes from one source and may be incomplete. See [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/) and [LLC operating agreements](/blog/llc-operating-agreement-with-ai/).
 
+**Related reading:** [Series LLC Explained: Which States Allow It and What the Risks Are](/blog/series-llc-explained-which-states-allow-it-and-risks/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

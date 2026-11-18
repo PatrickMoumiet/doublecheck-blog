@@ -72,6 +72,8 @@ Before you sign:
 - Model your ownership under the pool and the preference, not only the headline valuation (Fieldfisher lists focusing on valuation alone as a pitfall).
 - Have counsel review the term sheet, and prepare for diligence: [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/), [Series A diligence](/blog/series-a-legal-due-diligence-checklist/).
 
+**Related reading:** [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

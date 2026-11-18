@@ -105,6 +105,8 @@ A governing law and venue clause is often boilerplate, and for a small, low-stak
 
 AI tools can summarize the clause, flag a mismatch between the law and the court, and suggest questions. They can get state-specific rules wrong, so use the output as a checklist and confirm it. See [how to verify an AI-generated legal document](/blog/verify-ai-generated-legal-document/), [contract red flags for small business](/blog/contract-red-flags-small-business/) and [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/). If you need a person to check it, [how to choose a good lawyer](/blog/how-to-choose-good-lawyer/) covers what to ask for.
 
+**Related reading:** [Personal Guarantee on a Business Loan: What You Are Signing](/blog/personal-guarantee-business-loan-what-you-are-signing/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -83,6 +83,8 @@ The IRS filing is separate from your income tax position. Whether you owe U.S. t
 
 If the LLC's growth plans involve investors, a C corporation may be a better fit, and the filing duties change with it. See [LLC vs. C corp for startups](/blog/llc-vs-c-corp-startups/) and [starting a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/). Missed filings from earlier years are a question for a tax professional or attorney, not something to guess at.
 
+**Related reading:** [Multi-Member LLC Taxes: Partnership Return and K-1 Explained](/blog/multi-member-llc-taxes-partnership-return-k-1-explained/)
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
