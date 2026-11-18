@@ -19,7 +19,7 @@ toc:
   - label: '2. What they are'
     anchor: '2-what-annual-reports-are-and-what-they-are-not'
   - label: '3. State examples'
-    anchor: '3-verified-examples-florida-wyoming-texas-new-york'
+    anchor: '3-examples-florida-texas-wyoming-new-york'
   - label: '4. If you miss one'
     anchor: '4-consequences-of-missing-a-report'
   - label: 'Where DoubleCheck fits'
