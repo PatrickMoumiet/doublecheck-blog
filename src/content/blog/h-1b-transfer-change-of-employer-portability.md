@@ -6,9 +6,9 @@ pubDate: 'Nov 4 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can I start working before my H-1B transfer is approved?'
-    answer: 'Generally yes, if you are in valid status and the new employer properly files a petition, per Davidson Morris and Berardi. Ask your attorney before starting.'
+    answer: 'Generally yes, if you are in valid status and the new employer properly files a petition, under H-1B portability rules. Ask your attorney before starting; no primary source is cited for this point on this page.'
   - question: 'Do I go through the H-1B lottery again for a transfer?'
-    answer: 'Davidson Morris says most transfers are cap-exempt because you were already counted.'
+    answer: 'Per Boston University''s international office, petitions for people already counted against the cap are not subject to it again.'
   - question: 'What happens if my H-1B transfer is denied?'
     answer: 'You must stop working immediately. Up to 60 days of discretionary grace may allow another petition, a change of status, or departure.'
   - question: 'Does the $100,000 H-1B fee apply to transfers?'
@@ -39,21 +39,21 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** If you are in valid H-1B status, you can generally start working for a new employer once that employer properly files a change-of-employer petition for you. You do not have to wait for approval, per Davidson Morris and Berardi Immigration Law. Each employer files its own petition, with a certified labor condition application, and most transfers are cap-exempt because you were already counted.
+**Quick answer:** If you are in valid H-1B status, you can generally start working for a new employer once that employer properly files a change-of-employer petition for you. Under portability you generally do not have to wait for approval, but confirm with your attorney and USCIS guidance. Each employer files its own petition, with a certified labor condition application, and, per Boston University's international office, petitions for people already counted against the cap are not subject to the cap again.
 
 ![Steps in an H-1B transfer using portability](/images/h-1b-transfer-change-of-employer-portability/steps.webp)
 
 ## 2. Rules to watch
 
-- **File before your authorized stay ends.** If you already left the old job, a petition filed within the 60-day discretionary grace period can still be portable (Berardi).
+- **File before your authorized stay ends.** If you already left the old job, a petition filed within the 60-day discretionary grace period may still be portable, but confirm eligibility with your attorney.
 - **No unauthorized work.** Portability assumes your status was maintained.
-- **Form I-9:** list your foreign passport and unexpired I-94 as a List A document, and note "AC-21" with the I-129 submission date (Berardi).
-- **If the petition is denied,** you must stop working immediately. A discretionary grace period of up to 60 days may let you file again, change status, or leave (Davidson Morris).
+- **Form I-9:** list your foreign passport and unexpired I-94 as a List A document, and note "AC-21" with the I-129 submission date; confirm the right entry with your employer's counsel.
+- **If the petition is denied,** you must stop working immediately. A discretionary grace period of up to 60 days may let you file again, change status, or leave; confirm with your attorney.
 - **Wait for the receipt.** Law firms recommend waiting for the I-797C receipt before starting.
 
 ## 3. Fees and the $100,000 question
 
-Davidson Morris (page dated November 2025) lists base I-129 at $780 ($460 for small employers and nonprofits), ACWIA $750 or $1,500, a $500 fraud fee, and an Asylum Program Fee of $600 ($300 small employers). Premium processing is $2,965 as of March 2026 per other law-firm pages, not the older $2,805. Boston University's international office says the $100,000 proclamation fee does not apply to H-1B change of employer, extension, or change of status for people inside the U.S., and that the fee is in litigation. See [the current $100,000 fee status](/blog/h1b-100000-fee-status-2026/).
+Filing fees vary by employer size and petition type and change over time, so check the current USCIS fee schedule and the premium processing page. Boston University's international office says the $100,000 proclamation fee does not apply to H-1B change of employer, extension, or change of status for people inside the U.S., and that the fee is in litigation. See [the current $100,000 fee status](/blog/h1b-100000-fee-status-2026/).
 
 ![H-1B transfer checklist](/images/h-1b-transfer-change-of-employer-portability/checks.webp)
 
@@ -65,17 +65,17 @@ A startup hiring you must meet employer requirements too: see [how a startup can
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Davidson Morris](https://www.davidsonmorris.com/h1b-transfer/); [Berardi Immigration Law](https://berardiimmigrationlaw.com/h-1b-portability-for-employers-when-can-a-new-hire-actually-start-work/); [Boston University ISSO](https://www.bu.edu/isso/?p=16166); [F1Jobs](https://www.f1jobs.io/resources/blog/l1-new-office-visa-founders-opening-us-operation).
+**Sources:** [Boston University ISSO](https://www.bu.edu/isso/?p=16166).
 
 ## FAQ
 
 **Can I start working before my H-1B transfer is approved?**
 
-Generally yes, if you are in valid status and the new employer properly files a petition, per Davidson Morris and Berardi. Ask your attorney before starting.
+Generally yes, if you are in valid status and the new employer properly files a petition, under H-1B portability rules. Ask your attorney before starting; no primary source is cited for this point on this page.
 
 **Do I go through the H-1B lottery again for a transfer?**
 
-Davidson Morris says most transfers are cap-exempt because you were already counted.
+Per Boston University's international office, petitions for people already counted against the cap are not subject to it again.
 
 **What happens if my H-1B transfer is denied?**
 

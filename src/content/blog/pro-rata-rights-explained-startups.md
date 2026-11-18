@@ -67,7 +67,7 @@ CRV describes several structures:
 - **Time-bound or round-limited:** the right expires after a period or applies only to the next round.
 - **Super pro rata:** lets an investor increase its stake. CRV advises founders to avoid it because it can crowd out a new lead.
 
-The founder concern is cap table room. CRV warns that if existing investors fill most of a later round, a new lead may be left with a small slice, when it may expect a larger stake. Its suggested tools include thresholds, duration limits, pay-to-play conditions, and keeping full rights for the lead investor. [Capboard](https://www.capboard.io/en/pro-rata-rights-explained) adds the administrative side: tracking and enforcing rights across several rounds gets complicated, and rights can create friction between investors.
+The founder concern is cap table room. CRV warns that if existing investors fill most of a later round, a new lead may be left with a small slice, when it may expect a larger stake. Its suggested tools include thresholds, duration limits, pay-to-play conditions, and keeping full rights for the lead investor. Tracking and enforcing rights across several rounds can also add administrative work.
 
 SAFE investors usually get pro rata only through a side letter; see [SAFE note explained for founders](/blog/safe-note-explained-for-founders/) and [SAFE review before you sign](/blog/safe-review-before-you-sign/).
 
@@ -89,7 +89,7 @@ An attorney can check that the defined terms (major investor, offer notice, waiv
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [CRV, Pro Rata Rights](https://www.crv.com/content/pro-rata-rights); [Capboard, Pro-Rata Rights Explained](https://www.capboard.io/en/pro-rata-rights-explained).
+**Sources:** [CRV, Pro Rata Rights](https://www.crv.com/content/pro-rata-rights).
 
 ## FAQ
 

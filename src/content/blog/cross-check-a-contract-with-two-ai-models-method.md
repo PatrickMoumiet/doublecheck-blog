@@ -60,7 +60,7 @@ Keep it boring and repeatable. The goal is a comparison you can read in a table,
 
 ## 3. What disagreements mean, and what they do not
 
-Disagreement is useful because it is cheap to spot. A vendor-written 2026 article from Suprmind (August 16, 2026), a company that sells a multi-model product, argues that disagreement between models should be read as a risk signal rather than noise, that high-divergence items should get human review, and that automated extractions cannot be trusted blindly. Treat that as one vendor's view, not a measured result; the article reports no error rates for contract work.
+Disagreement is useful because it is cheap to spot. Treat a difference between the two models as a risk signal rather than noise, and send high-divergence items to human review. This is a practical method, not a measured result: we are not aware of published error rates showing that cross-checking two models catches a given share of contract mistakes.
 
 In practice, disagreements tend to fall into a few groups:
 
@@ -92,7 +92,7 @@ The opposite case needs more caution. When both models agree, that is weaker evi
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Suprmind, Multi AI Platform Contract Clause Analysis (Aug. 16, 2026, vendor article)](https://suprmind.ai/hub/insights/multi-ai-platform-contract-clause-analysis/); [OpenAI Help, How your data is used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance); [NCBE Bar Examiner on ABA Formal Opinion 512 (July 29, 2024)](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/).
+**Sources:** [OpenAI Help, How your data is used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance); [NCBE Bar Examiner on ABA Formal Opinion 512 (July 29, 2024)](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/); [National Law Review on ABA Formal Opinion 512](https://natlawreview.com/article/american-bar-association-issues-formal-opinion-use-generative-ai-tools).
 
 ## FAQ
 

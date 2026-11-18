@@ -45,17 +45,17 @@ toc:
 
 ## 2. What officers ask and what to bring
 
-Per EduConnect USA's May 2026 guide, questions fall into five groups: why the U.S., this school, and this program; academic background; funding and sponsors; post-graduation plans; and ties to your home country. It describes the post-graduation answer as the most consequential, and says a credible answer ends in your home country. It also says large recent deposits with no clear source are a common financial red flag.
+Consular officers decide whether you meet the requirements under U.S. law, and the interview commonly touches on five themes: why the U.S., this school, and this program; academic background; funding and sponsors; post-graduation plans; and ties to your home country. Under INA 214(b), per the [State Department's visa denials page](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html), an applicant can be refused for not overcoming the presumption of immigrant intent by showing strong ties to the home country, such as a job, home, or family. Be ready to explain your funding clearly, since unexplained large deposits can raise questions.
 
-Practical points drawn from that guide:
+Practical points:
 
 - Keep answers short, around 30 to 45 seconds, and know your facts rather than reciting a script.
 - Make sure answers match your DS-160. If something is inconsistent, explain it directly.
-- Do not say you plan to stay in the U.S. EduConnect says stating a wish to stay can lead to a 214(b) refusal. The State Department notes H-1B and L applicants are excluded from the ties requirement, which F-1 applicants are not.
+- Do not say you plan to stay in the U.S., because intent to remain can lead to a 214(b) refusal. The State Department notes H-1B and L applicants are excluded from the ties requirement, which F-1 applicants are not.
 
 Per the State Department's [student visa page](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html), your school issues Form I-20, you must pay the separate SEVIS I-901 fee, and you present the I-20 at the interview and at the port of entry. New students can receive a visa up to 365 days before the course start date, but cannot enter more than 30 days before the program starts.
 
-A typical folder, per EduConnect: DS-160 confirmation, Form I-20, passport, SEVIS fee receipt, financial documents, admission letter, and test scores if relevant. Officers may ask for only some of them. Check your embassy or consulate website for its exact list.
+A typical folder includes your DS-160 confirmation, Form I-20, passport, SEVIS fee receipt, financial documents, admission letter, and test scores if relevant. The State Department says consular officers may request additional documents, and officers may ask for only some of them. Check your embassy or consulate website for its exact list.
 
 ![Five steps for the day of an F-1 visa interview](/images/f-1-visa-interview-questions-international-students-214b/steps.webp)
 
@@ -63,7 +63,7 @@ A typical folder, per EduConnect: DS-160 confirmation, Form I-20, passport, SEVI
 
 **Interview waivers.** The State Department announced on September 18, 2025 that, effective October 1, 2025, all visa applicants need an in-person interview with a consular officer, with listed exceptions, per [Colorado's international office](https://www.colorado.edu/isss/node/3461). The exceptions it lists are mostly diplomatic and official categories plus certain B-1/B-2 renewals; student visas are not on the list. A waiver also requires applying in your country of nationality or usual residence, no prior refusal (unless overcome or waived), and no apparent ineligibility. Another page dated July 2026 says most F-1 and J-1 renewal applicants are now required to attend an in-person interview.
 
-**Online presence.** Per [Fragomen](https://www.fragomen.com/insights/united-states-state-department-resumes-student-visa-appointment-scheduling-with-enhanced-vetting-of-applicants-online-presence.html) and [Eiglaw](https://eiglaw.com/us-expands-vetting-for-student-visa-applicants-including-social-media-review/), a June 2025 State Department announcement said F, M, and J applicants would be directed to set social media to public, and officers review accounts and online activity. Fragomen reports that keeping part of an account private may lead officers to draw a negative inference. Treat your public profiles as part of your application: they should be accurate and consistent with what you tell the officer. Do not delete content to mislead; a misstatement is a bigger problem than the post.
+**Online presence.** Per [Fragomen](https://www.fragomen.com/insights/united-states-state-department-resumes-student-visa-appointment-scheduling-with-enhanced-vetting-of-applicants-online-presence.html), a June 2025 State Department announcement said F, M, and J applicants would be directed to set social media to public, and officers review accounts and online activity. Fragomen reports that keeping part of an account private may lead officers to draw a negative inference. Treat your public profiles as part of your application: they should be accurate and consistent with what you tell the officer. Do not delete content to mislead; a misstatement is a bigger problem than the post.
 
 **Appointments.** Waiting times vary by post and change often. Per Colorado's page, delays are likely, and anyone who needs a new visa to return should book an appointment before leaving the U.S. If you travel on an existing visa, see [H-1B visa stamping and travel](/blog/h-1b-visa-stamping-travel-abroad-tech-workers/) for how re-entry risk works in a related setting.
 
@@ -88,7 +88,7 @@ Do not hire anyone who promises a guaranteed visa. If you want help reading the 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [State Department student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html); [State Department visa denials](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html); [Colorado ISSS on interview waivers](https://www.colorado.edu/isss/node/3461); [Fragomen on online vetting](https://www.fragomen.com/insights/united-states-state-department-resumes-student-visa-appointment-scheduling-with-enhanced-vetting-of-applicants-online-presence.html); [Eiglaw](https://eiglaw.com/us-expands-vetting-for-student-visa-applicants-including-social-media-review/); [EduConnect USA](https://educonnectusa.com/?p=1096714).
+**Sources:** [State Department student visa](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html); [State Department visa denials](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html); [Colorado ISSS on interview waivers](https://www.colorado.edu/isss/node/3461); [Fragomen on online vetting](https://www.fragomen.com/insights/united-states-state-department-resumes-student-visa-appointment-scheduling-with-enhanced-vetting-of-applicants-online-presence.html).
 
 ## FAQ
 

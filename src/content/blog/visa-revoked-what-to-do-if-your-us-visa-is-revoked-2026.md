@@ -10,9 +10,9 @@ faq:
   - question: 'How can I find out if my visa has been revoked?'
     answer: 'Check the email on your DS-160 and your CEAC status. Per Porter Wright, notice is typically sent but there is no automatic alert, and the CEAC status may not update right away. Under 22 CFR 41.122(c), the consulate must notify you where possible.'
   - question: 'Can I get a new visa after a revocation?'
-    answer: 'Generally you would apply again at a U.S. embassy or consulate abroad. Per Shautsova Law, the prior revocation will be visible to the consulate and could lead to denial, and decisions are discretionary. You cannot get a new visa from inside the U.S.'
+    answer: 'Generally you would apply again at a U.S. embassy or consulate abroad. A prior revocation will likely be visible to the consulate and could lead to denial, and decisions are discretionary. You cannot get a new visa from inside the U.S.'
   - question: 'Is visa revocation the same as SEVIS termination?'
-    answer: 'No. Per Shautsova Law, a SEVIS termination ends F-1 or J-1 status and stops OPT or CPT work authorization, while visa revocation affects the stamp used for entry. The CRS says revocation generally does not automatically terminate SEVIS status.'
+    answer: 'No. A SEVIS termination is a separate action that can affect F-1 or J-1 status and OPT or CPT work authorization, while visa revocation affects the stamp used for entry. The CRS says revocation generally does not automatically terminate SEVIS status.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,11 +45,11 @@ toc:
 
 ## 2. What revocation means, and how you may learn of it
 
-**Visa versus status.** The visa is the document a consulate places in your passport. Status is your permission to be in the U.S. under your admission, shown on your Form I-94. Per Murthy Law Firm's Sheela Murthy, as quoted by Business Standard, revocation applies to "the visa that is stamped in the passport." Per a Congressional Research Service report (R49040), revocation does not itself make a person removable; DHS must start removal proceedings, and a revocation generally does not automatically terminate SEVIS status.
+**Visa versus status.** The visa is the document a consulate places in your passport. Status is your permission to be in the U.S. under your admission, shown on your Form I-94. Revocation applies to the visa stamped in the passport. Per a Congressional Research Service report (R49040), revocation does not itself make a person removable; DHS must start removal proceedings, and a revocation generally does not automatically terminate SEVIS status.
 
 **Legal basis.** The CRS report cites 8 U.S.C. 1201(i) (INA 221(i)) for the authority to revoke "at any time," and 22 CFR 41.121-123 for nonimmigrant visas. Under 22 CFR 41.122, revocation takes effect once it is entered in the State Department's Consular Lookout and Support System (CLASS), and the visa is then no longer valid for travel.
 
-**Notice.** Per 22 CFR 41.122(c), unless the Department instructs otherwise, a consular officer must, where possible, notify the person that the visa was revoked. Per Porter Wright, notice is typically sent by email or letter to the address on the DS-160 and usually cites INA 221(i); the CEAC status may show "Revoked" but not always right away; and there is no automatic alert, so you must monitor your own email. Hacking Immigration Law says people typically hear from the embassy by email or phone. Because notice is not guaranteed, some people learn only when an airline refuses boarding or CBP denies entry.
+**Notice.** Per 22 CFR 41.122(c), unless the Department instructs otherwise, a consular officer must, where possible, notify the person that the visa was revoked. Per Porter Wright, notice is typically sent by email or letter to the address on the DS-160 and usually cites INA 221(i); the CEAC status may show "Revoked" but not always right away; and there is no automatic alert, so you must monitor your own email. Notice may also come by email or phone from the embassy. Because notice is not guaranteed, some people learn only when an airline refuses boarding or CBP denies entry.
 
 **Common triggers cited.** Per Porter Wright: new derogatory information, arrests or charges (especially DUI), fraud or misrepresentation found after issuance, loss of eligibility for the category, or security concerns flagged during continuous vetting. Per the State Department's August 2026 fact sheet, as reported by Al Jazeera, most revocations stemmed from law-enforcement encounters involving criminal activity, with other grounds including visa violations, fraud and calls for violence.
 
@@ -57,14 +57,13 @@ toc:
 
 Revocation has become more frequent and more visible. These figures are the State Department's or media reports of them, as stated on the pages we read; we could not confirm them against a primary State Department page, so treat them as reported figures:
 
-- **85,000 revocations since January 2025:** a State Department statement of December 9, 2025, per Business Standard, which also cited a CNN report of more than 8,000 student visas.
 - **Over 100,000:** per CRS, citing a January 12, 2026 Reuters report that attributes the figure to the State Department.
 - **Over 175,000:** a State Department fact sheet released August 10, 2026, which said revocations came from "continuous vetting operations" (Al Jazeera).
 - **Over 250,000:** an unnamed State Department official and spokesperson Tommy Pigott, as reported by Fox News on October 1, 2026 (via WJLA). That report says most revocations followed law enforcement encounters.
 
 Counts of "visas revoked" are not counts of people removed, and they are not broken out by visa type in the sources we saw, except the student figure above.
 
-**Students.** Per CRS, thousands of SEVIS records were terminated in 2025; SEVIS termination is a separate action from visa revocation. Per Shautsova Law, a terminated SEVIS record ends F-1 or J-1 status, stops OPT or CPT work authorization, and may make a student removable. Reinstatement under 8 CFR 214.2(f)(16) generally requires the violation to be within about five months, no unauthorized employment, and circumstances beyond the student's control, per the same firm. See [SEVIS and I-20 basics](/blog/sevis-i-20-explained-maintaining-f-1-status/).
+**Students.** Per CRS, thousands of SEVIS records were terminated in 2025; SEVIS termination is a separate action from visa revocation. A terminated SEVIS record can end F-1 or J-1 status, stop OPT or CPT work authorization, and may make a student removable. Reinstatement of F-1 status is governed by 8 CFR 214.2(f)(16) and has specific eligibility conditions, so get advice from your DSO and an attorney quickly. See [SEVIS and I-20 basics](/blog/sevis-i-20-explained-maintaining-f-1-status/).
 
 **Related enforcement context:** [social media vetting for visa applicants](/blog/social-media-vetting-visa-applicants-2026-what-to-know/) and [221(g) administrative processing](/blog/visa-221g-administrative-processing/).
 
@@ -73,12 +72,12 @@ Counts of "visas revoked" are not counts of people removed, and they are not bro
 **Steps that are generally safe and sensible:**
 
 1. **Confirm what actually happened.** Check your email (including spam), the CEAC status for your DS-160, and your SEVIS record or employer petition status. A revoked visa, a terminated SEVIS record, and a denied petition are different problems.
-2. **Keep maintaining status.** Per Hacking Immigration Law, you do not necessarily have to leave right away if you are maintaining status, which generally means keeping your I-20 or DS-2019 valid and continuing to study, or staying in the job that supports your H-1B.
+2. **Keep maintaining status.** You do not necessarily have to leave right away if you are maintaining status, which generally means keeping your I-20 or DS-2019 valid and continuing to study, or staying in the job that supports your H-1B.
 3. **Tell the right people.** Students should contact their DSO. Employees should tell their employer's HR or immigration counsel.
-4. **Pause international travel until you have advice.** Per Porter Wright, airlines may refuse boarding and CBP will deny admission on a revoked visa, and per Hacking, you cannot get a new visa inside the U.S.
+4. **Pause international travel until you have advice.** Per Porter Wright, airlines may refuse boarding and CBP will deny admission on a revoked visa, and you cannot get a new visa inside the U.S.
 5. **Do not lie, hide facts, or use someone else's documents.** Misstatements to officials create larger problems than the original revocation.
 
-**Can you reapply?** Yes, generally by applying for a new visa at a U.S. embassy or consulate abroad. Per Shautsova Law, a prior violation will be visible to the consulate and could lead to denial. Revocation is separate from a visa refusal, and outcomes are discretionary. Consider your timing around [unlawful presence rules](/blog/immigration-overstay-unlawful-presence-3-10-year-bars-explained/) and [H-1B layoff grace periods](/blog/h-1b-layoff-60-day-grace-period/) if your status is also affected.
+**Can you reapply?** Yes, generally by applying for a new visa at a U.S. embassy or consulate abroad. A prior revocation will likely be visible to the consulate and could lead to denial. Revocation is separate from a visa refusal, and outcomes are discretionary. Consider your timing around [unlawful presence rules](/blog/immigration-overstay-unlawful-presence-3-10-year-bars-explained/) and [H-1B layoff grace periods](/blog/h-1b-layoff-60-day-grace-period/) if your status is also affected.
 
 **When you can handle it yourself.** Checking your records, informing your DSO or HR, and gathering documents.
 
@@ -96,7 +95,7 @@ See [immigration lawyer fees](/blog/immigration-lawyer-fees-flat-fee-vs-hourly/)
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [22 CFR 41.122 (Cornell LII)](https://www.law.cornell.edu/cfr/text/22/41.122); [Congressional Research Service R49040](https://www.everycrsreport.com/reports/R49040.html); [Porter Wright, Employer Law Report (Jan 2026)](https://www.employerlawreport.com/2026/01/articles/immigration/prudential-visa-revocations-and-what-you-should-know/); [Business Standard](https://www.business-standard.com/immigration/us-doubles-student-visa-cancellations-in-2025-what-revocation-really-means-125121000479_1.html); [Al Jazeera, Aug 2026](https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department); [WJLA/Fox News, Oct 2026](https://wjla.com/news/nation-world/state-department-says-more-than-250000-visas-revoked-president-trump-tommy-pigott-asylum-crimes); [Shautsova Law](https://shautsova.com/2026/03/17/student-visa-revocations-in-the-united-states-what-you-must-do-if-your-f-1-status-is-terminated/); [Hacking Immigration Law](https://hackinglawpractice.com/my-visa-got-revoked/). A primary State Department revocation page was not retrieved.
+**Sources:** [22 CFR 41.122 (Cornell LII)](https://www.law.cornell.edu/cfr/text/22/41.122); [Congressional Research Service R49040](https://www.everycrsreport.com/reports/R49040.html); [Porter Wright, Employer Law Report (Jan 2026)](https://www.employerlawreport.com/2026/01/articles/immigration/prudential-visa-revocations-and-what-you-should-know/); [Al Jazeera, Aug 2026](https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department); [WJLA/Fox News, Oct 2026](https://wjla.com/news/nation-world/state-department-says-more-than-250000-visas-revoked-president-trump-tommy-pigott-asylum-crimes). A primary State Department revocation page was not retrieved.
 
 ## FAQ
 
@@ -110,11 +109,11 @@ Check the email on your DS-160 and your CEAC status. Per Porter Wright, notice i
 
 **Can I get a new visa after a revocation?**
 
-Generally you would apply again at a U.S. embassy or consulate abroad. Per Shautsova Law, the prior revocation will be visible to the consulate and could lead to denial, and decisions are discretionary. You cannot get a new visa from inside the U.S.
+Generally you would apply again at a U.S. embassy or consulate abroad. A prior revocation will likely be visible to the consulate and could lead to denial, and decisions are discretionary. You cannot get a new visa from inside the U.S.
 
 **Is visa revocation the same as SEVIS termination?**
 
-No. Per Shautsova Law, a SEVIS termination ends F-1 or J-1 status and stops OPT or CPT work authorization, while visa revocation affects the stamp used for entry. The CRS says revocation generally does not automatically terminate SEVIS status.
+No. A SEVIS termination is a separate action that can affect F-1 or J-1 status and OPT or CPT work authorization, while visa revocation affects the stamp used for entry. The CRS says revocation generally does not automatically terminate SEVIS status.
 
 ---
 

@@ -8,9 +8,9 @@ faq:
   - question: 'Should a restaurant be an LLC or an S corp?'
     answer: 'Nolo suggests a liability-limiting form like an LLC or corporation. The tax election is a separate decision for a tax professional.'
   - question: 'Does a health permit let me serve alcohol?'
-    answer: 'No. Lightspeed says a food service license does not cover alcohol; a separate liquor license is required.'
+    answer: 'Not by itself. In Nolo''s New York example, the food service permit comes from the local health authority, while liquor is handled separately through the State Liquor Authority.'
   - question: 'What is a Good Guy Guarantee?'
-    answer: 'DHC Legal describes it as a New York lease concept that limits a guarantor''s liability. It is not available everywhere.'
+    answer: 'It is a lease negotiating term, commonly discussed in New York, that is meant to limit a guarantor''s liability. Terms vary by lease and landlord, so have an attorney review it.'
   - question: 'Do tipped employees have to report tips?'
     answer: 'Per IRS Topic 761, employees with $20 or more in cash tips in a month report to their employer by the 10th of the next month.'
 toc:
@@ -45,11 +45,11 @@ toc:
 
 ## 2. Permits and licenses
 
-Nolo's New York example: the food service permit comes from the local health authority, apply at least 21 days before opening, fees are generally several hundred dollars, liquor goes through the State Liquor Authority, and you may need a certificate of authority to collect sales tax. Lightspeed says a food service license does not cover alcohol, on-license types include restaurant, beer and wine, and tavern, and rough costs are about $100 to $1,000 for a health permit and about $50 for a business license (range $25 to $7,000). Fire, plumbing, electrical, and building inspections may be needed for a certificate of occupancy. These are vendor estimates and vary by state and city. The SBA says restaurants are commonly regulated locally.
+Nolo's New York example: the food service permit comes from the local health authority, apply at least 21 days before opening, fees are generally several hundred dollars, liquor goes through the State Liquor Authority, and you may need a certificate of authority to collect sales tax. A food service permit does not by itself cover alcohol, which is handled separately. Fire, plumbing, electrical, and building inspections may also be needed for a certificate of occupancy. Fees and requirements vary by state and city. The SBA says restaurants are commonly regulated locally.
 
 ## 3. The lease personal guarantee
 
-DHC Legal says many New York City restaurant leases require a personal guarantee beyond the LLC. A full guarantee covers rent, damages, and attorney fees, may survive lease termination, and is not wiped out if the entity goes bankrupt. Negotiation options include a Good Guy Guarantee (a New York concept), a cap such as 12 months' rent, burn-offs such as 25% a year after year three, or shared pro-rata guarantees. Have an attorney review the lease before you sign.
+Landlords of restaurant spaces, particularly in New York City, often ask for a personal guarantee beyond the LLC, which can put the owner's personal assets at risk if the business cannot pay. Negotiation options sometimes discussed include a Good Guy Guarantee, a cap on the guaranteed amount, a guarantee that reduces over time, or shared guarantees among owners. Have an attorney review the lease before you sign.
 
 ![Restaurant legal paperwork checklist](/images/how-to-incorporate-a-restaurant/grid.webp)
 
@@ -61,7 +61,7 @@ Under federal law (29 U.S.C. 203), an employer may not keep employees' tips, a t
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Nolo: New York](https://www.nolo.com/legal-encyclopedia/starting-restaurant-business-new-york.html); [Nolo: Texas](https://www.nolo.com/legal-encyclopedia/starting-restaurant-texas.html); [Lightspeed](https://www.lightspeedhq.com/blog/restaurant-licenses-and-permits/); [DHC Legal](https://dhclegal.com/good-guy-guarantees-and-personal-guarantees/); [29 U.S.C. 203](https://www.law.cornell.edu/uscode/text/29/203); [IRS Topic 761](https://www.irs.gov/taxtopics/tc761); [SBA](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits).
+**Sources:** [Nolo: New York](https://www.nolo.com/legal-encyclopedia/starting-restaurant-business-new-york.html); [Nolo: Texas](https://www.nolo.com/legal-encyclopedia/starting-restaurant-texas.html); [29 U.S.C. 203](https://www.law.cornell.edu/uscode/text/29/203); [IRS Topic 761](https://www.irs.gov/taxtopics/tc761); [SBA](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits).
 
 ## FAQ
 
@@ -71,11 +71,11 @@ Nolo suggests a liability-limiting form like an LLC or corporation. The tax elec
 
 **Does a health permit let me serve alcohol?**
 
-No. Lightspeed says a food service license does not cover alcohol; a separate liquor license is required.
+Not by itself. In Nolo's New York example, the food service permit comes from the local health authority, while liquor is handled separately through the State Liquor Authority.
 
 **What is a Good Guy Guarantee?**
 
-DHC Legal describes it as a New York lease concept that limits a guarantor's liability. It is not available everywhere.
+It is a lease negotiating term, commonly discussed in New York, that is meant to limit a guarantor's liability. Terms vary by lease and landlord, so have an attorney review it.
 
 **Do tipped employees have to report tips?**
 

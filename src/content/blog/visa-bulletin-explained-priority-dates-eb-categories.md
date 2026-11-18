@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** The Visa Bulletin is a monthly State Department chart of cutoff dates. If your priority date is earlier than the cutoff for your category and your country of birth, you can move forward. Each bulletin has two charts: Dates for Filing (can you submit Form I-485?) and Final Action Dates (can the green card be approved?). For November 2026, USCIS said employment-based adjustment applicants should use the Dates for Filing chart, per Fisher Phillips and Envoy.
+**Quick answer:** The Visa Bulletin is a monthly State Department chart of cutoff dates. If your priority date is earlier than the cutoff for your category and your country of birth, you can move forward. Each bulletin has two charts: Dates for Filing (can you submit Form I-485?) and Final Action Dates (can the green card be approved?). For November 2026, USCIS said employment-based adjustment applicants should use the Dates for Filing chart, per Fisher Phillips and Morgan Lewis.
 
 ![Key terms for reading the monthly Visa Bulletin](/images/visa-bulletin-explained-priority-dates-eb-categories/grid.webp)
 
@@ -54,13 +54,13 @@ toc:
 
 ## 3. November 2026 cutoffs for India, China, and everyone else
 
-These are the November 2026 employment-based cutoffs as reported by Cilaw Group (Final Action) and Fisher Phillips (Dates for Filing). Check the State Department's bulletin itself before you file.
+These are the November 2026 employment-based cutoffs as published in the State Department's November 2026 Visa Bulletin (Final Action) and reported by Morgan Lewis (Dates for Filing). Check the State Department's bulletin itself before you file.
 
 - **EB-1:** Final Action is current for most countries, Aug. 1, 2023 for China, Feb. 1, 2023 for India. Dates for Filing: current for most countries, July 1, 2024 for China and India.
 - **EB-2:** Final Action is Apr. 1, 2025 for most countries, Oct. 1, 2021 for China, Nov. 1, 2013 for India. Dates for Filing: Mar. 15, 2026, Jan. 1, 2023, and Jan. 15, 2015.
 - **EB-3 (professionals and skilled workers):** Final Action is June 15, 2024 for most countries, Jan. 22, 2022 for China, Jan. 22, 2014 for India. Dates for Filing: Aug. 1, 2024, Apr. 1, 2024, and Jan. 15, 2015.
 
-Cilaw Group reports no retrogression in November 2026 and notes that China EB-2 applicants with priority dates between Jan. 1, 2023 and Apr. 1, 2024 may have an EB-3 downgrade option. Whether a downgrade makes sense depends on your job and PERM, which is a question for an attorney.
+Whether switching categories (for example, from EB-2 to EB-3) makes sense depends on your job and PERM, which is a question for an attorney.
 
 ![Five steps to check a priority date against the Visa Bulletin](/images/visa-bulletin-explained-priority-dates-eb-categories/steps.webp)
 
@@ -81,7 +81,7 @@ The priority date you read from your notice, not the date you started the proces
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Cilaw Group, November 2026 bulletin](https://cilawgroup.com/?p=16977); [Fisher Phillips](https://www.fisherphillips.com/en/insights/insights/the-fp-visa-bulletin-for-november-2026); [Envoy Global](https://www.envoyglobal.com/news-alert/november-2026-visa-bulletin/); [National Law Review, how to read the bulletin](https://natlawreview.com/article/how-read-visa-bulletin-step-step-guide-eb-1-and-eb-2-applicants); [National Law Review, priority dates and retrogression](https://natlawreview.com/article/understanding-visa-bulletin-priority-dates-current-status-and-retrogression). The State Department's own bulletin page could not be loaded; confirm figures there.
+**Sources:** [U.S. Department of State, November 2026 Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html); [Fisher Phillips](https://www.fisherphillips.com/en/insights/insights/the-fp-visa-bulletin-for-november-2026); [Morgan Lewis, November 2026 Visa Bulletin](https://www.morganlewis.com/pubs/2026/10/us-department-of-state-releases-november-2026-visa-bulletin); [National Law Review, how to read the bulletin](https://natlawreview.com/article/how-read-visa-bulletin-step-step-guide-eb-1-and-eb-2-applicants); [National Law Review, priority dates and retrogression](https://natlawreview.com/article/understanding-visa-bulletin-priority-dates-current-status-and-retrogression). Confirm figures on the State Department's bulletin page before filing.
 
 ## FAQ
 

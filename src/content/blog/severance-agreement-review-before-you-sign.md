@@ -54,7 +54,7 @@ Per [Troutman Pepper](https://www.troutman.com/insights/severance-agreements-for
 - Give 7 days after signing to revoke, which the parties cannot shorten.
 - Not waive claims that arise after signing.
 
-For group programs, employers must also disclose eligibility factors and time limits, plus the job titles and ages of those selected and not selected in the same unit. Per FindLaw, the employer bears the burden of proving the waiver was knowing and voluntary. A [KMK Law article](https://www.kmklaw.com/labor-employment/employers-still-making-owbpa-mistakes) says its author found that over half of the severance offers reviewed did not comply, so check the timing and disclosures.
+For group programs, employers must also disclose eligibility factors and time limits, plus the job titles and ages of those selected and not selected in the same unit. Per FindLaw, the employer bears the burden of proving the waiver was knowing and voluntary. Employers sometimes miss these requirements, so check the timing and disclosures.
 
 Per the EEOC guidance summarized by [Littler](https://www.littler.com/publication-press/publication/eeoc-issues-new-guidance-severance-agreements), an agreement may not restrict your right to file an EEOC charge or take part in an EEOC investigation, and the EEOC treats such provisions as invalid and unenforceable. The 21 or 45 days can restart after a material change to the offer, though the parties can agree otherwise under the regulations.
 
@@ -87,7 +87,7 @@ You can usually read a short, standard agreement yourself. Get an attorney to lo
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Troutman Pepper, OWBPA](https://www.troutman.com/insights/severance-agreements-for-employees-over-40-understanding-the-older-workers-benefit-protection-act.html); [FindLaw, EEOC waiver regulations](https://corporate.findlaw.com/?p=36677); [Littler, EEOC severance guidance](https://www.littler.com/publication-press/publication/eeoc-issues-new-guidance-severance-agreements); [KMK Law, OWBPA mistakes](https://www.kmklaw.com/labor-employment/employers-still-making-owbpa-mistakes).
+**Sources:** [Troutman Pepper, OWBPA](https://www.troutman.com/insights/severance-agreements-for-employees-over-40-understanding-the-older-workers-benefit-protection-act.html); [FindLaw, EEOC waiver regulations](https://corporate.findlaw.com/?p=36677); [Littler, EEOC severance guidance](https://www.littler.com/publication-press/publication/eeoc-issues-new-guidance-severance-agreements).
 
 ## FAQ
 

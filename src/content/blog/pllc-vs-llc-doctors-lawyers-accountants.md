@@ -8,11 +8,11 @@ faq:
   - question: 'Can a doctor form a regular LLC?'
     answer: 'It depends on the state and licensing board. Many states require a PLLC or professional corporation for licensed professions. Check your board.'
   - question: 'Does a PLLC protect me from malpractice claims?'
-    answer: 'Per NerdWallet and LegalZoom, it protects you from a partner''s malpractice, not your own.'
+    answer: 'Per NerdWallet, it protects you from a partner''s malpractice, not your own.'
   - question: 'Can a lawyer and a doctor own a PLLC together?'
-    answer: 'InCorp says generally no; PLLC owners are typically limited to the same licensed profession.'
+    answer: 'Often not. Many states limit PLLC ownership to licensed members of the same profession, so confirm with your licensing board.'
   - question: 'How many states allow PLLCs?'
-    answer: 'Sources differ. NerdWallet lists 32 states plus DC and InCorp says roughly 30. Verify your state.'
+    answer: 'NerdWallet lists 32 states plus DC. Rules vary, so verify your state and profession.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -35,7 +35,7 @@ toc:
 - Licensed professionals often must use a PLLC or professional corporation, depending on the state.
 - Owners generally must be licensed; boards may need to approve before filing.
 - A PLLC protects against a partner's malpractice, not your own.
-- California allows professional corporations but not PLLCs, per BizCounsel.
+- Some states, including California, may require professional corporations rather than PLLCs, so check your state.
 
 ## 1. The quick answer
 
@@ -45,23 +45,23 @@ toc:
 
 ## 2. Who can own it
 
-NerdWallet says anyone needing a state license can form a PLLC and all owners must be licensed. LegalZoom says some states allow a small share of non-licensed owners. InCorp adds that a doctor and a lawyer generally cannot share one PLLC, law-firm PLLCs often limit ownership to attorneys licensed in the formation state, and CPA PLLCs often need a controlling majority of active CPAs. Many states require board approval before the Secretary of State accepts the filing.
+NerdWallet says anyone needing a state license can form a PLLC and all owners must be licensed. Some states may allow limited non-licensed ownership, and ownership rules differ by profession (for example, law-firm and CPA-firm ownership is often restricted), so a doctor and a lawyer may not be able to share one PLLC. Many states require board approval before the Secretary of State accepts the filing; confirm with your licensing board.
 
 ## 3. Which states and which entity
 
-Sources disagree on how many states recognize PLLCs (NerdWallet lists 32 plus DC, InCorp says roughly 30), so verify your state and profession. Some states allow both PLLCs and PCs; BizCounsel says California permits only professional corporations and West Virginia only PLLCs. Compare general entities in [LLC vs. C corp](/blog/llc-vs-c-corp-startups/), and California costs in [how to start an LLC in California](/blog/how-to-start-an-llc-in-california-step-by-step/).
+NerdWallet lists 32 states plus DC that recognize PLLCs, so verify your state and profession. Some states allow both PLLCs and PCs, while others permit only one of them; California, for example, is commonly cited as requiring professional corporations, so confirm with the Secretary of State. Compare general entities in [LLC vs. C corp](/blog/llc-vs-c-corp-startups/), and California costs in [how to start an LLC in California](/blog/how-to-start-an-llc-in-california-step-by-step/).
 
 ![Steps to set up a PLLC or professional corporation](/images/pllc-vs-llc-doctors-lawyers-accountants/steps.webp)
 
 ## 4. Insurance, taxes, and keeping the shield
 
-InCorp says many states require malpractice coverage, often in the $100,000 to $1,000,000 range. NerdWallet says PLLC earnings are subject to self-employment tax, some states charge franchise or gross receipts taxes, and workers' compensation is required with employees in every state except Texas. InCorp also notes courts can pierce the shield if the entity is not properly maintained. Use an [operating agreement](/blog/llc-operating-agreement-with-ai/) and confirm rules with your state's licensing board.
+Some states and licensing boards require malpractice coverage, so check your board's minimums. NerdWallet says PLLC earnings are subject to self-employment tax, some states charge franchise or gross receipts taxes, and workers' compensation is required with employees in every state except Texas. Courts can pierce the liability shield if the entity is not properly maintained. Use an [operating agreement](/blog/llc-operating-agreement-with-ai/) and confirm rules with your state's licensing board.
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [NerdWallet](https://www.nerdwallet.com/business/legal/learn/professional-limited-liability-company); [LegalZoom](https://www.legalzoom.com/articles/what-makes-an-llc-different-from-a-pllc); [BizCounsel](https://bizcounsel.com/PLLC-vs-Professional-Corporation-Whats-the-Difference); [InCorp](https://www.incorp.com/resources/knowledge-base/professional-services-llc).
+**Sources:** [NerdWallet](https://www.nerdwallet.com/business/legal/learn/professional-limited-liability-company).
 
 ## FAQ
 
@@ -71,15 +71,15 @@ It depends on the state and licensing board. Many states require a PLLC or profe
 
 **Does a PLLC protect me from malpractice claims?**
 
-Per NerdWallet and LegalZoom, it protects you from a partner's malpractice, not your own.
+Per NerdWallet, it protects you from a partner's malpractice, not your own.
 
 **Can a lawyer and a doctor own a PLLC together?**
 
-InCorp says generally no; PLLC owners are typically limited to the same licensed profession.
+Often not. Many states limit PLLC ownership to licensed members of the same profession, so confirm with your licensing board.
 
 **How many states allow PLLCs?**
 
-Sources differ. NerdWallet lists 32 states plus DC and InCorp says roughly 30. Verify your state.
+NerdWallet lists 32 states plus DC. Rules vary, so verify your state and profession.
 
 ---
 

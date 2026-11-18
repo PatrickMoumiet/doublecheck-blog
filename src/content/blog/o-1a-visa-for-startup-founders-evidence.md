@@ -45,7 +45,7 @@ toc:
 
 ## 2. How a founder maps the criteria
 
-Beyond Border lists eight categories of evidence for the O-1A: awards, judging, membership, press, high remuneration, original contribution, scholarly articles, and critical employment. The USCIS page says at least three types of qualifying documentation are needed, and that the evidence as a whole must meet the standard. A founder's file commonly leans on press coverage, a leading or critical role in the company, original contributions with measurable impact, and compensation or equity, but whether a given item counts is for the adjudicator to decide.
+The USCIS page points to the USCIS Policy Manual and the O-1 regulations for the evidence categories, which include awards, judging, membership, press, high remuneration, original contribution, scholarly articles, and critical employment. The USCIS page says at least three types of qualifying documentation are needed, and that the evidence as a whole must meet the standard. A founder's file commonly leans on press coverage, a leading or critical role in the company, original contributions with measurable impact, and compensation or equity, but whether a given item counts is for the adjudicator to decide.
 
 - Keep source links, dates, and screenshots for press, awards, and traction.
 - Show impact with numbers where you can document them.
@@ -67,7 +67,7 @@ The O-1 is for temporary stays: up to three years at first, with extensions in i
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS O-1](https://uscis.gov/o-1); [Beyond Border](https://www.beyondborderglobal.com/resources/o-1-criteria-evidence-matrix-8-cfr-214-2-o-2026).
+**Sources:** [USCIS O-1](https://uscis.gov/o-1). The evidence categories are set out in the USCIS Policy Manual and 8 CFR 214.2(o), which the USCIS page references.
 
 ## FAQ
 

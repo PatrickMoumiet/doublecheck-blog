@@ -6,11 +6,11 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is a 1x liquidation preference?'
-    answer: 'It means the preferred investor first receives 1x its original investment before common holders share in proceeds. Kruze describes a typical 1x preference as investors recovering their original investment first.'
+    answer: 'It means the preferred investor first receives 1x its original investment before common holders share in proceeds. WilmerHale describes a typical 1x preference as equal to the investor’s investment.'
   - question: 'What is the difference between participating and non-participating preferred?'
     answer: 'Per Morrison Foerster, non-participating preferred gets the greater of its preference or its as-converted share. Participating preferred takes its preference first and then shares in the remainder with common, which MoFo describes as the most investor-favorable option.'
   - question: 'What does a participation cap do?'
-    answer: 'It limits total proceeds to a set multiple. MoFo''s example is a 1x preference with participation capped at 2x, and the holder can instead convert to common and give up the preference.'
+    answer: 'It limits total proceeds to a set multiple. MoFo’’s example is a 1x preference with participation capped at 2x, and the holder can instead convert to common and give up the preference.'
   - question: 'What is the difference between pari passu and stacked seniority?'
     answer: 'Per MoFo, pari passu gives all series equal priority, while stacked pays later series first. Which one applies is set in your charter, so confirm it with an attorney.'
 toc:
@@ -51,9 +51,9 @@ Per [Morrison Foerster](https://scaleup.mofo.com/guidance/ask-a-mofo-common-prov
 - **Participating:** the holder takes its fixed multiple first, then shares pro rata in the remainder with common. MoFo calls it the most investor-favorable option and less common.
 - **Capped participating:** works like participating, but total proceeds are capped at a set multiple (for example a 1x preference with participation up to 2x). The holder can instead convert to common and give up the preference.
 
-The multiple is usually 1x but can be 2x, 3x, or higher, per MoFo, which notes that very high multiples can demotivate founders and employees if they become unlikely to receive proceeds. [Kruze Consulting](https://kruzeconsulting.com/liquidation-preference) similarly says multiples above 1x are uncommon and calls non-participating the most common type in Silicon Valley. These descriptions come from advisors, not from a survey, so check what investors are actually proposing in your market.
+The multiple is usually 1x but can be 2x, 3x, or higher, per MoFo, which notes that very high multiples can demotivate founders and employees if they become unlikely to receive proceeds. [WilmerHale](https://launch.wilmerhale.com/explore/financing/financing-terms-and-structures/how-liquidation-preferences-work) similarly calls a 1x preference typical and describes multiples above 1x as not typical. These descriptions come from advisors, not from a survey, so check what investors are actually proposing in your market.
 
-A sale of the company or substantially all of its assets is generally treated as a liquidation event in term sheets, per Kruze's Y Combinator example. See [key term sheet terms](/blog/term-sheet-key-terms-explained/) for where this clause sits.
+A sale of the company or substantially all of its assets is generally treated as a liquidation event in term sheets, per WilmerHale, which says the preference applies to proceeds from a sale or liquidation of the company. See [key term sheet terms](/blog/term-sheet-key-terms-explained/) for where this clause sits.
 
 ## 3. A worked example
 
@@ -67,7 +67,7 @@ The practical point, echoed by [LTSE](https://ltse.com/insights/funding-your-sta
 
 ## 4. Seniority and what to check
 
-With several rounds, the order of payment matters. MoFo says the default is pari passu (all series equal), while a stacked structure pays later series first, and a grouped structure lets certain series share priority. Kruze illustrates the stacked case: if a Series B invested $25 million and has seniority, a $25 million sale returns all of it to Series B, and Series A and the founders receive nothing.
+With several rounds, the order of payment matters. MoFo says the default is pari passu (all series equal), while a stacked structure pays later series first, and a grouped structure lets certain series share priority. As our own hypothetical: if a Series B invested $25 million and has seniority, a $25 million sale would return all of it to Series B, and Series A and the founders would receive nothing.
 
 Before you sign:
 
@@ -84,13 +84,13 @@ An attorney can confirm what counts as a deemed liquidation event in your charte
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Morrison Foerster, Ask a MoFo: Liquidation Preference](https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference); [LTSE, A Founder's Guide to Liquidation Preferences](https://ltse.com/insights/funding-your-startup-a-founders-guide-to-liquidation-preferences); [Kruze Consulting, Liquidation Preference](https://kruzeconsulting.com/liquidation-preference).
+**Sources:** [Morrison Foerster, Ask a MoFo: Liquidation Preference](https://scaleup.mofo.com/guidance/ask-a-mofo-common-provisions-in-venture-capital-term-sheets-liquidation-preference); [LTSE, A Founder's Guide to Liquidation Preferences](https://ltse.com/insights/funding-your-startup-a-founders-guide-to-liquidation-preferences); [WilmerHale, How liquidation preferences work](https://launch.wilmerhale.com/explore/financing/financing-terms-and-structures/how-liquidation-preferences-work).
 
 ## FAQ
 
 **What is a 1x liquidation preference?**
 
-It means the preferred investor first receives 1x its original investment before common holders share in proceeds. Kruze describes a typical 1x preference as investors recovering their original investment first.
+It means the preferred investor first receives 1x its original investment before common holders share in proceeds. WilmerHale describes a typical 1x preference as equal to the investor's investment.
 
 **What is the difference between participating and non-participating preferred?**
 

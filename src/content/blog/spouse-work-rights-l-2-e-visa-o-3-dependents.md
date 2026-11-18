@@ -10,7 +10,7 @@ faq:
   - question: 'Can an E-2 or E-3 spouse work?'
     answer: 'Yes, with an E-2S or E-3S I-94 (E-1S for E-1), per Mintz. Spouses who entered earlier had to re-enter to receive the designation or use an EAD.'
   - question: 'Can an O-3 spouse work?'
-    answer: 'No. Messersmith Law states O-3 status does not authorize employment, including freelance paid work. O-3 dependents generally may study, and the spouse should check whether they qualify for their own work-authorized status.'
+    answer: 'No. USCIS says O-3 spouses and children may not work in the United States under that classification, though they may study full time or part time. The spouse should check whether they qualify for their own work-authorized status.'
   - question: 'Can L-2 or E children work?'
     answer: 'Mintz describes the Y designations for children but no work authorization for them, and the work benefit appears to apply to spouses. Confirm with USCIS or counsel before a child takes a job.'
 toc:
@@ -34,12 +34,12 @@ toc:
 
 - L-2 and E-1/E-2/E-3 spouses are work authorized incident to status with an S-coded I-94, per Mintz.
 - An I-94 without the spousal designation is not enough for Form I-9; an EAD is needed.
-- O-3 status does not authorize employment, per Messersmith Law; dependents may study.
+- O-3 status does not authorize employment, per USCIS; dependents may study.
 - Children are not described as work authorized on dependent status.
 
 ## 1. The quick answer
 
-**Quick answer:** Spouses of L-1 and E-1, E-2 and E-3 workers are employment authorized incident to status when their I-94 carries a spousal designation (L-2S, E-1S, E-2S or E-3S), so they can work without a separate EAD. O-3 dependents of O-1 and O-2 workers cannot work on O-3 status, per Messersmith Law, though they may study. Mintz describes no work authorization for children.
+**Quick answer:** Spouses of L-1 and E-1, E-2 and E-3 workers are employment authorized incident to status when their I-94 carries a spousal designation (L-2S, E-1S, E-2S or E-3S), so they can work without a separate EAD. O-3 dependents of O-1 and O-2 workers cannot work on O-3 status, per USCIS, though they may study. Mintz describes no work authorization for children.
 
 ![Work rights of L-2, E and O-3 dependents](/images/spouse-work-rights-l-2-e-visa-o-3-dependents/grid.webp)
 
@@ -58,7 +58,7 @@ Ogletree adds that spouses holding an EAD under categories (a)(17) (E) or (a)(18
 
 ## 3. O-3 dependents: study yes, work no
 
-O-3 status covers the spouse and unmarried children under 21 of O-1 or O-2 workers. Messersmith Law states that O-3 status "does not authorize employment," including freelance paid activity, and that O-3 dependents generally may study while in status. Its page does not describe an EAD available to O-3 dependents. It suggests families evaluate whether the spouse independently qualifies for an employment-authorized classification.
+O-3 status covers the spouse and unmarried children under 21 of O-1 or O-2 workers. [USCIS](https://uscis.gov/o-1) says O-3 spouses and children "may not work in the United States under this classification," though they may participate in full-time or part-time study. Families should evaluate whether the spouse independently qualifies for an employment-authorized classification.
 
 Dependents can join the principal later, and Form I-539 may be used for extensions or changes, coordinated with the principal's petition, per the same page. Child eligibility is generally limited to unmarried children under 21, so plan an independent status before the age limit.
 
@@ -82,7 +82,7 @@ If the situation is unusual, such as a prior unauthorized job, a lapsed I-94, or
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mintz on L-2 and E I-94 designations](https://www.mintz.com/insights-center/viewpoints/2806/2022-02-17-cbp-begins-issuing-new-i-94-designations-l-2-and-e); [Ogletree](https://ogletree.com/insights-resources/blog-posts/uscis-ends-automatic-extension-of-employment-authorization-with-interim-final-rule/); [Messersmith Law on O-3](https://messersmithlaw.com/o3-visa/).
+**Sources:** [Mintz on L-2 and E I-94 designations](https://www.mintz.com/insights-center/viewpoints/2806/2022-02-17-cbp-begins-issuing-new-i-94-designations-l-2-and-e); [Ogletree](https://ogletree.com/insights-resources/blog-posts/uscis-ends-automatic-extension-of-employment-authorization-with-interim-final-rule/); [USCIS, O-1 visa](https://uscis.gov/o-1).
 
 ## FAQ
 
@@ -96,7 +96,7 @@ Yes, with an E-2S or E-3S I-94 (E-1S for E-1), per Mintz. Spouses who entered ea
 
 **Can an O-3 spouse work?**
 
-No. Messersmith Law states O-3 status does not authorize employment, including freelance paid work. O-3 dependents generally may study, and the spouse should check whether they qualify for their own work-authorized status.
+No. USCIS says O-3 spouses and children may not work in the United States under that classification, though they may study full time or part time. The spouse should check whether they qualify for their own work-authorized status.
 
 **Can L-2 or E children work?**
 

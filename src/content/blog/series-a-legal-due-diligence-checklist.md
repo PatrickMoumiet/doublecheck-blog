@@ -52,7 +52,7 @@ Before a priced round closes, investors review a company's legal records to conf
 
 ![Six areas investors check: corporate records, cap table, IP assignments, employment, material contracts, and compliance](/images/series-a-legal-due-diligence-checklist/six-areas.webp)
 
-This checklist follows the areas that a Series A legal checklist from Allied VC lists.
+This checklist covers the areas investors commonly review.
 
 ## 2. Corporate records and the cap table
 
@@ -78,7 +78,7 @@ Licenses and permits, privacy policies and terms of service, data security polic
 
 ![Build the data room: collect, organize, find gaps, fix them, then share with investors](/images/series-a-legal-due-diligence-checklist/data-room.webp)
 
-Collect every document, organize one folder per area, list what is missing or unsigned, fix the gaps, and only then give investors access. Allied VC's guide notes that missing or incomplete documents are a major red flag.
+Collect every document, organize one folder per area, list what is missing or unsigned, fix the gaps, and only then give investors access. Missing or incomplete documents are a common red flag.
 
 ![Gaps slow deals down: missing or incomplete documents are a red flag, while an organized and complete data room makes for a faster process](/images/series-a-legal-due-diligence-checklist/gaps.webp)
 
@@ -86,7 +86,7 @@ Collect every document, organize one folder per area, list what is missing or un
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Source:** [Allied VC: Series A Funding Legal Checklist](https://www.allied.vc/guides/series-a-funding-legal-checklist).
+**Sources:** [DLA Piper, early-stage breakups (IP assignment pointers)](https://www.dlapiper.com/insights/publications/accelerate/employee-other-service-provider-matters/early-stage-breakups-a-few-pointers-to-keep-in-mind); [Davis Wright Tremaine on 83(b)](https://dwt.com/blogs/startup-law-blog/2020/10/section-83b-election-for-startup-founders).
 
 ## FAQ
 

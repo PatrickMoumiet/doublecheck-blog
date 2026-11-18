@@ -10,7 +10,7 @@ faq:
   - question: 'Are noncompete agreements still legal?'
     answer: 'Generally yes, subject to state law. Some states void or limit them, and others enforce reasonable ones. Check the state that governs the work and have an attorney review.'
   - question: 'Can the FTC still go after noncompetes?'
-    answer: 'Yes, case by case. NPR reported a 2025 order involving about 1,800 employees of a pet cremation company, and the FTC published a proposed order against Rollins, Inc. in April 2026, per a policyrisk.com summary.'
+    answer: 'Yes, case by case. NPR reported a 2025 order involving about 1,800 employees of a pet cremation company.'
   - question: 'What should a small business do about its noncompetes now?'
     answer: 'Audit who really needs one, narrow the terms by role, check each state where employees work, and consider non-solicitation and confidentiality agreements as alternatives. Have an attorney verify before enforcing.'
 toc:
@@ -59,7 +59,6 @@ For the state-by-state picture this post does not repeat, see [noncompete agreem
 Removing the rule did not end FTC interest in noncompetes. It shifted the tool from a rulemaking to individual enforcement:
 
 - **Pet cremation case (2025).** Per NPR, the FTC ordered the country's largest pet cremation business to stop enforcing noncompetes against about 1,800 employees, and opened a public request for information on noncompetes.
-- **Rollins (2026).** Per a policyrisk.com summary of the Federal Register notice, the FTC published a proposed order against pest-control company Rollins, Inc. on April 22, 2026, with comments due May 22, 2026. It would bar Rollins from enforcing noncompetes against covered employees, require written notice that they are not bound, and last ten years if finalized. It is a proposed order, and I did not verify whether it has since been finalized.
 
 The pattern in these matters is broad noncompetes imposed on large numbers of workers. A single well-drafted agreement for a senior hire is a different situation, but it still has to satisfy state law.
 
@@ -69,7 +68,7 @@ The pattern in these matters is broad noncompetes imposed on large numbers of wo
 
 **Employers**
 
-1. **Audit existing noncompetes.** Ask whether each person truly has access to trade secrets or key client relationships, per a July 2026 beancount.io guide, and tailor restrictions by role instead of using one template.
+1. **Audit existing noncompetes.** Ask whether each person truly has access to trade secrets or key client relationships, and tailor restrictions by role instead of using one template.
 2. **Check every state where you have people**, including remote workers. The governing state, not your headquarters, often decides.
 3. **Consider lighter tools first.** [Non-solicitation agreements](/blog/non-solicitation-agreements-explained/), [confidentiality and IP assignment](/blog/confidentiality-ip-assignment-agreements-startups/) and [trade secret practices](/blog/trade-secret-protection-small-business-startups/) protect a business without barring someone from working.
 4. **Ask candidates** about existing restrictive covenants before an offer, and fix this in your [first-hire checklist](/blog/how-to-hire-first-employee-legal-checklist/).
@@ -88,7 +87,7 @@ You can use AI to summarize an agreement and list questions (see [AI and small b
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Federal Register notice 2026-02866 (GovInfo)](https://www.govinfo.gov/content/pkg/FR-2026-02-12/html/2026-02866.htm); [FTC public comment page for the final action](https://www.ftc.gov/policy/public-comments/revision-negative-option-rule-withdrawal-cars-rule-removal-non-compete-rule-conform-these-rules-0); [NPR via WAMC, Sept 5, 2025](https://www.wamc.org/2025-09-05/under-trump-the-federal-trade-commission-is-abandoning-its-ban-on-noncompetes); [policyrisk.com on the Rollins proposed order](https://policyrisk.com/federal-register/2026-07844); [beancount.io, July 2026](https://beancount.io/blog/2026/07/09/ftc-noncompete-ban-withdrawn-small-employer-enforcement-guide). The ftc.gov page loaded only as a comment-page summary.
+**Sources:** [Federal Register notice 2026-02866 (GovInfo)](https://www.govinfo.gov/content/pkg/FR-2026-02-12/html/2026-02866.htm); [FTC public comment page for the final action](https://www.ftc.gov/policy/public-comments/revision-negative-option-rule-withdrawal-cars-rule-removal-non-compete-rule-conform-these-rules-0); [NPR via WAMC, Sept 5, 2025](https://www.wamc.org/2025-09-05/under-trump-the-federal-trade-commission-is-abandoning-its-ban-on-noncompetes). The ftc.gov page loaded only as a comment-page summary.
 
 ## FAQ
 
@@ -102,7 +101,7 @@ Generally yes, subject to state law. Some states void or limit them, and others 
 
 **Can the FTC still go after noncompetes?**
 
-Yes, case by case. NPR reported a 2025 order involving about 1,800 employees of a pet cremation company, and the FTC published a proposed order against Rollins, Inc. in April 2026, per a policyrisk.com summary.
+Yes, case by case. NPR reported a 2025 order involving about 1,800 employees of a pet cremation company.
 
 **What should a small business do about its noncompetes now?**
 

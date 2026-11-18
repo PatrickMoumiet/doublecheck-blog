@@ -84,7 +84,7 @@ New to this? Read [how to launch an AI startup in the US](/blog/how-to-launch-ai
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mondaq on the AI Omnibus entering into force](https://www.mondaq.com/uk/new-technology/1825722/eu-digital-omnibus-on-ai-enters-into-force); [Future of Privacy Forum](https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus); [Gibson Dunn](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/); [Holland & Knight on SB 189](https://www.hklaw.com/en/insights/publications/2026/05/colorado-governor-signs-sb-189); [Privacy World on the Colorado stay](https://www.privacyworld.blog/2026/05/the-colorado-ai-act-hits-a-wall-litigation-legislative-uncertainty-and-an-enforcement-standstill/).
+**Sources:** [Mondaq on the AI Omnibus entering into force](https://www.mondaq.com/uk/new-technology/1825722/eu-digital-omnibus-on-ai-enters-into-force); [Future of Privacy Forum](https://fpf.org/blog/the-ai-act-implementation-timeline-what-changes-under-the-ai-omnibus); [Gibson Dunn](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/); [Holland & Knight on SB 189](https://www.hklaw.com/en/insights/publications/2026/05/colorado-governor-signs-sb-189).
 
 ## FAQ
 

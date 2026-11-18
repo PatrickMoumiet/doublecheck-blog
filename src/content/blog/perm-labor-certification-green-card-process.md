@@ -55,13 +55,13 @@ Per Nolo (verify against the regulation, 20 CFR 656.17): mandatory recruitment i
 
 ## 4. After PERM
 
-After certification, the employer files Form I-140 with USCIS. Premium processing for the I-140 is $2,965 since March 1, 2026, with a 15-day clock (45 days for NIW and EB-1), per Boundless and USCIS. Check USCIS's live fee schedule for the base I-140 fee. If you get an RFE, see [how to respond](/blog/how-to-respond-to-uscis-request-for-evidence-rfe/). For startups, read [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/), and for other green card paths [EB-1A vs. O-1](/blog/eb-1a-vs-o-1-founder-which-path/).
+After certification, the employer files Form I-140 with USCIS. Premium processing for the I-140 is $2,965 since March 1, 2026, with a 15-day clock (45 days for NIW and EB-1), per USCIS. Check USCIS's live fee schedule for the base I-140 fee. If you get an RFE, see [how to respond](/blog/how-to-respond-to-uscis-request-for-evidence-rfe/). For startups, read [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/), and for other green card paths [EB-1A vs. O-1](/blog/eb-1a-vs-o-1-founder-which-path/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [DOL FLAG: PERM](https://flag.dol.gov/programs/perm); [DOL processing times](https://flag.dol.gov/processingtimes); [USCIS EB-2](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2); [Nolo](https://nolo.com/legal-encyclopedia/employer-recruitment-requirements-under-perm.html); [Boundless](https://www.boundless.com/blog/uscis-premium-processing-fees-increase-march-2026).
+**Sources:** [DOL FLAG: PERM](https://flag.dol.gov/programs/perm); [DOL processing times](https://flag.dol.gov/processingtimes); [USCIS EB-2](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2); [Nolo](https://nolo.com/legal-encyclopedia/employer-recruitment-requirements-under-perm.html).
 
 ## FAQ
 

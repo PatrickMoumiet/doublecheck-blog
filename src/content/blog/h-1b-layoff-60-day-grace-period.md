@@ -6,13 +6,13 @@ pubDate: 'Nov 5 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How long is the H-1B grace period after a layoff?'
-    answer: 'Up to 60 consecutive calendar days, or until your I-94 expires if sooner, under 8 CFR 214.1(l)(2), per Beyond Border. It is discretionary and available once per authorized validity period.'
+    answer: 'Up to 60 consecutive calendar days, or until your I-94 expires if sooner, under 8 CFR 214.1(l)(2), per the regulation as described in the Federal Register. It is discretionary: DHS can shorten or eliminate it.'
   - question: 'Can I work during the 60 days?'
-    answer: 'No. Beyond Border says the grace period does not authorize work for any employer without separate authorization.'
+    answer: 'No. The grace period lets you stay without failing to maintain status, but it does not itself authorize work. A new employer''s properly filed petition is what can allow work to begin.'
   - question: 'Does my employer have to pay for my trip home?'
-    answer: 'If you were dismissed involuntarily, the employer must offer to pay reasonable return transportation costs to your last foreign residence, per Beyond Border. It does not apply to voluntary departures.'
+    answer: 'If you were dismissed involuntarily, the employer must offer to pay reasonable return transportation costs to your last foreign residence, per Nolo. It does not apply if you leave on your own.'
   - question: 'Is the grace period being eliminated?'
-    answer: 'DHS proposed eliminating it in a rule published September 11, 2026, with comments due November 10, 2026, per F1Jobs. It is a proposal only; the current rule remains in effect until a final rule.'
+    answer: 'DHS proposed eliminating it in a rule scheduled for publication September 11, 2026, with comments due about November 10, 2026, per the Federal Register public inspection copy. It is a proposal only; the current rule remains in effect until a final rule.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,17 +39,17 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** If your H-1B job ends, you may stay in the U.S. for up to 60 consecutive days, or until your I-94 expires if that is sooner, under 8 CFR 214.1(l)(2), per Beyond Border. The clock starts the day employment ends. You can use the time to have a new employer file a transfer petition, change to another status, or leave. As of November 2026, DHS has proposed eliminating this grace period, but it is not final and the current rule still applies.
+**Quick answer:** If your H-1B job ends, you may stay in the U.S. for up to 60 consecutive days, or until your I-94 expires if that is sooner, under 8 CFR 214.1(l)(2). The clock starts the day employment ends. You can use the time to have a new employer file a transfer petition, change to another status, or leave. As of November 2026, DHS has proposed eliminating this grace period, but it is not final and the current rule still applies.
 
 ![Steps to take in the first 60 days after an H-1B layoff](/images/h-1b-layoff-60-day-grace-period/steps.webp)
 
 ## 2. How the grace period works
 
-Per Beyond Border:
+Per the [Federal Register public inspection copy](https://public-inspection.federalregister.gov/2026-18631.pdf) describing the current rule, 8 CFR 214.1(l)(2):
 
-- It lasts up to **60 consecutive calendar days** after employment ends, or until the I-94 validity expires, whichever is shorter.
-- It is **discretionary**, available once per authorized validity period, and USCIS can shorten or eliminate it.
-- It **does not authorize work** for any employer. Separate authorization is needed.
+- It lasts up to **60 consecutive calendar days** after employment ends, or until the authorized validity period ends, whichever is earlier.
+- It is **discretionary**: DHS can shorten or eliminate it, usually when adjudicating a later benefit request.
+- It is a period in which you are not treated as failing to maintain status, and it **is not itself work authorization**. Separate authorization is needed to work.
 
 Nolo's attorney-authored guide adds that someone actively job hunting, with documented applications, correspondence, or interviews, is likely to receive the full 60 days, and that filing around day 60 can lead USCIS to deny the extension-of-stay part of a petition, which could require a trip abroad for a new visa.
 
@@ -57,7 +57,7 @@ Because the clock runs from the day employment ends, get the end date in writing
 
 ## 3. Your options
 
-- **Transfer to a new H-1B employer.** A properly filed transfer petition allows work to begin, and an existing cap count carries over without a new lottery (Beyond Border). Details in [H-1B transfer and portability](/blog/h-1b-transfer-change-of-employer-portability/).
+- **Transfer to a new H-1B employer.** A properly filed transfer petition by a new employer can allow work to begin. Ask the new employer's attorney how it applies to your case. Details in [H-1B transfer and portability](/blog/h-1b-transfer-change-of-employer-portability/).
 - **Change status** to H-4 (if a spouse keeps H-1B status; see [H-4 EAD](/blog/h-4-ead-spouses-of-h-1b/)), F-1, B-2, or O-1, each with its own eligibility. Nolo calls B-2 problematic: job searching is not a visitor activity, and a pending B-2 application can block USCIS from processing an H-1B extension.
 - **Leave the U.S.** and look for work from abroad. Re-entry depends on a valid basis for admission, and an expired visa stamp may require a consular interview and possible administrative processing ([221(g)](/blog/visa-221g-administrative-processing/)).
 - **Self-sponsored routes** such as EB-1A or NIW do not need an employer; see [NIW](/blog/niw-eb-2-national-interest-waiver-founders/) and [O-1/EB-1A](/blog/eb-1a-vs-o-1-founder-which-path/).
@@ -66,13 +66,13 @@ If you have an approved I-140, see [I-140 portability](/blog/i-140-portability-a
 
 ## 4. What your employer owes, records, and the proposed rule
 
-**Employer obligations** (Beyond Border): clearly end the employment relationship, notify USCIS and request withdrawal of the H-1B petition, and, if you were dismissed involuntarily, offer to pay reasonable transportation costs to your last foreign residence. That return-cost duty does not apply to voluntary departures. The required wage stays payable during employer-caused nonproductive periods, and an employer cannot stop wages just by declaring the job over.
+**Employer obligations:** per Nolo, if the employer terminates you, it must offer to pay for your return to your home country; that duty does not apply if you leave on your own. Employers also have notification and wage obligations tied to the H-1B petition, so ask an attorney what applies to your employer.
 
 **Severance:** the sources reviewed do not say how severance affects status, so do not assume it extends the grace period. Ask your attorney which date USCIS will treat as the end of employment.
 
 **Records to keep:** I-797 approval notices, I-94, the Labor Condition Application, any I-140 approval notice, passport and visa pages, and your time used toward the six-year limit.
 
-**The proposed rule.** DHS published "Eliminating the Discretionary 60-day Grace Period" (docket USCIS-2026-0364) on September 11, 2026, per F1Jobs. It would remove 8 CFR 214.1(l)(2) for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1, and TN workers and dependents; the comment deadline is November 10, 2026. It is a proposal only, and the current grace period applies until a final rule takes effect. Check status before relying on either.
+**The proposed rule.** DHS published "Eliminating the Discretionary 60-day Grace Period" (docket USCIS-2026-0364), scheduled for publication on September 11, 2026, per the Federal Register public inspection copy. It would remove 8 CFR 214.1(l)(2) for E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1, and TN workers and dependents; comments are due about 60 days after publication, around November 10, 2026. It is a proposal only, and the current grace period applies until a final rule takes effect. Check status before relying on either.
 
 ![Records to keep after an H-1B layoff](/images/h-1b-layoff-60-day-grace-period/grid.webp)
 
@@ -82,25 +82,25 @@ If you have an approved I-140, see [I-140 portability](/blog/i-140-portability-a
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Beyond Border, H-1B layoff guide](https://www.beyondborderglobal.com/resources/h-1b-layoff-grace-period-options); [Nolo](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html); [F1Jobs, comment deadlines](https://www.f1jobs.io/resources/blog/november-2026-comment-deadlines-opt-fee-grace-period-deference); [Federal Register public inspection copy](https://public-inspection.federalregister.gov/2026-18631.pdf); [Seyfarth](https://www.seyfarth.com/news-insights/dhs-strikes-again-proposal-would-eliminate-the-60-day-grace-period-for-certain-nonimmigrant-workers.html).
+**Sources:** [Nolo](https://www.nolo.com/legal-encyclopedia/just-got-laid-off-h-1b-job-i-any-grace-period-can-i-another-visa-jobhunt.html); [Federal Register public inspection copy](https://public-inspection.federalregister.gov/2026-18631.pdf); [Seyfarth](https://www.seyfarth.com/news-insights/dhs-strikes-again-proposal-would-eliminate-the-60-day-grace-period-for-certain-nonimmigrant-workers.html).
 
 ## FAQ
 
 **How long is the H-1B grace period after a layoff?**
 
-Up to 60 consecutive calendar days, or until your I-94 expires if sooner, under 8 CFR 214.1(l)(2), per Beyond Border. It is discretionary and available once per authorized validity period.
+Up to 60 consecutive calendar days, or until your authorized validity period ends if sooner, under 8 CFR 214.1(l)(2), per the Federal Register. It is discretionary: DHS can shorten or eliminate it.
 
 **Can I work during the 60 days?**
 
-No. Beyond Border says the grace period does not authorize work for any employer without separate authorization.
+No. The grace period lets you stay without failing to maintain status, but it does not itself authorize work. A new employer's properly filed petition is what can allow work to begin.
 
 **Does my employer have to pay for my trip home?**
 
-If you were dismissed involuntarily, the employer must offer to pay reasonable return transportation costs to your last foreign residence, per Beyond Border. It does not apply to voluntary departures.
+If you were dismissed involuntarily, the employer must offer to pay reasonable return transportation costs to your last foreign residence, per Nolo. It does not apply if you leave on your own.
 
 **Is the grace period being eliminated?**
 
-DHS proposed eliminating it in a rule published September 11, 2026, with comments due November 10, 2026, per F1Jobs. It is a proposal only; the current rule remains in effect until a final rule.
+DHS proposed eliminating it in a rule scheduled for publication September 11, 2026, with comments due about November 10, 2026, per the Federal Register public inspection copy. It is a proposal only; the current rule remains in effect until a final rule.
 
 ---
 

@@ -6,15 +6,15 @@ pubDate: 'Nov 18 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can a contract be assigned without the other party''s consent?'
-    answer: 'Often rights can be, if the contract does not prohibit it and the transfer does not materially affect the other party, per UpCounsel (updated September 7, 2026). Duties are more restricted, and a clause or state law can change the answer.'
+    answer: 'Often rights can be, if the contract does not prohibit it and the transfer does not materially affect the other party. Duties are more restricted, and a clause or state law can change the answer.'
   - question: 'What is the difference between assignment and delegation?'
-    answer: 'Assignment transfers rights, such as the right to be paid. Delegation transfers duties, such as performing the work. Per UpCounsel, the original party often stays liable for delegated performance unless released.'
+    answer: 'Assignment transfers rights, such as the right to be paid. Delegation transfers duties, such as performing the work. The original party often stays liable for delegated performance unless released.'
   - question: 'Does selling my company trigger the assignment clause?'
     answer: 'It depends on structure and wording. A Proskauer article says an equity sale generally does not violate an anti-assignment clause while an asset sale generally does, but mergers and change of control clauses vary. Check before closing.'
   - question: 'What happens if someone assigns a contract in breach of the clause?'
     answer: 'It depends on the wording. Per Morgan Lewis, without further language the transfer may still take effect and leave only a breach claim, while language declaring violating transfers void is stronger.'
   - question: 'What is a novation?'
-    answer: 'A novation replaces a party with a new one and releases the original, and it needs the agreement of the necessary parties. UpCounsel calls it the clearer way to replace a party than a simple assignment.'
+    answer: 'A novation replaces a party with a new one and releases the original, and it needs the agreement of the necessary parties. It is generally a clearer way to replace a party than a simple assignment.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -52,10 +52,10 @@ toc:
 Three words get mixed up, and the difference matters.
 
 - **Assignment** transfers rights, such as license rights or the right to receive payment. Per a Morgan Lewis sourcing blog post, delegation transfers performance obligations, and the post uses "assignment" as shorthand for both.
-- **Delegation** hands a duty to someone else. Per UpCounsel (updated September 7, 2026), the original party often stays liable for delegated performance unless released.
-- **Novation** replaces a party with a new one and releases the old one, which requires the agreement of the necessary parties. UpCounsel calls it the clearer way to replace a party; a procurement guide from CASRAI (updated August 30, 2026) says that, unlike a simple assignment, a novation requires your consent and releases the original vendor.
+- **Delegation** hands a duty to someone else. The original party often stays liable for delegated performance unless released.
+- **Novation** replaces a party with a new one and releases the old one, which requires the agreement of the necessary parties. It is generally a clearer way to replace a party; a procurement guide from CASRAI (updated August 30, 2026) says that, unlike a simple assignment, a novation requires your consent and releases the original vendor.
 
-**The default rules.** UpCounsel says contract rights are commonly assignable when the agreement does not prohibit assignment and the transfer does not materially affect the other party. Duties are more restricted, because the other side may have chosen you for your judgment, reputation or ability to perform. Personal-services duties that depend on unique skill or trust generally cannot be handed to an interchangeable performer, per the same source. Morgan Lewis says most jurisdictions allow free transfer when the contract is silent.
+**The default rules.** Contract rights are commonly assignable when the agreement does not prohibit assignment and the transfer does not materially affect the other party. Duties are more restricted, because the other side may have chosen you for your judgment, reputation or ability to perform. Personal-services duties that depend on unique skill or trust generally cannot be handed to an interchangeable performer. Morgan Lewis says most jurisdictions allow free transfer when the contract is silent.
 
 **Sales of goods.** For contracts governed by the UCC, section 2-210 (as published by Cornell's Legal Information Institute) says a party may delegate performance unless the contract says otherwise or the other party has a substantial interest in the original party performing. Rights are generally assignable unless the assignment would materially change the other party's duty, increase its burden or risk, or impair its chance of getting return performance. The text also says a ban on assigning "the contract" is, unless circumstances suggest otherwise, a bar only on delegating performance, not on assigning rights. State versions can differ, so confirm the one that applies to you.
 
@@ -71,7 +71,7 @@ Three drafting details change the outcome:
 
 1. **What is restricted.** Per Morgan Lewis, a general ban on assigning the agreement is often read narrowly, restricting only delegation of duties while still allowing transfer of payment rights or licenses. To block transfers of individual rights, the clause should say expressly that rights and obligations are not transferable.
 2. **What happens if someone ignores it.** Morgan Lewis notes that without further language a transfer in breach may still take effect, leaving the other party with a breach claim. A clause saying a violating assignment is null and void is stronger. CASRAI makes the same point: a bare prohibition may support only a damages claim.
-3. **Consent standard.** UpCounsel notes consent "may not be unreasonably withheld" only if the contract says so.
+3. **Consent standard.** Consent may not need to be reasonable unless the contract says so, so check the wording.
 
 For related boilerplate that affects whether you can exit, see [early termination clauses](/blog/how-to-terminate-a-contract-early-termination-clause/) and [auto-renewal clauses](/blog/auto-renewal-clauses-business-contracts/).
 
@@ -83,7 +83,7 @@ This is where assignment clauses cause real trouble: a company is sold and a key
 
 **Reverse triangular mergers.** In *Meso Scale Diagnostics v. Roche Diagnostics* (Delaware Court of Chancery, decided February 22, 2013), the court held that an anti-assignment clause covering assignment "by operation of law" did not reach a reverse triangular merger, per a Harvard Law School corporate governance forum summary. That summary adds caveats: the holding is strongest under Delaware law, a New Jersey federal court later reached a different result under New Jersey law, and where a contract is important to the business, obtaining consent is still prudent. Do not treat it as a universal rule.
 
-**Assignment vs. change of control.** A LawSikho (iPleaders) article from 2021 distinguishes the two: an assignment clause governs whether a party can transfer the contract to a non-party, while a change of control clause governs whether the other party can terminate when a party's control changes, even though the party still exists. If your contract has both, read them together, and define the trigger precisely, for example a stated ownership threshold.
+**Assignment vs. change of control.** The two are different: an assignment clause governs whether a party can transfer the contract to a non-party, while a change of control clause governs whether the other party can terminate when a party's control changes, even though the party still exists. If your contract has both, read them together, and define the trigger precisely, for example a stated ownership threshold.
 
 **What to do on a deal.** In a sale or financing, buyers and investors review these clauses. See [how to buy or sell a small business: legal checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/), [due diligence for startup fundraising](/blog/due-diligence-checklist-for-startup-fundraising/) and [Series A legal due diligence](/blog/series-a-legal-due-diligence-checklist/).
 
@@ -98,9 +98,9 @@ Use this list on any contract you sign, and again before any sale or major vendo
 - **Add notice.** CASRAI suggests requiring notice even where consent is not required.
 - **Declare violations void.** If you are the protected party, add language to that effect.
 - **Define change of control.** Use a concrete threshold and address termination rights.
-- **Release or keep liability.** If you are transferring, ask for a novation so you are released. If you are the counterparty, do not assume notice equals consent; UpCounsel says neither automatically releases the original party.
-- **Check the surrounding clauses.** Guarantees, indemnities and confidentiality duties may survive a transfer, per UpCounsel. See [indemnification clauses](/blog/indemnification-clause-explained-small-business/).
-- **Government and regulated contracts.** UpCounsel notes these may face federal restrictions even when a private contract would be transferable.
+- **Release or keep liability.** If you are transferring, ask for a novation so you are released. If you are the counterparty, do not assume notice equals consent; neither automatically releases the original party.
+- **Check the surrounding clauses.** Guarantees, indemnities and confidentiality duties may survive a transfer. See [indemnification clauses](/blog/indemnification-clause-explained-small-business/).
+- **Government and regulated contracts.** These may face federal restrictions even when a private contract would be transferable.
 
 **Self-handle or get an attorney?** For a routine vendor agreement you can use the list above and an AI first pass to flag the clause. Before a sale of your company, a financing, or any contract that is critical to revenue, have an attorney confirm what the wording does under your governing law. See [AI contract review: what to check before signing](/blog/ai-contract-review-what-to-check-before-signing/). Rules and case law vary by state as of November 2026.
 
@@ -110,17 +110,17 @@ Use this list on any contract you sign, and again before any sale or major vendo
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UpCounsel, Assignability of Contracts (updated September 7, 2026)](https://www.upcounsel.com/assignability-of-contracts); [Morgan Lewis, Contract Corner: Assignment and Delegation](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2017/12/contract-corner-assignment-and-delegation); [CASRAI, Assignment clause in vendor contracts (August 30, 2026)](https://www.casrai.org/guides/assignment-clause-vendor-contracts); [Cornell LII, UCC 2-210](https://www.law.cornell.edu/ucc/2/2-210); [Harvard Law School Forum on Corporate Governance, Delaware Court Rules on Reverse Triangular Mergers and Anti-Assignment Provisions (March 13, 2013)](https://corpgov.law.harvard.edu/2013/03/13/delaware-court-rules-on-reverse-triangular-mergers-and-anti-assignment-provisions/); [Proskauer, September 16, 2011](https://www.proskauer.com/insights/download-pdf/1754); [LawSikho/iPleaders, change of control vs assignment clauses (2021)](https://blog.ipleaders.in/differences-between-the-change-of-control-clauses-and-assignment-clauses-in-technology-contracts/).
+**Sources:** [Morgan Lewis, Contract Corner: Assignment and Delegation](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2017/12/contract-corner-assignment-and-delegation); [CASRAI, Assignment clause in vendor contracts (August 30, 2026)](https://www.casrai.org/guides/assignment-clause-vendor-contracts); [Cornell LII, UCC 2-210](https://www.law.cornell.edu/ucc/2/2-210); [Harvard Law School Forum on Corporate Governance, Delaware Court Rules on Reverse Triangular Mergers and Anti-Assignment Provisions (March 13, 2013)](https://corpgov.law.harvard.edu/2013/03/13/delaware-court-rules-on-reverse-triangular-mergers-and-anti-assignment-provisions/); [Proskauer, September 16, 2011](https://www.proskauer.com/insights/download-pdf/1754).
 
 ## FAQ
 
 **Can a contract be assigned without the other party's consent?**
 
-Often rights can be, if the contract does not prohibit it and the transfer does not materially affect the other party, per UpCounsel (updated September 7, 2026). Duties are more restricted, and a clause or state law can change the answer.
+Often rights can be, if the contract does not prohibit it and the transfer does not materially affect the other party. Duties are more restricted, and a clause or state law can change the answer.
 
 **What is the difference between assignment and delegation?**
 
-Assignment transfers rights, such as the right to be paid. Delegation transfers duties, such as performing the work. Per UpCounsel, the original party often stays liable for delegated performance unless released.
+Assignment transfers rights, such as the right to be paid. Delegation transfers duties, such as performing the work. The original party often stays liable for delegated performance unless released.
 
 **Does selling my company trigger the assignment clause?**
 
@@ -132,7 +132,7 @@ It depends on the wording. Per Morgan Lewis, without further language the transf
 
 **What is a novation?**
 
-A novation replaces a party with a new one and releases the original, and it needs the agreement of the necessary parties. UpCounsel calls it the clearer way to replace a party than a simple assignment.
+A novation replaces a party with a new one and releases the original, and it needs the agreement of the necessary parties. It is generally a clearer way to replace a party than a simple assignment.
 
 ---
 

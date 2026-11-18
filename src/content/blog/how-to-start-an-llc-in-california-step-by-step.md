@@ -6,7 +6,7 @@ pubDate: 'Nov 3 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How much does it cost to start an LLC in California?'
-    answer: 'Zenind''s 2026 summary lists $70 for Articles of Organization, $20 for the Statement of Information, and an $800 annual tax, plus optional copy and rush fees.'
+    answer: 'Fees include a filing fee for the Articles of Organization, a fee for the Statement of Information, and the $800 annual tax to the Franchise Tax Board, plus optional copy and rush fees. Confirm current amounts on the California Secretary of State and Franchise Tax Board websites.'
   - question: 'When is the first $800 California LLC tax due?'
     answer: 'Generally the 15th day of the fourth month after you file. Confirm with the Franchise Tax Board.'
   - question: 'Do I need a California address?'
@@ -32,14 +32,14 @@ toc:
 
 **Key takeaways:**
 
-- Articles of Organization cost $70 and the Statement of Information $20, per Zenind's 2026 summary.
+- Articles of Organization and the Statement of Information each carry a Secretary of State filing fee; confirm current amounts on the Secretary of State's website.
 - The $800 annual tax is generally first due by the 15th day of the fourth month after filing.
 - An additional LLC fee varies with California income.
 - Forming in another state does not avoid California if you operate here.
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in California, you file Articles of Organization with the Secretary of State ($70 per Zenind's 2026 fee summary), file a Statement of Information ($20) within 90 days, get an EIN, and pay the $800 annual tax to the Franchise Tax Board. The first payment is generally due by the 15th day of the fourth month after you file. Expect an additional LLC fee if your California income is high.
+**Quick answer:** To start an LLC in California, you file Articles of Organization with the Secretary of State (confirm the current filing fee on its website), file a Statement of Information within 90 days, get an EIN, and pay the $800 annual tax to the Franchise Tax Board. The first payment is generally due by the 15th day of the fourth month after you file. Expect an additional LLC fee if your California income is high.
 
 ![California LLC filing fees and annual costs](/images/how-to-start-an-llc-in-california-step-by-step/costs.webp)
 
@@ -69,13 +69,13 @@ You can live elsewhere, including outside the U.S., and still form a California 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Zenind California LLC fees](https://www.zenind.com/en-US/help/post/california-llc-filing-fees-in-2026-what-it-really-costs-to-form-and-maintain-an-llc); [IRS Form SS-4 instructions](https://www.irs.gov/instructions/iss4).
+**Sources:** [IRS Form SS-4 instructions](https://www.irs.gov/instructions/iss4).
 
 ## FAQ
 
 **How much does it cost to start an LLC in California?**
 
-Zenind's 2026 summary lists $70 for Articles of Organization, $20 for the Statement of Information, and an $800 annual tax, plus optional copy and rush fees.
+Fees include a filing fee for the Articles of Organization, a fee for the Statement of Information, and the $800 annual tax to the Franchise Tax Board, plus optional copy and rush fees. Confirm current amounts on the California Secretary of State and Franchise Tax Board websites.
 
 **When is the first $800 California LLC tax due?**
 

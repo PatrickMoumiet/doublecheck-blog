@@ -8,7 +8,7 @@ faq:
   - question: 'What is the difference between an EOR and a contractor?'
     answer: 'Per Vistra, an EOR is a third party that becomes the legal employer locally and handles payroll and compliance while you direct the work. A contractor is engaged directly under an agreement and should run their own work.'
   - question: 'Does a US startup need a visa to hire someone abroad?'
-    answer: 'Per People Managing People, a remote worker who stays in their home country generally does not need a U.S. work visa. Sponsorship applies only if the person will work in the U.S.'
+    answer: 'A remote worker who stays in their home country generally does not need a U.S. work visa, though local employment, tax and immigration rules of that country apply. Sponsorship applies only if the person will work in the U.S.'
   - question: 'What is the risk of misclassifying a foreign contractor?'
     answer: 'Vistra''s contributors say it can trigger employee taxes, social security contributions, and penalties, and may create a corporate tax presence in that country. Rules vary by country, so get local advice.'
   - question: 'How do I report payments to a foreign contractor?'
@@ -35,21 +35,21 @@ toc:
 - The four routes are contractor, employer of record, own local entity, or sponsoring the person to the U.S.
 - Misclassifying an employee as a contractor can mean back taxes and penalties, per Vistra.
 - An EOR is often a stopgap; longer use can raise permanent establishment risk.
-- Remote workers who stay abroad generally do not need a U.S. work visa, per People Managing People.
+- Remote workers who stay abroad generally do not need a U.S. work visa, though the worker's home-country rules still apply.
 
 ## 1. The quick answer
 
-**Quick answer:** A U.S. startup can engage workers abroad four main ways: as independent contractors, through an employer of record (EOR), through its own local entity, or by sponsoring the person to work in the U.S. Vistra's practitioners describe the first three as a trade-off between speed, cost, and risk: contractors are fastest but carry misclassification risk, an EOR is a common bridge, and a subsidiary suits growing headcount. Per People Managing People, a remote worker who stays in their home country generally does not need a U.S. work visa, while U.S. sponsorship applies only if the person will work in the U.S.
+**Quick answer:** A U.S. startup can engage workers abroad four main ways: as independent contractors, through an employer of record (EOR), through its own local entity, or by sponsoring the person to work in the U.S. Vistra's practitioners describe the first three as a trade-off between speed, cost, and risk: contractors are fastest but carry misclassification risk, an EOR is a common bridge, and a subsidiary suits growing headcount. A remote worker who stays in their home country generally does not need a U.S. work visa, while U.S. sponsorship applies only if the person will work in the U.S.
 
 ![Four ways a U.S. startup can engage workers abroad](/images/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/cols.webp)
 
 ## 2. The options in plain English
 
-Based on Vistra and People Managing People:
+Based on Vistra:
 
-- **Independent contractor.** You engage the person directly under a written agreement. People Managing People says no visa or benefits are required, which lowers cost, and it suits short-term, project-based work. Misclassification can bring penalties, back taxes, and retroactive benefits.
+- **Independent contractor.** You engage the person directly under a written agreement. A U.S. visa is generally not required for a worker who stays abroad and benefits are not owed to a true contractor, which can lower cost, and it suits short-term, project-based work. Misclassification can bring penalties, back taxes, and retroactive benefits.
 - **Employer of record (EOR).** A third party already established in the country becomes the legal employer and handles payroll, tax filings, and compliance, while you direct the work, per Vistra. Vistra's experts call it often a short-term or stopgap measure.
-- **Own entity (subsidiary or branch).** Best when hiring several people in one country, per People Managing People, but it requires legal work and knowledge of local hiring rules. Vistra notes a branch does not limit liability the way a subsidiary does.
+- **Own entity (subsidiary or branch).** Best when hiring several people in one country, but it requires legal work and knowledge of local hiring rules. Vistra notes a branch does not limit liability the way a subsidiary does.
 - **Sponsoring to the U.S.** Treated as a cost that arises when the person needs U.S. work authorization: visa fees, lawyer fees, and filing charges. See [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/), [cap-exempt employers](/blog/h-1b-cap-exempt-employers/), and [the $100,000 H-1B fee status](/blog/h1b-100000-fee-status-2026/).
 
 ## 3. Classification and tax risks
@@ -76,7 +76,7 @@ A practical order: decide whether the person will really be independent or an em
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Vistra](https://www.vistra.com/insights/hiring-workers-another-country-understand-your-options-and-be-ready-change-course); [People Managing People](https://peoplemanagingpeople.com/employee-lifecycle/recruiting-hiring/how-can-a-us-company-hire-a-foreign-employee/); [U.S. Department of Labor, Feb 26, 2026 proposed rule](https://www.dol.gov/newsroom/releases/whd/whd20260226); [IRS: reporting payments to independent contractors](https://www.irs.gov/businesses/small-businesses-self-employed/reporting-payments-to-independent-contractors); [IRS: withholding and reporting obligations](https://www.irs.gov/individuals/international-taxpayers/withholding-and-reporting-obligations).
+**Sources:** [Vistra](https://www.vistra.com/insights/hiring-workers-another-country-understand-your-options-and-be-ready-change-course); [U.S. Department of Labor, Feb 26, 2026 proposed rule](https://www.dol.gov/newsroom/releases/whd/whd20260226); [IRS: reporting payments to independent contractors](https://www.irs.gov/businesses/small-businesses-self-employed/reporting-payments-to-independent-contractors); [IRS: withholding and reporting obligations](https://www.irs.gov/individuals/international-taxpayers/withholding-and-reporting-obligations).
 
 ## FAQ
 
@@ -86,7 +86,7 @@ Per Vistra, an EOR is a third party that becomes the legal employer locally and 
 
 **Does a US startup need a visa to hire someone abroad?**
 
-Per People Managing People, a remote worker who stays in their home country generally does not need a U.S. work visa. Sponsorship applies only if the person will work in the U.S.
+A remote worker who stays in their home country generally does not need a U.S. work visa, though local employment, tax and immigration rules of that country apply. Sponsorship applies only if the person will work in the U.S.
 
 **What is the risk of misclassifying a foreign contractor?**
 

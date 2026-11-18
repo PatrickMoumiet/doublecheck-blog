@@ -6,13 +6,13 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What are the basic elements of a legally binding contract?'
-    answer: 'Per Rocket Lawyer, they are the subject (an offer and an acceptance of clear, unambiguous terms), consideration, and capacity. Other sources break these out differently, for example adding mutual intent.'
+    answer: 'Per Cornell LII, they are mutual assent (an offer and an acceptance), consideration, capacity, and legality. Other sources group these differently.'
   - question: 'Does a contract have to be in writing to be binding?'
-    answer: 'Not always. Per Rocket Lawyer, a contract can be formed verbally, though written contracts are preferred. Under the statute of frauds, certain types, such as land sales and goods over $500, generally need a writing.'
+    answer: 'Not always. Per Cornell LII, oral contracts are generally enforceable, though written contracts are easier to prove. Under the statute of frauds, certain types, such as land sales and goods over $500, generally need a writing.'
   - question: 'What is consideration in a contract?'
-    answer: 'Per Rocket Lawyer, it is the reason or motive for the contract, such as money in a monetary deal or a desire to keep information confidential. In practice, each side gives or promises something.'
+    answer: 'Per Cornell LII, it means something of value is exchanged. In practice, each side gives or promises something.'
   - question: 'Can a binding contract be cancelled?'
-    answer: 'It can end by its own terms or by agreement. A contract that meets the elements can also be voidable, which per Rocket Lawyer means it stays enforceable unless a party challenges it and proves a legal issue.'
+    answer: 'It can end by its own terms or by agreement. Whether a particular contract can be challenged or set aside depends on the facts and your state, so ask an attorney.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,20 +39,18 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** A contract is generally legally binding when the parties reach an agreement through an offer and an acceptance of clear terms, each side gives something of value (consideration), and everyone signing has the capacity to do so. Per Rocket Lawyer, a contract can be formed verbally, but written contracts are "always preferred" because they record the terms and signatures. Some contract types must be in writing to be enforceable, and the details vary by state.
+**Quick answer:** A contract is generally legally binding when the parties reach an agreement through an offer and an acceptance of clear terms, each side gives something of value (consideration), and everyone signing has the capacity to do so. Per [Cornell LII](https://www.law.cornell.edu/wex/oral_contract), a contract can be formed verbally, but a written contract makes the terms easier to prove. Some contract types must be in writing to be enforceable, and the details vary by state.
 
 ![Six elements that make a contract legally binding](/images/what-makes-a-contract-legally-binding/grid.webp)
 
 ## 2. The core elements, in plain English
 
-Sources group the elements differently, so you will see three, four, or six on different sites. [Rocket Lawyer](https://www.rocketlawyer.com/business-and-contracts/business-operations/contract-management/legal-guide/what-makes-a-contract-legally-binding) lists three: the subject (an offer and an acceptance of clear, unambiguous terms), consideration, and capacity. [UpCounsel](https://www.upcounsel.com/validity-of-oral-contracts) frames it as an offer, acceptance, consideration, and mutual intent.
+Sources group the elements differently, so you will see three, four, or six on different sites. [Cornell LII](https://law.cornell.edu/wex/contract) lists four: mutual assent (offer and acceptance), consideration, capacity, and legality.
 
 - **Offer and acceptance:** one side proposes specific terms (price, scope, timing) and the other agrees to them. A reply that changes the terms is usually a counteroffer, not an acceptance.
-- **Consideration:** per Rocket Lawyer, the reason or motive for the contract, such as money in a monetary deal or a desire to keep information confidential. Each side gives or promises something.
+- **Consideration:** per [Cornell LII](https://law.cornell.edu/wex/contract), something of value is exchanged. Each side gives or promises something.
 - **Capacity:** signers must be of legal age, of sound mind, and have legal authority to bind the person or company. If you sign for a business, confirm you are authorized and sign in the company's name.
 - **Clear terms:** if key terms are missing or contradictory, a court may find there is no enforceable deal, or may have to guess what you meant.
-
-A contract that meets these elements can still be "voidable," per Rocket Lawyer: it stays enforceable unless a party challenges it and proves a legal issue.
 
 ## 3. Does it have to be in writing?
 
@@ -85,25 +83,25 @@ An AI tool can help you summarize and flag unusual terms (see [AI contract revie
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Rocket Lawyer](https://www.rocketlawyer.com/business-and-contracts/business-operations/contract-management/legal-guide/what-makes-a-contract-legally-binding); [UpCounsel](https://www.upcounsel.com/validity-of-oral-contracts); [Chicago-Kent, Notes on the Statute of Frauds](https://blogs.kentlaw.iit.edu/harriscontracts/home/written-contracts/notes-on-the-statute-of-frauds).
+**Sources:** [Cornell LII, Contract](https://law.cornell.edu/wex/contract); [Cornell LII, Oral contract](https://www.law.cornell.edu/wex/oral_contract); [Cornell LII, UCC 2-201](https://www.law.cornell.edu/ucc/2/2-201); [Chicago-Kent, Notes on the Statute of Frauds](https://blogs.kentlaw.iit.edu/harriscontracts/home/written-contracts/notes-on-the-statute-of-frauds).
 
 ## FAQ
 
 **What are the basic elements of a legally binding contract?**
 
-Per Rocket Lawyer, they are the subject (an offer and an acceptance of clear, unambiguous terms), consideration, and capacity. Other sources break these out differently, for example adding mutual intent.
+Per Cornell LII, they are mutual assent (an offer and an acceptance), consideration, capacity, and legality. Other sources group these differently.
 
 **Does a contract have to be in writing to be binding?**
 
-Not always. Per Rocket Lawyer, a contract can be formed verbally, though written contracts are preferred. Under the statute of frauds, certain types, such as land sales and goods over $500, generally need a writing.
+Not always. Per Cornell LII, oral contracts are generally enforceable, though written contracts are easier to prove. Under the statute of frauds, certain types, such as land sales and goods over $500, generally need a writing.
 
 **What is consideration in a contract?**
 
-Per Rocket Lawyer, it is the reason or motive for the contract, such as money in a monetary deal or a desire to keep information confidential. In practice, each side gives or promises something.
+Per Cornell LII, it means something of value is exchanged. In practice, each side gives or promises something.
 
 **Can a binding contract be cancelled?**
 
-It can end by its own terms or by agreement. A contract that meets the elements can also be voidable, which per Rocket Lawyer means it stays enforceable unless a party challenges it and proves a legal issue.
+It can end by its own terms or by agreement. Whether a particular contract can be challenged or set aside depends on the facts and your state, so ask an attorney.
 
 ---
 

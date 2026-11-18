@@ -6,13 +6,13 @@ pubDate: 'Nov 5 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How do I dissolve an LLC?'
-    answer: 'Vote and document the decision, file final tax returns, pay creditors, file articles of dissolution with each state, and close your EIN, per Stripe and the IRS.'
+    answer: 'Vote and document the decision, file final tax returns, pay creditors, file articles of dissolution with each state, and close your EIN, per the IRS and state agencies.'
   - question: 'How do I close my EIN with the IRS?'
     answer: 'Send a letter with the legal name, EIN, address, and reason for closing, per the IRS. It cannot close the account until all returns are filed and taxes paid.'
   - question: 'Do I need to file a final tax return?'
     answer: 'Yes. The IRS says the form depends on how the LLC is taxed: Schedule C, Form 1065, Form 1120, or Form 1120-S, marked as final where applicable.'
   - question: 'What if I just stop using the LLC?'
-    answer: 'Fees and franchise taxes can keep accruing until dissolution is filed, per Stripe.'
+    answer: 'Fees and franchise taxes can keep accruing until dissolution is filed.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,7 +45,7 @@ toc:
 
 ## 2. Vote, document, and settle taxes
 
-Per Stripe's guide, check your [operating agreement](/blog/llc-operating-agreement-with-ai/) for the approval threshold (simple majority, supermajority, or unanimous), record the vote in a signed written consent, and set a dissolution date. Then handle final returns. The IRS says the form depends on how the LLC is taxed:
+Check your [operating agreement](/blog/llc-operating-agreement-with-ai/) for the approval threshold (simple majority, supermajority, or unanimous), record the vote in a signed written consent, and set a dissolution date. Then handle final returns. The IRS says the form depends on how the LLC is taxed:
 
 - **Sole proprietor (single-member LLC):** Schedule C with your individual return.
 - **Partnership:** Form 1065, marked final, with final K-1s.
@@ -55,19 +55,19 @@ If you had employees, the IRS lists final wages, the closed-business box on Form
 
 ## 3. Creditors, state filing, and the EIN
 
-**Creditors.** Stripe notes members who receive distributions before known debts are paid may have to return that money if a creditor challenges it. Pay or provide for debts first, then distribute what remains according to the operating agreement.
+**Creditors.** Members who receive distributions before known debts are paid may have to return that money if a creditor challenges it, depending on state law. Pay or provide for debts first, then distribute what remains according to the operating agreement.
 
-**State filing.** File articles of dissolution (Delaware calls it a certificate of cancellation) in every state where you formed or registered as a foreign LLC. Requirements differ: Stripe notes Texas wants your final tax return on record first, and California approval depends on current tax filings. For California, read [how to close a California LLC and avoid the $800 tax](/blog/close-california-llc-avoid-800-tax/); for Delaware, see the [Delaware LLC annual tax](/blog/delaware-llc-annual-tax-june-1/). If you run a corporation, see [how to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/).
+**State filing.** File articles of dissolution (Delaware calls it a certificate of cancellation) in every state where you formed or registered as a foreign LLC. Requirements differ, and some states want your tax filings current before they accept a dissolution (see the [California Franchise Tax Board](https://www.ftb.ca.gov/file/business/types/limited-liability-company)). For California, read [how to close a California LLC and avoid the $800 tax](/blog/close-california-llc-avoid-800-tax/); for Delaware, see the [Delaware LLC annual tax](/blog/delaware-llc-annual-tax-june-1/). If you run a corporation, see [how to dissolve a Delaware corporation](/blog/how-to-dissolve-a-delaware-corporation/).
 
-**EIN.** The IRS says to send a letter with the business's full legal name, EIN, address, and reason for closing, with a copy of the EIN notice if you have it, mailed to the address on its Closing a Business page. Stripe notes the IRS does not reuse EINs, so the account closes but the number is not erased.
+**EIN.** The IRS says to send a letter with the business's full legal name, EIN, address, and reason for closing, with a copy of the EIN notice if you have it, mailed to the address on its Closing a Business page. The IRS does not reuse EINs, so the account closes but the number is not erased.
 
 ![LLC dissolution paperwork checklist](/images/how-to-dissolve-an-llc-step-by-step/grid.webp)
 
 ## 4. Close accounts and keep records
 
-Close bank accounts only after outstanding checks clear and payment processor payouts settle, cancel licenses and your registered agent after the dissolution is accepted, and distribute remaining assets, per Stripe. The IRS says to keep employment tax records for at least four years and property records until the limitations period ends for the year you dispose of the property. Stripe suggests keeping filings, final returns, your EIN letter, and distribution records for three to seven years depending on your state.
+Close bank accounts only after outstanding checks clear and payment processor payouts settle, cancel licenses and your registered agent after the dissolution is accepted, and distribute remaining assets. The IRS says to keep employment tax records for at least four years and property records until the limitations period ends for the year you dispose of the property. Also keep filings, final returns, your EIN letter, and distribution records for several years; check your state's requirements.
 
-Do not let the LLC simply go inactive. Stripe warns that fees and franchise taxes keep accruing until dissolution is filed, so check [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/). If you are selling rather than closing, use the [buy or sell checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/).
+Do not let the LLC simply go inactive. Fees and franchise taxes can keep accruing until dissolution is filed, so check [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/). If you are selling rather than closing, use the [buy or sell checklist](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/).
 
 **Related reading:** [Registered Agent for an LLC: Who Can Serve and What It Costs](/blog/registered-agent-for-an-llc-who-can-serve-and-what-it-costs/)
 
@@ -75,13 +75,13 @@ Do not let the LLC simply go inactive. Stripe warns that fees and franchise taxe
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [IRS, Closing a business](https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business); [Stripe, how to dissolve an LLC](https://stripe.com/resources/more/how-to-dissolve-an-llc).
+**Sources:** [IRS, Closing a business](https://www.irs.gov/businesses/small-businesses-self-employed/closing-a-business); [California Franchise Tax Board, limited liability company](https://www.ftb.ca.gov/file/business/types/limited-liability-company); [Delaware Division of Corporations, LLC tax](https://corp.delaware.gov/alt-entitytaxinstructions).
 
 ## FAQ
 
 **How do I dissolve an LLC?**
 
-Vote and document the decision, file final tax returns, pay creditors, file articles of dissolution with each state, and close your EIN, per Stripe and the IRS.
+Vote and document the decision, file final tax returns, pay creditors, file articles of dissolution with each state, and close your EIN, per the IRS and state agencies.
 
 **How do I close my EIN with the IRS?**
 
@@ -93,7 +93,7 @@ Yes. The IRS says the form depends on how the LLC is taxed: Schedule C, Form 106
 
 **What if I just stop using the LLC?**
 
-Fees and franchise taxes can keep accruing until dissolution is filed, per Stripe.
+Fees and franchise taxes can keep accruing until dissolution is filed.
 
 ---
 

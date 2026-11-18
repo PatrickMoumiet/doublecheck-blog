@@ -12,7 +12,7 @@ faq:
   - question: 'Did the 2025 law change what I should record?'
     answer: 'Yes. The acquisition date now decides which rules apply: stock acquired after July 4, 2025 has 3, 4 and 5 year tiers and a $75 million gross assets ceiling, while earlier stock has the older $50 million ceiling, per Cornell LII.'
   - question: 'How do I prove my QSBS holding period if I hold restricted stock or options?'
-    answer: 'Keep the grant, vesting and exercise dates. Per Strictly Business Law Blog, a timely 83(b) election starts the clock at grant for all shares, and per CohnReznick the holding period for options starts at exercise. Confirm your facts with a tax professional.'
+    answer: 'Keep the grant, vesting and exercise dates. Per Hanson Bridgett, a timely 83(b) election starts the clock at grant for all shares, and per CohnReznick the holding period for options starts at exercise. Confirm your facts with a tax professional.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -59,7 +59,7 @@ This post is about the paper trail. For the eligibility tests themselves see [QS
 
 Two areas generate the most missing paperwork.
 
-**Restricted founder stock.** According to Strictly Business Law Blog (December 2023), without a timely 83(b) election the holding period runs share by share from vesting, and with a timely election it starts at grant for all shares. The election is due within 30 days of grant. Keep the filed election and proof of mailing with the grant documents. See [83(b) elections](/blog/83b-election-startup-founders/) and [co-founder vesting](/blog/cofounder-vesting-cliff-explained/).
+**Restricted founder stock.** According to Hanson Bridgett, without a timely 83(b) election the holding period runs share by share from vesting, and with a timely election it starts at grant for all shares. The election is due within 30 days of grant. Keep the filed election and proof of mailing with the grant documents. See [83(b) elections](/blog/83b-election-startup-founders/) and [co-founder vesting](/blog/cofounder-vesting-cliff-explained/).
 
 **Redemptions and buybacks.** Under the statute, stock is disqualified if the company bought stock from the taxpayer or a related person in the four-year window starting two years before issuance. Stock is also disqualified if repurchases in the two-year window starting one year before issuance exceeded 5% of total stock value. Keep a redemption log, and have a CPA or attorney review any buyback before the board approves it, a point CohnReznick also makes. This matters in [co-founder buyouts](/blog/how-to-remove-or-buy-out-a-co-founder/).
 
@@ -77,7 +77,7 @@ EisnerAmper (September 23, 2026) says corporations are not required to certify Q
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Cornell LII, 26 U.S.C. 1202](https://www.law.cornell.edu/uscode/text/26/1202); [RSM, OBBBA QSBS (July 18, 2025)](https://www.rsmus.com/insights/services/business-tax/obbba-tax-qsbs); [EisnerAmper (September 23, 2026)](https://www.eisneramper.com/insights/private-equity/qsbs-planning-for-private-equity-under-obbba-rules-0926/); [CohnReznick (July 20, 2026)](https://www.cohnreznick.com/insights/section-1202-qsbs-after-the-obbb/); [Plante Moran](https://www.plantemoran.com/explore-our-thinking/insight/2025/01/dispelling-section-1202-myths-for-startup-companies); [Strictly Business Law Blog (December 7, 2023)](https://www.strictlybusinesslawblog.com/2023/12/07/the-qsbs-5-year-holding-period-and-section-83b); [IRS Form 8949 instructions (2025)](https://irs.gov/pub//irs-pdf/i8949.pdf).
+**Sources:** [Cornell LII, 26 U.S.C. 1202](https://www.law.cornell.edu/uscode/text/26/1202); [RSM, OBBBA QSBS (July 18, 2025)](https://www.rsmus.com/insights/services/business-tax/obbba-tax-qsbs); [EisnerAmper (September 23, 2026)](https://www.eisneramper.com/insights/private-equity/qsbs-planning-for-private-equity-under-obbba-rules-0926/); [CohnReznick (July 20, 2026)](https://www.cohnreznick.com/insights/section-1202-qsbs-after-the-obbb/); [Plante Moran](https://www.plantemoran.com/explore-our-thinking/insight/2025/01/dispelling-section-1202-myths-for-startup-companies); [Hanson Bridgett, QSBS](https://www.hansonbridgett.com/Publications/articles/220809-7010-qsbs); [IRS Form 8949 instructions (2025)](https://irs.gov/pub//irs-pdf/i8949.pdf).
 
 ## FAQ
 
@@ -95,7 +95,7 @@ Yes. The acquisition date now decides which rules apply: stock acquired after Ju
 
 **How do I prove my QSBS holding period if I hold restricted stock or options?**
 
-Keep the grant, vesting and exercise dates. Per Strictly Business Law Blog, a timely 83(b) election starts the clock at grant for all shares, and per CohnReznick the holding period for options starts at exercise. Confirm your facts with a tax professional.
+Keep the grant, vesting and exercise dates. Per Hanson Bridgett, a timely 83(b) election starts the clock at grant for all shares, and per CohnReznick the holding period for options starts at exercise. Confirm your facts with a tax professional.
 
 ---
 

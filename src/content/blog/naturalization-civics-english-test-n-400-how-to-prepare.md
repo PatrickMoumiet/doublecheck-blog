@@ -10,9 +10,9 @@ faq:
   - question: 'How many questions and what is the passing score?'
     answer: 'Per the Federal Register, the 2025 test asks up to 20 questions from 128 and you need 12 correct, failing after 9 incorrect. Per USCIS, the 2008 test is 10 questions from 100 with 6 correct needed.'
   - question: 'What are the 50/20, 55/15 and 65/20 exceptions?'
-    answer: 'Per USCIS and USAHello, 50/20 means age 50 and 20 years as a permanent resident, 55/15 means age 55 and 15 years, and 65/20 means age 65 and 20 years. All waive the English test; civics is still required, and 65/20 uses a simplified test.'
+    answer: 'Per USCIS, 50/20 means age 50 and 20 years as a permanent resident, 55/15 means age 55 and 15 years, and 65/20 means age 65 and 20 years. All waive the English test; civics is still required, and 65/20 uses a simplified test.'
   - question: 'What if I have a medical condition?'
-    answer: 'Per USCIS and USAHello, a qualifying medical disability can exempt you from English, civics or both through Form N-648, and accommodations such as extra time or a test at home may be available. Ask an attorney or accredited representative to review before filing.'
+    answer: 'Per USCIS, a qualifying medical disability can exempt you from English, civics or both through Form N-648. Ask USCIS about any accommodations you may need, and ask an attorney or accredited representative to review before filing.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,7 +45,7 @@ toc:
 
 ## 2. The civics test: 2025 version, 2008 version, and which applies
 
-**Which version applies.** Per the [Federal Register notice](https://www.federalregister.gov/documents/2025/09/18/2025-18050/notice-of-implementation-of-2025-naturalization-civics-test) (published September 18, 2025), the 2008 test applies to applicants who had already filed or who filed less than 30 days after publication, and the 2025 test applies to those who file 30 or more days after publication. The [New Americans Campaign](https://www.newamericanscampaign.org/new-naturalization-civics-test-effective-10-20-25/) and [DLG Visa](https://dlgvisa.com/blog/new-us-citizenship-civics-test-effective-october-20-2025) both put the cutoff at N-400 filings on or after October 20, 2025. Some 2026 web pages still describe only the 2008 test, so check the date on whatever study material you use, and check your own filing date.
+**Which version applies.** Per the [Federal Register notice](https://www.federalregister.gov/documents/2025/09/18/2025-18050/notice-of-implementation-of-2025-naturalization-civics-test) (published September 18, 2025), the 2008 test applies to applicants who had already filed or who filed less than 30 days after publication, and the 2025 test applies to those who file 30 or more days after publication. The notice's DATES section puts the cutoff at N-400 filings on or after October 20, 2025. Some 2026 web pages still describe only the 2008 test, so check the date on whatever study material you use, and check your own filing date.
 
 **2025 test format (per the Federal Register notice).**
 
@@ -69,13 +69,13 @@ The format has changed before and could again. If you are unsure which test you 
 
 The Federal Register notice says the English portions are not changed by the 2025 civics notice.
 
-**Age-based exceptions (INA 312(b), per USCIS and [USAHello](https://usahello.org/citizenship/prepare/citizenship-test-exemptions)).**
+**Age-based exceptions (INA 312(b), per the [USCIS Policy Manual](https://uscis.gov/es/node/73873)).**
 
 - **50/20:** age 50 or older at filing and 20 years as a permanent resident. Exempt from English; civics is still required and may be taken in your language with an interpreter.
 - **55/15:** age 55 or older and 15 years as a permanent resident. Same treatment.
 - **65/20:** age 65 or older and 20 years as a permanent resident. Exempt from English, with a simplified civics test of 10 questions drawn from 20, passing at 6, using the 2008 or 2025 version by filing date (per the Federal Register notice).
 
-**Disability: Form N-648.** Per USCIS and USAHello, a qualifying medical disability may exempt you from English, civics or both. You indicate it on the N-400 and file Form N-648, certified by a licensed medical professional. USAHello also lists possible accommodations such as extra time, breaks, an oral writing test, large print or braille, a sign language interpreter, or a test at home; request one through USCIS. An interpreter must be fluent in your language and English, and USAHello says your attorney cannot interpret for you.
+**Disability: Form N-648.** Per the USCIS Policy Manual, a qualifying medical disability may exempt you from English, civics or both, and the exception is requested with Form N-648. If you may need an accommodation for the interview, ask USCIS about your options, and review the form instructions on uscis.gov before filing.
 
 Eligibility, such as the residence period and the 90-day rule, is covered in [N-400 eligibility requirements](/blog/n-400-naturalization-eligibility-requirements/).
 
@@ -105,7 +105,7 @@ Do not guess at answers about arrests or past immigration history; truthful, doc
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Federal Register, Notice of Implementation of 2025 Naturalization Civics Test](https://www.federalregister.gov/documents/2025/09/18/2025-18050/notice-of-implementation-of-2025-naturalization-civics-test); [USCIS Policy Manual, English and Civics Testing](https://uscis.gov/es/node/73873); [USAHello exemptions and accommodations](https://usahello.org/citizenship/prepare/citizenship-test-exemptions); [New Americans Campaign](https://www.newamericanscampaign.org/new-naturalization-civics-test-effective-10-20-25/); [DLG Visa](https://dlgvisa.com/blog/new-us-citizenship-civics-test-effective-october-20-2025). The USCIS Policy Manual page fetched describes the 2008 format; the 2025 details come from the Federal Register notice.
+**Sources:** [Federal Register, Notice of Implementation of 2025 Naturalization Civics Test](https://www.federalregister.gov/documents/2025/09/18/2025-18050/notice-of-implementation-of-2025-naturalization-civics-test); [USCIS Policy Manual, English and Civics Testing](https://uscis.gov/es/node/73873). The USCIS Policy Manual page fetched describes the 2008 format; the 2025 details come from the Federal Register notice.
 
 ## FAQ
 
@@ -119,11 +119,11 @@ Per the Federal Register, the 2025 test asks up to 20 questions from 128 and you
 
 **What are the 50/20, 55/15 and 65/20 exceptions?**
 
-Per USCIS and USAHello, 50/20 means age 50 and 20 years as a permanent resident, 55/15 means age 55 and 15 years, and 65/20 means age 65 and 20 years. All waive the English test; civics is still required, and 65/20 uses a simplified test.
+Per USCIS, 50/20 means age 50 and 20 years as a permanent resident, 55/15 means age 55 and 15 years, and 65/20 means age 65 and 20 years. All waive the English test; civics is still required, and 65/20 uses a simplified test.
 
 **What if I have a medical condition?**
 
-Per USCIS and USAHello, a qualifying medical disability can exempt you from English, civics or both through Form N-648, and accommodations such as extra time or a test at home may be available. Ask an attorney or accredited representative to review before filing.
+Per USCIS, a qualifying medical disability can exempt you from English, civics or both through Form N-648. Ask USCIS about any accommodations you may need, and ask an attorney or accredited representative to review before filing.
 
 ---
 

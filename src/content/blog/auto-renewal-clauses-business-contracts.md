@@ -12,7 +12,7 @@ faq:
   - question: 'Do consumer auto-renewal laws protect my business?'
     answer: 'Usually not. Per the Wikipedia summary, most are consumer-protection statutes that do not cover business contracts. Some state laws do reach business contracts, so check the one that governs your contract.'
   - question: 'What if I missed the cancellation deadline?'
-    answer: 'Ask the vendor in writing to waive the renewal or shorten the new term. Per Aaron Hall, courts generally enforce cancellation deadlines strictly, so a waiver is a negotiation, not a right. Review the clause and any state notice law with an attorney if the amount is large.'
+    answer: 'Ask the vendor in writing to waive the renewal or shorten the new term. Per McLane Middleton, a missed notice deadline means the contract renews, so a waiver is a negotiation, not a right. Review the clause and any state notice law with an attorney if the amount is large.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -47,7 +47,7 @@ toc:
 
 Per [McLane Middleton](https://www.mclane.com/insights/evergreen-clauses-how-enforceable-are-automatic-renewal-provisions/), courts usually enforce evergreen clauses in commercial business-to-business contracts when the language is clear and unambiguous, and a missed notice deadline means the contract renews for another term. These clauses are common in service, distribution, and supply contracts and some leases.
 
-[Aaron Hall](https://aaronhall.com/legal-implications-of-automatic-renewal-clauses-in-b2b-contracts/) adds that courts look at whether the renewal terms are explicit, whether the parties had adequate disclosure, and whether the clause was reasonably communicated. Courts generally enforce cancellation deadlines strictly, and late notice typically triggers renewal, which can cost you leverage and may trigger fees.
+Because the clause is enforced as written, late notice typically triggers renewal, which can cost you leverage and may trigger fees.
 
 Accepted delivery methods for the notice, per the same source, include certified mail, electronic communication if the contract allows it, and courier or in-person delivery. Use whatever your contract names, exactly.
 
@@ -64,7 +64,7 @@ The governing-law clause matters, because the drafter often picks its home state
 
 ## 4. Protect yourself before you sign
 
-Practical steps, drawn from Aaron Hall and Barclay Damon:
+Practical steps, drawing on Barclay Damon:
 
 ![Five steps to manage an auto-renewal clause](/images/auto-renewal-clauses-business-contracts/steps.webp)
 
@@ -81,7 +81,7 @@ Related reading: [how to terminate a contract early](/blog/how-to-terminate-a-co
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [McLane Middleton, Evergreen Clauses](https://www.mclane.com/insights/evergreen-clauses-how-enforceable-are-automatic-renewal-provisions/); [NY Senate, General Obligations Law 5-903](https://www.nysenate.gov/legislation/laws/GOB/5-903); [Barclay Damon, Beware the Automatic Renewal Provisions](https://www.barclaydamon.com/publications/q1-2023beware-the-automatic-renewal-provisions-in-contracts-with-us-companies); [Morgan Lewis, New York Reforms Automatic Renewal Laws](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2020/12/new-york-reforms-automatic-renewal-laws); [Wikipedia, Automatic renewal clause](https://en.wikipedia.org/wiki/Automatic_renewal_clause); [Aaron Hall, Automatic Renewal Clauses in B2B Contracts](https://aaronhall.com/legal-implications-of-automatic-renewal-clauses-in-b2b-contracts/).
+**Sources:** [McLane Middleton, Evergreen Clauses](https://www.mclane.com/insights/evergreen-clauses-how-enforceable-are-automatic-renewal-provisions/); [NY Senate, General Obligations Law 5-903](https://www.nysenate.gov/legislation/laws/GOB/5-903); [Barclay Damon, Beware the Automatic Renewal Provisions](https://www.barclaydamon.com/publications/q1-2023beware-the-automatic-renewal-provisions-in-contracts-with-us-companies); [Morgan Lewis, New York Reforms Automatic Renewal Laws](https://www.morganlewis.com/blogs/sourcingatmorganlewis/2020/12/new-york-reforms-automatic-renewal-laws); [Wikipedia, Automatic renewal clause](https://en.wikipedia.org/wiki/Automatic_renewal_clause).
 
 ## FAQ
 
@@ -99,7 +99,7 @@ Usually not. Per the Wikipedia summary, most are consumer-protection statutes th
 
 **What if I missed the cancellation deadline?**
 
-Ask the vendor in writing to waive the renewal or shorten the new term. Per Aaron Hall, courts generally enforce cancellation deadlines strictly, so a waiver is a negotiation, not a right. Review the clause and any state notice law with an attorney if the amount is large.
+Ask the vendor in writing to waive the renewal or shorten the new term. Per McLane Middleton, a missed notice deadline means the contract renews, so a waiver is a negotiation, not a right. Review the clause and any state notice law with an attorney if the amount is large.
 
 ---
 

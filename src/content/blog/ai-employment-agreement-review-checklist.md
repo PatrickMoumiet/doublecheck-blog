@@ -8,7 +8,7 @@ faq:
   - question: 'Can I use ChatGPT to review my employment agreement?'
     answer: 'Yes for a first read: summaries, clause maps, and questions to ask. It is not a substitute for a licensed attorney''s advice on enforceability, and you should check every number, date, and defined term against the signed document.'
   - question: 'What does at-will employment mean?'
-    answer: 'Per TriNet, either the employer or the employee can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. It applies in 49 states plus D.C.; Montana requires good cause after probation.'
+    answer: 'Either the employer or the employee can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. It is the default in nearly every state, but Montana and some contract or public-policy rules limit it, so check your state.'
   - question: 'Are non-compete clauses enforceable in 2026?'
     answer: 'It depends on the state. Per Mondaq, the FTC abandoned its appeal defending its rule in September 2025, so enforceability largely turns on state law. See our state-by-state guide and check the worker''s state.'
   - question: 'What should an offer letter include?'
@@ -33,7 +33,7 @@ toc:
 **Key takeaways:**
 
 - Use AI to map and summarize clauses, not to decide whether they are enforceable.
-- At-will applies in 49 states plus D.C. per TriNet, but public-policy, implied-contract, and good-faith limits still exist.
+- At-will is the default in nearly every state, but public-policy, implied-contract, and good-faith limits still exist.
 - Pay classification, equity, and invention assignment terms need exact wording, and some states require extra notices.
 - Non-compete enforceability is a state-law question; the FTC rule is not in effect.
 
@@ -45,12 +45,12 @@ toc:
 
 ## 2. At-will, implied promises, and what AI tends to gloss over
 
-At-will employment means either side can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. Per TriNet's state guide (table current as of July 2026), it applies in 49 states plus D.C.; Montana is the exception, where employers need good cause after a probation period that defaults to 12 months and cannot exceed 18.
+At-will employment means either side can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. It is the default in nearly every state, and Montana is a notable exception where employers need good cause after a probationary period. Confirm your state's rule.
 
 Even in at-will states, three limits matter when you read a draft:
 
 - **Public policy:** a firing for refusing illegal activity, jury service, a workers' comp claim, or whistleblowing can be unlawful.
-- **Implied contract:** per TriNet, oral promises of termination only "for cause," handbook language on progressive discipline, or long tenure plus regular promotions can imply continued employment. Clear at-will language in offer letters and handbooks reduces that risk.
+- **Implied contract:** oral promises of termination only "for cause," handbook language on progressive discipline, or long tenure plus regular promotions can imply continued employment. Clear at-will language in offer letters and handbooks reduces that risk.
 - **Good faith:** recognized in only a few states, and it may apply to a firing just before a bonus or commission is earned.
 
 Ask the AI to quote every sentence that mentions duration, termination, notice, severance, or "for cause." Employers should also avoid wording that implies a fixed term, a point Cooley GO makes in its offer-letter guidance. Employees should flag any promise that appears only in an email or conversation, not in the signed document. For offer letters specifically, see our guide to [drafting a job offer letter with AI](/blog/draft-job-offer-letter-with-ai/).
@@ -84,7 +84,7 @@ Before signing, also confirm the governing-law and venue clauses, because they d
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [TriNet, at-will employment by state](https://www.trinet.com/insights/at-will-employment-states); [Cooley GO, drafting offer letters](https://www.cooleygo.com/drafting-offer-letters/); [Mondaq, FTC abandons non-compete rule](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1706482/ftc-officially-abandons-prior-non-compete-rule-but-its-work-on-this-issue-isnt-over-yet).
+**Sources:** [Cooley GO, drafting offer letters](https://www.cooleygo.com/drafting-offer-letters/); [Mondaq, FTC abandons non-compete rule](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1706482/ftc-officially-abandons-prior-non-compete-rule-but-its-work-on-this-issue-isnt-over-yet).
 
 ## FAQ
 
@@ -94,7 +94,7 @@ Yes for a first read: summaries, clause maps, and questions to ask. It is not a 
 
 **What does at-will employment mean?**
 
-Per TriNet, either the employer or the employee can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. It applies in 49 states plus D.C.; Montana requires good cause after probation.
+Either the employer or the employee can end the relationship at any time, with or without notice or reason, as long as the reason is lawful. It is the default in nearly every state, but Montana and some contract or public-policy rules limit it, so check your state.
 
 **Are non-compete clauses enforceable in 2026?**
 

@@ -6,13 +6,13 @@ pubDate: 'Nov 10 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the difference between overstaying and unlawful presence?'
-    answer: 'Overstay usually means staying past your I-94 date. Unlawful presence is time that counts toward re-entry bars. Per CitizenPath, someone can be out of status without accruing unlawful presence, for example while a green card application is pending.'
+    answer: 'Overstay usually means staying past your I-94 date. Unlawful presence is time that counts toward re-entry bars. Being out of status does not always mean you are accruing unlawful presence; it depends on your category and any pending filings, so ask an attorney.'
   - question: 'How long is the 3-year bar versus the 10-year bar?'
-    answer: 'Per Messersmith Law, more than 180 days but less than one year of unlawful presence in a single stay can trigger a 3-year bar, and one year or more can trigger a 10-year bar. Each runs from the date you leave the U.S.'
+    answer: 'Per the University of Wisconsin ISS, accumulating 180 to 364 days of unlawful presence can mean a 3-year bar on returning, and one year or more can mean a 10-year bar. Each runs from the date you leave the U.S.'
   - question: 'Does a pending extension or change of status stop unlawful presence?'
-    answer: 'Often, but conditions apply. Per Messersmith Law, up to 120 days may be tolled for the 3-year ground if the request was nonfrivolous, filed before the stay expired, and you did not work without authorization. Confirm your facts with an attorney.'
+    answer: 'Sometimes, but conditions apply. Whether a pending extension or change of status stops the count depends on your category, the filing date and other facts, so confirm with an immigration attorney.'
   - question: 'What waivers exist for unlawful presence?'
-    answer: 'Per Messersmith Law, Form I-601 and the provisional Form I-601A are discretionary and require extreme hardship to a U.S. citizen or permanent resident spouse or parent. Children are not qualifying relatives on their own.'
+    answer: 'Waivers such as Form I-601 and the provisional Form I-601A exist, but they are discretionary and narrow, and they generally depend on hardship to a qualifying U.S. citizen or permanent resident relative. An attorney can tell you whether you may qualify.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** An overstay means staying past the date or conditions of your admission. Unlawful presence is a separate, narrower concept: time counted against you for re-entry bars under INA 212(a)(9)(B). Per Messersmith Law, more than 180 days but less than one year of unlawful presence in a single stay, followed by departure, triggers a 3-year bar; one year or more triggers a 10-year bar. The bars take effect only when you leave the U.S. Being out of status does not always mean you are accruing unlawful presence, and some situations, such as a properly filed pending extension, can pause the count. If your date has passed or is close, speak with an immigration attorney before you travel.
+**Quick answer:** An overstay means staying past the date or conditions of your admission. Unlawful presence is a separate, narrower concept: time counted against you for re-entry bars under INA 212(a)(9)(B). Per the [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/), accumulating 180 to 364 days of unlawful presence can mean a 3-year bar on returning, and one year or more can mean a 10-year bar. The bars generally apply to future admissions after you leave the U.S. Being out of status does not always mean you are accruing unlawful presence, and some situations can pause the count. If your date has passed or is close, speak with an immigration attorney before you travel.
 
 ![Overstay versus unlawful presence and the 3-year and 10-year bars](/images/immigration-overstay-unlawful-presence-3-10-year-bars-explained/grid.webp)
 
@@ -48,45 +48,42 @@ toc:
 These terms are often used as if they were the same. They are not.
 
 - **Out of status** is about whether you are following the terms of your admission, such as working without authorization or leaving school.
-- **Unlawful presence** is time that counts toward the bars. Per [CitizenPath](https://citizenpath.com/unlawful-presence-explained/), someone who overstayed but filed a green card application may be out of status without accruing unlawful presence.
+- **Unlawful presence** is time that counts toward the bars. Someone can be out of status without accruing unlawful presence, depending on their category and any pending filings.
 - **Overstay** usually means remaining after the "admit until" date on your Form I-94.
 
-**Where the clock usually starts.** Per CitizenPath, accrual generally begins the day after your authorized stay expires, based on the I-94 date. Its example: admitted until June 1, 2024 and staying until December 1, 2024 is 183 days of unlawful presence. Per [Headman Law Group](https://headmanlaw.com/insights/i-94-record-how-to-find-check-and-correct/), your visa's expiration date does not set how long you may stay; the I-94 date does.
+**Where the clock usually starts.** For a stay with a fixed admit-until date, the I-94 "admit until" date is the key date to check, not your visa's expiration date; see the NYU I-94 page below. Per the [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/), days of unlawful presence accumulate until the day you depart the U.S.
 
-**Duration of status (D/S).** Some admissions, typically F-1 and J-1, show "D/S" instead of a date, meaning you may stay while you keep your status. Per CitizenPath, for D/S students accrual generally begins if the related activity stops. Per the [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/), a 2018 policy memo on F, J and M unlawful presence was invalidated by a permanent nationwide injunction on February 6, 2020, so older articles describing it can be outdated. The same page says DHS published a final rule on July 17, 2026 to replace D/S with fixed admission periods; see our [SEVIS and I-20 article](/blog/sevis-i-20-explained-maintaining-f-1-status/) for the court status, and ask your school's DSO before relying on either.
+**Duration of status (D/S).** Some admissions, typically F-1 and J-1, show "D/S" instead of a date, meaning you may stay while you keep your status. Per the [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/), a 2018 policy memo on F, J and M unlawful presence was invalidated by a permanent nationwide injunction on February 6, 2020, so older articles describing it can be outdated. The same page says DHS published a final rule on July 17, 2026 to replace D/S with fixed admission periods; see our [SEVIS and I-20 article](/blog/sevis-i-20-explained-maintaining-f-1-status/) for the court status, and ask your school's DSO before relying on either.
 
-An overstay can also affect future visas. Per Headman Law Group, under INA 222(g) an overstay generally voids your visa, so you typically need a new one for future trips.
+An overstay can also affect future visas and travel, so ask an immigration attorney before you plan a trip abroad.
 
 ## 3. How the 3-year and 10-year bars work, and common exceptions
 
-Per [Messersmith Law](https://messersmithlaw.com/ina-212a9b):
+Under the statute, as summarized by the [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/):
 
 - **3-year bar (INA 212(a)(9)(B)(i)(I)):** unlawful presence of more than 180 days but less than one year in a single stay, with voluntary departure before removal proceedings begin. It lasts three years from departure.
 - **10-year bar (INA 212(a)(9)(B)(i)(II)):** unlawful presence of one year or more in a single stay. It lasts ten years from departure.
-- Under June 2022 USCIS guidance, the period runs from departure even if the person returns to the U.S. during it, and a return can raise other grounds, such as INA 212(a)(9)(C).
+- A return to the U.S. during a bar can raise other inadmissibility grounds, so get advice before traveling.
 
-**Time that generally does not count**, per Messersmith and CitizenPath:
+**Time that may not count**, per the ISS page and the statute's exceptions:
 
-- Time before age 18.
-- Time while a bona fide asylum application is pending (unless the applicant worked without authorization).
-- A pending properly filed adjustment of status application, generally.
-- A pending change or extension of status filed on time, "under certain conditions". Messersmith says up to 120 days may be tolled for the 3-year ground if you were lawfully admitted, filed a nonfrivolous request before your stay expired, and did not work without authorization.
-- DACA, TPS, deferred action or parole.
-- Statutory exceptions for some battered spouses and children and for severe trafficking, if conditions are met.
+- Time before age 18 (the ISS page says dependents under 18 do not accrue unlawful presence).
+- A pending reinstatement application filed within five months of the violation, or a pending USCIS application for post-completion OPT, per the ISS page.
+- Other situations the statute and USCIS policy address, such as some pending applications, certain protected statuses, and exceptions for some battered spouses and children and trafficking victims. These are technical; confirm with an attorney.
 
 These exceptions turn on exact dates and filing details. A filing that is late, defective, or combined with unauthorized work may not protect you, so do not assume you qualify.
 
-**How to check your I-94 date.** Per [NYU](https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/current-students/travel-and-visitors/i-94-record.html), use the "Get Most Recent I-94" option on the CBP website after you have entered the U.S., and check the date of entry, class of admission, and admit-until date. Per Headman, the record is free, and you should avoid third-party sites that charge for it. If the record is wrong, NYU lists emailing CBP, using the CBP Traveler Communications Center, or contacting a CBP deferred inspection site; Headman says USCIS-issued I-94s are corrected with Form I-102.
+**How to check your I-94 date.** Per [NYU](https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/current-students/travel-and-visitors/i-94-record.html), use the "Get Most Recent I-94" option on the CBP website after you have entered the U.S., and check the date of entry, class of admission, and admit-until date. If the record is wrong, NYU lists emailing CBP, using the CBP Traveler Communications Center, or contacting a CBP deferred inspection site.
 
 ![Five steps to check your I-94 date and unlawful presence risk](/images/immigration-overstay-unlawful-presence-3-10-year-bars-explained/steps.webp)
 
 ## 4. Waivers, and when to see an attorney right away
 
-Waivers exist, but they are narrow. Per [Messersmith Law](https://messersmithlaw.com/ina-212a9b):
+Waivers exist, but they are narrow and technical:
 
-- **Form I-601** is a discretionary waiver for the unlawful presence ground. It requires extreme hardship to a U.S. citizen or lawful permanent resident spouse or parent. Children are not qualifying relatives on their own, though their circumstances can factor into the hardship to the qualifying relative.
-- **Form I-601A**, the provisional unlawful presence waiver, is requested before leaving the U.S. for consular processing. It waives only the unlawful presence ground, still requires extreme hardship to a qualifying relative, and does not confer status or guarantee a visa. Per CitizenPath, the steps are I-130 petition, then I-601A, then the consular interview.
-- **Nonimmigrant waivers** under INA 212(d)(3)(A) use a different standard for temporary visas.
+- **Form I-601** is a discretionary waiver for the unlawful presence ground. It generally requires extreme hardship to a qualifying U.S. citizen or lawful permanent resident relative, and children are not qualifying relatives on their own.
+- **Form I-601A**, the provisional unlawful presence waiver, is requested before leaving the U.S. for consular processing. It waives only the unlawful presence ground, still requires extreme hardship to a qualifying relative, and does not confer status or guarantee a visa.
+- **Nonimmigrant waivers** use a different standard for temporary visas.
 
 Neither waiver covers fraud or a prior removal, and neither is automatic. Hardship is more than ordinary family separation.
 
@@ -105,25 +102,25 @@ Do not look for ways to avoid a bar by hiding facts; misstatements to officials 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [CitizenPath on unlawful presence](https://citizenpath.com/unlawful-presence-explained/); [Messersmith Law on INA 212(a)(9)(B)](https://messersmithlaw.com/ina-212a9b); [University of Wisconsin ISS](https://iss.wisc.edu/students/current-students/unlawful-presence/); [NYU on I-94 records](https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/current-students/travel-and-visitors/i-94-record.html); [Headman Law Group on I-94](https://headmanlaw.com/insights/i-94-record-how-to-find-check-and-correct/).
+**Sources:** [University of Wisconsin ISS, Unlawful presence](https://iss.wisc.edu/students/current-students/unlawful-presence/); [NYU, I-94 record](https://www.nyu.edu/students/student-information-and-resources/student-visa-and-immigration/current-students/travel-and-visitors/i-94-record.html). Statutory references are to INA 212(a)(9)(B); confirm current rules on uscis.gov or with an attorney.
 
 ## FAQ
 
 **What is the difference between overstaying and unlawful presence?**
 
-Overstay usually means staying past your I-94 date. Unlawful presence is time that counts toward re-entry bars. Per CitizenPath, someone can be out of status without accruing unlawful presence, for example while a green card application is pending.
+Overstay usually means staying past your I-94 date. Unlawful presence is time that counts toward re-entry bars. Being out of status does not always mean you are accruing unlawful presence; it depends on your category and any pending filings, so ask an attorney.
 
 **How long is the 3-year bar versus the 10-year bar?**
 
-Per Messersmith Law, more than 180 days but less than one year of unlawful presence in a single stay can trigger a 3-year bar, and one year or more can trigger a 10-year bar. Each runs from the date you leave the U.S.
+Per the University of Wisconsin ISS, accumulating 180 to 364 days of unlawful presence can mean a 3-year bar on returning, and one year or more can mean a 10-year bar. Each runs from the date you leave the U.S.
 
 **Does a pending extension or change of status stop unlawful presence?**
 
-Often, but conditions apply. Per Messersmith Law, up to 120 days may be tolled for the 3-year ground if the request was nonfrivolous, filed before the stay expired, and you did not work without authorization. Confirm your facts with an attorney.
+Sometimes, but conditions apply. Whether a pending extension or change of status stops the count depends on your category, the filing date and other facts, so confirm with an immigration attorney.
 
 **What waivers exist for unlawful presence?**
 
-Per Messersmith Law, Form I-601 and the provisional Form I-601A are discretionary and require extreme hardship to a U.S. citizen or permanent resident spouse or parent. Children are not qualifying relatives on their own.
+Waivers such as Form I-601 and the provisional Form I-601A exist, but they are discretionary and narrow, and they generally depend on hardship to a qualifying U.S. citizen or permanent resident relative. An attorney can tell you whether you may qualify.
 
 ---
 

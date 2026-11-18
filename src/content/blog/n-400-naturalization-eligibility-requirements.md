@@ -10,9 +10,9 @@ faq:
   - question: 'Do trips abroad affect naturalization?'
     answer: 'Yes. The Policy Manual says absences over six months but under a year are presumed to break continuous residence, and a year or more breaks it unless an N-470 was approved.'
   - question: 'What is on the new civics test?'
-    answer: 'Switchboard says the 2025 test has a 128-question bank; 20 are asked and 12 correct answers pass.'
+    answer: 'Fredrikson says the 2025 test has a 128-question bank; up to 20 are asked and 12 correct answers pass.'
   - question: 'How much does the N-400 cost?'
-    answer: 'Citizenpath lists $710 online and $760 on paper as of September 2026, with reduced fees and waivers for some. Confirm on USCIS.'
+    answer: 'A USCIS fact sheet lists $710 online and $760 on paper, with a reduced fee and fee waivers for some applicants. Fees can change, so confirm on USCIS.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -51,17 +51,17 @@ The Policy Manual says an absence of more than six months but less than a year i
 
 ## 3. The 2025 civics test and interviews
 
-Switchboard says applicants who file on or after October 20, 2025 take the 2025 test: a 128-question bank, 20 questions asked, and 12 correct to pass, while earlier filers take the 2008 test. English reading, writing, and speaking are unchanged. USCIS says if you fail English or civics you can retest between 60 and 90 days after the first interview, with two chances. AILA posted a policy memo (August 2025) resuming neighborhood investigations, covering home and workplace area and at least five years before filing.
+Fredrikson says applicants who file on or after October 20, 2025 take the 2025 test: a 128-question bank, up to 20 questions asked, and 12 correct to pass, while earlier filers take the 2008 test. English reading, writing, and speaking are unchanged. USCIS says if you fail English or civics you can retest between 60 and 90 days after the first interview, with two chances. AILA posted a policy memo (August 2025) resuming neighborhood investigations, covering home and workplace area and at least five years before filing.
 
 ## 4. Fees and timing
 
-Citizenpath lists the fee at $710 online or $760 on paper as of September 2026, with a reduced $380 fee by mail only for household income below 400% of the federal poverty guidelines, and fee waivers on Form I-912. Citizenpath also says a $570 increase was reported as proposed in June 2026, so check the live fee. VisaVerge reports about 813,000 pending N-400s in August 2026, an average of 12.7 months and a median of 9.5 months in the April to June quarter. Compare with other paths: [EB-1A](/blog/eb-1a-vs-o-1-founder-which-path/), [PERM](/blog/perm-labor-certification-green-card-process/), [finding an immigration lawyer](/blog/how-to-find-good-immigration-lawyer-startup-founder/).
+A USCIS fact sheet lists the fee at $710 online or $760 on paper, with a reduced $380 fee, requested on a paper N-400, for household income between 150% and 400% of the federal poverty guidelines, and fee waivers on Form I-912. Fees can change, so check the live fee on USCIS. The National Foundation for American Policy reports about 712,572 pending N-400s in May 2026 and an average processing time of 10.1 months, up from 6.4 months in January 2025. Compare with other paths: [EB-1A](/blog/eb-1a-vs-o-1-founder-which-path/), [PERM](/blog/perm-labor-certification-green-card-process/), [finding an immigration lawyer](/blog/how-to-find-good-immigration-lawyer-startup-founder/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS Policy Manual Vol. 12, Part D, Ch. 1](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1); [Ch. 3](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-3); [Vol. 12, Part G, Ch. 2](https://www.uscis.gov/policy-manual/volume-12-part-g-chapter-2); [USCIS naturalization FAQ](https://www.uscis.gov/citizenship/learn-about-citizenship/commonly-asked-questions-about-the-naturalization-process); [Switchboard](https://www.switchboardta.org/2025-changes-to-the-naturalization-civics-test-what-service-providers-need-to-know/); [AILA](https://www.aila.org/library/uscis-policy-memorandum-on-resuming-personal-investigations-of-naturalization-applicants); [CitizenPath](https://citizenpath.com/cost-of-citizenship/); [VisaVerge](https://www.visaverge.com/immigration/uscis-n-400-naturalization-backlog-tops-813000-as-processing-time-reaches-127-months/).
+**Sources:** [USCIS Policy Manual Vol. 12, Part D, Ch. 1](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1); [Ch. 3](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-3); [Vol. 12, Part G, Ch. 2](https://www.uscis.gov/policy-manual/volume-12-part-g-chapter-2); [USCIS naturalization FAQ](https://www.uscis.gov/citizenship/learn-about-citizenship/commonly-asked-questions-about-the-naturalization-process); [Fredrikson alert on the new civics test](https://www.fredlaw.com/alert-uscis-unveils-new-naturalization-civics-test); [AILA](https://www.aila.org/library/uscis-policy-memorandum-on-resuming-personal-investigations-of-naturalization-applicants); [USCIS fact sheet on naturalization fees](https://uscis.gov/sites/default/files/document/fact-sheets/OoC_FactSheetOnNatzFees_V3_508.pdf); [NFAP, Naturalization Trends (July 2026)](https://nfap.com/wp-content/uploads/2026/07/Naturalization-Trends.NFAP-Policy-Brief.July-2026.pdf).
 
 ## FAQ
 
@@ -75,11 +75,11 @@ Yes. The Policy Manual says absences over six months but under a year are presum
 
 **What is on the new civics test?**
 
-Switchboard says the 2025 test has a 128-question bank; 20 are asked and 12 correct answers pass.
+Fredrikson says the 2025 test has a 128-question bank; up to 20 are asked and 12 correct answers pass.
 
 **How much does the N-400 cost?**
 
-Citizenpath lists $710 online and $760 on paper as of September 2026, with reduced fees and waivers for some. Confirm on USCIS.
+A USCIS fact sheet lists $710 online and $760 on paper, with a reduced fee and fee waivers for some applicants. Fees can change, so confirm on USCIS.
 
 ---
 

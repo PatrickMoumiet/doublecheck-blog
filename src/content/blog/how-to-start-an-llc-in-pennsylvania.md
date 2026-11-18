@@ -6,13 +6,13 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How much does it cost to start an LLC in Pennsylvania?'
-    answer: 'Per LegalZoom and Startup Savant, the Certificate of Organization fee is $125. Expedited processing costs an extra $100 to $1,000 per LegalZoom, and registered office services run $50 to $300 a year.'
+    answer: 'The Certificate of Organization fee is $125 per the Department of State fee schedule; confirm the current amount. Expedited processing and registered office services cost extra and vary by provider.'
   - question: 'What is the Pennsylvania LLC annual report fee and deadline?'
     answer: '$7 for an LLC, filed between January 1 and September 30, per the Pennsylvania Department of State. LLCs with a not-for-profit purpose pay $0.'
   - question: 'Does Pennsylvania still require the decennial report?'
     answer: 'No for associations. The Department of State says it is repealed for them, though it still applies to certain insignia and marks. The annual report replaced it.'
   - question: 'Do I need to publish a notice to form a Pennsylvania LLC?'
-    answer: 'We could not confirm a publication requirement for forming an LLC in the sources checked. Fictitious-name publishing does exist, per Harbor Compliance, so confirm with the Department of State or an attorney.'
+    answer: 'We could not confirm a publication requirement for forming an LLC. Fictitious-name publishing may apply if you use a trade name, so confirm with the Department of State or an attorney.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -32,26 +32,26 @@ toc:
 
 **Key takeaways:**
 
-- The Certificate of Organization fee is $125 per LegalZoom and Startup Savant; confirm with the Department of State.
+- The Certificate of Organization fee is $125; confirm with the Department of State.
 - The annual report costs $7 and is filed January 1 through September 30, per the Department of State.
 - The decennial report has been repealed for associations.
-- Pennsylvania eliminated its LLC franchise tax after 2016, per LegalZoom.
+- Pennsylvania has phased out its capital stock and franchise tax; confirm with the Department of Revenue.
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in Pennsylvania, check your name with the Department of State, list a registered office, and file a Certificate of Organization. Per LegalZoom and Startup Savant, the filing fee is $125. Then adopt an operating agreement and get a free EIN. Per the Pennsylvania Department of State, LLCs file an annual report with a $7 fee between January 1 and September 30, and the old decennial report has been repealed for associations.
+**Quick answer:** To start an LLC in Pennsylvania, check your name with the Department of State, list a registered office, and file a Certificate of Organization. The Certificate of Organization filing fee is $125; confirm with the Department of State. Then adopt an operating agreement and get a free EIN. Per the Pennsylvania Department of State, LLCs file an annual report with a $7 fee between January 1 and September 30, and the old decennial report has been repealed for associations.
 
 ![Pennsylvania LLC fees and requirements at a glance](/images/how-to-start-an-llc-in-pennsylvania/grid.webp)
 
 ## 2. Step by step: name, office, and filing
 
-**1. Check your name.** Per Startup Savant, the name must include "limited liability company," "limited company," "LLC," or "L.L.C.," be distinguishable from other registered entities, and avoid words like "bank" or "doctor." Use the Department of State's name search.
+**1. Check your name.** The name must include "limited liability company," "limited company," "LLC," or "L.L.C.," be distinguishable from other registered entities, and avoid words like "bank" or "doctor." Use the Department of State's name search.
 
-**2. List a registered office.** Pennsylvania uses "registered office" for the address where legal papers are delivered. Per Startup Savant, someone must be there during normal business hours. Per LegalZoom, a PO box cannot be used, and an agent service costs $50 to $300 a year.
+**2. List a registered office.** Pennsylvania uses "registered office" for the address where legal papers are delivered. Someone must be available there during normal business hours, and a PO box generally cannot be used. Registered office services cost extra and vary by provider.
 
-**3. File the Certificate of Organization.** The fee is $125. LegalZoom lists optional expedited processing at an extra $100 to $1,000, depending on speed. Confirm with the Department of State.
+**3. File the Certificate of Organization.** The fee is $125. Expedited processing is optional and costs extra. Confirm with the Department of State.
 
-**4. Write an operating agreement.** Startup Savant recommends one even for single-member LLCs, covering member duties, admission, transfers, and profit distribution. See [LLC operating agreements with AI](/blog/llc-operating-agreement-with-ai/).
+**4. Write an operating agreement.** An operating agreement is worth having even for single-member LLCs, covering member duties, admission, transfers, and profit distribution. See [LLC operating agreements with AI](/blog/llc-operating-agreement-with-ai/).
 
 **5. Get an EIN.** Free from the IRS; see [how to get an EIN for free](/blog/how-to-get-an-ein-for-your-business-free/).
 
@@ -72,9 +72,9 @@ Sources differ on the first year the annual report applied, so check the Departm
 
 ## 4. Pennsylvania quirks and what to compare
 
-**Publishing.** Pennsylvania's newspaper-publication rules are often mentioned alongside LLCs. In the sources we checked, we could not confirm that a new LLC must publish. What Harbor Compliance does describe is fictitious-name publishing: a business using a name other than its legal name notifies the public in two newspapers in the county of its principal office, one a legal newspaper, per PA Code 17.208(a), at roughly $200. If you plan to use a trade name, confirm the current rule with the Department of State or an attorney.
+**Publishing.** Pennsylvania's newspaper-publication rules are often mentioned alongside LLCs. We could not confirm that a new LLC must publish. Separately, a business using a name other than its legal name may have fictitious-name registration and publication obligations. If you plan to use a trade name, confirm the current rule with the Department of State or an attorney.
 
-**Taxes.** Per LegalZoom, Pennsylvania eliminated its franchise tax for LLCs after 2016. A seller's permit may be needed if you sell physical products, and employers register for withholding and unemployment tax, per Startup Savant.
+**Taxes.** Pennsylvania has phased out its capital stock and franchise tax, but confirm current tax obligations with the Department of Revenue. A seller's permit may be needed if you sell physical products, and employers register for withholding and unemployment tax.
 
 A one-owner LLC is usually disregarded federally; see [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/). Compare with [best state to form an LLC](/blog/best-state-to-form-an-llc-comparison/), check [business license requirements](/blog/business-license-requirements-small-business/), and see [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/). Sibling guides: [New Jersey](/blog/how-to-start-an-llc-in-new-jersey/) and [New York](/blog/how-to-start-an-llc-in-new-york/).
 
@@ -82,13 +82,13 @@ A one-owner LLC is usually disregarded federally; see [single-member LLC taxes](
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Pennsylvania Department of State: Annual reports](https://pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/annual-reports.html); [LegalZoom: LLC cost in Pennsylvania](https://www.legalzoom.com/articles/how-much-is-an-llc-in-pennsylvania); [Startup Savant: Pennsylvania LLC](https://www.startupsavant.com/how-to-start-an-llc/pennsylvania); [Harbor Compliance: PA publishing requirement](https://www.harborcompliance.com/information/pa-publishing-requirement).
+**Sources:** [Pennsylvania Department of State: Annual reports](https://pa.gov/agencies/dos/programs/business/types-of-filings-and-registrations/annual-reports.html). Confirm fees and tax rules directly with the Pennsylvania Department of State and Department of Revenue.
 
 ## FAQ
 
 **How much does it cost to start an LLC in Pennsylvania?**
 
-Per LegalZoom and Startup Savant, the Certificate of Organization fee is $125. Expedited processing costs an extra $100 to $1,000 per LegalZoom, and registered office services run $50 to $300 a year.
+The Certificate of Organization fee is $125 per the Department of State fee schedule; confirm the current amount. Expedited processing and registered office services cost extra and vary by provider.
 
 **What is the Pennsylvania LLC annual report fee and deadline?**
 
@@ -100,7 +100,7 @@ No for associations. The Department of State says it is repealed for them, thoug
 
 **Do I need to publish a notice to form a Pennsylvania LLC?**
 
-We could not confirm a publication requirement for forming an LLC in the sources checked. Fictitious-name publishing does exist, per Harbor Compliance, so confirm with the Department of State or an attorney.
+We could not confirm a publication requirement for forming an LLC. Fictitious-name publishing may apply if you use a trade name, so confirm with the Department of State or an attorney.
 
 ---
 

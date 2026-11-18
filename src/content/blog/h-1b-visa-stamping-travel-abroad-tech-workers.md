@@ -6,11 +6,11 @@ pubDate: 'Nov 9 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Do I need H-1B visa stamping if I do not travel?'
-    answer: 'No. Per RJ Immigration Law, USCIS approval grants H-1B status, and a stamp is required for travel. Manifest Law adds that an expired stamp does not affect status while you are in the U.S.'
+    answer: 'No. USCIS approval grants H-1B status, and a valid visa stamp is generally required to re-enter after travel. An expired stamp does not affect your status while you are in the U.S.'
   - question: 'Can I still use a dropbox or interview waiver for H-1B renewal?'
     answer: 'Per Boston University''s international office, the State Department narrowed waiver criteria effective September 2, 2025, and nearly all applicants must schedule an interview. We could not verify a 2026 H-1B waiver change, so check travel.state.gov.'
   - question: 'Can I get my H-1B stamped in a third country?'
-    answer: 'Per Manifest Law, most applicants must schedule in their home country or country of residence. Morgan Lewis says TCN processing was restricted in September 2025, so do not rely on it.'
+    answer: 'Most applicants should expect to schedule in their home country or country of residence. Morgan Lewis says TCN processing was restricted in September 2025, so do not rely on it.'
   - question: 'Can I travel while my H-1B change of status is pending?'
     answer: 'Per the University of Michigan International Center, leaving the U.S. causes USCIS to treat a pending change of status as abandoned. Extensions are different; ask your employer''s counsel before you book.'
 toc:
@@ -39,20 +39,20 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** USCIS approval gives you H-1B status, but a visa stamp from a U.S. embassy or consulate abroad is what lets you board a flight and re-enter, per RJ Immigration Law. You only need a new stamp if you travel and your old one has expired (or you never had one). Since September 2, 2025, nearly all nonimmigrant visa applicants must attend an in-person interview, per Boston University's international office, and since December 15, 2025 H-1B and H-4 applicants face an online presence review, per Fragomen. As of November 2026, treat any trip that needs a new stamp as a multi-week or multi-month commitment.
+**Quick answer:** USCIS approval gives you H-1B status, but a visa stamp from a U.S. embassy or consulate abroad is what lets you board a flight and re-enter, per [Yale OISS](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status). You only need a new stamp if you travel and your old one has expired (or you never had one). Since September 2, 2025, nearly all nonimmigrant visa applicants must attend an in-person interview, per Boston University's international office, and since December 15, 2025 H-1B and H-4 applicants face an online presence review, per Fragomen. As of November 2026, treat any trip that needs a new stamp as a multi-week or multi-month commitment.
 
 ![Five steps from H-1B approval to a new visa stamp](/images/h-1b-visa-stamping-travel-abroad-tech-workers/steps.webp)
 
 ## 2. When you need a stamp and where to get it
 
-You need a valid H-1B visa to enter the U.S. in H-1B status (Canadian citizens are visa-exempt, per [RJ Immigration Law](https://rjimmigrationlaw.com/resources/h-1b-visa-stamping-in-2026-process-documents-and-what-to-expect/)). An expired stamp does not affect your status while you are inside the U.S., but you will need a new one before re-entering after travel, per [Manifest Law](https://manifestlaw.com/blog/h1b-visa-stamping-in-usa/).
+You generally need a valid H-1B visa to enter the U.S. in H-1B status (some nationalities, such as Canadian citizens, are visa-exempt; confirm for your case). An expired stamp does not affect your status while you are inside the U.S., but you will need a new one before re-entering after travel, per [Yale OISS](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status).
 
 Two points that changed in the past year:
 
 - **Interview waivers.** Boston University reports that the State Department narrowed waiver criteria effective September 2, 2025, and that the listed exceptions cover mainly diplomatic and similar categories, plus B-1/B-2 renewals, not H-1B. Consular officers can still require an interview in any case. Rules may have moved again, so check [travel.state.gov](https://travel.state.gov) and your consulate's page. We could not verify any 2026 H-1B waiver change.
-- **Where to apply.** Manifest Law says most applicants must now schedule in their home country or country of residence, and Morgan Lewis says the State Department restricted third-country national (TCN) processing in September 2025, with most posts suspending it or limiting it to narrow cases. Do not plan a "vacation stamping" trip to a third country.
+- **Where to apply.** Most applicants should plan to schedule in their home country or country of residence, and Morgan Lewis says the State Department restricted third-country national (TCN) processing in September 2025, with most posts suspending it or limiting it to narrow cases. Do not plan a "vacation stamping" trip to a third country.
 
-Domestic stamping is not something to count on. Manifest Law says the domestic pilot ended, though Yale's page still mentions a limited State Department pilot for certain renewals. Verify with your employer's counsel before relying on either statement.
+Domestic stamping is not something to count on. Yale's page mentions a limited State Department pilot for certain renewals, but its availability may have changed. Verify with your employer's counsel before relying on it.
 
 For appointment-related refusals, see [visa 221(g) administrative processing](/blog/visa-221g-administrative-processing/).
 
@@ -60,9 +60,9 @@ For appointment-related refusals, see [visa 221(g) administrative processing](/b
 
 **Online presence review.** Per [Fragomen](https://www.fragomen.com/insights/united-states-us-consulates-cancelling-some-h-1b-and-h-4-visa-appointments-due-to-new-online-presence-review.html), the State Department began reviewing the online presence of H-1B and H-4 applicants on December 15, 2025. Applicants must set social media privacy settings to "public." The review reportedly focuses on involvement in censorship of U.S. citizens, and expands a policy first applied to F, M, and J applicants in June 2025.
 
-**Delays.** In India, appointments from mid-December 2025 were cancelled and many moved to March 2026, per Fragomen. [Morgan Lewis](https://www.morganlewis.com/pubs/2025/12/postponed-h-1b-h-4-interviews-in-india-enhanced-vetting-and-end-of-tcn-processing-create-delay-at-us-consulates) adds that only one reschedule is allowed, that you should not attend the original date, and that employers should plan for multi-month absences and remote-work requests from abroad. Manifest Law reports that as of March 2026 some appointments were set as far out as summer 2027. Wait times vary by post and change often, so check the live availability.
+**Delays.** In India, appointments from mid-December 2025 were cancelled and many moved to March 2026, per Fragomen. [Morgan Lewis](https://www.morganlewis.com/pubs/2025/12/postponed-h-1b-h-4-interviews-in-india-enhanced-vetting-and-end-of-tcn-processing-create-delay-at-us-consulates) adds that only one reschedule is allowed, that you should not attend the original date, and that employers should plan for multi-month absences and remote-work requests from abroad. Some appointments have been set many months out. Wait times vary by post and change often, so check the live availability.
 
-**The $100,000 fee.** Manifest Law says USCIS stated in October 2025 that it applies only to new petitions for workers outside the U.S. without a valid H-1B, not to extensions, amendments, or in-U.S. changes of status. Litigation has been active; see [H-1B $100,000 fee status](/blog/h1b-100000-fee-status-2026/) and check current guidance before any trip while a new petition is pending.
+**The $100,000 fee.** USCIS guidance issued in October 2025 described the fee as applying to certain new petitions for workers outside the U.S., not to extensions, amendments, or in-U.S. changes of status; confirm on uscis.gov. Litigation has been active; see [H-1B $100,000 fee status](/blog/h1b-100000-fee-status-2026/) and check current guidance before any trip while a new petition is pending.
 
 Plan around [H-1B cap timelines](/blog/h-1b-cap-registration-fy2028-timeline-employers/) and the [weighted lottery](/blog/h1b-weighted-lottery-wage-levels-explained/) if your status depends on them.
 
@@ -70,7 +70,7 @@ Plan around [H-1B cap timelines](/blog/h-1b-cap-registration-fy2028-timeline-emp
 
 ## 4. What to carry and travel during a pending case
 
-**Documents** (per Manifest Law and RJ Immigration Law): valid passport, I-797 approval notice, DS-160 confirmation with barcode, interview appointment confirmation, employment verification letter, and for renewals recent pay stubs and the latest petition. Degrees, transcripts, and prior visas are useful extras. Yale adds that your passport should be valid six months beyond re-entry, and to carry an I-612 approval if you were subject to the J-1 home requirement; see [J-1 212(e) waivers](/blog/j-1-two-year-home-residency-requirement-212e-waiver/). The visa fee (MRV) is usually about $190 and non-refundable, per Manifest Law, and varies by country.
+**Documents** (typically): valid passport, I-797 approval notice, DS-160 confirmation with barcode, interview appointment confirmation, employment verification letter, and for renewals recent pay stubs and the latest petition. Degrees, transcripts, and prior visas are useful extras. Yale adds that your passport should be valid six months beyond re-entry, and to carry an I-612 approval if you were subject to the J-1 home requirement; see [J-1 212(e) waivers](/blog/j-1-two-year-home-residency-requirement-212e-waiver/). The visa application (MRV) fee is non-refundable; check the State Department's current fee schedule.
 
 **Pending extension or change of status.** The rules differ:
 
@@ -84,13 +84,13 @@ Also note that a trip can end in administrative processing. Talk to your employe
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Fragomen, online presence review for H-1B and H-4](https://www.fragomen.com/insights/united-states-us-consulates-cancelling-some-h-1b-and-h-4-visa-appointments-due-to-new-online-presence-review.html); [Morgan Lewis, postponed H-1B/H-4 interviews](https://www.morganlewis.com/pubs/2025/12/postponed-h-1b-h-4-interviews-in-india-enhanced-vetting-and-end-of-tcn-processing-create-delay-at-us-consulates); [Manifest Law, H-1B visa stamping](https://manifestlaw.com/blog/h1b-visa-stamping-in-usa/); [RJ Immigration Law, H-1B stamping in 2026](https://rjimmigrationlaw.com/resources/h-1b-visa-stamping-in-2026-process-documents-and-what-to-expect/); [Boston University ISSO, interview waiver change](https://www.bu.edu/isso/?p=3442); [Yale OISS, travel in employment-based status](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status); [University of Michigan International Center](https://internationalcenter.umich.edu/node/300).
+**Sources:** [Fragomen, online presence review for H-1B and H-4](https://www.fragomen.com/insights/united-states-us-consulates-cancelling-some-h-1b-and-h-4-visa-appointments-due-to-new-online-presence-review.html); [Morgan Lewis, postponed H-1B/H-4 interviews](https://www.morganlewis.com/pubs/2025/12/postponed-h-1b-h-4-interviews-in-india-enhanced-vetting-and-end-of-tcn-processing-create-delay-at-us-consulates); [Boston University ISSO, interview waiver change](https://www.bu.edu/isso/?p=3442); [Yale OISS, travel in employment-based status](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status); [University of Michigan International Center](https://internationalcenter.umich.edu/node/300).
 
 ## FAQ
 
 **Do I need H-1B visa stamping if I do not travel?**
 
-No. Per RJ Immigration Law, USCIS approval grants H-1B status, and a stamp is required for travel. Manifest Law adds that an expired stamp does not affect status while you are in the U.S.
+No. USCIS approval grants H-1B status, and a valid visa stamp is generally required to re-enter after travel. An expired stamp does not affect your status while you are in the U.S.
 
 **Can I still use a dropbox or interview waiver for H-1B renewal?**
 
@@ -98,7 +98,7 @@ Per Boston University's international office, the State Department narrowed waiv
 
 **Can I get my H-1B stamped in a third country?**
 
-Per Manifest Law, most applicants must schedule in their home country or country of residence. Morgan Lewis says TCN processing was restricted in September 2025, so do not rely on it.
+Most applicants should expect to schedule in their home country or country of residence. Morgan Lewis says TCN processing was restricted in September 2025, so do not rely on it.
 
 **Can I travel while my H-1B change of status is pending?**
 

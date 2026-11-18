@@ -12,7 +12,7 @@ faq:
   - question: 'Did FinCEN delete the BOI data already filed?'
     answer: 'Debevoise says FinCEN intends to delete previously reported information on US persons and domestic companies and will post a public notice when the process is complete. FinCEN does not confirm individual deletions.'
   - question: 'What annual report changes should small businesses watch in 2026?'
-    answer: 'Per Withum, Delaware raised its annual LLC tax from $300 to $400 starting with the 2026 tax year. Cogency Global reports a nature-of-business disclosure in Delaware and required email addresses in Washington. Check your state agency for exact rules.'
+    answer: 'Per Withum, Delaware raised its annual LLC tax from $300 to $400 starting with the 2026 tax year. Other states have also changed annual report content, so check your state agency for exact rules.'
   - question: 'Is the Corporate Transparency Act still being challenged in court?'
     answer: 'Yes, at least as of August 2026. MoFo says the Eleventh Circuit upheld the law as facially within Congress commerce authority in December 2025 and that a Supreme Court review petition remained pending. Confirm current status before relying on it.'
 toc:
@@ -90,11 +90,9 @@ Troutman adds that the federal rule does not preempt state beneficial ownership 
 
 Annual filings are where small businesses get hit with late fees. These changes are attributed to the sources named, and each state publishes the final word.
 
-- **Delaware (fees and tax):** per Withum, House Bill 400 was signed May 21, 2026 and raises the annual LLC tax from $300 to $400 for the 2026 tax year (generally paid in 2027), raises the per-series fee from $75 to $100, and changes various Division of Corporations fees effective August 1, 2026. Capitol Services adds that LLC tax increases show up in taxes due June 1, 2027. See [Delaware LLC annual tax June 1](/blog/delaware-llc-annual-tax-june-1/) and [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/).
-- **Delaware (annual report content):** Cogency Global says domestic corporations must disclose their nature of business in the annual franchise tax report for report year 2025, due March 1, 2026, and that registered agent addresses can no longer serve as a corporation's principal place of business.
-- **Washington:** Cogency says email and electronic contact information is required in key sections, including annual reports, from January 20, 2026, and filings that omit it may be rejected.
+- **Delaware (fees and tax):** per Withum, House Bill 400 was signed May 21, 2026 and raises the annual LLC tax from $300 to $400 for the 2026 tax year (generally paid in 2027), raises the per-series fee from $75 to $100, and changes various Division of Corporations fees effective August 1, 2026. See [Delaware LLC annual tax June 1](/blog/delaware-llc-annual-tax-june-1/) and [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/).
+- **Other states:** some states have changed what their annual reports must contain, such as business-activity descriptions, contact details or amended-report triggers, so check your state agency for the current form and rules.
 - **Pennsylvania:** NFIB (August 2025) describes a state annual report requirement beginning in 2025, with a $7 fee for business corporations, LLCs, LPs and LLPs and an LLC filing window through September 30. Check dos.pa.gov for current rules.
-- **Connecticut:** Cogency says that from January 1, 2025, amended annual reports are required when certain information changes, such as officers, managers, members, registered agent or principal office address, subject to a filing fee.
 
 Use [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/) as a starting list, and put every date on a calendar the day you form. If you operate outside your formation state, see [foreign qualification](/blog/foreign-qualification-register-llc-in-another-state/).
 
@@ -114,7 +112,7 @@ Use [annual report requirements by state](/blog/annual-report-requirements-by-st
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [MoFo, FinCEN Ends Beneficial Ownership Reporting Requirements for U.S. Companies (Aug. 20, 2026)](https://www.mofo.com/resources/insights/260820-fincen-ends-beneficial-ownership-reporting); [Debevoise, FinCEN Finalizes Narrowed Beneficial Ownership Reporting Regime (Sept. 2026)](https://www.debevoise.com/insights/publications/2026/09/fincen-finalizes-narrowed-beneficial-ownership-rep); [Troutman Pepper Locke, Relief is real but not universal](https://www.troutman.com/insights/relief-is-real-but-not-universal-fincen-permanently-ends-boi-reporting-for-us-companies/); [Simpson Thacher memo (Dec. 23, 2025)](https://www.stblaw.com/docs/default-source/memos/firmmemo_12_23_25); [Mintz, NY LLC Transparency Act update (Feb. 2026)](https://www.mintz.com/insights-center/viewpoints/2911/2026-02-25-update-new-york-llc-transparency-act-nylta); [Withum, Delaware annual taxes and filing costs](https://www.withum.com/resources/delaware-businesses-face-increased-annual-taxes-and-filing-costs/); [Capitol Services, Delaware fee and annual tax changes](https://www.capitolservices.com/insights/alerts/e-alert-delaware-fee-and-annual-tax-changes/); [Cogency Global, Annual report compliance changes](https://www.cogencyglobal.com/blog/annual-report-compliance-changes/); [NFIB, Pennsylvania annual report (Aug. 2025)](https://www.nfib.com/?p=40178); [IRS, Apply for an EIN online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
+**Sources:** [MoFo, FinCEN Ends Beneficial Ownership Reporting Requirements for U.S. Companies (Aug. 20, 2026)](https://www.mofo.com/resources/insights/260820-fincen-ends-beneficial-ownership-reporting); [Debevoise, FinCEN Finalizes Narrowed Beneficial Ownership Reporting Regime (Sept. 2026)](https://www.debevoise.com/insights/publications/2026/09/fincen-finalizes-narrowed-beneficial-ownership-rep); [Troutman Pepper Locke, Relief is real but not universal](https://www.troutman.com/insights/relief-is-real-but-not-universal-fincen-permanently-ends-boi-reporting-for-us-companies/); [Simpson Thacher memo (Dec. 23, 2025)](https://www.stblaw.com/docs/default-source/memos/firmmemo_12_23_25); [Mintz, NY LLC Transparency Act update (Feb. 2026)](https://www.mintz.com/insights-center/viewpoints/2911/2026-02-25-update-new-york-llc-transparency-act-nylta); [Withum, Delaware annual taxes and filing costs](https://www.withum.com/resources/delaware-businesses-face-increased-annual-taxes-and-filing-costs/); [NFIB, Pennsylvania annual report (Aug. 2025)](https://www.nfib.com/?p=40178); [IRS, Apply for an EIN online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
 
 ## FAQ
 
@@ -132,7 +130,7 @@ Debevoise says FinCEN intends to delete previously reported information on US pe
 
 **What annual report changes should small businesses watch in 2026?**
 
-Per Withum, Delaware raised its annual LLC tax from $300 to $400 starting with the 2026 tax year. Cogency Global reports a nature-of-business disclosure in Delaware and required email addresses in Washington. Check your state agency for exact rules.
+Per Withum, Delaware raised its annual LLC tax from $300 to $400 starting with the 2026 tax year. Other states have also changed annual report content, so check your state agency for exact rules.
 
 **Is the Corporate Transparency Act still being challenged in court?**
 

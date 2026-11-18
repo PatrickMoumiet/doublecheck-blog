@@ -6,7 +6,7 @@ pubDate: 'Nov 16 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Should a Texas-based startup incorporate in Delaware or Texas?'
-    answer: 'If you plan to raise venture capital, Delaware is the conventional choice, and Capbase says VCs prefer Delaware corporations. If you are bootstrapped and local, a Texas entity can mean fewer filings. Ask an attorney before filing.'
+    answer: 'If you plan to raise venture capital, Delaware is the conventional choice, and many investors expect a Delaware corporation. If you are bootstrapped and local, a Texas entity can mean fewer filings. Ask an attorney before filing.'
   - question: 'Does a Delaware company need to register in Texas?'
     answer: 'Generally yes if it transacts business in Texas, such as having an office or employee there. The Texas Secretary of State lists a $750 registration fee for most entities and says an unregistered entity cannot maintain a lawsuit in a Texas court.'
   - question: 'What is the Texas Business Court and does it matter for a startup?'
@@ -34,12 +34,12 @@ toc:
 
 - A Delaware company run from Texas generally needs Texas foreign registration, which costs $750 per the Texas Secretary of State.
 - Delaware's minimum franchise tax is $175 or $400 depending on method, with an annual report fee of $50.
-- Capbase says VCs prefer Delaware; the Texas Business Court hears larger disputes (above $5 million).
+- Delaware is the conventional choice for venture-backed startups; the Texas Business Court hears larger disputes (above $5 million).
 - Bootstrapped and local: Texas can be simpler. Raising VC: Delaware is the conventional choice.
 
 ## 1. The quick answer
 
-**Quick answer:** For a startup based in Texas, the choice is usually Delaware corporation plus Texas registration, or a Texas entity alone. If you expect to raise venture capital, Delaware is the conventional choice: Capbase, a company that sells formation services, says investors especially VCs prefer Delaware corporations. If you are bootstrapping and staying local, a Texas entity avoids a second state's filings. A Delaware company that operates in Texas generally has to register in Texas as well, so it pays for both. As of November 2026, Texas has also built up its own corporate-law tools, including a statewide business court, so the gap is narrower than older articles suggest.
+**Quick answer:** For a startup based in Texas, the choice is usually Delaware corporation plus Texas registration, or a Texas entity alone. If you expect to raise venture capital, Delaware is the conventional choice: many investors, especially VCs, expect a Delaware corporation. If you are bootstrapping and staying local, a Texas entity avoids a second state's filings. A Delaware company that operates in Texas generally has to register in Texas as well, so it pays for both. As of November 2026, Texas has also built up its own corporate-law tools, including a statewide business court, so the gap is narrower than older articles suggest.
 
 This is the same question as [incorporate in California vs Delaware](/blog/incorporate-california-vs-delaware-startup/), with Texas-specific costs. The facts below each name their source.
 
@@ -47,9 +47,9 @@ This is the same question as [incorporate in California vs Delaware](/blog/incor
 
 ## 2. Foreign qualification and the cost of two states
 
-If you incorporate in Delaware but run the company from Texas, you will normally need to register it with Texas as a foreign entity. The Texas Secretary of State says a foreign filing entity must register if it transacts business in Texas, generally meaning it has an office or employee there. The fee is $750 for most entities. An unregistered entity cannot maintain a lawsuit in a Texas court until it registers, may face an injunction, and may owe a civil penalty equal to the fees and taxes it would have paid. Registering within 90 days of first transacting business avoids the late fee, per the same page. Stripe's checklist adds that you may need a registered agent in each state where you do business. More in [foreign qualification explained](/blog/foreign-qualification-register-llc-in-another-state/).
+If you incorporate in Delaware but run the company from Texas, you will normally need to register it with Texas as a foreign entity. The Texas Secretary of State says a foreign filing entity must register if it transacts business in Texas, generally meaning it has an office or employee there. The fee is $750 for most entities. An unregistered entity cannot maintain a lawsuit in a Texas court until it registers, may face an injunction, and may owe a civil penalty equal to the fees and taxes it would have paid. Registering within 90 days of first transacting business avoids the late fee, per the same page. You will also need a registered agent in Texas. More in [foreign qualification explained](/blog/foreign-qualification-register-llc-in-another-state/).
 
-**What a Delaware corporation pays each year.** The Delaware Division of Corporations says franchise tax and the annual report are due March 1, the minimum tax is $175 under the Authorized Shares method and $400 under the Assumed Par Value Capital method, the annual report fee is $50 for non-exempt domestic corporations, and the maximum tax is $200,000 for most corporations. Stripe warns to run both methods before paying because the results can differ widely. See [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/) and [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/).
+**What a Delaware corporation pays each year.** The Delaware Division of Corporations says franchise tax and the annual report are due March 1, the minimum tax is $175 under the Authorized Shares method and $400 under the Assumed Par Value Capital method, the annual report fee is $50 for non-exempt domestic corporations, and the maximum tax is $200,000 for most corporations. Run both methods before paying, because the results can differ widely. See [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/) and [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/).
 
 **What a Texas entity pays.** The Texas Secretary of State lists a $300 fee for a for-profit corporation's certificate of formation. The Texas Comptroller says the no-tax-due threshold for the 2026 report is $2.65 million, and entities at or below it must still file a Public Information Report or Ownership Information Report. A May 14, 2026 article from the CPA firm BPM gives the standard rate as 0.75% and the due date as May 15, 2026. A Delaware company registered in Texas should ask a CPA how Texas franchise tax applies to it. See [Texas franchise tax for LLCs and corporations](/blog/texas-franchise-tax-llc-corporation/) and [Texas certificate of formation fees and forms](/blog/texas-certificate-of-formation-fees-forms/).
 
@@ -57,7 +57,7 @@ If you incorporate in Delaware but run the company from Texas, you will normally
 
 ## 3. Investor expectations and the Texas Business Court
 
-**Investors.** Capbase (updated February 26, 2026) says VCs prefer Delaware corporations because of Delaware's established statutory and case law, and that VCs will not invest in non-Delaware companies. Treat that as one vendor's view with a clear bias toward Delaware, but it matches how many venture deals are structured. If you may raise a priced round, switching later means a conversion, which adds legal work; see [converting an LLC to a C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/).
+**Investors.** Many venture deals are structured around Delaware corporations, partly because of Delaware's established statutory and case law, though Texas's recent corporate-law changes (see the Gibson Dunn and Greenberg Traurig sources listed below) have narrowed the gap. If you may raise a priced round, switching later means a conversion, which adds legal work; see [converting an LLC to a C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/).
 
 **Texas courts.** Gibson Dunn's January 2026 review says the Texas Business Court began hearing cases commenced on or after September 1, 2024, sits in five cities including Houston, Dallas and Austin, and handled 181 new cases in its first year. Its jurisdiction covers corporate governance and similar disputes above $5 million, and, after H.B. 40 (signed June 21, 2025), qualified transactions above $5 million instead of $10 million. A startup's early disputes will often be smaller than that, so it is not a deciding factor for most seed-stage companies.
 
@@ -81,13 +81,13 @@ Use your plan, not the headline, to choose.
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Texas Secretary of State, Foreign entity FAQs](https://www.sos.texas.gov/corp/foreignfaqs.shtml); [Texas Secretary of State, Form 201 instructions](https://www.sos.texas.gov/corp/instructions/201.shtml); [Texas Comptroller, 2026 franchise tax](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php); [BPM, Texas Franchise Tax 2026 (May 14, 2026)](https://www.bpm.com/insights/texas-franchise-tax/); [Delaware Division of Corporations, franchise tax](https://corp.delaware.gov/frtax/); [Gibson Dunn, The Texas Business Court: Year One (Jan. 2026)](https://www.gibsondunn.com/wp-content/uploads/2026/01/The-Texas-Business-Court_-Year-One.pdf); [Greenberg Traurig, Texas Business Court amendments (Aug. 5, 2025)](https://www.gtlaw.com/en/insights/2025/8/texas-government-code-amendments-expand-texas-business-court-system); [Vinson & Elkins via JD Supra, Delaware v. Texas (June 1, 2026)](https://www.jdsupra.com:443/legalnews/delaware-v-texas-5-strategies-for-3579543/); [Capbase, Why you should not incorporate in Texas (updated Feb. 26, 2026)](https://capbase.com/why-you-shouldnt-incorporate-your-company-in-texas); [Stripe, Startup incorporation checklist (Oct. 30, 2026)](https://stripe.com/resources/more/startup-incorporation-checklist).
+**Sources:** [Texas Secretary of State, Foreign entity FAQs](https://www.sos.texas.gov/corp/foreignfaqs.shtml); [Texas Secretary of State, Form 201 instructions](https://www.sos.texas.gov/corp/instructions/201.shtml); [Texas Comptroller, 2026 franchise tax](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php); [BPM, Texas Franchise Tax 2026 (May 14, 2026)](https://www.bpm.com/insights/texas-franchise-tax/); [Delaware Division of Corporations, franchise tax](https://corp.delaware.gov/frtax/); [Gibson Dunn, The Texas Business Court: Year One (Jan. 2026)](https://www.gibsondunn.com/wp-content/uploads/2026/01/The-Texas-Business-Court_-Year-One.pdf); [Greenberg Traurig, Texas Business Court amendments (Aug. 5, 2025)](https://www.gtlaw.com/en/insights/2025/8/texas-government-code-amendments-expand-texas-business-court-system); [Vinson & Elkins via JD Supra, Delaware v. Texas (June 1, 2026)](https://www.jdsupra.com:443/legalnews/delaware-v-texas-5-strategies-for-3579543/).
 
 ## FAQ
 
 **Should a Texas-based startup incorporate in Delaware or Texas?**
 
-If you plan to raise venture capital, Delaware is the conventional choice, and Capbase says VCs prefer Delaware corporations. If you are bootstrapped and local, a Texas entity can mean fewer filings. Ask an attorney before filing.
+If you plan to raise venture capital, Delaware is the conventional choice, and many investors expect a Delaware corporation. If you are bootstrapped and local, a Texas entity can mean fewer filings. Ask an attorney before filing.
 
 **Does a Delaware company need to register in Texas?**
 

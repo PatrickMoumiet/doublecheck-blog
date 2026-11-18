@@ -6,13 +6,13 @@ pubDate: 'Nov 15 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What should I send a lawyer to review an AI-drafted contract?'
-    answer: 'Send the draft (original and edited), a short goal paragraph, your assumptions, a ranked list of questions, the sources you used, a change log and which AI tools you used. One law firm guide suggests keeping a first message under 200 words.'
+    answer: 'Send the draft (original and edited), a short goal paragraph, your assumptions, a ranked list of questions, the sources you used, a change log and which AI tools you used. Keep the first message short and focused.'
   - question: 'Do I have to tell an attorney that AI helped draft the document?'
-    answer: 'It is a good idea. One law firm says its engagement agreement asks for a one-line disclosure of AI use, and it helps the attorney decide what to verify.'
+    answer: 'It is a good idea. A one-line disclosure of which AI tools you used helps the attorney decide what to verify.'
   - question: 'Will an AI-drafted document make a lawyer review cheaper?'
     answer: 'It may, if you provide a clear, verified draft with focused questions, but fees vary by lawyer and matter, and a messy or unverified draft can take longer to review.'
   - question: 'Can I paste my attorney advice back into a chatbot?'
-    answer: 'The law firm guide cited here advises against it and suggests asking the firm first. It also cites a February 2026 New York federal ruling that documents made with a consumer AI tool were not privileged.'
+    answer: 'Be cautious and ask the firm first. In a February 2026 New York federal ruling (United States v. Heppner), a judge held that documents a defendant made with a consumer AI tool were not privileged.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** To hand an AI-drafted legal document to an attorney, send a short package: the draft, a one-paragraph goal, your assumptions, a ranked list of questions, the sources you relied on, a change log of edits you made, and a line stating which AI tools you used. One law firm's client guide asks for short, focused material, suggesting under 200 words for a first message and about one page of ranked feedback with no more than 10 items. A clear package lets the attorney spend time on judgment, which can make review faster and may reduce cost, though fees vary by lawyer and matter.
+**Quick answer:** To hand an AI-drafted legal document to an attorney, send a short package: the draft, a one-paragraph goal, your assumptions, a ranked list of questions, the sources you relied on, a change log of edits you made, and a line stating which AI tools you used. Short, focused material is easier to review: a brief first message and a ranked list of questions are usually enough. A clear package lets the attorney spend time on judgment, which can make review faster and may reduce cost, though fees vary by lawyer and matter.
 
 This is a how-to for the step after you have verified the draft yourself; see [how to verify an AI-generated legal document](/blog/verify-ai-generated-legal-document/) first.
 
@@ -49,21 +49,21 @@ This is a how-to for the step after you have verified the draft yourself; see [h
 
 Think of it as a briefing note, not a data dump. Do not paste long AI transcripts and expect the lawyer to find the issue.
 
-- **Goal and context.** One paragraph: what the document is for, who the parties are, what outcome you want, your deadline and your walk-away points. The law firm guide above advises describing the outcome you want and letting the lawyer draft the clause.
+- **Goal and context.** One paragraph: what the document is for, who the parties are, what outcome you want, your deadline and your walk-away points. Describe the outcome you want and let the lawyer draft the clause.
 - **The draft, in two versions.** The AI output as generated, and your edited version. Label them clearly.
 - **Assumptions.** What you told the AI (state, entity type, amounts, dates) and what you assumed without checking. Wrong assumptions are the fastest way for a clean-looking draft to be wrong.
 - **Questions, ranked.** The five to ten things you are least sure of, most important first. Examples: is this limitation of liability enforceable where we operate, does this clause overreach, what is missing.
 - **Sources.** Links to the statute, agency form or guidance the draft relies on, and anything the AI cited that you could not confirm. Flag unverified citations explicitly; see [AI hallucinated citations in business use](/blog/ai-hallucinated-citations-business/).
 - **Change log.** A running list: clause number, what changed, why, and whether the AI or you made the change.
-- **Disclosure of AI use.** One line naming the tools. The firm quoted above says its engagement agreement asks for it.
+- **Disclosure of AI use.** One line naming the tools.
 
 ![Five steps to prepare and send an AI-drafted document to an attorney](/images/hand-off-an-ai-drafted-legal-document-to-an-attorney-package/steps.webp)
 
 ## 3. Do the prep work, but not in the wrong places
 
-**Trim before sending.** The same law firm guide says to read AI output first and cut anything you would not say on a call.
+**Trim before sending.** Read the AI output first and cut anything you would not say on a call.
 
-**Be careful what you feed back into AI.** Its guidance is not to paste the firm advice into a chatbot, and to check AI legal claims with the firm before building a negotiation strategy on them. It also cites a February 2026 ruling by a federal judge in New York that a defendant's documents created with a consumer AI tool about his own case were not protected by attorney-client privilege, even after he shared them with his lawyers. Related reading: [AI chats and privilege](/blog/ai-chats-not-privileged-heppner/).
+**Be careful what you feed back into AI.** Do not paste the firm's advice into a chatbot without asking the firm first, and check AI legal claims with the firm before building a negotiation strategy on them. In February 2026, a federal judge in New York held in United States v. Heppner that documents a defendant created with a public AI chatbot about his own case were not protected by attorney-client privilege, and that sending them to his lawyers afterward did not change that, per [DLA Piper](https://www.dlapiper.com/insights/publications/2026/02/are-ai-generated-documents-privileged-key-takeaways-from-heppner). Related reading: [AI chats and privilege](/blog/ai-chats-not-privileged-heppner/).
 
 **Confidentiality.** If the draft includes another party's information or sits under an NDA, check whether you may share it before sending, including with the attorney. Redact personal data and trade secrets where you can; see [what to redact before pasting a contract into AI](/blog/what-to-redact-before-pasting-a-contract-into-ai/).
 
@@ -73,7 +73,7 @@ Think of it as a briefing note, not a data dump. Do not paste long AI transcript
 
 ## 4. Asking about scope and fees
 
-Lawyer fees differ widely, so ask rather than assume. One public example, from the firm Terms.law (page undated), lists flat-fee AI draft review tiers of $1,000 for a single-agreement redline, $1,500 for a complex or multi-document review and $2,500 for a full-stack rebuild, and says standard turnaround is two business days after documents and scope are confirmed. That is one firm's published pricing, not a market average; compare with [how much a lawyer charges to review a contract](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/) and [flat fee vs hourly pricing](/blog/how-much-does-a-startup-business-lawyer-cost-flat-fee-vs-hourly/).
+Lawyer fees differ widely, so ask rather than assume. Some lawyers charge a flat fee for document review and others bill hourly, and turnaround varies, so confirm both before you send. Compare with [how much a lawyer charges to review a contract](/blog/how-much-does-a-lawyer-charge-to-review-a-contract/) and [flat fee vs hourly pricing](/blog/how-much-does-a-startup-business-lawyer-cost-flat-fee-vs-hourly/).
 
 Questions to ask before you send:
 
@@ -90,17 +90,17 @@ Questions to ask before you send:
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Legal Moves Law Firm, Using AI before you send something to your lawyer](https://legalmoveslawfirm.com/working-with-ai); [Terms.law, AI draft review (page undated)](https://terms.law/services/ai-draft-review/); [NCBE Bar Examiner on ABA Formal Opinion 512 (July 29, 2024)](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/).
+**Sources:** [DLA Piper, Are AI-generated documents privileged? Takeaways from Heppner (Feb. 18, 2026)](https://www.dlapiper.com/insights/publications/2026/02/are-ai-generated-documents-privileged-key-takeaways-from-heppner); [ABA Formal Opinion 512, Generative Artificial Intelligence Tools (hosted by the Minnesota Lawyers Professional Responsibility Board)](https://lprb.mncourts.gov/Pages/Formal%20Opinion%20512%20-%20Generative%20Artificial%20Intelligence%20Tools.pdf); [NCBE Bar Examiner on ABA Formal Opinion 512 (July 29, 2024)](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/).
 
 ## FAQ
 
 **What should I send a lawyer to review an AI-drafted contract?**
 
-Send the draft (original and edited), a short goal paragraph, your assumptions, a ranked list of questions, the sources you used, a change log and which AI tools you used. One law firm guide suggests keeping a first message under 200 words.
+Send the draft (original and edited), a short goal paragraph, your assumptions, a ranked list of questions, the sources you used, a change log and which AI tools you used. Keep the first message short and focused.
 
 **Do I have to tell an attorney that AI helped draft the document?**
 
-It is a good idea. One law firm says its engagement agreement asks for a one-line disclosure of AI use, and it helps the attorney decide what to verify.
+It is a good idea. A one-line disclosure of which AI tools you used helps the attorney decide what to verify.
 
 **Will an AI-drafted document make a lawyer review cheaper?**
 
@@ -108,7 +108,7 @@ It may, if you provide a clear, verified draft with focused questions, but fees 
 
 **Can I paste my attorney advice back into a chatbot?**
 
-The law firm guide cited here advises against it and suggests asking the firm first. It also cites a February 2026 New York federal ruling that documents made with a consumer AI tool were not privileged.
+Be cautious and ask the firm first. In a February 2026 New York federal ruling (United States v. Heppner), a judge held that documents a defendant made with a consumer AI tool were not privileged.
 
 ---
 

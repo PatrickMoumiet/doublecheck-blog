@@ -10,7 +10,7 @@ faq:
   - question: 'How much does the OPT application cost in 2026?'
     answer: 'Per UMass Amherst, the base I-765 fee is $520 filed by mail and $470 filed online for applications postmarked March 5, 2026 and after. Premium processing is an optional $1,780. Confirm the current fee on USCIS.gov.'
   - question: 'How long does OPT take to process?'
-    answer: 'Per Beyond Border Global, a September 8, 2026 USCIS snapshot listed 4 to 6 months for F-1 OPT cases, with the caveat that it is a general reference. Premium processing promises USCIS action within 30 business days.'
+    answer: 'Processing times change, so check the USCIS case processing times page for your category. Premium processing may be available for OPT; confirm the current fee and timeline with USCIS and your school''s international office.'
   - question: 'Can I work while my OPT application is pending?'
     answer: 'Not off campus. Per ISSS, do not work until you have the EAD card and the start date has arrived. On-campus work must stop after the completion date on your OPT I-20.'
 toc:
@@ -34,12 +34,12 @@ toc:
 
 - Your DSO recommends OPT first by issuing a new I-20; do not file Form I-765 until you have it.
 - USCIS can receive your I-765 from 90 days before to 60 days after program end, and within 30 days of the I-20 issue date.
-- As of November 2026, the base fee is $520 by mail or $470 online; processing was shown as about 4 to 6 months.
+- As of November 2026, the base fee is $520 by mail or $470 online per UMass Amherst; check USCIS for current processing times.
 - Do not start work until you have the EAD and the start date has arrived.
 
 ## 1. The quick answer
 
-**Quick answer:** To apply for post-completion OPT, ask your DSO (designated school official) to recommend you, which results in a new I-20 with the OPT recommendation. Then file Form I-765 with USCIS. USCIS can receive it from 90 days before to 60 days after your program end date, and no later than 30 days after the date your DSO issued the OPT I-20, per the University of Minnesota's international office (ISSS, updated September 2026). As of November 2026, the I-765 fee is $520 by mail or $470 online, per UMass Amherst, and standard processing was shown as roughly 4 to 6 months in a September 2026 data snapshot.
+**Quick answer:** To apply for post-completion OPT, ask your DSO (designated school official) to recommend you, which results in a new I-20 with the OPT recommendation. Then file Form I-765 with USCIS. USCIS can receive it from 90 days before to 60 days after your program end date, and no later than 30 days after the date your DSO issued the OPT I-20, per the University of Minnesota's international office (ISSS, updated September 2026). As of November 2026, the I-765 fee is $520 by mail or $470 online, per UMass Amherst. Check the USCIS processing times page for current timelines.
 
 ![Five steps to apply for post-completion OPT](/images/how-to-apply-for-opt-step-by-step-i-765-timeline/steps.webp)
 
@@ -68,7 +68,7 @@ You can file online through a myUSCIS account or by mail, per ISSS. You will gen
 
 **Fee as of November 2026.** Per [UMass Amherst](https://www.umass.edu/global-affairs/international-students-scholars/i765), the base fee is $520 on paper and $470 online, applying to applications postmarked March 5, 2026 and after. It also says using the wrong form edition or fee results in rejection (the 08/21/2025 edition for mail filing). Optional premium processing on Form I-907 costs $1,780 from March 1, 2026, per UMass. Always check the fee on [USCIS.gov](https://www.uscis.gov/i-765) before filing.
 
-**Processing.** Per [Beyond Border Global](https://www.beyondborderglobal.com/resources/i-765-processing-time-ead), a September 8, 2026 USCIS snapshot listed 4 to 6 months for F-1 OPT cases, and it cautions that this is a general reference only. Premium processing, available for OPT, promises USCIS action within 30 business days, but that action can be an approval, denial, or request for evidence; it does not fix eligibility problems. Check the USCIS processing times page for your category.
+**Processing.** Processing times change, so check the USCIS processing times page for your category. See the [USCIS Form I-765 page](https://www.uscis.gov/i-765) for fees and filing locations. Premium processing may be available for OPT, but faster action can still be an approval, denial, or request for evidence; it does not fix eligibility problems. Confirm current options with USCIS and your school's international student office.
 
 **Recent rule changes.** Per ISSS, the DHS duration-of-status rule published July 17, 2026 was preliminarily enjoined on September 14, 2026, and the OPT process was unchanged for now. The order may be appealed, so check your DSO's updates before filing. If you are on a tight timeline, see [the 60-day grace period after OPT ends](/blog/f-1-60-day-grace-period-after-opt-ends-options/).
 
@@ -93,7 +93,7 @@ You can file online through a myUSCIS account or by mail, per ISSS. You will gen
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UMN ISSS, Applying for OPT](https://isss.umn.edu/fstudents/employment/opt/apply); [UMass Amherst, Form I-765 for OPT](https://www.umass.edu/global-affairs/international-students-scholars/i765); [Beyond Border Global, I-765 processing time](https://www.beyondborderglobal.com/resources/i-765-processing-time-ead).
+**Sources:** [UMN ISSS, Applying for OPT](https://isss.umn.edu/fstudents/employment/opt/apply); [UMass Amherst, Form I-765 for OPT](https://www.umass.edu/global-affairs/international-students-scholars/i765); [USCIS: Form I-765](https://www.uscis.gov/i-765).
 
 ## FAQ
 
@@ -107,7 +107,7 @@ Per UMass Amherst, the base I-765 fee is $520 filed by mail and $470 filed onlin
 
 **How long does OPT take to process?**
 
-Per Beyond Border Global, a September 8, 2026 USCIS snapshot listed 4 to 6 months for F-1 OPT cases, with the caveat that it is a general reference. Premium processing promises USCIS action within 30 business days.
+Processing times change, so check the USCIS case processing times page for your category. Premium processing may be available for OPT; confirm the current fee and timeline with USCIS and your school's international office.
 
 **Can I work while my OPT application is pending?**
 

@@ -8,7 +8,7 @@ faq:
   - question: 'Should a small business use open or closed AI models?'
     answer: 'It depends on the data and your capacity. Closed hosted models are the easiest to start with, and open models give more control over where data goes. Many businesses use both, matching the tool to data sensitivity, cost and the effort they can spend on setup.'
   - question: 'Do AI companies train on my business data?'
-    answer: 'It depends on the plan. Anthropic Commercial Terms (effective June 17, 2025) say it may not train models on Customer Content from its services. Per Redress Compliance, OpenAI does not train on business and API data by default. Consumer plans differ, so read the current policy.'
+    answer: 'It depends on the plan. Anthropic Commercial Terms (effective June 17, 2025) say it may not train models on Customer Content from its services. Check OpenAI’s own business and API terms for its current position. Consumer plans differ, so read the current policy.'
   - question: 'Is a local model always more private than a hosted one?'
     answer: 'Local use can keep prompts on your machine, and Ollama says its local use does not send prompts or responses to it. But your device, logs, plugins and network settings still matter, so privacy depends on how you set it up.'
   - question: 'How do I test which model is best for my work?'
@@ -56,7 +56,7 @@ Consumer and business plans are not the same thing. In United States v. Heppner 
 What the business terms say, from sources we could verify:
 
 - **Anthropic.** Its Commercial Terms (effective June 17, 2025) state: "Anthropic may not train models on Customer Content from Services," and that the customer retains rights to its inputs and owns its outputs, to the extent permitted by law.
-- **OpenAI.** Per Redress Compliance (a secondary summary, updated September 25, 2026), OpenAI does not train on ChatGPT Enterprise, Business or API data by default, and standard API use may retain inputs and outputs for up to 30 days for abuse monitoring, with zero data retention available only on eligible endpoints after approval. Check OpenAI's own pages for current terms.
+- **OpenAI.** Check OpenAI's own business and API data-usage pages for current terms on training, retention for abuse monitoring, and zero data retention eligibility; this post does not rely on a secondary summary for them.
 - **Ollama cloud models.** Per Ollama's privacy policy (updated March 2026), prompts and responses on its cloud-hosted models are processed transiently and not used to train models, while local use does not send your prompts to Ollama.
 
 Terms change and differ by plan, so read the current policy for the exact plan you will use.
@@ -92,7 +92,7 @@ For a side-by-side of the big hosted brands for legal tasks, see [ChatGPT vs Cla
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Anthropic, Commercial Terms (effective June 17, 2025)](https://www.anthropic.com/legal/commercial-terms?authuser=0); [Ollama, Privacy Policy (updated March 2026)](https://registry.ollama.ai/privacy); [Orrick, United States v. Heppner (March 2026)](https://orrick.com/en/Insights/2026/03/Court-Rules-AI-Conversations-Are-Not-Privileged-What-United-States-v-Heppner-Means-for-You); [Redress Compliance, OpenAI enterprise privacy terms (secondary, updated Sept 25, 2026)](https://redresscompliance.com/openai-data-privacy-enterprise-agreement-clauses). OpenAI primary pages were not fetched, so OpenAI terms are attributed to the secondary source.
+**Sources:** [Anthropic, Commercial Terms (effective June 17, 2025)](https://www.anthropic.com/legal/commercial-terms?authuser=0); [Ollama, Privacy Policy (updated March 2026)](https://registry.ollama.ai/privacy); [Orrick, United States v. Heppner (March 2026)](https://orrick.com/en/Insights/2026/03/Court-Rules-AI-Conversations-Are-Not-Privileged-What-United-States-v-Heppner-Means-for-You). OpenAI primary pages were not fetched, so OpenAI terms are not stated here.
 
 ## FAQ
 
@@ -102,7 +102,7 @@ It depends on the data and your capacity. Closed hosted models are the easiest t
 
 **Do AI companies train on my business data?**
 
-It depends on the plan. Anthropic Commercial Terms (effective June 17, 2025) say it may not train models on Customer Content from its services. Per Redress Compliance, OpenAI does not train on business and API data by default. Consumer plans differ, so read the current policy.
+It depends on the plan. Anthropic Commercial Terms (effective June 17, 2025) say it may not train models on Customer Content from its services. Check OpenAI's own business and API terms for its current position. Consumer plans differ, so read the current policy.
 
 **Is a local model always more private than a hosted one?**
 

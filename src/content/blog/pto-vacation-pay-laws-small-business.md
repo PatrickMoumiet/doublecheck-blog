@@ -10,9 +10,9 @@ faq:
   - question: 'Can I have a use-it-or-lose-it vacation policy?'
     answer: 'Per Paycor, California, Colorado, Montana (caps allowed), and Nebraska prohibit it, while states such as New York and Illinois permit it, often with notice conditions.'
   - question: 'Does unlimited PTO avoid payout?'
-    answer: 'Gusto says unlimited vacation generally does not vest, so there may be nothing to pay out, but it recommends getting legal advice on such a policy for your state.'
+    answer: 'Whether anything must be paid out depends on state law and your written policy, so get legal advice on an unlimited policy for your state.'
   - question: 'Is a handbook promise of PTO payout binding?'
-    answer: 'Often, yes. Gusto says a written policy promising payout is generally enforceable regardless of state law, and handbooks may function as employment contracts.'
+    answer: 'Often, yes. The U.S. Department of Labor treats vacation as a matter of agreement between employer and employee, so a written policy promising payout can bind you, and a handbook can function as an employment contract in some states.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -32,14 +32,14 @@ toc:
 
 **Key takeaways:**
 
-- No federal law requires paid vacation or payout of unused vacation at separation (Gusto, Paycor).
+- No federal law requires paid vacation or payout of unused vacation at separation (U.S. Department of Labor, Paycor).
 - California bars use-it-or-lose-it and requires payout; New York allows forfeiture with notice but requires payout absent a written policy.
-- A written policy promising payout is generally enforceable, so draft it carefully.
+- A written policy promising payout can bind you, so draft it carefully.
 - Multi-state employers need a per-state policy table.
 
 ## 1. The quick answer
 
-**Quick answer:** No federal law requires you to offer paid vacation or to pay out unused vacation when someone leaves; per [Gusto](https://www.gusto.com/resources/articles/hr/termination/pay-accrued-vacation-sick-time-terminated-employees), payout rules come from state law, employment agreements, and company policy. States split on two questions: whether unused vacation must be paid at separation, and whether "use-it-or-lose-it" policies are allowed. California prohibits forfeiture; New York allows it with advance notice. Your written policy is the safest place to settle both.
+**Quick answer:** No federal law requires you to offer paid vacation or to pay out unused vacation when someone leaves; per the [U.S. Department of Labor](https://www.dol.gov/general/topic/benefits-leave/vacation_leave), vacation benefits are a matter of agreement between employer and employee, and payout rules come from state law and your own policy. States split on two questions: whether unused vacation must be paid at separation, and whether "use-it-or-lose-it" policies are allowed. California prohibits forfeiture; New York allows it with advance notice. Your written policy is the safest place to settle both.
 
 ![Federal, state, and company layers of PTO rules](/images/pto-vacation-pay-laws-small-business/cols.webp)
 
@@ -47,14 +47,13 @@ toc:
 
 Per [Paycor's state table](https://www.paycor.com/resource-center/articles/pto-payout-laws-by-state/), accrued, unused vacation is not subject to federal law, and states take different approaches. Examples it lists:
 
-- **California:** employees cannot be deprived of earned, unused vacation on separation, unless a collective bargaining agreement says otherwise. Gusto adds that the payout belongs in the final paycheck.
+- **California:** employees cannot be deprived of earned, unused vacation on separation, unless a collective bargaining agreement says otherwise. The California Labor Commissioner says the payout must be included in the final paycheck.
 - **New York:** the employer's policy or contract governs, but if there is no written policy, unused vacation pay must be paid out.
 - **Massachusetts and Nebraska:** employers are liable to pay separating employees earned, unused vacation.
 - **Maine:** private employers with 11 or more employees must pay unused PTO.
 - **Rhode Island:** owed to employees with at least one year of service.
-- **Washington:** payout is not required (Gusto).
 
-Illinois is described differently by different secondary sources: Paycor says the employer's policy or agreement decides, while Gusto says payout is generally required under policy or agreement. Treat Illinois as a state to confirm with the Illinois Department of Labor or an attorney.
+Paycor says that in Illinois the employer's policy or agreement decides. Treat Illinois, and any other state not listed here, as one to confirm with the state labor department or an attorney.
 
 The takeaway is that there is no safe national default. Payroll for a multi-state team needs a per-state policy table; see [multi-state remote employees](/blog/multi-state-remote-employees-compliance-startups/).
 
@@ -66,13 +65,13 @@ Per Paycor, state law on forfeiture falls into three groups:
 - **Permitted:** Illinois, Kansas, Louisiana, Massachusetts, Nevada, New York, North Carolina, North Dakota, and Wyoming, most with conditions. New York requires advance notice; North Carolina requires written notice; Wyoming requires a full opportunity to use the time.
 - **Not addressed by state law:** other states, which Paycor notes does not mean employers cannot adopt such a policy.
 
-A common compromise is an accrual cap: employees stop accruing at a set balance rather than losing earned time, though you should confirm that approach is allowed where your employees work. Unlimited PTO is another option; Gusto says unlimited vacation generally does not vest, so there may be nothing to pay out, but it recommends legal advice on such a policy.
+A common compromise is an accrual cap: employees stop accruing at a set balance rather than losing earned time, though you should confirm that approach is allowed where your employees work. Unlimited PTO is another option, but whether anything must be paid out depends on state law and your written policy, so get legal advice on such a policy for your state.
 
-If you terminate someone, final pay timing also matters. Kentucky, for example, requires payment by the next pay period or 14 days after the last day, whichever is later (Gusto). Pair this with the process in [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
+If you terminate someone, final pay timing also matters and varies by state. Pair this with the process in [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
 
 ## 4. Writing a PTO policy that holds up
 
-Gusto's guidance is practical: a written policy promising payout is generally enforceable regardless of state law, handbooks may function as employment contracts, and if you regularly pay out PTO, courts may treat that as binding. If you skip a required payout, a former employee may sue for unpaid wages or breach of contract and you could owe attorneys' fees and damages.
+The Department of Labor treats vacation as a matter of agreement between you and your employee, so what your written policy promises matters, and a handbook can function as an employment contract in some states. If you skip a required payout, a former employee may sue for unpaid wages or breach of contract and you could owe attorneys' fees and damages.
 
 A policy should answer:
 
@@ -91,7 +90,7 @@ Put these in the handbook; [what to include in a small business employee handboo
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Paycor, PTO Payout Laws by State](https://www.paycor.com/resource-center/articles/pto-payout-laws-by-state/); [Gusto, PTO payout when an employee leaves](https://www.gusto.com/resources/articles/hr/termination/pay-accrued-vacation-sick-time-terminated-employees).
+**Sources:** [Paycor, PTO Payout Laws by State](https://www.paycor.com/resource-center/articles/pto-payout-laws-by-state/); [U.S. Department of Labor, Vacation Leave](https://www.dol.gov/general/topic/benefits-leave/vacation_leave); [California DLSE, Vacation FAQ](https://dir.ca.gov/dlse/faq_vacation.htm).
 
 ## FAQ
 
@@ -105,11 +104,11 @@ Per Paycor, California, Colorado, Montana (caps allowed), and Nebraska prohibit 
 
 **Does unlimited PTO avoid payout?**
 
-Gusto says unlimited vacation generally does not vest, so there may be nothing to pay out, but it recommends getting legal advice on such a policy for your state.
+Whether anything must be paid out depends on state law and your written policy, so get legal advice on an unlimited policy for your state.
 
 **Is a handbook promise of PTO payout binding?**
 
-Often, yes. Gusto says a written policy promising payout is generally enforceable regardless of state law, and handbooks may function as employment contracts.
+Often, yes. The U.S. Department of Labor treats vacation as a matter of agreement between employer and employee, so a written policy promising payout can bind you, and a handbook can function as an employment contract in some states.
 
 ---
 

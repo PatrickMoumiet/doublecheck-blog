@@ -8,7 +8,7 @@ faq:
   - question: 'What do I need before hiring my first employee?'
     answer: 'Per Bernstein Shur, an EIN, state registration where the employee will work, workers'' compensation coverage, unemployment insurance registration if required, and required workplace posters. Requirements vary by state, industry, and employer size.'
   - question: 'How long do I have to report a new hire?'
-    answer: 'Federal law requires reporting within 20 days of the hire date, per OnPay. Most states give employers 15 to 20 days and some require sooner, so check your state''s new-hire reporting rules.'
+    answer: 'Federal law requires new-hire reporting, generally within 20 days of the hire date. Most states give employers 15 to 20 days and some require sooner, so check your state''s new-hire reporting rules.'
   - question: 'How long do I keep a Form I-9?'
     answer: 'Per Bernstein Shur, keep it for three years after the hire date or one year after employment ends, whichever is later. Do not submit it to the government.'
   - question: 'Do I need a lawyer to hire my first employee?'
@@ -34,7 +34,7 @@ toc:
 
 - Confirm the person is an employee, not a contractor, before setting up payroll.
 - Get an EIN, register with your state, and arrange workers' compensation before day one.
-- Collect a W-4 and I-9 at onboarding; federal law requires a new-hire report within 20 days of hire (OnPay).
+- Collect a W-4 and I-9 at onboarding; federal law requires a new-hire report, generally within 20 days of hire.
 - State rules differ, so check your state agencies for deadlines and extra forms.
 
 ## 1. The quick answer
@@ -60,11 +60,11 @@ Put the terms in writing. A clear offer letter covering title, pay, start date, 
 
 ## 3. Onboarding paperwork
 
-Three items come up on day one. The dates below come from the secondary sources named, not from the agencies themselves, so confirm them on the IRS, USCIS, and state pages.
+Three items come up on day one. Deadlines below are general, so confirm them on the IRS, USCIS, and state pages.
 
-- **Form W-4:** per Bernstein Shur, collect it on or before the first day of work. [OnPay](https://onpay.com/hr/basics/new-hire-reporting-requirements) describes it as due before your next payroll run. Many states also want a separate state withholding form.
-- **Form I-9:** employment eligibility verification. OnPay says it must be completed within 72 hours of the first day of work. Bernstein Shur says you keep it, do not file it with the government, and retain it three years after hire or one year after termination, whichever is later. See [I-9 and E-Verify for startups](/blog/i-9-and-e-verify-for-startups/).
-- **New-hire report:** federal law requires reporting within 20 days of the hire date, per OnPay. Most states allow 15 to 20 days and some require it sooner. Reports go to the state where the employee works. Bernstein Shur notes that multistate employers can use a multistate form to file in one state.
+- **Form W-4:** per Bernstein Shur, collect it on or before the first day of work. Confirm the exact timing with the IRS and your payroll provider. Many states also want a separate state withholding form.
+- **Form I-9:** employment eligibility verification. Section 2 must be completed within a few business days of the first day of work, so check the USCIS I-9 instructions. Bernstein Shur says you keep it, do not file it with the government, and retain it three years after hire or one year after termination, whichever is later. See [I-9 and E-Verify for startups](/blog/i-9-and-e-verify-for-startups/).
+- **New-hire report:** federal law requires reporting, generally within 20 days of the hire date. Most states allow 15 to 20 days and some require it sooner. Reports go to the state where the employee works. Bernstein Shur notes that multistate employers can use a multistate form to file in one state.
 
 The report includes your business name, address and FEIN, plus the employee's name, address, Social Security number, and hire date. Keep tax records for at least four years (Bernstein Shur).
 
@@ -88,7 +88,7 @@ Also plan for the end of the relationship from the start. [How to terminate an e
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Bernstein Shur, Hiring Your Team](https://bipc.com/hiring-your-team-initial-steps-new-employers-must-take); [OnPay, New Hire Reporting Requirements](https://onpay.com/hr/basics/new-hire-reporting-requirements).
+**Sources:** [Bernstein Shur, Hiring Your Team](https://bipc.com/hiring-your-team-initial-steps-new-employers-must-take).
 
 ## FAQ
 
@@ -98,7 +98,7 @@ Per Bernstein Shur, an EIN, state registration where the employee will work, wor
 
 **How long do I have to report a new hire?**
 
-Federal law requires reporting within 20 days of the hire date, per OnPay. Most states give employers 15 to 20 days and some require sooner, so check your state's new-hire reporting rules.
+Federal law requires new-hire reporting, generally within 20 days of the hire date. Most states give employers 15 to 20 days and some require sooner, so check your state's new-hire reporting rules.
 
 **How long do I keep a Form I-9?**
 

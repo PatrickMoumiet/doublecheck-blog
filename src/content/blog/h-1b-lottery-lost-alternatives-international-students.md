@@ -10,7 +10,7 @@ faq:
   - question: 'Can I stay in the U.S. if I am not selected?'
     answer: 'Only while you hold valid status, such as F-1 with OPT or STEM OPT, or another status you qualify for. Per Klasko, avoid unauthorized employment and overstays. Talk to your DSO before your OPT or program end date.'
   - question: 'Can I apply for H-1B again next year?'
-    answer: 'Yes, an employer can register you again. As of November 2026, FY 2028 dates and the fee are not announced, per f1jobs.io; FY 2027 registration ran March 4 to 19, 2026. Check the USCIS H-1B cap season page.'
+    answer: 'Yes, an employer can register you again. As of November 2026, we found no official FY 2028 registration dates or fee. Check the USCIS H-1B cap season page.'
   - question: 'Does a cap-exempt employer avoid the lottery?'
     answer: 'Per Fragomen, cap-exempt employers such as universities, affiliated nonprofits and nonprofit or government research organizations can file H-1B petitions at any time of year. The job must still be a specialty occupation.'
 toc:
@@ -47,7 +47,7 @@ toc:
 
 Per the National Law Review and Ogletree, FY 2027 was the first cap season under the wage-weighted selection rule effective February 27, 2026: a registration got one to four entries depending on the wage level of the offered salary, and a Level IV wage got four. Per Ogletree, USCIS reported 211,600 properly submitted FY 2027 registrations, about 38.5 percent fewer than the 343,981 for FY 2026. Selected registrants had until June 30, 2026 to file. The cap, 65,000 regular visas plus 20,000 under the U.S. advanced-degree exemption, was reached, and unselected registrations move to "Not Selected."
 
-For FY 2028 (jobs starting October 1, 2027), no official dates exist as of November 2026. Per f1jobs.io, the registration window and fee have not been announced; the FY 2027 fee was $215. Our [FY 2028 timeline for employers](/blog/h-1b-cap-registration-fy2028-timeline-employers/) tracks this, and [how wage levels drive the weighted lottery](/blog/h1b-weighted-lottery-wage-levels-explained/) explains why a higher-wage offer helps.
+For FY 2028 (jobs starting October 1, 2027), no official dates exist as of November 2026. We found no announced registration window or fee, so check the USCIS H-1B cap season page. Our [FY 2028 timeline for employers](/blog/h-1b-cap-registration-fy2028-timeline-employers/) tracks this, and [how wage levels drive the weighted lottery](/blog/h1b-weighted-lottery-wage-levels-explained/) explains why a higher-wage offer helps.
 
 Two things to check before you plan around H-1B at all: whether a separate $100,000 payment applies, which is covered in [the $100,000 fee status post](/blog/h1b-100000-fee-status-2026/), and whether you are still inside a valid F-1 or OPT period. If your OPT is ending, read [the 60-day grace period options](/blog/f-1-60-day-grace-period-after-opt-ends-options/) right away.
 
@@ -83,7 +83,7 @@ A good immigration attorney can compare these options against your degree, natio
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Fragomen, Not Selected in the H-1B Cap](https://www.fragomen.com/insights/not-selected-in-the-h-1b-cap-you-still-have-options.html); [Klasko via Legal 500, April 2026](https://www.legal500.com/intelligence/united-states/immigration/not-selected-in-the-h-1b-lottery-%E2%80%93-what-to-do-next); [Ogletree, USCIS completes FY 2027 lottery](https://ogletree.com/insights-resources/blog-posts/uscis-completes-fiscal-year-2027-h-1b-lottery/); [RN Law Group, FY 2027 cap reached, no second lottery](https://www.rnlawgroup.com/fy-2027-h-1b-cap-reached-no-second-lottery/); [f1jobs.io on FY 2028 dates](https://www.f1jobs.io/resources/blog/h1b-lottery-2027-fy2028-registration-dates); [Johns Hopkins OIS, STEM OPT](https://ois.jhu.edu/Students/Current_F1_Students/F-1_Training_and_Employment/STEM_OPT_Extension/); [Dartmouth OVIS, E-3](https://ovis-intl.dartmouth.edu/immigration/treaty-visas/e-3-australian-citizens); [Stony Brook, proposed OPT fees](https://www.stonybrook.edu/visa/resources/news-and-events/immigration-policy-updates/dhs%20proposes%20new%20fees%20for%20f1%20opt.html).
+**Sources:** [Fragomen, Not Selected in the H-1B Cap](https://www.fragomen.com/insights/not-selected-in-the-h-1b-cap-you-still-have-options.html); [Klasko via Legal 500, April 2026](https://www.legal500.com/intelligence/united-states/immigration/not-selected-in-the-h-1b-lottery-%E2%80%93-what-to-do-next); [Ogletree, USCIS completes FY 2027 lottery](https://ogletree.com/insights-resources/blog-posts/uscis-completes-fiscal-year-2027-h-1b-lottery/); [Johns Hopkins OIS, STEM OPT](https://ois.jhu.edu/Students/Current_F1_Students/F-1_Training_and_Employment/STEM_OPT_Extension/); [Dartmouth OVIS, E-3](https://ovis-intl.dartmouth.edu/immigration/treaty-visas/e-3-australian-citizens); [Stony Brook, proposed OPT fees](https://www.stonybrook.edu/visa/resources/news-and-events/immigration-policy-updates/dhs%20proposes%20new%20fees%20for%20f1%20opt.html).
 
 ## FAQ
 
@@ -97,7 +97,7 @@ Only while you hold valid status, such as F-1 with OPT or STEM OPT, or another s
 
 **Can I apply for H-1B again next year?**
 
-Yes, an employer can register you again. As of November 2026, FY 2028 dates and the fee are not announced, per f1jobs.io; FY 2027 registration ran March 4 to 19, 2026. Check the USCIS H-1B cap season page.
+Yes, an employer can register you again. As of November 2026, we found no official FY 2028 registration dates or fee. Check the USCIS H-1B cap season page.
 
 **Does a cap-exempt employer avoid the lottery?**
 

@@ -10,7 +10,7 @@ faq:
   - question: 'What is the difference between a controller and a processor?'
     answer: 'Per GDPR terms, the controller decides why and how personal data is processed; the processor processes it on the controller''s behalf. Under Article 28(10), a processor that decides purposes and means itself is treated as a controller for that processing.'
   - question: 'Does a DPA stop an AI vendor from training on my data?'
-    answer: 'Only if it says so. Per Knowlee, many AI vendors'' standard terms permit model improvement from customer data by default, so look for an explicit prohibition on training unless you separately authorize it.'
+    answer: 'Only if it says so. Vendors'' standard terms differ on model improvement from customer data, so look for an explicit prohibition on training unless you separately authorize it.'
   - question: 'How fast must a vendor tell me about a breach?'
     answer: 'Per GDPR Article 33(2), a processor must notify the controller without undue delay after becoming aware of a breach. The law gives no fixed hours for that step, so negotiate a specific window in the contract.'
 toc:
@@ -53,13 +53,13 @@ You will likely need a DPA when:
 - An AI feature inside software you already use (a CRM, helpdesk, or meeting recorder) processes that data.
 - You have EU/UK customers or staff (GDPR), or California consumers or employees (CCPA); see [GDPR for US startups](/blog/gdpr-for-us-startups/) and [CCPA/CPRA compliance for small businesses](/blog/ccpa-cpra-compliance-small-business/).
 
-Two limits. Per [GDPRLocal](https://gdprlocal.com/?p=135441), sharing between two independent controllers falls outside Article 28. And per Article 28(10), a processor that determines the purposes and means of processing itself is treated as a controller for that processing, which is why purpose limits matter.
+One limit. Article 28 governs the controller-processor relationship, so it does not fit every data-sharing arrangement. And per [Article 28(10)](https://gdpr-info.eu/art-28-gdpr/), a processor that determines the purposes and means of processing itself is treated as a controller for that processing, which is why purpose limits matter.
 
 Many vendors publish a standard DPA you can accept or sign online. Read it rather than assuming it fits.
 
 ## 3. Key clauses to look for
 
-**GDPR Article 28(3).** Per the [text of Article 28](https://gdpr-info.eu/art-28-gdpr/) and [GDPRLocal's summary](https://gdprlocal.com/?p=135441), the contract must include at least:
+**GDPR Article 28(3).** Per the [text of Article 28](https://gdpr-info.eu/art-28-gdpr/), the contract must include at least:
 
 - Subject matter, duration, nature and purpose, types of data, and categories of data subjects.
 - Processing **only on documented instructions** from the controller (including for transfers).
@@ -72,7 +72,7 @@ Many vendors publish a standard DPA you can accept or sign online. Read it rathe
 
 **Breach notice.** Per [Article 33(2)](https://www.legislation.gov.uk/eur/2016/679/article/33/data.html), a processor must notify the controller "without undue delay" after becoming aware of a breach. The controller's own notice to the regulator is due within 72 hours where feasible (Art. 33(1)). Because your clock can start once you are aware, ask for a specific notice window in the contract, such as a set number of hours.
 
-**CCPA service provider terms.** Per 11 CCR 7051(a), as shown by [Prighter](https://prighter.com/resources/laws/ccpa-regulations/sections/7051), the contract must:
+**CCPA service provider terms.** Per 11 CCR 7051(a) (check the current text on the California Privacy Protection Agency site), the contract must:
 
 - Bar the provider from **selling or sharing** the personal information.
 - Name **specific business purposes** (broad references to the whole contract are not enough).
@@ -81,11 +81,11 @@ Many vendors publish a standard DPA you can accept or sign online. Read it rathe
 - Give you the right to verify compliant use, such as audits or assessments, **at least every 12 months**.
 - Require notice if the provider can no longer meet its obligations, and let you stop and remediate unauthorized use.
 
-**AI-specific points.** Per [Knowlee](https://www.knowlee.ai/glossary/data-processing-agreement), a vendor's own explainer, many AI vendors' standard terms permit model improvement from customer data by default, so look for an explicit bar on training with your data and a **subprocessor list** (for example, a model provider behind the product). Also check how long prompts and outputs are retained.
+**AI-specific points.** Vendors' standard terms differ on whether they permit model improvement from customer data, so look for an explicit bar on training with your data and a **subprocessor list** (for example, a model provider behind the product). Also check how long prompts and outputs are retained.
 
 ## 4. Cross-border transfers, and when to get an attorney
 
-If personal data leaves the EEA, the DPA should include or reference a transfer mechanism. Per Knowlee, options include Standard Contractual Clauses, Binding Corporate Rules, or transfer to an adequacy country. Which one fits your vendor and your data flows is a question for the vendor's documentation and, if stakes are high, a privacy attorney.
+If personal data leaves the EEA, the DPA should include or reference a transfer mechanism. Under GDPR Chapter V, options include Standard Contractual Clauses, Binding Corporate Rules, or transfer to an adequacy country. Which one fits your vendor and your data flows is a question for the vendor's documentation and, if stakes are high, a privacy attorney.
 
 ![Five steps to check a vendor DPA](/images/data-processing-agreement-dpa-ai-vendors-small-business/steps.webp)
 
@@ -99,7 +99,7 @@ Pair this with the [AI vendor contract checklist](/blog/ai-vendor-contract-check
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [GDPR Article 28 (gdpr-info.eu)](https://gdpr-info.eu/art-28-gdpr/); [GDPR Article 33 (legislation.gov.uk)](https://www.legislation.gov.uk/eur/2016/679/article/33/data.html); [GDPRLocal, DPA contents](https://gdprlocal.com/?p=135441); [Prighter, 11 CCR 7051](https://prighter.com/resources/laws/ccpa-regulations/sections/7051); [Knowlee, DPAs for AI vendors](https://www.knowlee.ai/glossary/data-processing-agreement). The CCPA regulation text was read on a secondary site; confirm against the California Privacy Protection Agency's current regulations.
+**Sources:** [GDPR Article 28 (gdpr-info.eu)](https://gdpr-info.eu/art-28-gdpr/); [GDPR Article 33 (legislation.gov.uk)](https://www.legislation.gov.uk/eur/2016/679/article/33/data.html); 11 CCR 7051 (California CCPA regulations). The CCPA clause list is from the regulation text as we understood it; confirm against the California Privacy Protection Agency's current regulations.
 
 ## FAQ
 
@@ -113,7 +113,7 @@ Per GDPR terms, the controller decides why and how personal data is processed; t
 
 **Does a DPA stop an AI vendor from training on my data?**
 
-Only if it says so. Per Knowlee, many AI vendors' standard terms permit model improvement from customer data by default, so look for an explicit prohibition on training unless you separately authorize it.
+Only if it says so. Vendors' standard terms differ on model improvement from customer data, so look for an explicit prohibition on training unless you separately authorize it.
 
 **How fast must a vendor tell me about a breach?**
 

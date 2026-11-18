@@ -6,13 +6,13 @@ pubDate: 'Nov 6 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Is a recommendation letter the same as an O-1 consultation letter?'
-    answer: 'No. Per Beyond Border, a consultation letter is a formal advisory opinion from a peer group, organization, or qualified expert, while a recommendation letter explains your achievements. A strong recommendation letter may not meet the consultation standard.'
+    answer: 'No. Per USCIS, a consultation letter is a written advisory opinion from a peer group or a person with expertise in the field, while a recommendation letter explains your achievements. A strong recommendation letter may not meet the consultation standard.'
   - question: 'How many recommendation letters does an O-1 need?'
-    answer: 'There is no fixed number per Ashoori Law. Beyond Border suggests 4 to 6 letters from senior industry figures for founders, but quality matters more than volume.'
+    answer: 'USCIS sets no fixed number. Yale international office recommends at least 3 as a general rule for its faculty, but quality matters more than volume.'
   - question: 'Who should write O-1 recommendation letters?'
-    answer: 'Credible experts in your field, ideally independent of your reporting chain, per Ashoori Law. Employer or colleague letters can also work if they explain the recommender''s authority and firsthand knowledge.'
+    answer: 'Per Yale international office, most letters should come from experts who know you only through your achievements. Per USCIS, letters from employers or recognized experts must describe your qualities in specific, factual terms.'
   - question: 'Can the O-1 consultation letter be waived?'
-    answer: 'Per Beyond Border, a waiver may apply if you had a consultation in the last two years and are returning to similar work, or if no appropriate source exists. It warns against assuming a waiver.'
+    answer: 'Per USCIS, the consultation may be waived for an artist with extraordinary ability seeking readmission within two years of a previous consultation, and if no appropriate peer group exists USCIS decides on the evidence. Do not assume a waiver.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,32 +39,32 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** An O-1 case can involve two different kinds of letters. A consultation (advisory opinion) letter is a formal opinion for USCIS from a peer group, labor or management organization, or qualified expert, and is usually required. Recommendation letters explain your achievements and impact and come from experts, employers, clients, collaborators, or investors, per Beyond Border. A strong recommendation letter may not satisfy the consultation requirement unless it meets the advisory-opinion standard, and letters support objective evidence rather than replace it.
+**Quick answer:** An O-1 case can involve two different kinds of letters. A consultation (advisory opinion) letter is a formal opinion for USCIS from a peer group, labor or management organization, or qualified expert, and is usually required. Recommendation letters explain your achievements and impact and come from recognized experts or present or former employers, per the USCIS Policy Manual. A strong recommendation letter may not satisfy the consultation requirement unless it meets the advisory-opinion standard, and letters support objective evidence rather than replace it.
 
 ![Consultation letter versus recommendation letter for the O-1](/images/o-1-recommendation-letters-expert-opinion/cols.webp)
 
 ## 2. The consultation letter
 
-Per Beyond Border, the source depends on the category:
+Per USCIS, the source depends on the category:
 
 - **O-1A** (business, science, education, athletics): a peer group or qualified expert in the field.
 - **O-1B arts:** a peer group, organization, or expert in the same creative field.
 - **O-1B motion picture or television:** both a relevant labor organization and a management organization.
 
-If no clear union or peer group exists, which Beyond Border says is common in tech and startups, the petitioner may need to identify a qualified expert or relevant organization. The letter should cover your qualifications and recognition, the proposed U.S. work, and why the role requires extraordinary ability. Some organizations issue a "no objection" letter instead of a detailed opinion, which can still help if it comes from the right source.
+If no appropriate peer group or labor organization exists, USCIS decides based on the evidence submitted, so the petitioner may want to identify a qualified expert or relevant organization. The letter should cover your qualifications and recognition, the proposed U.S. work, and why the role requires extraordinary ability. Per the USCIS Policy Manual, an opinion for O-1A or O-1B arts must be favorable or state "no objection."
 
-A waiver may apply if you received a consultation within the last two years and are returning to similar work, or if no appropriate consultation source exists. Beyond Border warns not to assume a waiver; if a credible source is available, getting the consultation is generally safer. Start before filing, since some organizations have specific forms, fees, or formatting requirements. For the full package, see the [O-1 documents checklist](/blog/o-1-visa-documents-checklist-founder/).
+Per USCIS, the consultation may be waived for an artist with extraordinary ability who is seeking readmission to perform similar services within two years of a previous consultation, and if no appropriate peer group exists USCIS decides on the evidence. Do not assume a waiver; if a credible source is available, getting the consultation is generally safer. Start before filing, since some organizations have specific forms, fees, or formatting requirements. For the full package, see the [O-1 documents checklist](/blog/o-1-visa-documents-checklist-founder/).
 
 ## 3. Writing strong expert recommendation letters
 
-Per Ashoori Law, a strong letter typically covers the recommender's credentials, their relationship to you, your key achievements, the impact and significance of that work, and a closing endorsement, written as one narrative.
+Per the USCIS Policy Manual, letters from employers or recognized experts must describe your qualities in specific, factual terms and state the writer's expertise and how they know your work. A strong letter typically covers the recommender's credentials, their relationship to you, your key achievements, and the impact of that work.
 
-- **Who:** credible experts in your field, such as industry experts, senior executives, academic authorities, or independent peers. Independent recommenders outside your reporting chain generally carry more weight. Employer or colleague letters can be strong if they explain authority and firsthand knowledge.
-- **How many:** no fixed number per Ashoori. Beyond Border suggests 4 to 6 letters from senior industry figures for founders. Quality beats volume.
+- **Who:** credible experts in your field, such as industry experts, senior executives, academic authorities, or independent peers. Yale's international office advises that most letters should come from experts who know you only through your achievements. Employer or colleague letters can be strong if they explain authority and firsthand knowledge.
+- **How many:** USCIS sets no fixed number. Yale's international office recommends at least 3 as a general rule for its faculty. Quality beats volume.
 - **What to include:** specific, verifiable details and analysis. The best letters explain what the evidence shows and why it matters.
-- **Mistakes:** vague praise like "talented," jargon an officer cannot follow, repeating resume bullets, letters with identical wording that look templated, and legal conclusions in place of analysis.
+- **Mistakes:** vague praise like "talented," jargon an officer cannot follow, repeating resume bullets, letters with identical wording that look templated, and listing achievements without explaining their significance.
 
-Recommenders must review and genuinely adopt the final text. Notarization is generally not required, but the letter should be signed with real contact information, per Ashoori.
+Recommenders must review and genuinely adopt the final text. Per Yale's international office, each letter should be on the writer's letterhead, ideally with an original signature, and include the recommender's CV.
 
 ![Workflow for O-1 recommendation letters](/images/o-1-recommendation-letters-expert-opinion/steps.webp)
 
@@ -78,25 +78,25 @@ If you are weighing the O-1 against a green card route, see [EB-1A vs. O-1 for f
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Beyond Border: O-1 consultation letter](https://www.beyondborderglobal.com/resources/o-1-visa-consultation-letter); [Ashoori Law: O-1 recommendation letter](https://www.ashoorilaw.com/?p=21935); [Beyond Border: selecting the right peer group](https://www.beyondborderglobal.com/resources/o-1-consultation-letter-selecting-the-right-peer-group-and-documenting-advisory-credentials).
+**Sources:** [USCIS: O-1 visa](https://uscis.gov/o-1); [USCIS Policy Manual, Vol. 2, Part M, Ch. 7: Documentation and Evidence](https://uscis.gov/es/node/89878); [Yale OISS: O-1 letters of recommendation](https://oiss.yale.edu/node/244).
 
 ## FAQ
 
 **Is a recommendation letter the same as an O-1 consultation letter?**
 
-No. Per Beyond Border, a consultation letter is a formal advisory opinion from a peer group, organization, or qualified expert, while a recommendation letter explains your achievements. A strong recommendation letter may not meet the consultation standard.
+No. Per USCIS, a consultation letter is a written advisory opinion from a peer group or a person with expertise in the field, while a recommendation letter explains your achievements. A strong recommendation letter may not meet the consultation standard.
 
 **How many recommendation letters does an O-1 need?**
 
-There is no fixed number per Ashoori Law. Beyond Border suggests 4 to 6 letters from senior industry figures for founders, but quality matters more than volume.
+USCIS sets no fixed number. Yale international office recommends at least 3 as a general rule for its faculty, but quality matters more than volume.
 
 **Who should write O-1 recommendation letters?**
 
-Credible experts in your field, ideally independent of your reporting chain, per Ashoori Law. Employer or colleague letters can also work if they explain the recommender's authority and firsthand knowledge.
+Per Yale international office, most letters should come from experts who know you only through your achievements. Per USCIS, letters from employers or recognized experts must describe your qualities in specific, factual terms.
 
 **Can the O-1 consultation letter be waived?**
 
-Per Beyond Border, a waiver may apply if you had a consultation in the last two years and are returning to similar work, or if no appropriate source exists. It warns against assuming a waiver.
+Per USCIS, the consultation may be waived for an artist with extraordinary ability seeking readmission within two years of a previous consultation, and if no appropriate peer group exists USCIS decides on the evidence. Do not assume a waiver.
 
 ---
 

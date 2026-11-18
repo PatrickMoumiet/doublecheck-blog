@@ -6,11 +6,11 @@ pubDate: 'Nov 16 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is a deadlock clause in a co-founder agreement?'
-    answer: 'It is a written procedure for what happens when equal co-founders cannot agree on a decision. Typical steps are negotiation, mediation, a neutral tie-breaker and, as a last resort, a buy-sell clause, per SPZ Legal and Astris Law.'
+    answer: 'It is a written procedure for what happens when equal co-founders cannot agree on a decision. Typical steps are negotiation, mediation, a neutral tie-breaker and, as a last resort, a buy-sell clause. Wording and enforceability vary, so have counsel draft it.'
   - question: 'Is a 50/50 co-founder split a bad idea?'
     answer: 'It is risky without a tie-break rule. Techstars (May 21, 2026) says not to default to 50/50 because it feels fair, and a June 2026 Bradley Arant article says equal owners are likely to deadlock when a disagreement arises.'
   - question: 'How does a shotgun clause work?'
-    answer: 'One founder names a price and the other must either sell at that price or buy the first founders shares at it, per Open Forest (February 23, 2026). The better-funded founder usually holds the advantage, per Astris Law.'
+    answer: 'One founder names a price and the other must either sell at that price or buy the first founders shares at it. The better-funded founder usually holds the advantage.'
   - question: 'Does vesting solve deadlock between co-founders?'
     answer: 'No. Vesting controls how much equity each founder keeps if they leave. Techstars says typical vesting is four years with a one-year cliff, but you still need a separate tie-break or exit mechanism.'
 toc:
@@ -52,7 +52,7 @@ None of these is free. Each trades speed, cost, fairness and control differently
 The cheapest deadlock is the one that never happens. Two prevention tools come up repeatedly in founder guides.
 
 - **Split decision rights.** One founder has the final say on product and engineering, the other on sales, finance or hiring in their area. Ownership stays 50/50, but day-to-day calls do not need a vote.
-- **Keep the list of shared decisions short.** Echai Ventures summarizes a Mondaq India warning that an over-broad "reserved matters" list turns minor disagreements into deadlock triggers. Reserve joint approval for things like selling the company, issuing new shares, taking on large debt or changing the founders' roles.
+- **Keep the list of shared decisions short.** An over-broad "reserved matters" list can turn minor disagreements into deadlock triggers. Reserve joint approval for things like selling the company, issuing new shares, taking on large debt or changing the founders' roles.
 
 Another structure is a slightly unequal vote with equal economics. The Bradley Arant article (June 29, 2026) proposes 51% and 49% ownership with equal shares of distributions and pay, where the majority holder runs operations and the minority holder negotiates vetoes over major decisions such as admitting new owners or selling the business. The tradeoff is real: one founder now has control, and the article notes the majority owner may need to contribute more capital to justify it. Techstars (May 21, 2026) goes further and says not to default to 50/50 just because it feels fair. Our posts on [how co-founders split equity](/blog/how-co-founders-split-equity-data/) and the [co-founder agreement](/blog/co-founder-agreement-startups/) cover how to reach the split itself.
 
@@ -60,17 +60,17 @@ Another structure is a slightly unequal vote with equal economics. The Bradley A
 
 When founders still disagree on a shared decision, a pre-agreed path keeps the company moving.
 
-- **Negotiation, then mediation.** SPZ Legal suggests requiring good-faith negotiation or mediation before any other step, and spelling out what happens if mediation fails. Astris Law, writing about Australian companies (November 24, 2026), says a well-drafted agreement usually puts a deadlock notice, a principals meeting and mediation ahead of any exit mechanism.
-- **A neutral tie-breaker.** SPZ Legal describes naming a neutral person to cast a tie-breaking vote without making them a member or director; arbitration, where an arbitrator issues a binding decision, is another route. Bradley Arant lists a board (limited to deadlocks or managing generally) and a single trusted arbiter, and recommends immunity, safe-harbor and legal-fee protections for whoever serves.
-- **Chance or rotation.** Coin flips or rotating authority for set periods are mentioned by Bradley Arant and SPZ Legal. SPZ says chance works mostly as a deterrent.
+- **Negotiation, then mediation.** Consider requiring good-faith negotiation or mediation before any other step, and spell out what happens if mediation fails.
+- **A neutral tie-breaker.** One option is naming a neutral person to cast a tie-breaking vote without making them a member or director; arbitration, where an arbitrator issues a binding decision, is another route. Bradley Arant lists a board (limited to deadlocks or managing generally) and a single trusted arbiter, and recommends immunity, safe-harbor and legal-fee protections for whoever serves.
+- **Chance or rotation.** Coin flips or rotating authority for set periods are mentioned by Bradley Arant.
 
 The tradeoff: these keep control with the founders but depend on cooperation or on a neutral you both trust. You also need to decide who picks the neutral, who pays, what matters they can decide, and how long they have. A tie-breaker with unlimited power over the company is a third owner in disguise.
 
 ## 4. Shotgun clauses, vesting and the limits of both
 
-A buy-sell clause is the exit valve. In the common "shotgun" or "Russian roulette" form, one founder names a price and the other must either sell at that price or buy the first founder out at it. Open Forest (February 23, 2026, on Irish law) says it gives both sides an incentive to name a fair price because either could end up buyer or seller, and that it works best when shareholdings and financial resources are roughly equal. A "Texas shoot-out" is a variant where each side submits a sealed all-cash bid and the higher bidder buys; the name is a label, not a Texas legal rule, and Astris Law says labels vary between precedents, so the wording controls.
+A buy-sell clause is the exit valve. In the common "shotgun" or "Russian roulette" form, one founder names a price and the other must either sell at that price or buy the first founder out at it. It gives both sides an incentive to name a fair price because either could end up buyer or seller, but it works best when shareholdings and financial resources are roughly equal. A "Texas shoot-out" is a variant where each side submits a sealed all-cash bid and the higher bidder buys; the name is a label, not a Texas legal rule, and labels vary between precedents, so the wording controls.
 
-The main weakness is money. Astris Law says the better-funded side holds the advantage in a shotgun and that a put the other side cannot fund leaves the seller with a claim against a buyer that cannot pay. SPZ Legal notes buy-sell options require the buyer to have funds and suggests allowing cash plus debt. Tax treatment of the sale can also differ by seller, per Astris. See [how to remove or buy out a co-founder](/blog/how-to-remove-or-buy-out-a-co-founder/) and [buy-sell agreements](/blog/buy-sell-agreement-small-business-partners/).
+The main weakness is money. The better-funded side holds the advantage in a shotgun, and a buyout the other side cannot fund can leave the seller with a claim against a buyer that cannot pay. Consider allowing cash plus financing. Tax treatment of the sale can also differ by seller. See [how to remove or buy out a co-founder](/blog/how-to-remove-or-buy-out-a-co-founder/) and [buy-sell agreements](/blog/buy-sell-agreement-small-business-partners/).
 
 **Vesting** answers a different problem. Techstars says almost every founding team should vest its equity, typically over four years with a one-year cliff vesting 25%. If one founder leaves, unvested shares can return to the company instead of staying with someone who is gone. See [cofounder vesting and the cliff](/blog/cofounder-vesting-cliff-explained/), the [founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/) and the [83(b) election](/blog/83b-election-startup-founders/).
 
@@ -88,13 +88,13 @@ You can draft a first-pass list yourselves: who decides what, how you escalate, 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Techstars, How to Split Co-Founder Equity (May 21, 2026)](https://www.techstars.com/blog/founder-advice/how-to-split-co-founder-equity-the-right-way); [National Law Review, The 50-50 Owned Private Company (Bradley Arant, June 29, 2026)](https://natlawreview.com/article/50-50-owned-private-company-bad-idea-does-not-improve-time); [SPZ Legal, How to Resolve Deadlock in 50/50 Founder Situations (undated)](https://spzlegal.com/blog/incorporation/how-to-resolve-deadlock-in-50-50-founder-situations); [Echai Ventures summary (undated)](https://echai.ventures/startingup/equity-splits/how-do-we-handle-deadlock-when-two-co-founders-own-50-50-and-cannot-agree-on-a-major-decision); [Astris Law, 50/50 Shareholder Deadlock (Nov 24, 2026, Australian law)](https://www.astrislaw.com/article/shareholder-deadlock-50-50-company-exit-options); [Open Forest (Feb 23, 2026, Irish law)](https://openforest.co/articles/co-founder-exit-shareholder-agreement); [McCarter, GR BURGR (Oct 2017)](https://www.mccarter.com/insights/delaware-law-update-what-do-gordon-ramsay-and-burgers-have-to-do-with-section-18-802-of-the-delaware-llc-act/).
+**Sources:** [Techstars, How to Split Co-Founder Equity (May 21, 2026)](https://www.techstars.com/blog/founder-advice/how-to-split-co-founder-equity-the-right-way); [National Law Review, The 50-50 Owned Private Company (Bradley Arant, June 29, 2026)](https://natlawreview.com/article/50-50-owned-private-company-bad-idea-does-not-improve-time); [McCarter, GR BURGR (Oct 2017)](https://www.mccarter.com/insights/delaware-law-update-what-do-gordon-ramsay-and-burgers-have-to-do-with-section-18-802-of-the-delaware-llc-act/).
 
 ## FAQ
 
 **What is a deadlock clause in a co-founder agreement?**
 
-It is a written procedure for what happens when equal co-founders cannot agree on a decision. Typical steps are negotiation, mediation, a neutral tie-breaker and, as a last resort, a buy-sell clause, per SPZ Legal and Astris Law.
+It is a written procedure for what happens when equal co-founders cannot agree on a decision. Typical steps are negotiation, mediation, a neutral tie-breaker and, as a last resort, a buy-sell clause. Wording and enforceability vary, so have counsel draft it.
 
 **Is a 50/50 co-founder split a bad idea?**
 
@@ -102,7 +102,7 @@ It is risky without a tie-break rule. Techstars (May 21, 2026) says not to defau
 
 **How does a shotgun clause work?**
 
-One founder names a price and the other must either sell at that price or buy the first founders shares at it, per Open Forest (February 23, 2026). The better-funded founder usually holds the advantage, per Astris Law.
+One founder names a price and the other must either sell at that price or buy the first founders shares at it. The better-funded founder usually holds the advantage.
 
 **Does vesting solve deadlock between co-founders?**
 

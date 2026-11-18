@@ -55,13 +55,13 @@ CLA says S-corp costs include state fees, a registered agent, payroll setup and 
 
 ## 4. Brand-deal contracts and trademarks
 
-Saral's guide says a brand-deal contract should cover deliverables, payment terms (for example 50% upfront and the rest on approval, or Net 30), usage rights (absent a transfer, the creator generally keeps the copyright), exclusivity, and termination. The USPTO says you do not have to register a trademark to own one, but your rights are limited to the area of use, while federal registration gives broader nationwide rights. Read [AI-generated content and copyright](/blog/ai-generated-content-copyright-solo-business/) and the [solo founder legal checklist](/blog/solo-founder-legal-checklist-using-ai/).
+A brand-deal contract should spell out deliverables, payment terms, usage rights, exclusivity, and termination. The USPTO says you do not have to register a trademark to own one, but your rights are limited to the area of use, while federal registration gives broader nationwide rights. Read [AI-generated content and copyright](/blog/ai-generated-content-copyright-solo-business/) and the [solo founder legal checklist](/blog/solo-founder-legal-checklist-using-ai/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Wolters Kluwer](https://www.wolterskluwer.com/en/expert-insights/do-social-media-influencers-need-an-llc); [CLA](https://www.claconnect.com/en/resources/articles/26/should-influencers-form-an-llc); [IRS: Limited liability company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc); [IRS: S corporations](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations); [IRS: Self-employment tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes); [USPTO](https://www.uspto.gov/trademarks/basics/what-trademark); [Saral](https://getsaral.com/academy/influencer-contracts-what-to-include-in-your-agreement).
+**Sources:** [Wolters Kluwer](https://www.wolterskluwer.com/en/expert-insights/do-social-media-influencers-need-an-llc); [CLA](https://www.claconnect.com/en/resources/articles/26/should-influencers-form-an-llc); [IRS: Limited liability company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc); [IRS: S corporations](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations); [IRS: Self-employment tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes); [USPTO](https://www.uspto.gov/trademarks/basics/what-trademark).
 
 ## FAQ
 

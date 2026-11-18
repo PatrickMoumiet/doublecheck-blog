@@ -52,11 +52,11 @@ Per [Proskauer](https://www.proskauer.com/blog/eeoc-releases-final-guidance-on-h
 - Conduct in virtual meetings and other remote settings can contribute to a hostile work environment.
 - A single incident can create a hostile work environment if severe enough.
 
-On defenses, the guidance describes a policy that is widely shared, covers supervisors' reporting duties, and names accessible contacts; prompt, effective investigations with confidentiality and anti-retaliation protections; regular training for all employees with guidance for managers; and oversight. A written policy is not enough if it is not implemented or if employees are not trained. [Vensure](https://vensure.com/resources/blog/workplace-harassment-training/) describes the guidance as a national baseline and recommends training, but does not describe a general federal training mandate. The EEOC also offers a small business fact sheet among its supplemental resources.
+On defenses, the guidance describes a policy that is widely shared, covers supervisors' reporting duties, and names accessible contacts; prompt, effective investigations with confidentiality and anti-retaliation protections; regular training for all employees with guidance for managers; and oversight. A written policy is not enough if it is not implemented or if employees are not trained. The guidance is a national baseline, but it is not a general federal training mandate. The EEOC also offers a small business fact sheet among its supplemental resources.
 
 ## 3. State training rules: California, New York, Illinois
 
-Vensure lists California, New York, Illinois, Connecticut, Delaware, and Maine as states with detailed harassment training laws for private employers. Verified details for three:
+Several states, including California, New York, Illinois, Connecticut, Delaware, and Maine, have detailed harassment training laws for private employers; check the current list for your state. Verified details for three:
 
 **California.** Per [CalChamber](https://www.calchamber.com/california-labor-law/harassment-training), the rule applies to employers with five or more employees, including those working outside California. Supervisors need two hours and nonsupervisory employees one hour, with retraining every two years. New hires and promoted employees are due within six months; seasonal and temporary workers within 30 calendar days or 100 hours worked, whichever is earlier.
 
@@ -87,7 +87,7 @@ The policy belongs in your handbook; see [what to include in a small business em
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Proskauer on the EEOC guidance](https://www.proskauer.com/blog/eeoc-releases-final-guidance-on-harassment-in-the-workplace); [Vensure](https://vensure.com/resources/blog/workplace-harassment-training/); [CalChamber](https://www.calchamber.com/california-labor-law/harassment-training); [NFIB](https://www.nfib.com/news/news/reminder-new-york-state-mandated-sexual-harassment-prevention-training-is-required-every-year/); [Davis Wright Tremaine](https://www.dwt.com/blogs/employment-labor-and-benefits/2023/04/new-york-sexual-harassment-model-policy); [Taft](https://www.taftlaw.com/news-events/law-bulletins/illinois-department-of-human-rights-releases-model-sexual-harassment-training-and-guidance/).
+**Sources:** [Proskauer on the EEOC guidance](https://www.proskauer.com/blog/eeoc-releases-final-guidance-on-harassment-in-the-workplace); [CalChamber](https://www.calchamber.com/california-labor-law/harassment-training); [NFIB](https://www.nfib.com/news/news/reminder-new-york-state-mandated-sexual-harassment-prevention-training-is-required-every-year/); [Davis Wright Tremaine](https://www.dwt.com/blogs/employment-labor-and-benefits/2023/04/new-york-sexual-harassment-model-policy); [Taft](https://www.taftlaw.com/news-events/law-bulletins/illinois-department-of-human-rights-releases-model-sexual-harassment-training-and-guidance/).
 
 ## FAQ
 

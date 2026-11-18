@@ -6,15 +6,15 @@ pubDate: 'Nov 18 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What does Net 30 mean on an invoice?'
-    answer: 'Net 30 means payment is due 30 days after the invoice date. Per Daeryun Law (2026), it is the most common default in business-to-business sales. State in your contract whether the 30 days starts on the invoice date, the date the customer receives it, or the delivery date.'
+    answer: 'Net 30 means payment is due 30 days after the invoice date. It is a widely used default in business-to-business sales. State in your contract whether the 30 days starts on the invoice date, the date the customer receives it, or the delivery date.'
   - question: 'Can I charge a late fee if it is not in my contract?'
-    answer: 'Probably not. Nolo says that without payment terms and a fee stated in your written agreement, you likely cannot impose finance charges. Daeryun Law adds that terms appearing only on an invoice may not bind the customer. Add the clause to the signed agreement going forward.'
+    answer: 'Probably not. Nolo says that without payment terms and a fee stated in your written agreement, you likely cannot impose finance charges. Terms that appear only on an invoice may not bind a customer who never agreed to them. Add the clause to the signed agreement going forward.'
   - question: 'How much interest can I charge on a late invoice?'
-    answer: 'It depends on your state. State usury statutes cap interest on overdue amounts, the limits vary significantly, and some commercial deals may be exempt (Daeryun Law). Nolo says 10% per year probably stays within most state statutes, but treat that as a rule of thumb and check your state before using any rate.'
+    answer: 'It depends on your state. State usury statutes cap interest on overdue amounts, the limits vary significantly, and some commercial deals may be exempt. Nolo says 10% per year probably stays within most state statutes, but treat that as a rule of thumb and check your state before using any rate.'
   - question: 'Is a late payment fee a penalty?'
     answer: 'It can be if it is far above the real harm of late payment. UCC 2-718, which governs sales of goods, says an unreasonably large liquidated damages term is void as a penalty. For services, state common law decides. A modest charge tied to the cost of late payment is more likely to be upheld.'
   - question: 'Who pays attorney fees if I have to sue for an unpaid invoice?'
-    answer: 'Generally each side pays its own unless a contract or statute says otherwise (Daeryun Law; Shumaker, July 2026). If you want collection costs recovered, say so in the contract, and consider mutual wording because some states treat one-sided fee clauses as mutual.'
+    answer: 'Generally each side pays its own unless a contract or statute says otherwise (Shumaker, July 2026). If you want collection costs recovered, say so in the contract, and consider mutual wording because some states treat one-sided fee clauses as mutual.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -51,7 +51,7 @@ toc:
 
 ## 2. What Net 30 means and where the terms must appear
 
-Net 30 is the most common default in business-to-business sales, per a March 2026 guide from Daeryun Law (last modified June 2026). Other common terms are due on receipt, Net 60, deposits or milestone payments, and payment on delivery.
+Net 30 is a widely used default in business-to-business sales. Other common terms are due on receipt, Net 60, deposits or milestone payments, and payment on delivery.
 
 The clause only works if the customer agreed to it. That guide notes payment terms printed only on an invoice may not bind a customer unless they were part of the original agreement or accepted through a valid course of dealing. Nolo makes the same point from the fee side: your written agreement should state the payment deadline and the fee, and invoices should repeat that language. Without those provisions, you likely cannot impose finance charges.
 
@@ -68,14 +68,14 @@ Define the clock precisely. Say whether 30 days runs from the invoice date, the 
 
 ## 3. Late fees and interest: what courts tend to enforce
 
-The core test is reasonableness. Per Daeryun Law, late fees and interest are enforceable when they reasonably estimate the harm from late payment rather than punish the customer, and a fee far above any realistic harm can be struck down as a penalty. For contracts for the sale of goods, the Uniform Commercial Code addresses this directly: [UCC 2-718](https://www.law.cornell.edu/ucc/2/2-718) allows damages to be fixed in advance only at an amount "reasonable in the light of the anticipated or actual harm caused by the breach," and says a term fixing unreasonably large liquidated damages is void as a penalty. For service contracts, state common law usually decides, per the same Daeryun guide.
+The core test is reasonableness. Late fees and interest are more likely to be enforceable when they reasonably estimate the harm from late payment rather than punish the customer, and a fee far above any realistic harm can be struck down as a penalty. For contracts for the sale of goods, the Uniform Commercial Code addresses this directly: [UCC 2-718](https://www.law.cornell.edu/ucc/2/2-718) allows damages to be fixed in advance only at an amount "reasonable in the light of the anticipated or actual harm caused by the breach," and says a term fixing unreasonably large liquidated damages is void as a penalty. For service contracts, state common law usually governs, so check your state's rules.
 
-Interest rate limits are state law. State usury statutes cap the rate on overdue amounts, the limits vary significantly by state, and some commercial transactions may be exempt while consumer transactions can face stricter rules (Daeryun Law). Nolo says a rate of up to 10% per year probably stays within most state statutes, but it is only a rule of thumb, and Nolo adds that a client could still challenge a fee that exceeds a reasonable estimate of your actual losses. Treat any specific percentage as something to check against your state's rules before you use it.
+Interest rate limits are state law. State usury statutes cap the rate on overdue amounts, the limits vary significantly by state, and some commercial transactions may be exempt while consumer transactions can face stricter rules. Nolo says a rate of up to 10% per year probably stays within most state statutes, but it is only a rule of thumb, and Nolo adds that a client could still challenge a fee that exceeds a reasonable estimate of your actual losses. Treat any specific percentage as something to check against your state's rules before you use it.
 
 Two traps to avoid:
 
 - **Flat daily fees on small invoices.** Nolo's example: $10 per day on a $100 invoice exceeds 10% per year after one day.
-- **Stacking charges.** Per Daeryun Law, combined late fees and interest can be unenforceable if they are duplicative, punitive, or exceed usury limits. Choose one mechanism.
+- **Stacking charges.** Combined late fees and interest can be unenforceable if they are duplicative, punitive, or exceed usury limits. Choose one mechanism.
 
 Language matters too. Nolo advises against calling the fee a "penalty" because a judge may read it as punitive. Call it a late charge or interest on past-due amounts.
 
@@ -88,7 +88,7 @@ Draft the clause in this order, then have the final wording checked against your
 1. **Due date:** "Invoices are due within 30 days of the invoice date."
 2. **Late charge:** one mechanism, such as interest on the unpaid balance at a stated monthly rate, or a modest flat fee.
 3. **Cap:** "or the maximum rate permitted by law, if lower." This kind of savings language helps if your state's limit is below the stated rate.
-4. **Collection costs:** each side generally pays its own attorney's fees unless a contract or statute shifts them, per Daeryun Law. A Florida law firm client alert from July 2026 (Shumaker) makes the same point and notes that one-sided fee clauses can be treated as mutual under Florida law, so mutual wording is the safer drafting default.
+4. **Collection costs:** each side generally pays its own attorney's fees unless a contract or statute shifts them. A Florida law firm client alert from July 2026 (Shumaker) makes the same point and notes that one-sided fee clauses can be treated as mutual under Florida law, so mutual wording is the safer drafting default.
 5. **Notice and cure:** a short written notice period before you suspend work. The same Shumaker alert notes contracts often require 10 to 15 days written notice before remedies are exercised; that is a drafting norm, not a legal rule.
 6. **Suspension rights:** whether you may pause work or deliveries while an invoice is overdue.
 
@@ -98,12 +98,12 @@ Related reading: [how to write a demand letter](/blog/how-to-write-a-demand-lett
 
 ## 5. Mistakes that weaken the clause
 
-- **Terms only on the invoice.** If the customer never agreed to them, they may not bind (Daeryun Law).
+- **Terms only on the invoice.** If the customer never agreed to them, they may not bind.
 - **Fee silent in the contract.** Without a stated rate, you may be limited to the statutory rate and may struggle to recover prejudgment interest. Shumaker makes this point for Florida; other states differ.
-- **Charging more than state limits allow.** Exceeding the cap can make the interest term unenforceable, or sometimes more (Daeryun Law).
+- **Charging more than state limits allow.** Exceeding the cap can make the interest term unenforceable, or sometimes more.
 - **Disguised discounts.** Nolo warns a large early-payment discount could be treated as a disguised late fee.
 - **Never enforcing it.** Waiving the fee occasionally to keep a client is a business choice (Nolo suggests it for occasional late payers), but write down that a waiver is not a change to the contract.
-- **Ignoring special laws.** Construction, government contracting and subcontractor payments may be governed by prompt-payment statutes (Daeryun Law). If you work in those areas, the general advice above is only a starting point.
+- **Ignoring special laws.** Construction, government contracting and subcontractor payments may be governed by prompt-payment statutes. If you work in those areas, the general advice above is only a starting point.
 
 Also check the other side of the contract. If you are the one paying, look for steep late charges, short payment windows and one-sided fee shifting during a [contract red flag review](/blog/contract-red-flags-small-business/). Late payment is one way a contract gets breached; see [breach of contract remedies](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/) and the [statute of limitations for breach of contract by state](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/), because collection deadlines are not unlimited.
 
@@ -123,21 +123,21 @@ Get an attorney to look at it when:
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Daeryun Law, Legal Payment Terms (March 2026, modified June 2026)](https://www.daeryunlaw.com/us/practices/detail/legal-payment-terms); [Nolo, When Can I Charge Late Fees or Finance Charges?](https://www.nolo.com/legal-encyclopedia/question-when-charge-late-fees-finance-charges-28337.html); [Cornell LII, UCC 2-718](https://www.law.cornell.edu/ucc/2/2-718); [Shumaker client alert on Florida late-payment interest (July 13, 2026)](https://www.shumaker.com/wp-content/themes/jrd-shumaker/inc/generate-insight-pdf.php?id=17776).
+**Sources:** [Nolo, When Can I Charge Late Fees or Finance Charges?](https://www.nolo.com/legal-encyclopedia/question-when-charge-late-fees-finance-charges-28337.html); [Cornell LII, UCC 2-718](https://www.law.cornell.edu/ucc/2/2-718); [Shumaker client alert on Florida late-payment interest (July 13, 2026)](https://www.shumaker.com/wp-content/themes/jrd-shumaker/inc/generate-insight-pdf.php?id=17776).
 
 ## FAQ
 
 **What does Net 30 mean on an invoice?**
 
-Net 30 means payment is due 30 days after the invoice date. Per Daeryun Law (2026), it is the most common default in business-to-business sales. State in your contract whether the 30 days starts on the invoice date, the date the customer receives it, or the delivery date.
+Net 30 means payment is due 30 days after the invoice date. It is a widely used default in business-to-business sales. State in your contract whether the 30 days starts on the invoice date, the date the customer receives it, or the delivery date.
 
 **Can I charge a late fee if it is not in my contract?**
 
-Probably not. Nolo says that without payment terms and a fee stated in your written agreement, you likely cannot impose finance charges. Daeryun Law adds that terms appearing only on an invoice may not bind the customer. Add the clause to the signed agreement going forward.
+Probably not. Nolo says that without payment terms and a fee stated in your written agreement, you likely cannot impose finance charges. Terms that appear only on an invoice may not bind a customer who never agreed to them. Add the clause to the signed agreement going forward.
 
 **How much interest can I charge on a late invoice?**
 
-It depends on your state. State usury statutes cap interest on overdue amounts, the limits vary significantly, and some commercial deals may be exempt (Daeryun Law). Nolo says 10% per year probably stays within most state statutes, but treat that as a rule of thumb and check your state before using any rate.
+It depends on your state. State usury statutes cap interest on overdue amounts, the limits vary significantly, and some commercial deals may be exempt. Nolo says 10% per year probably stays within most state statutes, but treat that as a rule of thumb and check your state before using any rate.
 
 **Is a late payment fee a penalty?**
 
@@ -145,7 +145,7 @@ It can be if it is far above the real harm of late payment. UCC 2-718, which gov
 
 **Who pays attorney fees if I have to sue for an unpaid invoice?**
 
-Generally each side pays its own unless a contract or statute says otherwise (Daeryun Law; Shumaker, July 2026). If you want collection costs recovered, say so in the contract, and consider mutual wording because some states treat one-sided fee clauses as mutual.
+Generally each side pays its own unless a contract or statute says otherwise (Shumaker, July 2026). If you want collection costs recovered, say so in the contract, and consider mutual wording because some states treat one-sided fee clauses as mutual.
 
 ---
 

@@ -6,13 +6,13 @@ pubDate: 'Nov 11 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can I form an LLC myself without a lawyer?'
-    answer: 'Yes. Per LegalZoom, no law requires a lawyer to form an LLC, and you can file directly with your state, usually the Secretary of State. A lawyer is optional and mostly useful for more complex setups.'
+    answer: 'Yes. Per the SBA, most states have you register with the Secretary of State’s office or a similar state agency, and the SBA describes consulting attorneys as helpful rather than required. A lawyer is optional and mostly useful for more complex setups.'
   - question: 'How much does a lawyer cost to form an LLC?'
-    answer: 'Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.'
+    answer: 'Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.'
   - question: 'Can AI write my LLC operating agreement?'
-    answer: 'It can produce a useful first draft, but you must check it against your state''s LLC law and your owners'' actual agreement. The SBA says an operating agreement is widely recommended even where not required.'
+    answer: 'It can produce a useful first draft, but you must check it against your state’’s LLC law and your owners’’ actual agreement. The SBA says an operating agreement is widely recommended even where not required.'
   - question: 'When should I definitely talk to an attorney?'
-    answer: 'Per Swyft Filings, when you have multiple owners, outside investors, or a regulated industry. LegalZoom adds patents, multi-state operations, and tax-status choices such as S corp election.'
+    answer: 'Generally when you have multiple owners, outside investors, a regulated industry, patents, multi-state operations, or tax-status choices such as an S corp election. The SBA suggests consulting an attorney before using a non-standard structure.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -32,14 +32,14 @@ toc:
 
 **Key takeaways:**
 
-- No law requires a lawyer to form an LLC, per LegalZoom; DIY filing is often fine for simple single-owner businesses.
+- Most states let you register an LLC directly with a state office, per the SBA; DIY filing is often fine for simple single-owner businesses.
 - AI can draft an operating agreement and checklists, but verify state rules, your actual deal, and tax choices.
 - Multiple owners, investors, foreign owners, regulated professions, and existing IP or contracts are the main reasons to hire an attorney.
 - Costs vary by state and lawyer, so get quotes and check your state's filing fee.
 
 ## 1. The quick answer
 
-**Quick answer:** No, you do not need a lawyer to form an LLC. Per LegalZoom, "There are no laws that require you to use a lawyer to form an LLC," and you can file directly with your state, usually the Secretary of State. DIY filing is often fine for a simple, single-owner business. A lawyer becomes worth it when you have multiple owners, outside investors, a regulated profession, or complicated IP or contracts. AI can help you draft and prepare, but whatever it produces still needs checking against your state's rules and your situation.
+**Quick answer:** No, you do not need a lawyer to form an LLC. Per the SBA, most states require you to register with the Secretary of State's office or a similar state agency, and you generally do not need a lawyer to do so; check your state's rules. DIY filing is often fine for a simple, single-owner business. A lawyer becomes worth it when you have multiple owners, outside investors, a regulated profession, or complicated IP or contracts. AI can help you draft and prepare, but whatever it produces still needs checking against your state's rules and your situation.
 
 ![Comparison of DIY, AI-assisted, and attorney LLC formation](/images/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/cols.webp)
 
@@ -53,7 +53,7 @@ DIY tends to work when:
 - Your business is not a licensed profession and not in a heavily regulated field.
 - You have no existing contracts, IP, or prior-employer issues that need sorting out.
 
-Per the SBA, LLCs generally shield owners from personal liability, and an operating agreement is "widely recommended" even if your state does not require one. After filing, expect follow-on tasks: an EIN (per Ueni, citing the IRS, an EIN is free), an annual report (see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/)), and local permits (see [business license requirements](/blog/business-license-requirements-small-business/)). Our [incorporation guide](/blog/how-to-incorporate-a-company-in-the-us/) walks through the broader picture.
+Per the SBA, LLCs generally shield owners from personal liability, and an operating agreement is "widely recommended" even if your state does not require one. After filing, expect follow-on tasks: an EIN (per the SBA, it is free to apply for), an annual report (see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/)), and local permits (see [business license requirements](/blog/business-license-requirements-small-business/)). Our [incorporation guide](/blog/how-to-incorporate-a-company-in-the-us/) walks through the broader picture.
 
 ## 3. Where AI helps, and what to verify
 
@@ -74,11 +74,11 @@ AI output reads confidently whether or not it is right, so treat it as a draft, 
 
 ## 4. When an attorney is worth it
 
-Per Swyft Filings, a lawyer makes the most sense with multiple owners, outside investors, or a regulated industry, and LegalZoom adds patents, multi-state operations, and the member-managed versus manager-managed and S corp choices. Common triggers:
+A lawyer generally makes the most sense with multiple owners, outside investors, or a regulated industry, and with patents, multi-state operations, and the member-managed versus manager-managed and S corp choices. Common triggers:
 
 - **Multiple members**, especially with uneven contributions or equity splits.
 - **Investors or planned fundraising**, where an LLC may not be the right entity at all.
-- **Foreign owners.** Tax and filing issues (for example [Form 5472 for foreign-owned LLCs](/blog/form-5472-foreign-owned-single-member-llc/)) and the EIN process differ. Per Ueni, applicants without an SSN or ITIN cannot use the IRS online EIN tool.
+- **Foreign owners.** Tax and filing issues (for example [Form 5472 for foreign-owned LLCs](/blog/form-5472-foreign-owned-single-member-llc/)) and the EIN process differ. Applicants without an SSN or ITIN may have to use a different EIN application route, so check the IRS instructions.
 - **Regulated or licensed professions**, such as law, medicine, or accounting, which carry extra licensing rules.
 - **Existing contracts or IP** that may belong to someone else, such as a former employer.
 
@@ -92,17 +92,17 @@ Cost matters, so ask for a **flat fee for a defined scope** (formation plus oper
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [LegalZoom, Do I need a lawyer to start an LLC](https://www.legalzoom.com/articles/do-i-need-a-lawyer-to-start-an-llc); [Swyft Filings](https://www.swyftfilings.com/blog/do-you-need-lawyer-llc/); [SBA, choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure); [Ueni, EIN guide](https://ueni.com/blog/how-to-get-an-ein-number/).  the IRS EIN page was not fetched directly.
+**Sources:** [SBA, choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure). Confirm state filing steps with your state's Secretary of State and EIN steps with the IRS.
 
 ## FAQ
 
 **Can I form an LLC myself without a lawyer?**
 
-Yes. Per LegalZoom, no law requires a lawyer to form an LLC, and you can file directly with your state, usually the Secretary of State. A lawyer is optional and mostly useful for more complex setups.
+Yes. Per the SBA, most states have you register with the Secretary of State's office or a similar state agency, and the SBA describes consulting attorneys as helpful rather than required. A lawyer is optional and mostly useful for more complex setups.
 
 **How much does a lawyer cost to form an LLC?**
 
-Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. LegalZoom says fees can become a large share of startup costs. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.
+Attorney formation costs depend on the state, the lawyer experience and how complex your setup is, while DIY costs only the state filing fee. Get two or three quotes, ideally flat-fee, and check the state filing fee on your state page.
 
 **Can AI write my LLC operating agreement?**
 
@@ -110,7 +110,7 @@ It can produce a useful first draft, but you must check it against your state's 
 
 **When should I definitely talk to an attorney?**
 
-Per Swyft Filings, when you have multiple owners, outside investors, or a regulated industry. LegalZoom adds patents, multi-state operations, and tax-status choices such as S corp election.
+Generally when you have multiple owners, outside investors, a regulated industry, patents, multi-state operations, or tax-status choices such as an S corp election. The SBA suggests consulting an attorney before using a non-standard structure.
 
 ---
 

@@ -6,9 +6,9 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How much does it cost to start an LLC in Ohio?'
-    answer: 'Per NerdWallet and Discern, the Articles of Organization fee is $99. A statutory agent is free if you serve as your own; commercial agents typically cost $100 to $300 per year, per Discern.'
+    answer: 'Per the Ohio Secretary of State and NerdWallet, the Articles of Organization fee is $99. A statutory agent is free if you serve as your own; commercial agents charge their own fees, which vary.'
   - question: 'Does Ohio require an LLC annual report?'
-    answer: 'No for standard LLCs. NerdWallet states Ohio LLCs are not required to file an annual report or pay an annual fee. Professional associations, LLPs, and nonprofits have periodic duties, per Discern.'
+    answer: 'No for standard LLCs. NerdWallet states Ohio LLCs are not required to file an annual report or pay an annual fee. Professional associations, LLPs, and nonprofits may have periodic duties; check with the Ohio Secretary of State.'
   - question: 'Do I need an operating agreement in Ohio?'
     answer: 'Not by state law, and it is not filed. NerdWallet calls it essential, especially with multiple owners, so keep it with your records.'
   - question: 'What is an Ohio statutory agent?'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in Ohio, choose a name that is distinguishable from other Ohio businesses, appoint a statutory agent, and file Articles of Organization (Form 533A). Per NerdWallet, the fee is $99. Then adopt an operating agreement and get a free EIN. Unlike most states, Ohio does not require standard LLCs to file an annual report or pay an annual fee, per NerdWallet and Discern, though the Commercial Activity Tax may still apply based on gross receipts.
+**Quick answer:** To start an LLC in Ohio, choose a name that is distinguishable from other Ohio businesses, appoint a statutory agent, and file Articles of Organization (Form 533A). Per NerdWallet, the fee is $99. Then adopt an operating agreement and get a free EIN. Unlike most states, Ohio does not require standard LLCs to file an annual report or pay an annual fee, per NerdWallet, though the Commercial Activity Tax may still apply based on gross receipts.
 
 ![Ohio LLC fees and requirements at a glance](/images/how-to-start-an-llc-in-ohio/grid.webp)
 
@@ -47,9 +47,9 @@ toc:
 
 **1. Check your name.** Per NerdWallet (updated February 2026), the name must be distinguishable from other registered Ohio businesses and end with a term such as "LLC," "L.L.C.," "Ltd." or "Limited Liability Company." "Bank" and "trust" need special state permission. A reservation (Form 534B) costs $39 and lasts up to 180 days.
 
-**2. Pick a statutory agent.** Ohio's term for a registered agent. An individual must be at least 18, an Ohio resident, and available at a physical address during business hours; a company agent needs an Ohio business address. Changing the agent (Form 521) costs $25. Discern notes the agent is free if you serve yourself, and commercial agents typically run $100 to $300 per year.
+**2. Pick a statutory agent.** Ohio's term for a registered agent. An individual must be at least 18, an Ohio resident, and available at a physical address during business hours; a company agent needs an Ohio business address. Changing the agent (Form 521) costs $25. The agent is free if you serve yourself, while commercial agents set their own fees.
 
-**3. File Articles of Organization.** Form 533A costs $99, online or by mail, per Discern. NerdWallet puts processing at three to seven business days. Discern lists expedite add-ons of $100 for two business days; confirm other tiers with the Secretary of State.
+**3. File Articles of Organization.** Form 533A costs $99, online or by mail, per the Ohio Secretary of State fee schedule. NerdWallet puts processing at three to seven business days. Expedite options are available for an extra fee; confirm current tiers with the Secretary of State.
 
 **4. Write an operating agreement.** Ohio does not require one or file it, but NerdWallet calls it essential. See [LLC operating agreements with AI](/blog/llc-operating-agreement-with-ai/).
 
@@ -59,7 +59,7 @@ toc:
 
 ## 3. Ongoing costs: no annual report, but other taxes
 
-Ohio's biggest quirk is what it does not ask for. Per NerdWallet, "Unlike most states, Ohio LLCs are not required to file an annual report or pay an annual fee." Discern adds that there is no franchise tax on LLCs, though professional associations, LLPs, and nonprofits have periodic reporting duties.
+Ohio's biggest quirk is what it does not ask for. Per NerdWallet, "Unlike most states, Ohio LLCs are not required to file an annual report or pay an annual fee." Professional associations, LLPs, and nonprofits may have periodic reporting duties.
 
 That does not mean zero ongoing obligations:
 
@@ -79,17 +79,17 @@ For federal treatment of one-owner LLCs, see [single-member LLC taxes](/blog/sin
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [NerdWallet: Forming an LLC in Ohio](https://www.nerdwallet.com/business/legal/learn/starting-an-llc-in-ohio); [Discern: Ohio LLC filing fees](https://www.discern.com/resources/ohio-llc-filing-fee).
+**Sources:** [NerdWallet: Forming an LLC in Ohio](https://www.nerdwallet.com/business/legal/learn/starting-an-llc-in-ohio); [Ohio Secretary of State: Business Filing Forms & Fee Schedule](https://www.ohiosos.gov/business/business-filing-forms); [Ohio Secretary of State: Start a Limited Liability Company in Ohio](https://www.ohiosos.gov/assets/business-start-a-llc.pdf).
 
 ## FAQ
 
 **How much does it cost to start an LLC in Ohio?**
 
-Per NerdWallet and Discern, the Articles of Organization fee is $99. A statutory agent is free if you serve as your own; commercial agents typically cost $100 to $300 per year, per Discern.
+Per the Ohio Secretary of State and NerdWallet, the Articles of Organization fee is $99. A statutory agent is free if you serve as your own; commercial agents charge their own fees, which vary.
 
 **Does Ohio require an LLC annual report?**
 
-No for standard LLCs. NerdWallet states Ohio LLCs are not required to file an annual report or pay an annual fee. Professional associations, LLPs, and nonprofits have periodic duties, per Discern.
+No for standard LLCs. NerdWallet states Ohio LLCs are not required to file an annual report or pay an annual fee. Professional associations, LLPs, and nonprofits may have periodic duties; check with the Ohio Secretary of State.
 
 **Do I need an operating agreement in Ohio?**
 

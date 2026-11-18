@@ -6,15 +6,15 @@ pubDate: 'Nov 18 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the difference between a void and a voidable contract?'
-    answer: 'A void contract is invalid from the start, for example because its purpose is illegal. A voidable contract is valid until the party with the right to cancel it chooses to do so (PandaDoc; Cornell LII). Examples of voidable contracts include those signed because of fraud, duress or, in many cases, by a minor.'
+    answer: 'A void contract is invalid from the start, for example because its purpose is illegal. A voidable contract is valid until the party with the right to cancel it chooses to do so (Cornell LII). Examples of voidable contracts include those signed because of fraud, duress or, in many cases, by a minor.'
   - question: 'Can I cancel a business contract within three days of signing?'
     answer: 'Generally no. Nolo says there is no general three-day right to cancel; it applies only to specific contracts, such as certain door-to-door or off-premises consumer sales and some state-regulated contracts. Check the contract for its own cancellation or termination rights.'
   - question: 'Can I cancel a contract just because it is a bad deal?'
-    answer: 'No. UpCounsel (November 2026) says not to treat a poor bargain as void, and stopping performance without legal grounds can expose you to a breach claim. Look for a contractual exit right or negotiate a cancellation instead.'
+    answer: 'No. A poor bargain is not a legal ground to treat a contract as void, and stopping performance without legal grounds can expose you to a breach claim. Look for a contractual exit right or negotiate a cancellation instead.'
   - question: 'How long do I have to void a voidable contract?'
-    answer: 'It depends on your state and the ground. PandaDoc says to act promptly after discovering the problem because delay may waive the right, and some jurisdictions impose time limits. UpCounsel tells readers to check current statutes, court rules and contract terms for the applicable period.'
+    answer: 'It depends on your state and the ground. Act promptly after discovering the problem, because delay may waive the right, and some jurisdictions impose time limits. Check current statutes, court rules and contract terms for the applicable period.'
   - question: 'What is ratification of a contract?'
-    answer: 'Ratification means knowingly affirming a voidable contract, expressly or through conduct, which can make it fully valid (PandaDoc; UpCounsel). Continuing to perform or accept benefits after you learn of the problem can raise this issue, so ask an attorney before you keep performing.'
+    answer: 'Ratification means knowingly affirming a voidable contract, expressly or through conduct, which can make it fully valid (see Cornell LII on voidable contracts). Continuing to perform or accept benefits after you learn of the problem can raise this issue, so ask an attorney before you keep performing.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -53,36 +53,36 @@ toc:
 
 These three words get mixed up, and the difference decides what you can do.
 
-- **Void:** invalid from the start. Per UpCounsel (November 2026), typical causes are an unlawful purpose, lack of capacity, lack of consideration, uncertain essential terms, public policy violations or initial impossibility. A void agreement generally cannot support a breach claim.
-- **Voidable:** valid and enforceable until the party with the right to cancel acts. PandaDoc puts it this way: a voidable contract remains valid and enforceable until that party chooses to void it. Cornell Law School's Legal Information Institute describes it as valid unless rejected by a party with a legally protected option, with a minor as the classic example, since state law may let a minor affirm or reject contract promises.
-- **Unenforceable:** a contract that may have been properly formed but cannot be enforced as presented, such as when a required writing is missing (UpCounsel).
+- **Void:** invalid from the start. Typical causes are an unlawful purpose, lack of capacity, lack of consideration, uncertain essential terms, public policy violations or initial impossibility. A void agreement generally cannot support a breach claim.
+- **Voidable:** valid and enforceable until the party with the right to cancel acts. A voidable contract remains valid and enforceable until that party chooses to void it. Cornell Law School's Legal Information Institute describes it as valid unless rejected by a party with a legally protected option, with a minor as the classic example, since state law may let a minor affirm or reject contract promises.
+- **Unenforceable:** a contract that may have been properly formed but cannot be enforced as presented, such as when a required writing is missing.
 
-Two things are not grounds on their own. A bad bargain is not a voidable contract (UpCounsel says not to treat a poor bargain as void). And later events such as breach, termination or discharge do not necessarily make the agreement void either. If you want to end a valid contract because the other side broke it, see [how to terminate a contract early](/blog/how-to-terminate-a-contract-early-termination-clause/) and [breach of contract remedies](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/).
+Two things are not grounds on their own. A bad bargain is not a voidable contract (do not treat a poor bargain as void). And later events such as breach, termination or discharge do not necessarily make the agreement void either. If you want to end a valid contract because the other side broke it, see [how to terminate a contract early](/blog/how-to-terminate-a-contract-early-termination-clause/) and [breach of contract remedies](/blog/breach-of-contract-remedies-what-you-can-recover-small-business/).
 
 Whether the contract was formed properly in the first place is a separate question; see [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/).
 
 ## 3. Grounds that can make a contract voidable or void
 
-The list below follows the grounds named in the UpCounsel and PandaDoc guides. Each has legal requirements that vary by state, so a label alone does not win a case.
+The list below covers the grounds commonly recognized. Each has legal requirements that vary by state, so a label alone does not win a case.
 
-- **Misrepresentation or fraud.** A material false statement that induced you to sign may make the agreement voidable if the legal requirements are met (UpCounsel). Keep the emails, decks and messages where the statement was made.
+- **Misrepresentation or fraud.** A material false statement that induced you to sign may make the agreement voidable if the legal requirements are met. Keep the emails, decks and messages where the statement was made.
 - **Duress or coercion.** You signed because of an improper threat. Evidence of timing and communications matters.
 - **Undue influence.** Pressure that overcomes free choice, often in relationships of trust.
-- **Incapacity.** Age, mental competence, intoxication or lack of authority to sign for a company. In many US situations a minor's agreement is voidable rather than automatically void (UpCounsel). For a business, confirm the signer actually had authority.
-- **Mistake.** PandaDoc lists mutual mistake and UpCounsel lists fundamental mistake. Details vary, and ordinary carelessness (misreading a price) is rarely enough.
-- **Unconscionable terms.** PandaDoc lists these as a ground; courts generally use this sparingly.
-- **Illegality.** An agreement to do something unlawful may be both illegal and void (UpCounsel).
+- **Incapacity.** Age, mental competence, intoxication or lack of authority to sign for a company. In many US situations a minor's agreement is voidable rather than automatically void (see Cornell LII). For a business, confirm the signer actually had authority.
+- **Mistake.** Mutual or fundamental mistake can count. Details vary, and ordinary carelessness (misreading a price) is rarely enough.
+- **Unconscionable terms.** Courts generally use this ground sparingly.
+- **Illegality.** An agreement to do something unlawful may be both illegal and void.
 
-Also look at the formalities: a required signature or writing, and valid e-signatures. See [electronic signatures under the ESIGN Act](/blog/electronic-signatures-esign-act-contracts/). If part of the contract is invalid, a severability clause and your jurisdiction decide whether the rest survives (UpCounsel).
+Also look at the formalities: a required signature or writing, and valid e-signatures. See [electronic signatures under the ESIGN Act](/blog/electronic-signatures-esign-act-contracts/). If part of the contract is invalid, a severability clause and your jurisdiction decide whether the rest survives.
 
 ## 4. Limits: ratification, delay and cooling-off rights
 
 The right to cancel a voidable contract is not permanent.
 
-- **Ratification.** PandaDoc says a voidable contract can become fully valid if the party who could void it knowingly affirms it, expressly or by conduct. UpCounsel says conduct that affirms the agreement may prevent you from avoiding it. Practical example: discovering a misstatement, then continuing to accept deliveries and pay without objection.
-- **Delay.** PandaDoc advises acting promptly after you discover the issue, noting delay may waive the right to void and some jurisdictions set time limits. UpCounsel also says to check current statutes, court rules and contract terms for time limits. See [statute of limitations for breach of contract by state](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/) for the related deadline for lawsuits.
-- **Void contracts cannot be revived.** Later approval or partial performance generally does not make a void agreement valid; the parties can instead sign a new lawful contract (UpCounsel).
-- **Money already exchanged.** Restitution aims to prevent unjust enrichment, not to give you expected profits (UpCounsel).
+- **Ratification.** A voidable contract can become fully valid if the party who could void it knowingly affirms it, expressly or by conduct, so conduct that affirms the agreement may prevent you from avoiding it. Practical example: discovering a misstatement, then continuing to accept deliveries and pay without objection.
+- **Delay.** Act promptly after you discover the issue, because delay may waive the right to void and some jurisdictions set time limits. Check current statutes, court rules and contract terms for time limits. See [statute of limitations for breach of contract by state](/blog/statute-of-limitations-breach-of-contract-by-state-small-business/) for the related deadline for lawsuits.
+- **Void contracts cannot be revived.** Later approval or partial performance generally does not make a void agreement valid; the parties can instead sign a new lawful contract.
+- **Money already exchanged.** Restitution aims to prevent unjust enrichment, not to give you expected profits.
 
 **No general three-day right to cancel.** Nolo says there is no general right to cancel all contracts within three days; it applies only to certain contracts under specific laws, such as certain door-to-door and off-premises sales and some state-regulated contracts, and generally not to online, mail or phone sales. The FTC Cooling-Off Rule (16 CFR Part 429) requires sellers to tell buyers they can cancel within three business days for covered door-to-door sales. These rules are mostly consumer rules, so a business-to-business agreement usually will not have one unless the contract or another law provides it.
 
@@ -90,7 +90,7 @@ Check the contract itself for a better path: termination for convenience, a cure
 
 ## 5. Steps to take before you try to cancel
 
-UpCounsel's checklist (November 2026) boils down to a sensible order of operations:
+A sensible order of operations:
 
 ![Five steps before cancelling a contract](/images/how-to-void-or-cancel-a-contract-grounds-and-limits/steps.webp)
 
@@ -122,13 +122,13 @@ Not sure how to pick? See [how to choose a good lawyer](/blog/how-to-choose-good
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UpCounsel, How to Void a Contract (November 11, 2026)](https://upcounsel.com/how-to-void-a-contract); [PandaDoc, Voidable Contract](https://pandadoc.com/blog/voidable-contract); [Cornell LII, Voidable](https://www.law.cornell.edu/wex/voidable); [Nolo, Can I Cancel a Contract Within Three Days of Signing It?](https://www.nolo.com/legal-encyclopedia/question-cancel-contract-three-days-28073.html); [FTC, Cooling-Off Rule, 16 CFR Part 429](https://www.ftc.gov/legal-library/browse/rules/cooling-period-sales-made-home-or-other-locations).
+**Sources:** [Cornell LII, Voidable](https://www.law.cornell.edu/wex/voidable); [Nolo, Can I Cancel a Contract Within Three Days of Signing It?](https://www.nolo.com/legal-encyclopedia/question-cancel-contract-three-days-28073.html); [FTC, Cooling-Off Rule, 16 CFR Part 429](https://www.ftc.gov/legal-library/browse/rules/cooling-period-sales-made-home-or-other-locations).
 
 ## FAQ
 
 **What is the difference between a void and a voidable contract?**
 
-A void contract is invalid from the start, for example because its purpose is illegal. A voidable contract is valid until the party with the right to cancel it chooses to do so (PandaDoc; Cornell LII). Examples of voidable contracts include those signed because of fraud, duress or, in many cases, by a minor.
+A void contract is invalid from the start, for example because its purpose is illegal. A voidable contract is valid until the party with the right to cancel it chooses to do so (Cornell LII). Examples of voidable contracts include those signed because of fraud, duress or, in many cases, by a minor.
 
 **Can I cancel a business contract within three days of signing?**
 
@@ -136,15 +136,15 @@ Generally no. Nolo says there is no general three-day right to cancel; it applie
 
 **Can I cancel a contract just because it is a bad deal?**
 
-No. UpCounsel (November 2026) says not to treat a poor bargain as void, and stopping performance without legal grounds can expose you to a breach claim. Look for a contractual exit right or negotiate a cancellation instead.
+No. A poor bargain is not a legal ground to treat a contract as void, and stopping performance without legal grounds can expose you to a breach claim. Look for a contractual exit right or negotiate a cancellation instead.
 
 **How long do I have to void a voidable contract?**
 
-It depends on your state and the ground. PandaDoc says to act promptly after discovering the problem because delay may waive the right, and some jurisdictions impose time limits. UpCounsel tells readers to check current statutes, court rules and contract terms for the applicable period.
+It depends on your state and the ground. Act promptly after discovering the problem, because delay may waive the right, and some jurisdictions impose time limits. Check current statutes, court rules and contract terms for the applicable period.
 
 **What is ratification of a contract?**
 
-Ratification means knowingly affirming a voidable contract, expressly or through conduct, which can make it fully valid (PandaDoc; UpCounsel). Continuing to perform or accept benefits after you learn of the problem can raise this issue, so ask an attorney before you keep performing.
+Ratification means knowingly affirming a voidable contract, expressly or through conduct, which can make it fully valid (see Cornell LII on voidable contracts). Continuing to perform or accept benefits after you learn of the problem can raise this issue, so ask an attorney before you keep performing.
 
 ---
 

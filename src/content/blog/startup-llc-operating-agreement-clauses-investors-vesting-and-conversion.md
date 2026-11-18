@@ -6,13 +6,13 @@ pubDate: 'Nov 17 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What clauses should a startup LLC operating agreement include before raising money?'
-    answer: 'Include member vesting with repurchase rights, transfer restrictions, drag-along and tag-along, management structure, a major decisions list, profits interest terms and a conversion path. Per Traverse Legal (2025), investors expect clean records and mapped equity.'
+    answer: 'Include member vesting with repurchase rights, transfer restrictions, drag-along and tag-along, management structure, a major decisions list, profits interest terms and a conversion path.'
   - question: 'Do investors invest in LLCs?'
-    answer: 'Generally not. Wilson Sonsini says an LLC is probably not the right type of entity for a startup expecting outside money, and Traverse Legal (2025) says institutional investors generally will not invest in LLCs because of pass-through taxation.'
+    answer: 'Generally not. Wilson Sonsini says an LLC is probably not the right type of entity for a startup expecting outside money, and many venture investors avoid LLCs because of the tax complexity of pass-through taxation.'
   - question: 'What is a profits interest in an LLC?'
     answer: 'Per RSM (2024), it is an ownership interest issued for services with no right to cash if the company liquidated on the grant date. It shares only in value above a threshold set at grant, and tax advisors should confirm the 83(b) and safe harbor steps.'
   - question: 'When should I convert my LLC to a C corp?'
-    answer: 'Traverse Legal says before any term sheet is signed. SPZ Legal says a statutory conversion can transfer assets by operation of law, but contracts may need consent and tax issues such as debt apply, so get tax advice first.'
+    answer: 'Ideally before investors are negotiating a term sheet, so the conversion does not complicate closing. Contracts with assignment or change-of-control clauses may need consent and tax issues can arise, so get tax advice first.'
   - question: 'Is a drag-along clause needed in a two-founder LLC?'
     answer: 'Not always. Thomson Reuters says drag-alongs are usually absent in 50/50 joint ventures. If ownership is split evenly, plan for deadlock instead, and add a drag-along if one founder will hold a majority.'
 toc:
@@ -45,7 +45,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** If your startup LLC may raise money, your operating agreement should cover member vesting with a repurchase right, transfer limits (consent and a right of first refusal), drag-along and tag-along, who manages the company, how equity for employees works (profits interests), and a clean path to convert to a C corporation. Wilson Sonsini says an LLC is generally a poor fit for startups expecting venture capital, and Traverse Legal (September 2025) says institutional investors generally will not invest in LLCs. So treat these clauses as either a bridge to a conversion or a reason to start as a C corp.
+**Quick answer:** If your startup LLC may raise money, your operating agreement should cover member vesting with a repurchase right, transfer limits (consent and a right of first refusal), drag-along and tag-along, who manages the company, how equity for employees works (profits interests), and a clean path to convert to a C corporation. Wilson Sonsini says an LLC is generally a poor fit for startups expecting venture capital, and that most investors do not want the added tax complexity. So treat these clauses as either a bridge to a conversion or a reason to start as a C corp.
 
 This guide is about the clauses, not the basics. For a general overview of using AI on the agreement, see [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/); for the entity choice itself, see [LLC vs C corp for startups](/blog/llc-vs-c-corp-startups/).
 
@@ -65,11 +65,11 @@ Acceleration is the follow-up question. Mintz describes single-trigger (vests on
 
 **Drag-along and tag-along.** Kilpatrick Townsend describes drag-along as a right of members holding a set percentage, usually a majority, to require the others to sell in a sale of the company, structured as an equity sale, asset sale or merger. Tag-along is the reciprocal protection: if the majority sells, minority members can join on the same terms. Thomson Reuters notes drag-alongs are usually not included in 50/50 joint ventures, so an evenly split startup should think about deadlock; see [co-founder agreement 50/50 deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/).
 
-**Manager-managed vs member-managed.** In a member-managed LLC the owners run the business directly. Per Rho, founders should decide between member-managed and manager-managed and define how day-to-day decisions differ from major changes. In a manager-managed LLC, Kilpatrick Townsend says managers handle operations while members usually vote only on major decisions and on electing, removing and replacing managers, often by written consent. Rho also notes default rules vary: in California, ordinary matters pass by majority and actions outside the ordinary course need unanimous consent unless the agreement says otherwise.
+**Manager-managed vs member-managed.** In a member-managed LLC the owners run the business directly. Founders should decide between member-managed and manager-managed and define how day-to-day decisions differ from major changes. In a manager-managed LLC, Kilpatrick Townsend says managers handle operations while members usually vote only on major decisions and on electing, removing and replacing managers, often by written consent. Default rules vary by state, so state the decision rules in the agreement rather than relying on defaults.
 
 **Major decisions.** Kilpatrick Townsend lists items that typically need member consent, including equity issuances, redemptions and capital calls.
 
-**Also include:** capital contributions and how new members are admitted (Rho), a buy-sell trigger for death, incapacity and unresolved deadlock (Thomson Reuters), and a dispute-resolution process. For adding someone later, see [how to add a member to an LLC](/blog/how-to-add-a-member-to-an-llc/).
+**Also include:** capital contributions and how new members are admitted, a buy-sell trigger for death, incapacity and unresolved deadlock (Thomson Reuters), and a dispute-resolution process. For adding someone later, see [how to add a member to an LLC](/blog/how-to-add-a-member-to-an-llc/).
 
 ## 4. Profits interests: equity for employees in an LLC
 
@@ -88,23 +88,23 @@ The takeaway for a fundraising LLC: profits interests work, but they add complex
 
 ## 5. Conversion to a C corp and what investors check
 
-**Why convert.** Wilson Sonsini says many VC firms cannot invest in LLCs because their tax-exempt limited partners cannot receive active business income without risking that exemption, and that most investors do not want the added tax complexity. Traverse Legal (September 2025) says conversion should happen before any term sheet is signed, because a late conversion can make investors back away if it interferes with closing or raises tax concerns. See [convert an LLC to a C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/).
+**Why convert.** Wilson Sonsini says many VC firms cannot invest in LLCs because their tax-exempt limited partners cannot receive active business income without risking that exemption, and that most investors do not want the added tax complexity. Converting late can complicate closing, so many founders convert before fundraising. See [convert an LLC to a C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/).
 
-**How it is done.** SPZ Legal (undated) describes a statutory conversion: the LLC adopts a plan of conversion setting how membership interests become shares, files a statement of conversion in its home state and in Delaware, and files a Delaware certificate of incorporation. It says assets and obligations transfer by operation of law, though contracts with assignment or change-of-control clauses may still need consent. Traverse Legal says a conversion can be handled via a tax-free reorganization under IRC section 351.
+**How it is done.** Conversions are typically handled by statutory conversion or another reorganization under state law, with a plan that sets how membership interests become shares. The details and tax treatment depend on the states involved and your facts, so have counsel and a tax adviser structure it.
 
 **Clauses that make conversion easier:**
 
-- A mapping of units and percentages to stock classes (Traverse Legal).
+- A mapping of units and percentages to stock classes.
 - A clear approval mechanism for conversion. We did not find a source on the vote needed, so check your agreement and state statute.
-- Governance terms such as special allocations or management rights that will not carry into bylaws; Traverse Legal says these can conflict with a board.
+- Governance terms such as special allocations or management rights that will not carry into bylaws and may conflict with a board.
 
-**Tax cautions.** SPZ Legal warns that debt can create tax issues, non-US members may face home-country tax treatment, and QSBS holding periods start when the corporation issues stock, not during the LLC period. Traverse Legal notes the five-year holding for full exclusion. See [QSBS Section 1202 explained](/blog/qsbs-section-1202-explained-startup-founders/).
+**Tax cautions.** Debt can create tax issues and non-US members may face home-country tax treatment, so get tax advice before converting. For QSBS, the holding period generally starts when the corporation issues stock, not during the LLC period. See [QSBS Section 1202 explained](/blog/qsbs-section-1202-explained-startup-founders/).
 
 **What investors check.** No source we found provides an official checklist, but together these sources imply that investors look for:
 
 - A Delaware C corp with a clean cap table.
 - Signed vesting and repurchase terms for founders (Mintz).
-- Properly documented SAFEs or notes (SPZ Legal says those issued into an LLC often are not). See [SAFE agreement for startup founders](/blog/safe-agreement-startup-founders/).
+- Properly documented SAFEs or notes. See [SAFE agreement for startup founders](/blog/safe-agreement-startup-founders/).
 - Clear ownership and records, which also supports [due diligence for startup fundraising](/blog/due-diligence-checklist-for-startup-fundraising/).
 
 If you already know you are raising, [how to incorporate a SaaS or AI startup as a Delaware C corp](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/) may save the conversion step.
@@ -126,17 +126,17 @@ Next steps: [founder stock purchase agreements](/blog/issue-founder-stock-purcha
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Wilson Sonsini, Is an LLC an appropriate structure for my company?](https://ecvc.wsgr.com/faq/formation/how-to-start/i-know-that-many-businesses-are-structured-as-limited-liability-companies-llcs-is-an-llc-an-appropriate-structure-for-my-company); [Traverse Legal, LLC to C-Corp Conversion (Sept. 4, 2025)](https://www.traverselegal.com/blog/llc-to-c-corp-conversion-founder-control/); [SPZ Legal, Converting an LLC to a Corporation (undated)](https://spzlegal.com/blog/converting-llc-to-corporation-startup-guide); [Kilpatrick Townsend, 8 Key Takeaways: Navigating Operating Agreements (July 8, 2025)](https://ktslaw.com/insights/perspectives/2025/7/8-key-takeaways-navigating-operating-agreements); [Thomson Reuters, Transfer Provisions in LLC Agreements (Jan. 2026)](https://legal.thomsonreuters.com/en/insights/articles/transfer-provisions-in-llc-agreements); [Mintz, Stock Vesting for Startup Companies (Mar. 15, 2022)](https://mintz.com/insights-center/viewpoints/2022-03-15-stock-vesting-startup-companies); [RSM, FAQs about profits interests (Apr. 2, 2024)](https://www.rsmus.com/insights/services/business-tax/frequently-asked-questions-about-profits-interests); [Fox Rothschild, Equity Compensation in LLC Startups (June 20, 2024)](https://www.foxrothschild.com/publications/equity-compensation-in-llc-startups-a-guide-to-profits-interests); [Carta, Equity blueprint for PIU conversion (May 9, 2023)](https://carta.com/blog/equity-blueprint-piu-conversion-heilbut/); [Rho, Operating agreement](https://www.rho.co/blog/operating-agreement).
+**Sources:** [Wilson Sonsini, Is an LLC an appropriate structure for my company?](https://ecvc.wsgr.com/faq/formation/how-to-start/i-know-that-many-businesses-are-structured-as-limited-liability-companies-llcs-is-an-llc-an-appropriate-structure-for-my-company); [Kilpatrick Townsend, 8 Key Takeaways: Navigating Operating Agreements (July 8, 2025)](https://ktslaw.com/insights/perspectives/2025/7/8-key-takeaways-navigating-operating-agreements); [Thomson Reuters, Transfer Provisions in LLC Agreements (Jan. 2026)](https://legal.thomsonreuters.com/en/insights/articles/transfer-provisions-in-llc-agreements); [Mintz, Stock Vesting for Startup Companies (Mar. 15, 2022)](https://mintz.com/insights-center/viewpoints/2022-03-15-stock-vesting-startup-companies); [RSM, FAQs about profits interests (Apr. 2, 2024)](https://www.rsmus.com/insights/services/business-tax/frequently-asked-questions-about-profits-interests); [Fox Rothschild, Equity Compensation in LLC Startups (June 20, 2024)](https://www.foxrothschild.com/publications/equity-compensation-in-llc-startups-a-guide-to-profits-interests); [Carta, Equity blueprint for PIU conversion (May 9, 2023)](https://carta.com/blog/equity-blueprint-piu-conversion-heilbut/).
 
 ## FAQ
 
 **What clauses should a startup LLC operating agreement include before raising money?**
 
-Include member vesting with repurchase rights, transfer restrictions, drag-along and tag-along, management structure, a major decisions list, profits interest terms and a conversion path. Per Traverse Legal (2025), investors expect clean records and mapped equity.
+Include member vesting with repurchase rights, transfer restrictions, drag-along and tag-along, management structure, a major decisions list, profits interest terms and a conversion path.
 
 **Do investors invest in LLCs?**
 
-Generally not. Wilson Sonsini says an LLC is probably not the right type of entity for a startup expecting outside money, and Traverse Legal (2025) says institutional investors generally will not invest in LLCs because of pass-through taxation.
+Generally not. Wilson Sonsini says an LLC is probably not the right type of entity for a startup expecting outside money, and many venture investors avoid LLCs because of the tax complexity of pass-through taxation.
 
 **What is a profits interest in an LLC?**
 
@@ -144,7 +144,7 @@ Per RSM (2024), it is an ownership interest issued for services with no right to
 
 **When should I convert my LLC to a C corp?**
 
-Traverse Legal says before any term sheet is signed. SPZ Legal says a statutory conversion can transfer assets by operation of law, but contracts may need consent and tax issues such as debt apply, so get tax advice first.
+Ideally before investors are negotiating a term sheet, so the conversion does not complicate closing. Contracts with assignment or change-of-control clauses may need consent and tax issues can arise, so get tax advice first.
 
 **Is a drag-along clause needed in a two-founder LLC?**
 

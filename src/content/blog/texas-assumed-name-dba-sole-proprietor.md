@@ -8,11 +8,11 @@ faq:
   - question: 'What is a DBA in Texas?'
     answer: 'An assumed name certificate for doing business under a name other than your legal name.'
   - question: 'Where does a sole proprietor file?'
-    answer: 'With the county clerk in the county where the business premise is maintained, per Zenind.'
+    answer: 'With the county clerk, per the Jefferson County Clerk. Confirm with your own county clerk which county to file in.'
   - question: 'How much is the Texas assumed name certificate?'
     answer: 'The Secretary of State''s fee schedule lists $25 for Form 503; county fees vary.'
   - question: 'How long does it last?'
-    answer: 'Up to 10 years from the filing date, per Zenind.'
+    answer: 'Up to 10 years from the filing date, per the Texas Secretary of State Form 503 instructions.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -34,18 +34,18 @@ toc:
 
 - Sole proprietors and general partnerships file with the county clerk.
 - LLCs and corporations generally file Form 503 with the Secretary of State, listed at $25.
-- A filing can be effective for up to 10 years, per Zenind.
-- Confirm whether you need both a state and a county filing.
+- A filing can be effective for up to 10 years, per the Texas Secretary of State.
+- Confirm with your county clerk where and how to file, and what the county fee is.
 
 ## 1. The quick answer
 
-**Quick answer:** In Texas a DBA is an **assumed name certificate**. According to a Zenind guide, sole proprietors and general partnerships file with the county clerk in the county where the business premise is maintained, while LLCs, corporations, and similar entities generally file with the Texas Secretary of State on **Form 503**, and some must also file with the county clerk. The Secretary of State's fee schedule lists the assumed name certificate at **$25**, and a filing can be effective for up to 10 years.
+**Quick answer:** In Texas a DBA is an **assumed name certificate**. Per [Jefferson County Clerk, Assumed Names](https://jeffersoncountytx.gov/cclerk/Recording/Assumed-Names), sole proprietors and general partnerships file with the county clerk (confirm which county with your clerk), while, per the [Texas SOS, Form 503 instructions](https://www.sos.state.tx.us/corp/forms/instructions/503-boc-instructions.pdf), LLCs, corporations, and similar entities file with the Texas Secretary of State on **Form 503** (the county-level requirement for those entities ended September 1, 2019). The Secretary of State's fee schedule lists the assumed name certificate at **$25**, and a filing can be effective for up to 10 years.
 
 ![Texas assumed name: sole proprietors file with the county clerk; LLCs and corporations file Form 503 with the Secretary of State](/images/texas-assumed-name-dba-sole-proprietor/who.webp)
 
 ## 2. Fees and duration
 
-The Texas Secretary of State fee schedule lists the assumed name certificate (Form 503) at $25. County fees vary by county. A filing can be effective for up to 10 years from the filing date, per Zenind. If you still use the name, renew before it expires; if you stop using the name, file an abandonment or cancellation.
+The Texas Secretary of State fee schedule lists the assumed name certificate (Form 503) at $25. County fees vary by county. A filing can be effective for up to 10 years from the filing date, per the Secretary of State's Form 503 instructions. If you still use the name, renew before it expires; if you stop using the name, file an abandonment or cancellation.
 
 ![Texas assumed name fees and duration](/images/texas-assumed-name-dba-sole-proprietor/facts.webp)
 
@@ -65,7 +65,7 @@ A DBA lets you operate under a name; it does not by itself give you ownership of
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Texas SOS fee schedule](https://direct.sos.state.tx.us/help/help-corp.asp?pg=fee); [Zenind: Texas assumed name](https://www.zenind.com/help/post/how-to-get-a-dba-name-in-texas-filing-an-assumed-name-certificate).
+**Sources:** [Texas SOS fee schedule](https://direct.sos.state.tx.us/help/help-corp.asp?pg=fee); [Texas SOS, Form 503 instructions](https://www.sos.state.tx.us/corp/forms/instructions/503-boc-instructions.pdf); [Jefferson County Clerk, Assumed Names](https://jeffersoncountytx.gov/cclerk/Recording/Assumed-Names).
 
 ## FAQ
 
@@ -75,7 +75,7 @@ An assumed name certificate for doing business under a name other than your lega
 
 **Where does a sole proprietor file?**
 
-With the county clerk in the county where the business premise is maintained, per Zenind.
+With the county clerk, per the Jefferson County Clerk. Confirm with your own county clerk which county to file in.
 
 **How much is the Texas assumed name certificate?**
 
@@ -83,7 +83,7 @@ The Secretary of State's fee schedule lists $25 for Form 503; county fees vary.
 
 **How long does it last?**
 
-Up to 10 years from the filing date, per Zenind.
+Up to 10 years from the filing date, per the Texas Secretary of State Form 503 instructions.
 
 ---
 

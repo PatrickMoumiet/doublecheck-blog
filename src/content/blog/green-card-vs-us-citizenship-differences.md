@@ -6,13 +6,13 @@ pubDate: 'Nov 5 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can a green card holder vote in U.S. elections?'
-    answer: 'No. RJ Immigration Law and Immigration Direct both say only U.S. citizens can vote in federal elections.'
+    answer: 'No. Voting in federal elections is generally limited to U.S. citizens, and green card holders cannot vote in them.'
   - question: 'Can a green card holder be deported?'
-    answer: 'Yes. Immigration Direct says permanent residents can lose status for certain crimes, immigration violations, or long periods abroad, while citizens generally cannot be deported unless citizenship was obtained by fraud or revoked.'
+    answer: 'Yes. Permanent residents can lose status for certain crimes, immigration violations, or long periods abroad, while citizens generally cannot be deported unless citizenship was obtained by fraud or revoked. Ask an attorney about your own history.'
   - question: 'Do I have to give up my other citizenship to naturalize?'
-    answer: 'Immigration Direct says the U.S. generally allows dual citizenship, but some home countries limit or prohibit it, so check your home country''s rules first.'
+    answer: 'The U.S. generally does not require you to give up another citizenship, but some home countries limit or prohibit dual citizenship, so check your home country''s rules first.'
   - question: 'How long before I can apply for citizenship?'
-    answer: 'Generally five years as a green card holder, or three if married to and living with a U.S. citizen, per the USCIS Policy Manual as summarized in our N-400 guide.'
+    answer: 'Generally five years as a green card holder per the USCIS Policy Manual, or three if married to and living with a U.S. citizen, as covered in our N-400 guide.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** A green card gives you permanent residence: you can live and work in the U.S. indefinitely, but you keep your home-country passport, cannot vote in federal elections, and can lose status for certain crimes, immigration violations, or long periods abroad. U.S. citizenship adds the right to vote, a U.S. passport, protection from deportation (barring fraud in obtaining citizenship), and the ability to sponsor a wider range of relatives, with the added duty of jury service when called. Most green card holders become eligible to naturalize after five years, or three if married to a U.S. citizen, per the USCIS Policy Manual.
+**Quick answer:** A green card gives you permanent residence: you can live and work in the U.S. indefinitely, but you keep your home-country passport, cannot vote in federal elections, and can lose status for certain crimes, immigration violations, or long periods abroad. U.S. citizenship adds the right to vote, a U.S. passport, protection from deportation (barring fraud in obtaining citizenship), and the ability to sponsor a wider range of relatives, with the added duty of jury service when called. Most green card holders become eligible to naturalize after five years as a permanent resident per the USCIS Policy Manual, or three if married to a U.S. citizen (see our N-400 guide).
 
 ![Six key differences between a green card and U.S. citizenship](/images/green-card-vs-us-citizenship-differences/grid.webp)
 
@@ -47,29 +47,29 @@ toc:
 
 ![Green card holder, naturalization, and U.S. citizen compared](/images/green-card-vs-us-citizenship-differences/cols.webp)
 
-RJ Immigration Law and Immigration Direct agree on the main points:
+The main differences, in general terms:
 
 - **Voting:** only citizens can vote in federal elections; green card holders cannot.
 - **Passport:** citizens can get a U.S. passport; green card holders travel on their home-country passport.
 - **Deportation:** green card holders can lose status for certain crimes, immigration violations, or long periods abroad. Citizens generally cannot be deported unless citizenship was obtained by fraud or is revoked (denaturalization).
 - **Sponsoring relatives:** citizens can sponsor spouses, children, parents, married sons and daughters, and siblings, and some immediate relatives are not subject to annual visa limits. Green card holders can sponsor a spouse and unmarried children, often with longer waits.
-- **Travel:** RJ Immigration Law says green card holders need a re-entry permit for trips over one year; citizens re-enter without that risk.
+- **Travel:** long trips abroad can put a green card holder's status at risk, while citizens do not face that risk. Ask an attorney before a long absence.
 
 If your spouse or parent is waiting on a green card, see the [marriage-based green card timeline](/blog/marriage-based-green-card-process-timeline/) for how immediate-relative cases work.
 
 ## 3. Obligations that come with each status
 
-Immigration Direct lists the following:
+Obligations to be aware of:
 
 - **Taxes:** green card holders are generally required to file U.S. taxes. Citizens are taxed on worldwide income, and treaties, exclusions, and credits may reduce double taxation. For founders with income abroad, read our guide to [foreign founder U.S. taxes and the substantial presence test](/blog/foreign-founder-us-taxes-substantial-presence-test/).
-- **Selective Service:** men aged 18 to 25, including many immigrants, must register. Failure to register may affect federal student aid, certain federal jobs, and some immigration benefits.
+- **Selective Service:** men aged 18 to 25, including many immigrants, must register. Failure to register can have consequences, so ask an attorney if this applies to you.
 - **Jury duty:** citizens may be called and generally must respond; exemptions or postponements may apply.
-- **Residence:** green card holders must keep meeting residency requirements, and long trips abroad can raise abandonment concerns. The card itself must be renewed every ten years (per RJ Immigration Law).
-- **Dual citizenship:** Immigration Direct says the U.S. generally allows it, but some home countries limit or prohibit it. Check your country's rules before naturalizing.
+- **Residence:** green card holders must keep meeting residency requirements, and long trips abroad can raise abandonment concerns.
+- **Dual citizenship:** the U.S. generally does not require you to give up another citizenship, but some home countries limit or prohibit it. Check your country's rules before naturalizing.
 
 ## 4. When to naturalize
 
-Our [N-400 guide](/blog/n-400-naturalization-eligibility-requirements/) covers the rules in detail. In short, the USCIS Policy Manual (as summarized there) generally requires being 18 or older, five years as a green card holder (three if married to and living with a U.S. citizen), continuous residence, at least 30 months of physical presence in the five years, good moral character, and passing English and civics tests. An absence of more than six months but under a year is presumed to break continuous residence.
+Our [N-400 guide](/blog/n-400-naturalization-eligibility-requirements/) covers the rules in detail. In short, the [USCIS Policy Manual](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1) generally requires being 18 or older, five years as a green card holder (our guide covers the three-year route for spouses of citizens), continuous residence, at least 30 months of physical presence in the five years, good moral character, and passing English and civics tests. An absence of more than six months but under a year is presumed to break continuous residence.
 
 Reasons people apply as soon as they are eligible: voting, a U.S. passport, and no longer worrying about status after trips abroad. Reasons to pause: your home country does not allow dual citizenship, you have taken long trips that may have broken continuous residence, or there are criminal or tax issues that should be reviewed first.
 
@@ -79,25 +79,25 @@ Tech employees who got their green card through an employer should also read the
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [RJ Immigration Law: green cards and U.S. citizenship](https://rjimmigrationlaw.com/resources/understanding-u-s-green-cards-and-u-s-citizenship/); [Immigration Direct: benefits and responsibilities of U.S. citizenship in 2026](https://www.immigrationdirect.com/?p=6618); [USCIS Policy Manual Vol. 12, Part D](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1).
+**Sources:** [USCIS Policy Manual Vol. 12, Part D](https://www.uscis.gov/policy-manual/volume-12-part-d-chapter-1). Other points in this article are general information; confirm them on uscis.gov or with an attorney.
 
 ## FAQ
 
 **Can a green card holder vote in U.S. elections?**
 
-No. RJ Immigration Law and Immigration Direct both say only U.S. citizens can vote in federal elections.
+No. Voting in federal elections is generally limited to U.S. citizens, and green card holders cannot vote in them.
 
 **Can a green card holder be deported?**
 
-Yes. Immigration Direct says permanent residents can lose status for certain crimes, immigration violations, or long periods abroad, while citizens generally cannot be deported unless citizenship was obtained by fraud or revoked.
+Yes. Permanent residents can lose status for certain crimes, immigration violations, or long periods abroad, while citizens generally cannot be deported unless citizenship was obtained by fraud or revoked. Ask an attorney about your own history.
 
 **Do I have to give up my other citizenship to naturalize?**
 
-Immigration Direct says the U.S. generally allows dual citizenship, but some home countries limit or prohibit it, so check your home country's rules first.
+The U.S. generally does not require you to give up another citizenship, but some home countries limit or prohibit dual citizenship, so check your home country's rules first.
 
 **How long before I can apply for citizenship?**
 
-Generally five years as a green card holder, or three if married to and living with a U.S. citizen, per the USCIS Policy Manual as summarized in our N-400 guide.
+Generally five years as a green card holder per the USCIS Policy Manual, or three if married to and living with a U.S. citizen, as covered in our N-400 guide.
 
 ---
 

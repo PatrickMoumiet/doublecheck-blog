@@ -8,11 +8,11 @@ faq:
   - question: 'Can an LLC hold a contractor license in California?'
     answer: 'Yes. The CSLB says a licensee can be an individual, partnership, corporation, LLC, or joint venture.'
   - question: 'What bonds does a California contractor LLC need?'
-    answer: 'The CSLB requires a $25,000 contractor bond, and ServiceMag says LLCs also need a $100,000 employee/worker bond.'
+    answer: 'The CSLB requires a $25,000 contractor bond, and the CSLB says an LLC license also requires a $100,000 employee/worker bond.'
   - question: 'Do I need a license for small jobs?'
     answer: 'In California the threshold is $1,000 since 2025, with limits on laborers and permits. Other states differ.'
   - question: 'Does an LLC replace insurance?'
-    answer: 'No. JMG lists general liability and workers'' comp as core coverages, and contractor rules vary by state.'
+    answer: 'No. The SBA lists general liability and workers'' comp among common business coverages, and contractor rules vary by state.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -33,23 +33,23 @@ toc:
 **Key takeaways:**
 
 - California's contractor license threshold is $1,000 since January 1, 2025, per the CSLB.
-- The CSLB requires a $25,000 contractor bond; LLC contractors also need a $100,000 worker bond per ServiceMag.
+- The CSLB requires a $25,000 contractor bond; LLC contractors also need a $100,000 worker bond per the CSLB.
 - Contractors with employees must show workers' comp; those without file an exemption.
 - Rules vary a lot by state; check your state licensing board.
 
 ## 1. The quick answer
 
-**Quick answer:** Contractors often form an LLC for liability protection, but the license comes first. In California, the CSLB says an LLC can hold a contractor license, the qualifying individual needs four years of journey-level or higher experience in the last ten, and a $25,000 contractor bond is required before licensure. LLC contractors also need a $100,000 LLC employee/worker bond, per ServiceMag. Other states differ widely.
+**Quick answer:** Contractors often form an LLC for liability protection, but the license comes first. In California, the CSLB says an LLC can hold a contractor license, the qualifying individual needs four years of journey-level or higher experience in the last ten, and a $25,000 contractor bond is required before licensure. LLC contractors also need a $100,000 LLC employee/worker bond, per the CSLB. Other states differ widely.
 
 ![California contractor license LLC requirements](/images/contractor-construction-business-llc/cal.webp)
 
 ## 2. The California license rules
 
-The CSLB says the license threshold rose from $500 to $1,000 under AB 2622, effective January 1, 2025, and unlicensed work up to $1,000 is allowed only if no laborers are hired and no building permit is required. A licensee can be an individual, partnership, corporation, LLC, or joint venture. ServiceMag notes the $25,000 license bond protects consumers, not the contractor, who must reimburse the surety, and that premiums commonly start around $100 to $165 a year for qualified contractors. Older CSLB guides list $500 and $15,000 and are outdated.
+The CSLB says the license threshold rose from $500 to $1,000 under AB 2622, effective January 1, 2025, and unlicensed work up to $1,000 is allowed only if no laborers are hired and no building permit is required. A licensee can be an individual, partnership, corporation, LLC, or joint venture. The CSLB says an LLC license also requires a $100,000 surety bond, in addition to the $25,000 contractor bond, that protects employees or workers harmed by the LLC's failure to pay wages or benefits. Older CSLB guides list $500 and $15,000 and are outdated.
 
 ## 3. Insurance and workers' compensation
 
-JMG lists core coverages for general contractors: general liability (the most fundamental), workers' compensation if you hire employees, commercial auto, equipment coverage, and products and completed operations (often excluded from general liability). CSLB records show contractors with employees must show proof of workers' comp, and those without file an exemption. ServiceMag reports SB 216 will require every licensed California contractor to carry workers' comp, even solo operators, by 2028, but that comes from a secondary source. Verify with the CSLB.
+The SBA describes general liability, commercial property, and products liability as common business coverages and notes that workers' compensation is required for businesses with employees. Contractors should also ask an insurance professional about commercial auto, equipment, and completed-operations coverage. CSLB records show contractors with employees must show proof of workers' comp, and those without file an exemption. Business Insurance reports that S.B. 1455 delays until January 1, 2028 the requirement, created by S.B. 216, that contractors carry workers' comp coverage even without employees. Verify current rules with the CSLB.
 
 ![Steps to set up a contractor LLC](/images/contractor-construction-business-llc/steps.webp)
 
@@ -61,7 +61,7 @@ The SBA says an LLC protects from personal liability in most instances, while a 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [CSLB press release](https://www.cslb.ca.gov/Resources/PressReleases/2024/AB2622.FINAL.pdf); [CSLB: Before applying](https://www.cslb.ca.gov/Contractors/Applicants/Contractors_License/Exam_Application/Before_Applying_For_License.aspx); [ServiceMag](https://servicemag.org/guides/california-contractor-license-bond-llc-bond); [JMG](https://jmg.com/requirements-general-contractor-insurance/); [SBA: Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure).
+**Sources:** [CSLB press release](https://www.cslb.ca.gov/Resources/PressReleases/2024/AB2622.FINAL.pdf); [CSLB: Before applying](https://www.cslb.ca.gov/Contractors/Applicants/Contractors_License/Exam_Application/Before_Applying_For_License.aspx); [CSLB: Licenses for LLCs](https://www2.cslb.ca.gov/About_Us/LLC.aspx); [CSLB industry bulletin on workers' comp](https://cslb.ca.gov/Resources/IndustryBulletins/2022/Industry_Bulletin_WC_update.pdf); [Business Insurance: Governor signs bill delaying contractor comp mandate](https://www.businessinsurance.com/california-governor-signs-bill-to-delay-comp-mandate-for-contractors/); [SBA: Get business insurance](https://legacy.sba.gov/business-guide/launch-your-business/get-business-insurance); [SBA: Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure).
 
 ## FAQ
 
@@ -71,7 +71,7 @@ Yes. The CSLB says a licensee can be an individual, partnership, corporation, LL
 
 **What bonds does a California contractor LLC need?**
 
-The CSLB requires a $25,000 contractor bond, and ServiceMag says LLCs also need a $100,000 employee/worker bond.
+The CSLB requires a $25,000 contractor bond, and the CSLB says an LLC license also requires a $100,000 employee/worker bond.
 
 **Do I need a license for small jobs?**
 
@@ -79,7 +79,7 @@ In California the threshold is $1,000 since 2025, with limits on laborers and pe
 
 **Does an LLC replace insurance?**
 
-No. JMG lists general liability and workers' comp as core coverages, and contractor rules vary by state.
+No. The SBA lists general liability and workers' comp among common business coverages, and contractor rules vary by state.
 
 ---
 

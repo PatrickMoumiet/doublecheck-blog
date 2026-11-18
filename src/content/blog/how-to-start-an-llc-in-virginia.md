@@ -8,7 +8,7 @@ faq:
   - question: 'How much does it cost to start an LLC in Virginia?'
     answer: 'Per Nolo, the Articles of Organization filing fee is $100. The annual registration fee is then $50. Registered agent pricing varies by provider.'
   - question: 'When is the Virginia LLC annual registration fee due?'
-    answer: 'By the last day of the month in which the LLC was originally organized or registered, per State Business Compliance. A $25 penalty applies if payment is late.'
+    answer: 'The annual registration fee is due each year based on your LLC''s original registration date. Confirm your exact due date, any late penalty, and how to pay with the State Corporation Commission at scc.virginia.gov.'
   - question: 'Do I need an operating agreement in Virginia?'
     answer: 'Not by law. Nolo calls one highly advisable because, without it, state LLC law governs how the company operates.'
   - question: 'Do I need a Virginia registered agent?'
@@ -34,12 +34,12 @@ toc:
 
 - Virginia's Articles of Organization (Form LLC-1011) cost $100 per Nolo; confirm on the SCC site.
 - A registered agent with a physical Virginia street address is required.
-- The annual registration fee is $50, due by the last day of your anniversary month; $25 late penalty.
+- The annual registration fee is $50 per Nolo; confirm your due date and any late penalty with the SCC.
 - No operating agreement is required, but Nolo calls one highly advisable.
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in Virginia, pick a name that is distinguishable from entities on file with the State Corporation Commission (SCC), appoint a registered agent with a physical Virginia street address, and file Articles of Organization (Form LLC-1011). Per Nolo, the filing fee is $100. Afterward, adopt an operating agreement, get a free EIN, and pay the $50 annual registration fee, which per State Business Compliance is due by the last day of your LLC's anniversary month.
+**Quick answer:** To start an LLC in Virginia, pick a name that is distinguishable from entities on file with the State Corporation Commission (SCC), appoint a registered agent with a physical Virginia street address, and file Articles of Organization (Form LLC-1011). Per Nolo, the filing fee is $100. Afterward, adopt an operating agreement, get a free EIN, and pay the $50 annual registration fee each year; confirm your due date with the SCC.
 
 ![Virginia LLC fees and requirements at a glance](/images/how-to-start-an-llc-in-virginia/grid.webp)
 
@@ -59,14 +59,14 @@ toc:
 
 ## 3. Ongoing costs: the annual registration fee
 
-Virginia's recurring obligation is a flat fee rather than a long report. Nolo puts the annual registration fee at $50 for domestic and foreign LLCs. Per State Business Compliance:
+Virginia's recurring obligation is a flat fee rather than a long report. Nolo puts the annual registration fee at $50 for domestic and foreign LLCs. Points to confirm with the SCC:
 
-- **Due date:** the last day of the month in which the LLC was originally organized or registered.
-- **Late penalty:** $25 on top of the $50 if payment is not received by the due date.
-- **Risk:** the LLC loses good standing, and the SCC can cancel it, typically after the third month past the due date. A cancelled LLC cannot legally transact business in Virginia.
-- **How:** online through the SCC Clerk's Information System, by card, with no information form.
+- **Due date:** tied to the month your LLC was originally organized or registered, so confirm yours.
+- **Late penalty:** check the current penalty amount.
+- **Risk:** an LLC that does not pay can lose good standing and may be cancelled, which affects its ability to do business in Virginia.
+- **How:** the SCC accepts payment through its online system.
 
-Fees can change, so verify at scc.virginia.gov. For other states' deadlines, see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/).
+Fees and deadlines can change, so verify at scc.virginia.gov. For other states' deadlines, see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/).
 
 ## 4. Virginia quirks and what to compare
 
@@ -80,7 +80,7 @@ Single-member owners should also read [single-member LLC taxes](/blog/single-mem
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Nolo: How to Form an LLC in Virginia](https://www.nolo.com/legal-encyclopedia/virginia-form-llc-31855.html); [State Business Compliance: Virginia LLC annual registration](https://www.statebusinesscompliance.com/blog/virginia-llc-annual-registration-2026).
+**Sources:** [Nolo: How to Form an LLC in Virginia](https://www.nolo.com/legal-encyclopedia/virginia-form-llc-31855.html).
 
 ## FAQ
 
@@ -90,7 +90,7 @@ Per Nolo, the Articles of Organization filing fee is $100. The annual registrati
 
 **When is the Virginia LLC annual registration fee due?**
 
-By the last day of the month in which the LLC was originally organized or registered, per State Business Compliance. A $25 penalty applies if payment is late.
+The annual registration fee is due each year based on your LLC's original registration date. Confirm your exact due date, any late penalty, and how to pay with the State Corporation Commission at scc.virginia.gov.
 
 **Do I need an operating agreement in Virginia?**
 

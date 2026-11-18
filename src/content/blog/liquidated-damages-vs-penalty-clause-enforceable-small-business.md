@@ -6,13 +6,13 @@ pubDate: 'Nov 18 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the difference between liquidated damages and a penalty clause?'
-    answer: 'Liquidated damages are a reasonable pre-agreed estimate of loss from a breach. A penalty is a sum meant to punish or deter. Per UpCounsel (updated August 2025), courts look at substance over labels and can void a clause that fails the tests.'
+    answer: 'Liquidated damages are a reasonable pre-agreed estimate of loss from a breach. A penalty is a sum meant to punish or deter. Courts look at substance over labels and can void a clause that fails the tests, and UCC 2-718 treats unreasonably large liquidated damages as a void penalty for sales of goods.'
   - question: 'Are liquidated damages clauses enforceable?'
     answer: 'Often yes, if the amount is reasonable and the loss was hard to estimate at signing. For goods, UCC 2-718 as published by New York says a term fixing unreasonably large liquidated damages is void as a penalty. State law varies.'
   - question: 'Can I recover more than the liquidated damages amount?'
-    answer: 'Usually not. Turnpike Law notes that under Florida law the injured party cannot choose between the stipulated amount and actual damages. Check your contract and governing state.'
+    answer: 'Often not, but it depends on the contract and the governing state’s law, so check both.'
   - question: 'Does calling it liquidated damages make it enforceable?'
-    answer: 'No. Courts look at what the clause actually does. Wording that describes a reasonable estimate helps, but Turnpike Law says it is not conclusive.'
+    answer: 'No. Courts look at what the clause actually does. Wording that describes a reasonable estimate helps, but it is not conclusive.'
   - question: 'Who has to prove a liquidated damages clause is a penalty?'
     answer: 'Per an International Franchise Association article from March 2026, the party seeking to avoid the clause generally must show why it should not be applied as written. This varies by state.'
 toc:
@@ -43,7 +43,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** A liquidated damages clause is enforceable when the agreed amount is a reasonable estimate of the harm a breach would cause and that harm was hard to calculate when you signed. A penalty clause is a fixed sum meant to punish or scare the other side into performing, and courts generally refuse to enforce it. The label does not decide the question: per UpCounsel (updated August 2025), courts look at substance over labels, so a clause called "liquidated damages" can still be struck down. Rules vary by state, so check yours before relying on a clause.
+**Quick answer:** A liquidated damages clause is enforceable when the agreed amount is a reasonable estimate of the harm a breach would cause and that harm was hard to calculate when you signed. A penalty clause is a fixed sum meant to punish or scare the other side into performing, and courts generally refuse to enforce it. The label does not decide the question: courts look at substance over labels, so a clause called "liquidated damages" can still be struck down. Rules vary by state, so check yours before relying on a clause.
 
 ![Six factors that separate an enforceable liquidated damages clause from a penalty](/images/liquidated-damages-vs-penalty-clause-enforceable-small-business/grid.webp)
 
@@ -51,14 +51,14 @@ toc:
 
 Most US courts ask a small set of questions. They are not identical everywhere, but the same ideas keep showing up.
 
-- **Was the loss hard to estimate at signing?** UpCounsel describes this as the uncertainty factor: would it have been difficult to quantify the damages when the contract was formed? If damages are easy to calculate, a fixed sum is harder to defend.
-- **Is the amount reasonable?** A Florida law firm summary (Turnpike Law) says the stipulated amount must not be "grossly disproportionate" to a reasonable estimate of the harm a breach would cause.
+- **Was the loss hard to estimate at signing?** UCC 2-718 looks at difficulties of proving loss, so ask: would it have been difficult to quantify the damages when the contract was formed? If damages are easy to calculate, a fixed sum is harder to defend.
+- **Is the amount reasonable?** Under UCC 2-718, for sales of goods, the amount must be reasonable in light of the anticipated or actual harm; unreasonably large liquidated damages are void as a penalty.
 - **Did the parties intend to compensate?** Courts look at the whole contract and the surrounding circumstances, per a franchise-law article published by the International Franchise Association in March 2026.
-- **Is it the only remedy?** Turnpike Law adds that, in Florida, the injured party cannot choose between the stipulated amount and actual damages.
+- **Is it the only remedy?** In many states, the injured party cannot choose between the stipulated amount and actual damages; check your governing state's rule.
 
-Two reasons explain why penalties are refused. Per Turnpike Law, a breaching party should pay only for the damage it caused, and a penalty that exceeds the value of performance gives the other side an incentive to induce a breach.
+Penalties are refused because contract damages are meant to compensate for loss, not to punish.
 
-Contract language matters but does not control. Wording that describes a reasonable estimate of actual damages is more likely to be treated as liquidated damages than wording aimed at deterrence, but Turnpike Law notes this factor is not conclusive.
+Contract language matters but does not control. Wording that describes a reasonable estimate of actual damages is more likely to be treated as liquidated damages than wording aimed at deterrence, but this factor is not conclusive.
 
 For the surrounding rules on what a signed contract does and does not bind you to, see [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/).
 
@@ -100,13 +100,13 @@ If you want to know what you could recover instead of a fixed sum, read [breach 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UpCounsel, Liquidated Damages vs Penalty](https://proxy-production.upcounsel.com/liquidated-damages-vs-penalty); [Turnpike Law, Contract damages](https://www.turnpikelaw.com/contract-damages-how-much-can-you-agree-to/); [NY Senate, UCC 2-718](https://www.nysenate.gov/legislation/laws/UCC/2-718); [International Franchise Association, Enforcing and Attacking Liquidated Damages (March 2026)](https://www.franchise.org/wp-content/uploads/2026/03/EnforcingAttackingLiquidatedDamages.pdf).
+**Sources:** [NY Senate, UCC 2-718](https://www.nysenate.gov/legislation/laws/UCC/2-718); [International Franchise Association, Enforcing and Attacking Liquidated Damages (March 2026)](https://www.franchise.org/wp-content/uploads/2026/03/EnforcingAttackingLiquidatedDamages.pdf).
 
 ## FAQ
 
 **What is the difference between liquidated damages and a penalty clause?**
 
-Liquidated damages are a reasonable pre-agreed estimate of loss from a breach. A penalty is a sum meant to punish or deter. Per UpCounsel (updated August 2025), courts look at substance over labels and can void a clause that fails the tests.
+Liquidated damages are a reasonable pre-agreed estimate of loss from a breach. A penalty is a sum meant to punish or deter. Courts look at substance over labels and can void a clause that fails the tests, and UCC 2-718 treats unreasonably large liquidated damages as a void penalty for sales of goods.
 
 **Are liquidated damages clauses enforceable?**
 
@@ -114,11 +114,11 @@ Often yes, if the amount is reasonable and the loss was hard to estimate at sign
 
 **Can I recover more than the liquidated damages amount?**
 
-Usually not. Turnpike Law notes that under Florida law the injured party cannot choose between the stipulated amount and actual damages. Check your contract and governing state.
+Often not, but it depends on the contract and the governing state's law, so check both.
 
 **Does calling it liquidated damages make it enforceable?**
 
-No. Courts look at what the clause actually does. Wording that describes a reasonable estimate helps, but Turnpike Law says it is not conclusive.
+No. Courts look at what the clause actually does. Wording that describes a reasonable estimate helps, but it is not conclusive.
 
 **Who has to prove a liquidated damages clause is a penalty?**
 

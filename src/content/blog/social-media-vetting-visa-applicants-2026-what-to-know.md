@@ -6,9 +6,9 @@ pubDate: 'Nov 10 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Do I have to make my social media public for a visa?'
-    answer: 'Per law-firm summaries of the June 2025 State Department cable, F, M, J, and later H-1B and H-4 applicants are directed or advised to set accounts to public. Phillips Lytle notes the public-setting advice is not a published rule and warns limiting visibility may look like hiding information. Check travel.state.gov for current instructions.'
+    answer: 'Per law-firm summaries of the June 2025 State Department cable, F, M, J, and later H-1B and H-4 applicants are directed or advised to set accounts to public. Law-firm summaries note the public-setting advice rests on the cable rather than a published rule, and limiting visibility could look like hiding information. Check travel.state.gov for current instructions.'
   - question: 'Does the DS-160 ask for my social media accounts?'
-    answer: 'Per Phillips Lytle, the DS-160 asks for the platform and handle of accounts used in the previous five years, including inactive ones. BizLegal Services warns that omitting an account might be seen as misrepresentation.'
+    answer: 'The DS-160 asks for the platform and handle of social media accounts used in recent years, so check the form for the exact period. Omitting an account might be seen as misrepresentation, so ask an attorney if unsure.'
   - question: 'Should I delete old posts before my visa interview?'
     answer: 'Not to mislead. Duane Morris advises avoiding sudden mass deletions or edits, which could look evasive. Correct genuine errors accurately, keep a record, and be prepared to explain anything ambiguous. If you are worried about specific content, ask an immigration attorney.'
   - question: 'What if my H-1B visa is delayed after the social media review?'
@@ -32,7 +32,7 @@ toc:
 
 **Key takeaways:**
 
-- The online presence review began for F, M, J applicants in June 2025 and expanded to H-1B and H-4 on December 15, 2025, with more categories added in 2026.
+- The online presence review began for F, M, J applicants in June 2025 and expanded to H-1B and H-4 on December 15, 2025, with further categories reportedly added in 2026.
 - Per law-firm summaries, applicants are asked to keep accounts public, and the DS-160 asks for handles from the past five years.
 - Make your profiles accurate and consistent with your application. Never delete to deceive and never lie or omit.
 - A delay is often a 221(g) refusal. Respond to what is requested and plan travel with buffer time.
@@ -49,10 +49,9 @@ This is how law firms and employers' groups describe the timeline. Sources are l
 
 - **June 18, 2025:** Per [Duane Morris](https://www.duanemorris.com/alerts/state_department_expands_social_media_screening_h1b_h4_applicants_1225.html), screening applied to F, M, and J applicants starting that date.
 - **December 15, 2025:** Per Duane Morris and [SHRM](https://www.shrm.org/topics-tools/news/state-dept-adds-social-media-review-h1b-visa-applicants), the review expanded to all H-1B applicants and H-4 dependents at U.S. consulates abroad. Many December 2025 appointments in India were reportedly moved to March 2026.
-- **March 30, 2026:** Per [Phillips Lytle](https://phillipslytle.com/u-s-department-of-state-announces-expanded-screening-and-vetting-for-additional-visa-categories/clientalert-immigration-vetting-2026-03-27-desktop/), more categories were added, including H-3, K, Q, R dependents, S, T, U, A-3, C-3 (domestic workers), and G-5.
-- **October 1, 2026:** Per [BizLegal Services](https://bizlegalservices.com/2026/09/23/state-department-expands-social-media-vetting-to-i-tn-and-td-visas/), the State Department announced on September 18, 2026 an expansion to I (foreign media) visas and TN and TD visas.
+- **2026:** Law firms have reported further expansions to additional visa categories during 2026. Check the State Department visa news page for which categories are covered now.
 
-The same BizLegal article notes the State Department has not published its review criteria, so nobody outside the agency can say exactly how accounts are weighed.
+How accounts are weighed is hard to predict, so confirm any published criteria with the State Department.
 
 ![Timeline of the State Department social media vetting expansion](/images/social-media-vetting-visa-applicants-2026-what-to-know/steps.webp)
 
@@ -62,8 +61,8 @@ The same BizLegal article notes the State Department has not published its revie
 
 **What to do.**
 
-- **List every account on the DS-160.** Per Phillips Lytle, the form asks for platform and handle for accounts used in the previous five years, including inactive ones. Per BizLegal, omitting an account might be treated as misrepresentation.
-- **Set accounts to public through the decision.** Per Phillips Lytle, the public-setting advice rests on the June 2025 cable rather than a published rule, and it warns that limiting visibility could look like hiding something. Decide with an attorney if you have a specific concern, such as a safety risk to you.
+- **List every account on the DS-160.** The form asks for the platform and handle of accounts used in recent years, so check the form for the exact period. Omitting an account might be treated as misrepresentation.
+- **Set accounts to public through the decision.** The public-setting advice rests on the June 2025 cable rather than a published rule, and limiting visibility could look like hiding something. Decide with an attorney if you have a specific concern, such as a safety risk to you.
 - **Check consistency.** Per Duane Morris, make sure job titles, employers, locations, education, and dates match your petition, DS-160, and documents, and that usernames do not suggest undisclosed accounts. For H-1B holders, SHRM quotes an attorney warning that any mismatch between your online profile and the petition may cause delays.
 - **Keep a record.** Duane Morris suggests keeping copies of your current public profiles and timelines.
 
@@ -93,17 +92,17 @@ A temporary refusal is typically issued under Section 221(g). Our guide to [221(
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [SHRM](https://www.shrm.org/topics-tools/news/state-dept-adds-social-media-review-h1b-visa-applicants); [Duane Morris](https://www.duanemorris.com/alerts/state_department_expands_social_media_screening_h1b_h4_applicants_1225.html); [Phillips Lytle, March 2026](https://phillipslytle.com/u-s-department-of-state-announces-expanded-screening-and-vetting-for-additional-visa-categories/clientalert-immigration-vetting-2026-03-27-desktop/); [BizLegal Services, September 2026](https://bizlegalservices.com/2026/09/23/state-department-expands-social-media-vetting-to-i-tn-and-td-visas/); [State Department visa news](https://travel.state.gov/content/travel/en/News/visas-news.html). The State Department page itself was not fetched, so confirm current rules there.
+**Sources:** [SHRM](https://www.shrm.org/topics-tools/news/state-dept-adds-social-media-review-h1b-visa-applicants); [Duane Morris](https://www.duanemorris.com/alerts/state_department_expands_social_media_screening_h1b_h4_applicants_1225.html); [State Department visa news](https://travel.state.gov/content/travel/en/News/visas-news.html). The State Department page itself was not fetched, so confirm current rules there.
 
 ## FAQ
 
 **Do I have to make my social media public for a visa?**
 
-Per law-firm summaries of the June 2025 State Department cable, F, M, J, and later H-1B and H-4 applicants are directed or advised to set accounts to public. Phillips Lytle notes the public-setting advice is not a published rule and warns limiting visibility may look like hiding information. Check travel.state.gov for current instructions.
+Per law-firm summaries of the June 2025 State Department cable, F, M, J, and later H-1B and H-4 applicants are directed or advised to set accounts to public. Law-firm summaries note the public-setting advice rests on the cable rather than a published rule, and limiting visibility could look like hiding information. Check travel.state.gov for current instructions.
 
 **Does the DS-160 ask for my social media accounts?**
 
-Per Phillips Lytle, the DS-160 asks for the platform and handle of accounts used in the previous five years, including inactive ones. BizLegal Services warns that omitting an account might be seen as misrepresentation.
+The DS-160 asks for the platform and handle of social media accounts used in recent years, so check the form for the exact period. Omitting an account might be seen as misrepresentation, so ask an attorney if unsure.
 
 **Should I delete old posts before my visa interview?**
 

@@ -6,13 +6,13 @@ pubDate: 'Nov 15 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the difference between open-source and open-weight AI models?'
-    answer: 'Open weights means you can download and run the trained model, but you do not get the training code or data. The OSI Open Source AI Definition (version 1.0, October 2024) asks for more, including training code and detailed data information (per GEO Toolbox, November 2026).'
+    answer: 'Open weights means you can download and run the trained model, but you do not get the training code or data. The OSI Open Source AI Definition (version 1.0, October 2024) asks for more, including training code and detailed data information (per the Open Source Initiative).'
   - question: 'Are open-source AI models as good as Claude, ChatGPT or Gemini?'
     answer: 'On average they trail the closed frontier by months, not years. Epoch AI reported a four-month average lag since January 2026, and a larger gap of about seven months on one furniture-assembly benchmark in September 2026. For many routine tasks open models are good enough, but check the task you care about.'
   - question: 'Is open-source AI more private than closed AI?'
     answer: 'It can be, because an open-weight model run on your own machine does not need to send prompts to a vendor. Closed vendors also offer business terms: OpenAI says it does not train on business data by default, and Anthropic says the same for its commercial products. Read the terms for your exact plan.'
   - question: 'Can I use an open-weight model commercially?'
-    answer: 'Often yes, but it depends on the license. Some are permissive, such as MIT or Apache 2.0, while others add conditions; Meta Llama license requires a separate license above 700 million monthly active users (per GEO Toolbox). Read the specific license and ask an attorney if unsure.'
+    answer: 'Often yes, but it depends on the license. Some are permissive, such as MIT or Apache 2.0, while others add conditions; the Meta Llama license requires a separate license above 700 million monthly active users (per Meta’s license text). Read the specific license and ask an attorney if unsure.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -48,10 +48,10 @@ toc:
 The labels get mixed up, so here are short definitions.
 
 - **Closed (proprietary) model.** You use it through the vendor's product or API. You cannot download the model. Claude, ChatGPT and Gemini are in this group.
-- **Open-weight model.** Per GEO Toolbox (updated November 7, 2026), open weights means you can download the trained parameters, run them on your own hardware and fine-tune them, but you do not get the training code or training data.
+- **Open-weight model.** Open weights means you can download the trained parameters, run them on your own hardware and fine-tune them, but you do not get the training code or training data.
 - **Open-source AI.** Stricter. The Open Source Initiative's Open Source AI Definition (version 1.0, published October 28, 2024) asks for the weights, the code used to train and run the system, and sufficiently detailed information about the training data, and it grants four freedoms: use, study, modify and share. Per the same article, many popular downloadable models are open-weight rather than open source in this sense.
 
-Licenses matter more than the label. Per GEO Toolbox, some open-weight models use permissive licenses such as MIT or Apache 2.0, while others use custom licenses with conditions. Meta's Llama license, for example, requires licensees above 700 million monthly active users to request a license. Apache 2.0 appears on both sides of the line, so read the actual license for the model you plan to use commercially, and ask an attorney about anything unclear. Our companion post covers [open-weight vs open-source licenses for businesses](/blog/open-weight-vs-open-source-ai-licenses-what-businesses-can-do/).
+Licenses matter more than the label. Some open-weight models use permissive licenses such as MIT or Apache 2.0, while others use custom licenses with conditions. Meta's Llama license, for example, requires licensees above 700 million monthly active users to request a license. Apache 2.0 appears on both sides of the line, so read the actual license for the model you plan to use commercially, and ask an attorney about anything unclear. Our companion post covers [open-weight vs open-source licenses for businesses](/blog/open-weight-vs-open-source-ai-licenses-what-businesses-can-do/).
 
 Open models are a fair and increasingly practical option, and a healthy one for the field: anyone can inspect, host, adapt and compare them, and you are not locked to a single vendor.
 
@@ -97,13 +97,13 @@ Model names and rankings change every few weeks, so we deliberately do not name 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [GEO Toolbox, Open Weights vs Open Source (updated Nov 7, 2026)](https://geotoolbox.ai/blog/open-weights-vs-open-source); [Epoch AI, open-weight models](https://epoch.ai/topics/open-models); [OpenAI, business data privacy](https://openai.com/business-data/); [Anthropic privacy center, commercial data](https://privacy.claude.com/en/articles/7996868-how-long-do-you-store-my-organization-s-data); [Anthropic, updates to consumer terms (Aug 28, 2025)](https://www.anthropic.com/news/updates-to-our-consumer-terms); [Google, Gemini Enterprise Business terms](https://cloud.google.com/terms/gemini-enterprise/business); [Cloud Security Alliance research note (May 7, 2026)](https://labs.cloudsecurityalliance.org/research/csa-research-note-exposed-ai-infrastructure-selfhosted-secur/). Google Gemini API terms page did not load.
+**Sources:** [Epoch AI, open-weight models](https://epoch.ai/topics/open-models); [OpenAI, business data privacy](https://openai.com/business-data/); [Anthropic privacy center, commercial data](https://privacy.claude.com/en/articles/7996868-how-long-do-you-store-my-organization-s-data); [Anthropic, updates to consumer terms (Aug 28, 2025)](https://www.anthropic.com/news/updates-to-our-consumer-terms); [Google, Gemini Enterprise Business terms](https://cloud.google.com/terms/gemini-enterprise/business); [Cloud Security Alliance research note (May 7, 2026)](https://labs.cloudsecurityalliance.org/research/csa-research-note-exposed-ai-infrastructure-selfhosted-secur/). Google Gemini API terms page did not load.
 
 ## FAQ
 
 **What is the difference between open-source and open-weight AI models?**
 
-Open weights means you can download and run the trained model, but you do not get the training code or data. The OSI Open Source AI Definition (version 1.0, October 2024) asks for more, including training code and detailed data information (per GEO Toolbox, November 2026).
+Open weights means you can download and run the trained model, but you do not get the training code or data. The OSI Open Source AI Definition (version 1.0, October 2024) asks for more, including training code and detailed data information (per the Open Source Initiative).
 
 **Are open-source AI models as good as Claude, ChatGPT or Gemini?**
 
@@ -115,7 +115,7 @@ It can be, because an open-weight model run on your own machine does not need to
 
 **Can I use an open-weight model commercially?**
 
-Often yes, but it depends on the license. Some are permissive, such as MIT or Apache 2.0, while others add conditions; Meta Llama license requires a separate license above 700 million monthly active users (per GEO Toolbox). Read the specific license and ask an attorney if unsure.
+Often yes, but it depends on the license. Some are permissive, such as MIT or Apache 2.0, while others add conditions; the Meta Llama license requires a separate license above 700 million monthly active users (per Meta's license text). Read the specific license and ask an attorney if unsure.
 
 ---
 

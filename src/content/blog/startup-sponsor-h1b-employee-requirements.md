@@ -8,11 +8,11 @@ faq:
   - question: 'Can a startup sponsor an H-1B visa?'
     answer: 'Yes, if it meets the employer requirements and wins a cap selection unless cap-exempt. Confirm with an immigration attorney.'
   - question: 'Who pays the H-1B fees?'
-    answer: 'Per Alma, the employer pays all USCIS fees and employees cannot be required to pay.'
+    answer: 'Fee responsibilities are set by DOL and USCIS rules, and some employer-side costs cannot be shifted to the employee. Confirm which fees apply with an immigration attorney and USCIS’s fee schedule.'
   - question: 'How long can someone stay in H-1B status?'
-    answer: 'Alma says up to three years initially plus one extension up to three years, for six years total.'
+    answer: 'Per USCIS, H-1B status is valid up to three years and extendable up to another three years, for six years total, with exceptions.'
   - question: 'Can a founder be sponsored by their own startup?'
-    answer: 'Hooyou describes a path with controlling-interest rules and shorter approval periods, with a genuine employer-employee relationship required. Get legal advice.'
+    answer: 'Per the Federal Register rule, a beneficiary-owner with a controlling interest (more than 50% ownership or majority voting rights) can be limited to an 18-month initial petition, and the petitioner must show a bona fide specialty occupation position. Get legal advice.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,23 +45,23 @@ toc:
 
 ## 2. Employer requirements
 
-Per Alma's guide: the sponsoring company must control when, where, and how the worker works, the employer pays all USCIS fees and cannot require the employee to pay, the LCA notice is posted for 10 consecutive days, and the employer keeps a Public Access File and payroll records for three years. DOL says the LCA (Form ETA-9035) is filed via FLAG, the employer attests to pay the higher of actual or prevailing wage, DOL reviews within seven working days, and the LCA cannot be submitted more than six months before employment starts. Initial approval is up to three years, with one extension up to three more for a six-year maximum.
+Per DOL, the LCA notice must be posted for 10 days, and the employer must make required LCA materials available in a Public Access File (see 20 CFR 655, Subparts H and I for details). DOL says the LCA (Form ETA-9035) is filed via FLAG, the employer attests to pay the higher of actual or prevailing wage, DOL reviews within seven working days, and the LCA cannot be submitted more than six months before employment starts. Per USCIS, status is valid up to three years and extendable up to another three, for a six-year maximum in most cases.
 
 ## 3. Cap season, fees, and the weighted lottery
 
-USCIS says the regular cap is 65,000 plus 20,000 for U.S. master's or higher, and cap petitions can be filed only with a selected registration, with a 90-day filing window. Hodgson Russ says FY2027 registration cost $215, and a rule effective February 27, 2026 weights selection by wage level ([how the weighted lottery works](/blog/h1b-weighted-lottery-wage-levels-explained/)). USCIS lists ACWIA at $750 (1 to 25 full-time employees) or $1,500, plus a $500 fraud fee and a $4,000 fee for employers with more than 50% H-1B or L-1 staff. Alma says small employers pay a $300 Asylum Program fee and hit H-1B-dependent status at eight H-1B workers. The I-129 base fee varies across sources, so check USCIS's fee schedule.
+USCIS says the regular cap is 65,000 plus 20,000 for U.S. master's or higher, and cap petitions can be filed only with a selected registration, with a 90-day filing window. Hodgson Russ says FY2027 registration cost $215, and a rule effective February 27, 2026 weights selection by wage level ([how the weighted lottery works](/blog/h1b-weighted-lottery-wage-levels-explained/)). USCIS lists ACWIA at $750 (1 to 25 full-time employees) or $1,500, plus a $500 fraud fee and a $4,000 fee for employers with more than 50% H-1B or L-1 staff. Additional fees, such as the Asylum Program fee, and H-1B-dependent employer rules can apply depending on company size; confirm on USCIS's fee pages. The I-129 base fee varies across sources, so check USCIS's fee schedule.
 
 ![Checklist for a startup sponsoring an H-1B](/images/startup-sponsor-h1b-employee-requirements/grid.webp)
 
 ## 4. Founders and the $100,000 payment
 
-Hooyou says in a founder-owned startup a controlling interest is more than 50% of shares or majority voting rights, and a beneficiary-owner's initial approval can be up to 18 months with a first extension up to 18 months, provided there is a genuine employer-employee relationship and a legitimate operating business. Immihelp and Yale report a federal court vacated the $100,000 payment in June 2026 and USCIS stopped collecting while an appeal is pending; see [the current status](/blog/h1b-100000-fee-status-2026/). Already on an H-1B? Read [ownership vs. work](/blog/start-company-on-h1b-visa-ownership-vs-work/) and [H-1B transfers](/blog/h-1b-transfer-change-of-employer-portability/). Incorporate first: [how to incorporate a SaaS or AI startup](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/).
+Per the Federal Register rule and USCIS, in a founder-owned startup a controlling interest is more than 50% ownership or majority voting rights, and a beneficiary-owner's initial approval can be limited to 18 months with a first extension of up to 18 months, provided the petitioner shows a bona fide specialty occupation position. EY and Yale OISS report a federal court vacated the $100,000 payment in June 2026 and the government appealed, so collection status has shifted; see [the current status](/blog/h1b-100000-fee-status-2026/). Already on an H-1B? Read [ownership vs. work](/blog/start-company-on-h1b-visa-ownership-vs-work/) and [H-1B transfers](/blog/h-1b-transfer-change-of-employer-portability/). Incorporate first: [how to incorporate a SaaS or AI startup](/blog/how-to-incorporate-saas-ai-startup-delaware-c-corp/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS H-1B cap season](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-cap-season); [DOL FLAG: LCA](https://flag.dol.gov/programs/lca); [Alma](https://www.tryalma.com/learn/sponsor-h1b-visa-employees); [Hodgson Russ](https://www.hodgsonruss.com/immigration-insights/fy27-h-1b-registration-what-employers-need-to-know); [Hooyou](https://hooyou.com/news/news2025/news022025h1b.html); [Immihelp](https://www.immihelp.com/h1b-100000-fee-first-circuit-ruling-2026/); [Yale OISS](https://oiss.yale.edu/news/update-federal-appeals-court-upholds-decision-vacating-100000-h-1b-fee).
+**Sources:** [USCIS H-1B cap season](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-cap-season); [DOL FLAG: LCA](https://flag.dol.gov/programs/lca); [Hodgson Russ](https://www.hodgsonruss.com/immigration-insights/fy27-h-1b-registration-what-employers-need-to-know); [USCIS FAQs for H-1B individuals](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/faqs-for-individuals-in-h-1b-nonimmigrant-status); [Federal Register, Modernizing H-1B Requirements](https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements); [DOL Fact Sheet #62M](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/whdfs62M.pdf); [EY alert on the vacated $100,000 payment](https://www.ey.com/en_ca/insights/law/mobility-alerts/2026/us-h-1b-payment-rule-vacated-and-stayed); [Yale OISS](https://oiss.yale.edu/news/update-federal-appeals-court-upholds-decision-vacating-100000-h-1b-fee).
 
 ## FAQ
 
@@ -71,15 +71,15 @@ Yes, if it meets the employer requirements and wins a cap selection unless cap-e
 
 **Who pays the H-1B fees?**
 
-Per Alma, the employer pays all USCIS fees and employees cannot be required to pay.
+Fee responsibilities are set by DOL and USCIS rules, and some employer-side costs cannot be shifted to the employee. Confirm which fees apply with an immigration attorney and USCIS's fee schedule.
 
 **How long can someone stay in H-1B status?**
 
-Alma says up to three years initially plus one extension up to three years, for six years total.
+Per USCIS, H-1B status is valid up to three years and extendable up to another three years, for six years total, with exceptions.
 
 **Can a founder be sponsored by their own startup?**
 
-Hooyou describes a path with controlling-interest rules and shorter approval periods, with a genuine employer-employee relationship required. Get legal advice.
+Per the Federal Register rule, a beneficiary-owner with a controlling interest (more than 50% ownership or majority voting rights) can be limited to an 18-month initial petition, and the petitioner must show a bona fide specialty occupation position. Get legal advice.
 
 ---
 

@@ -6,13 +6,13 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'How much does it cost to start an LLC in Massachusetts?'
-    answer: 'Per Mass.gov, the Certificate of Organization fee is $500. Terms.law adds a $20 online filing fee, for $520 total, and a $30 optional name reservation.'
+    answer: 'Per Mass.gov, the Certificate of Organization fee is $500. Confirm any additional online filing or name reservation fees with the Secretary of the Commonwealth.'
   - question: 'What is the Massachusetts LLC annual report fee?'
-    answer: '$500, due by the anniversary of the LLC''s original filing, per Mass.gov. Terms.law lists a $20 online fee on top of that.'
+    answer: '$500, due by the anniversary of the LLC''s original filing, per Mass.gov. Confirm any additional online fee with the Secretary of the Commonwealth.'
   - question: 'Does Massachusetts require a registered agent?'
-    answer: 'Yes, called a resident agent. Per Terms.law, it needs a physical Massachusetts street address, no PO box, and can be a resident or a registered agent company.'
+    answer: 'Yes, Massachusetts calls it a resident agent. Confirm the address and eligibility rules with the Secretary of the Commonwealth.'
   - question: 'Do I need an operating agreement in Massachusetts?'
-    answer: 'Not by law, and it is not filed with the state, per Terms.law. Mass.gov describes it as the contract that sets out how the business runs, signed by all members.'
+    answer: 'Mass.gov describes it as the contract that sets out how the business runs, signed by all members. Ask an attorney whether your situation calls for one.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -35,7 +35,7 @@ toc:
 - Per Mass.gov, the Certificate of Organization fee is $500 and the LLC exists only after the state approves it.
 - The annual report also costs $500 and is due by the anniversary of your original filing.
 - Workers' compensation is required for all Massachusetts employers, including working owners.
-- Delinquency over two years can lead to administrative dissolution, per Terms.law.
+- Falling behind on annual reports can put the LLC in bad standing, so check the Secretary of the Commonwealth for the consequences.
 
 ## 1. The quick answer
 
@@ -45,11 +45,11 @@ toc:
 
 ## 2. Step by step: name, agent, and filing
 
-**1. Check your name.** Per Mass.gov, search the Secretary of the Commonwealth's business entity database, and look for similar names too. Per Terms.law, the name needs a designator such as "LLC" and cannot imply government affiliation. A name reservation costs $30 for 60 days, per Terms.law.
+**1. Check your name.** Per Mass.gov, search the Secretary of the Commonwealth's business entity database, and look for similar names too.
 
-**2. Appoint a resident agent.** Per Terms.law, the agent needs a physical Massachusetts street address (no PO box), must be available in business hours, and consents in writing within the Certificate of Organization. It can be a resident or an agent company.
+**2. Appoint a resident agent.** Confirm the agent address and eligibility rules with the Secretary of the Commonwealth.
 
-**3. File the Certificate of Organization.** The fee is $500, paid to the Secretary of the Commonwealth, per Mass.gov. Terms.law adds a $20 fee for online filing, for $520 total; confirm on the state site.
+**3. File the Certificate of Organization.** The fee is $500, paid to the Secretary of the Commonwealth, per Mass.gov. Confirm any additional online filing fee on the state site.
 
 **4. Write an operating agreement.** Per Mass.gov, it is a contract that sets out how the business runs and that all members sign. See [LLC operating agreements with AI](/blog/llc-operating-agreement-with-ai/).
 
@@ -59,12 +59,11 @@ toc:
 
 ## 3. Ongoing: the $500 annual report
 
-The Massachusetts annual report is the cost that surprises founders. Per Mass.gov, the fee is $500 and it is due by the anniversary of the LLC's original filing. Terms.law adds a $20 online fee, for $520 total.
+The Massachusetts annual report is the cost that surprises founders. Per Mass.gov, the fee is $500 and it is due by the anniversary of the LLC's original filing.
 
-- **Late filing:** Terms.law says there is no separate monetary penalty for a late report.
-- **Dissolution risk:** an LLC delinquent for more than two years may be administratively dissolved, which ends liability protection there. Reinstatement costs $100 plus all outstanding reports, per Terms.law.
+- **Late or missed reports:** check the Secretary of the Commonwealth for late-filing consequences, administrative dissolution, and reinstatement costs.
 
-Terms.law is a law-firm marketing page, so confirm with the Secretary of the Commonwealth. A $500 annual fee is a real input when you compare states; see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/).
+A $500 annual fee is a real input when you compare states; see [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/).
 
 ## 4. Massachusetts quirks and what to compare
 
@@ -81,25 +80,25 @@ For federal taxes, a one-owner LLC is usually disregarded; see [single-member LL
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mass.gov: Starting an LLC in Massachusetts](https://www.mass.gov/info-details/starting-a-limited-liability-company-llc-in-massachusetts); [Terms.law: How to start an LLC in Massachusetts](https://terms.law/2025/09/11/how-to-start-an-llc-in-massachusetts/).
+**Sources:** [Mass.gov: Starting an LLC in Massachusetts](https://www.mass.gov/info-details/starting-a-limited-liability-company-llc-in-massachusetts).
 
 ## FAQ
 
 **How much does it cost to start an LLC in Massachusetts?**
 
-Per Mass.gov, the Certificate of Organization fee is $500. Terms.law adds a $20 online filing fee, for $520 total, and a $30 optional name reservation.
+Per Mass.gov, the Certificate of Organization fee is $500. Confirm any additional online filing or name reservation fees with the Secretary of the Commonwealth.
 
 **What is the Massachusetts LLC annual report fee?**
 
-$500, due by the anniversary of the LLC's original filing, per Mass.gov. Terms.law lists a $20 online fee on top of that.
+$500, due by the anniversary of the LLC's original filing, per Mass.gov. Confirm any additional online fee with the Secretary of the Commonwealth.
 
 **Does Massachusetts require a registered agent?**
 
-Yes, called a resident agent. Per Terms.law, it needs a physical Massachusetts street address, no PO box, and can be a resident or a registered agent company.
+Yes, Massachusetts calls it a resident agent. Confirm the address and eligibility rules with the Secretary of the Commonwealth.
 
 **Do I need an operating agreement in Massachusetts?**
 
-Not by law, and it is not filed with the state, per Terms.law. Mass.gov describes it as the contract that sets out how the business runs, signed by all members.
+Mass.gov describes it as the contract that sets out how the business runs, signed by all members. Ask an attorney whether your situation calls for one.
 
 ---
 

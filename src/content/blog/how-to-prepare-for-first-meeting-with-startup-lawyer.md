@@ -1,14 +1,14 @@
 ---
 title: 'How to Prepare for Your First Meeting With a Startup Lawyer'
 seoTitle: 'Prepare for Your First Startup Lawyer Meeting'
-description: 'What to bring and what to ask in a first meeting with a startup lawyer, based on FindLaw, LegalMatch and Pandev Law checklists.'
+description: 'What to bring and what to ask in a first meeting with a startup lawyer, based on a FindLaw checklist and common practice.'
 pubDate: 'Nov 6 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What should I bring to a first meeting with a startup lawyer?'
     answer: 'Per FindLaw: business names and DBAs, a description of what the business does or plans to do, entity type, state of incorporation, EIN, any operating agreement or bylaws, business plan, and a list of IP registrations. Also bring your budget.'
   - question: 'What questions should I ask a startup lawyer?'
-    answer: 'Pandev Law suggests asking about startup experience, relevant specialties, response times, direct access, conflicts, and hourly rates, retainers, package options, and flat fees. Add questions about scope and what is not included.'
+    answer: 'Good questions cover startup experience, relevant specialties, response times, direct access, conflicts, and hourly rates, retainers, package options, and flat fees. Add questions about scope and what is not included.'
   - question: 'Will I have to pay at the first meeting?'
     answer: 'FindLaw notes most small business lawyers require a retainer or flat fee to start work, so be ready to pay soon after hiring. Some initial consultations may be free or paid; ask when you book.'
   - question: 'Can I use AI to prepare for the meeting?'
@@ -56,13 +56,13 @@ Per [FindLaw](https://www.findlaw.com/smallbusiness/business-lawyer-resources/pe
 - A list of current or past legal issues involving attorneys.
 - A list of federally registered trademarks, servicemarks, copyrights, or patents for IP matters.
 
-If the meeting is about a dispute, FindLaw adds a brief timeline, relevant documents, a budget for attorney's fees, and any demand letter. For a purchase or sale of a business, [LegalMatch](https://www.legalmatch.com/law-library/article/how-to-prepare-for-consultation-for-buying-and-selling-a-business.html) lists a list of business assets, financial records such as profit and loss statements and tax returns, the lease, registration documents like Articles of Incorporation, and the terms you want to negotiate.
+If the meeting is about a dispute, FindLaw adds a brief timeline, relevant documents, a budget for attorney's fees, and any demand letter. For a purchase or sale of a business, it helps to bring a list of business assets, financial records such as profit and loss statements and tax returns, the lease, registration documents like Articles of Incorporation, and the terms you want to negotiate.
 
 If you are still choosing an entity, read [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/) first so the conversation can start at the real decisions.
 
 ## 3. Questions to ask the lawyer
 
-[Pandev Law's list of questions for a startup lawyer](https://www.pandevlaw.com/blog/questions-to-ask-startup-lawyer-ensuring-the-best-legal-fit-for-your-new-venture/) is a good base. Choose the ones that matter to you:
+Here is a base list of questions for a startup lawyer. Choose the ones that matter to you:
 
 - How long have they practiced, and how much of that work involved startups? Which industries and types of legal problems have they handled?
 - Do they have experience in areas critical to you, such as fundraising, employee contracts, intellectual property, or regulatory compliance?
@@ -84,7 +84,7 @@ After the meeting, judge the fit: did the lawyer listen, explain in plain Englis
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [FindLaw](https://www.findlaw.com/smallbusiness/business-lawyer-resources/personal-information-questionnaire-hiring-a-lawyer.html); [LegalMatch](https://www.legalmatch.com/law-library/article/how-to-prepare-for-consultation-for-buying-and-selling-a-business.html); [Pandev Law](https://www.pandevlaw.com/blog/questions-to-ask-startup-lawyer-ensuring-the-best-legal-fit-for-your-new-venture/).
+**Sources:** [FindLaw](https://www.findlaw.com/smallbusiness/business-lawyer-resources/personal-information-questionnaire-hiring-a-lawyer.html).
 
 ## FAQ
 
@@ -94,7 +94,7 @@ Per FindLaw: business names and DBAs, a description of what the business does or
 
 **What questions should I ask a startup lawyer?**
 
-Pandev Law suggests asking about startup experience, relevant specialties, response times, direct access, conflicts, and hourly rates, retainers, package options, and flat fees. Add questions about scope and what is not included.
+Good questions cover startup experience, relevant specialties, response times, direct access, conflicts, and hourly rates, retainers, package options, and flat fees. Add questions about scope and what is not included.
 
 **Will I have to pay at the first meeting?**
 

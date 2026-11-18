@@ -8,7 +8,7 @@ faq:
   - question: 'How long do I have to respond to an RFE?'
     answer: 'The Policy Manual sets a 12-week maximum (84 days), but the August 2026 guidance lets USCIS set deadlines case by case. Use the date on your notice.'
   - question: 'Can I get an extension on an RFE?'
-    answer: 'The Policy Manual says officers cannot grant more than the maximum, and Headman says extensions are almost never granted.'
+    answer: 'The Policy Manual says officers cannot grant more than the maximum, and our sources do not describe a general right to an extension, so plan to meet the deadline.'
   - question: 'Can I send my RFE response in pieces?'
     answer: 'No. USCIS says all materials must be submitted together; a partial response is treated as a request for a decision on the existing record.'
   - question: 'What happens if I do not respond?'
@@ -45,23 +45,23 @@ toc:
 
 ## 2. Deadlines and what counts
 
-Per the Policy Manual, I-539 and I-601A RFEs have 30-day response periods, and officers may shorten periods case by case. A law firm (Headman, July 2026) says the clock runs from the date printed on the notice, not delivery, that the response must be received (not just mailed) by the deadline, that weekend or holiday deadlines move to the next business day, and that extensions are almost never granted. Treat any older "87 days" article as background only and rely on your notice.
+Per the Policy Manual, I-539 and I-601A RFEs have 30-day response periods, and officers may shorten periods case by case. Read your notice carefully for the deadline date and how to submit, and confirm any questions about how the deadline is counted against the Policy Manual or with an attorney. Treat any older "87 days" article as background only and rely on your notice.
 
 ![Outcomes after responding to an RFE](/images/how-to-respond-to-uscis-request-for-evidence-rfe/cols.webp)
 
 ## 3. Premium processing and the new policy
 
-USCIS says that if it issues an RFE or NOID, the premium processing period stops and a new one starts when USCIS receives a complete response. The timeframe is 15 calendar days for most classifications and 45 for I-140 NIW and EB-1. Boundless lists the March 1, 2026 premium fee at $2,965 for I-129 H-1B, L-1, O-1, TN, and E-3 and for I-140, and a wrong fee leads to rejection. Fragomen reports that on August 5, 2026 USCIS let adjudicators deny filings without first issuing an RFE or NOID when initial evidence is missing, so file complete evidence upfront ([O-1 documents checklist](/blog/o-1-visa-documents-checklist-founder/), [O-1 processing time](/blog/o-1-visa-processing-time-premium-processing/)).
+USCIS says that if it issues an RFE or NOID, the premium processing period stops and a new one starts when USCIS receives a complete response. The timeframe is 15 calendar days for most classifications and 45 for I-140 NIW and EB-1. Premium processing fees changed in March 2026, so check USCIS's premium processing page for the current fee for your form before paying, since a wrong fee can lead to rejection. Fragomen reports that on August 5, 2026 USCIS let adjudicators deny filings without first issuing an RFE or NOID when initial evidence is missing, so file complete evidence upfront ([O-1 documents checklist](/blog/o-1-visa-documents-checklist-founder/), [O-1 processing time](/blog/o-1-visa-processing-time-premium-processing/)).
 
 ## 4. After a denial
 
-Headman says after an abandonment denial you can file Form I-290B within 30 days (33 if mailed). Have an attorney file with Form G-28, send the response to the address on the RFE by certified mail or courier, and keep proof. Learn [how to find an immigration lawyer](/blog/how-to-find-good-immigration-lawyer-startup-founder/) and [use AI to check your paperwork](/blog/check-immigration-documents-with-ai-before-filing/).
+After an abandonment denial, a motion or appeal on Form I-290B may be possible, but the filing window is short, so check the form instructions right away. Have an attorney file with Form G-28, send the response to the address on the RFE by certified mail or courier, and keep proof. Learn [how to find an immigration lawyer](/blog/how-to-find-good-immigration-lawyer-startup-founder/) and [use AI to check your paperwork](/blog/check-immigration-documents-with-ai-before-filing/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS Policy Manual Vol. 1, Part E, Ch. 6](https://www.uscis.gov/policy-manual/volume-1-part-e-chapter-6); [USCIS premium processing](https://www.uscis.gov/forms/all-forms/how-do-i-request-premium-processing); [Boundless](https://www.boundless.com/blog/uscis-premium-processing-fees-increase-march-2026); [Headman Law](https://headmanlaw.com/insights/uscis-rfe-deadlines-explained/); [Fragomen](https://www.fragomen.com/insights/united-states-uscis-expands-adjudicators-authority-to-deny-filings-without-a-request-for-evidence.html); [Greenberg Traurig](https://www.gtlaw-insidebusinessimmigration.com/rfe/usciss-new-rfe-policy-is-already-having-an-impact-30-day-response-deadlines-are-emerging/).
+**Sources:** [USCIS Policy Manual Vol. 1, Part E, Ch. 6](https://www.uscis.gov/policy-manual/volume-1-part-e-chapter-6); [USCIS premium processing](https://www.uscis.gov/forms/all-forms/how-do-i-request-premium-processing); [Fragomen](https://www.fragomen.com/insights/united-states-uscis-expands-adjudicators-authority-to-deny-filings-without-a-request-for-evidence.html); [Greenberg Traurig](https://www.gtlaw-insidebusinessimmigration.com/rfe/usciss-new-rfe-policy-is-already-having-an-impact-30-day-response-deadlines-are-emerging/).
 
 ## FAQ
 
@@ -71,7 +71,7 @@ The Policy Manual sets a 12-week maximum (84 days), but the August 2026 guidance
 
 **Can I get an extension on an RFE?**
 
-The Policy Manual says officers cannot grant more than the maximum, and Headman says extensions are almost never granted.
+The Policy Manual says officers cannot grant more than the maximum, and our sources do not describe a general right to an extension, so plan to meet the deadline.
 
 **Can I send my RFE response in pieces?**
 

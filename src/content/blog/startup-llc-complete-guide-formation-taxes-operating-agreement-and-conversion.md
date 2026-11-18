@@ -6,13 +6,13 @@ pubDate: 'Nov 17 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Is an LLC a good choice for a startup?'
-    answer: 'It can be, especially for a bootstrapped company or one funded from revenue. If you expect a priced venture round, many employee stock options or QSBS, plan for a C corporation, since Rho (2026) and The Startup Law Blog (October 2025) tie preferred stock and QSBS to corporations.'
+    answer: 'It can be, especially for a bootstrapped company or one funded from revenue. If you expect a priced venture round, many employee stock options or QSBS, plan for a C corporation, since preferred stock and the QSBS tax break are generally tied to corporations. Confirm with a CPA and attorney.'
   - question: 'How is a startup LLC taxed?'
     answer: 'By default a one-member LLC is a disregarded entity and an LLC with more than one member is a partnership, per the IRS (August 2026). The LLC can elect different treatment with Form 8832, and an S corporation election has ownership limits, per the IRS.'
   - question: 'Do I need an operating agreement for a startup LLC?'
-    answer: 'Inc Authority (May 2026) recommends one for every LLC and notes some states require it. With two or more founders or any outside money, have an attorney review it before anyone invests.'
+    answer: 'Even a one-person LLC benefits from one, and some states require one. With two or more founders or any outside money, have an attorney review it before anyone invests.'
   - question: 'Can an LLC be converted to a C corp later?'
-    answer: 'Yes. Common methods are a statutory conversion, a statutory merger or a Section 351 exchange, per Rho and Terms.law. Check the operating agreement vote required, the tax effects and QSBS timing with a CPA and attorney.'
+    answer: 'Yes. Common methods are a statutory conversion, a statutory merger or a Section 351 exchange. Check the operating agreement vote required, the tax effects and QSBS timing with a CPA and attorney.'
   - question: 'Do LLCs still have to file BOI reports in 2026?'
     answer: 'As of November 2026, domestic US companies do not, per Troutman Pepper Locke summarizing FinCEN final rule of August 11, 2026. Foreign entities registered in a US state still may, and some states have their own rules.'
 toc:
@@ -53,9 +53,9 @@ This guide covers why founders pick an LLC, formation, tax options, the operatin
 
 ## 2. Why founders pick an LLC (and where it stops working)
 
-Founders pick an LLC because it is quick to set up, has fewer formalities than a corporation and can protect personal assets from business debts. Inc Authority (May 13, 2026) describes it as a structure under state law that legally separates you from the business.
+Founders pick an LLC because it is quick to set up, has fewer formalities than a corporation and can protect personal assets from business debts. It is a structure under state law that legally separates you from the business.
 
-**Where the protection has limits,** per Inc Authority:
+**Where the protection has limits:**
 
 - **Personal guarantees:** if you guarantee a loan, the lender can pursue you.
 - **Veil piercing:** courts may disregard the LLC if you mix personal and business money, skip required filings or use it for fraud. See [LLC bank account and commingling habits](/blog/llc-startup-bank-account-commingling-liability-protection-habits/).
@@ -65,7 +65,7 @@ Founders pick an LLC because it is quick to set up, has fewer formalities than a
 
 ## 3. How to form a startup LLC, step by step
 
-Fees and rules differ by state, so use your Secretary of State page for current numbers. The common sequence, per Inc Authority (May 13, 2026):
+Fees and rules differ by state, so use your Secretary of State page for current numbers. The common sequence:
 
 1. **Check the name.** It must include "LLC" or "Limited Liability Company" and be distinguishable from names on file.
 2. **Name a registered agent** with a physical address in the state. You can act as your own agent, but your address becomes public.
@@ -105,24 +105,24 @@ The operating agreement is the company's internal rulebook. Even a one-person LL
 - **Vesting and departure:** what happens to a founder's units if they leave early; see [vesting cliffs](/blog/cofounder-vesting-cliff-explained/).
 - **Transfers and distributions:** limits on selling units, and when and how profits and tax distributions are paid.
 - **IP and confidentiality:** the company, not individual founders, should own the product.
-- **Conversion and sale:** what vote approves converting or selling. Terms.law (November 14, 2025) advises checking your agreement for the vote required to approve a conversion.
+- **Conversion and sale:** what vote approves converting or selling. Check your agreement for the vote required to approve a conversion.
 - **Exit:** buy-sell terms and dissolution; see [how to dissolve an LLC](/blog/how-to-dissolve-an-llc-step-by-step/).
 
 A template can work for a single owner with no outside money. With two or more founders, investors or a conversion plan, have an attorney review it first; see [do I need a lawyer to start an LLC](/blog/do-i-need-a-lawyer-to-start-an-llc-diy-ai-or-attorney/).
 
 ## 6. Raising money with an LLC and converting to a C corp later
 
-Venture investors typically buy preferred stock, which only corporations issue, and standard employee option plans are built for corporations, per Rho's 2026 conversion guide. QSBS under Section 1202 applies only to C corporation stock, and the holding period generally starts at conversion, not LLC formation, per Rho and The Startup Law Blog (October 9, 2025). See [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/) and the [QSBS checklist](/blog/qsbs-checklist-before-you-issue-stock-startups/).
+Venture investors typically buy preferred stock, which corporations issue, and standard employee option plans are usually built for corporations. QSBS under Section 1202 applies to C corporation stock, so the holding period generally cannot start before the business is a C corporation; confirm timing with a CPA. See [QSBS explained](/blog/qsbs-section-1202-explained-startup-founders/) and the [QSBS checklist](/blog/qsbs-checklist-before-you-issue-stock-startups/).
 
 **You can raise early money as an LLC.** SAFEs and convertible notes are common, but read them carefully first: [SAFE agreement for founders](/blog/safe-agreement-startup-founders/) and [convertible note vs SAFE](/blog/convertible-note-vs-safe/).
 
-**Conversion methods** (per Rho, Terms.law and Harvard Business Services):
+**Common conversion methods** (state rules and tax treatment vary, so confirm with an attorney and CPA):
 
-- **Statutory conversion:** in Delaware, usually the simplest route. The entity continues, so contracts and bank accounts stay with it. Delaware requires a certificate of conversion and a certificate of incorporation (Harvard Business Services, March 17, 2026).
+- **Statutory conversion:** where your state allows it, often the simplest route, because the same entity continues. State filing requirements differ.
 - **Statutory merger:** form a new corporation and merge the LLC into it.
-- **Section 351 exchange or assets-over:** members contribute LLC interests or assets for stock. Terms.law says this can be tax-free if transferors hold at least 80% afterward and receive only stock, and flags traps such as liabilities above basis.
+- **Section 351 exchange or assets-over:** members contribute LLC interests or assets for stock. Tax treatment depends on the facts, including liabilities relative to basis, so have a CPA review it.
 
-**Check before you convert:** the vote your operating agreement requires, debts versus asset basis, and tax effects with a CPA. Rho says converting earlier, when the company is worth less, is generally better for QSBS; Terms.law advises converting before fundraising talks begin. See [convert LLC to C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/) and the [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/).
+**Check before you convert:** the vote your operating agreement requires, debts versus asset basis, and tax effects with a CPA. Timing matters for QSBS and for fundraising, so raise the conversion question with your advisers before fundraising talks begin. See [convert LLC to C corp before fundraising](/blog/convert-llc-to-c-corp-before-fundraising/) and the [fundraising due diligence checklist](/blog/due-diligence-checklist-for-startup-fundraising/).
 
 Delaware fee and franchise tax figures differ across sources, so confirm them with the Division of Corporations; see [Delaware franchise tax](/blog/delaware-franchise-tax-startups/) and [how to incorporate in the US](/blog/how-to-incorporate-a-company-in-the-us/). Bring in an attorney when you have two or more founders, outside investors, debt, valuable assets in the LLC or non-US owners.
 
@@ -132,13 +132,13 @@ Delaware fee and franchise tax figures differ across sources, so confirm them wi
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [IRS, Limited liability company: possible repercussions (reviewed Aug. 22, 2026)](https://www.irs.gov/node/7774); [IRS, S corporations (reviewed June 11, 2026)](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations); [Rho, How to Convert an LLC to a C Corp in 2026](https://www.rho.co/blog/convert-llc-to-c-corp); [The Startup Law Blog, Only C corps can issue QSBS (Oct. 9, 2025)](https://thestartuplawblog.com/only-c-corps-can-issue-qsbs-1202-tax-break/); [Terms.law, LLC to C-Corp Conversion Guide (Nov. 14, 2025)](https://terms.law/2025/11/14/llc-to-c-corp-conversion-guide/); [Harvard Business Services, How to Convert Your LLC to a Corporation (Mar. 17, 2026)](https://www.delawareinc.com/blog/how-to-convert-your-llc-to-a-corporation/); [Inc Authority, What Is an LLC (May 13, 2026)](https://www.incauthority.com/blog/how-to-start-an-llc-the-complete-2026-guide); [Troutman Pepper Locke, FinCEN ends BOI reporting for US companies](https://www.troutman.com/insights/relief-is-real-but-not-universal-fincen-permanently-ends-boi-reporting-for-us-companies/).
+**Sources:** [IRS, Limited liability company: possible repercussions (reviewed Aug. 22, 2026)](https://www.irs.gov/node/7774); [IRS, S corporations (reviewed June 11, 2026)](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations); [Troutman Pepper Locke, FinCEN ends BOI reporting for US companies](https://www.troutman.com/insights/relief-is-real-but-not-universal-fincen-permanently-ends-boi-reporting-for-us-companies/).
 
 ## FAQ
 
 **Is an LLC a good choice for a startup?**
 
-It can be, especially for a bootstrapped company or one funded from revenue. If you expect a priced venture round, many employee stock options or QSBS, plan for a C corporation, since Rho (2026) and The Startup Law Blog (October 2025) tie preferred stock and QSBS to corporations.
+It can be, especially for a bootstrapped company or one funded from revenue. If you expect a priced venture round, many employee stock options or QSBS, plan for a C corporation, since preferred stock and the QSBS tax break are generally tied to corporations. Confirm with a CPA and attorney.
 
 **How is a startup LLC taxed?**
 
@@ -150,7 +150,7 @@ Inc Authority (May 2026) recommends one for every LLC and notes some states requ
 
 **Can an LLC be converted to a C corp later?**
 
-Yes. Common methods are a statutory conversion, a statutory merger or a Section 351 exchange, per Rho and Terms.law. Check the operating agreement vote required, the tax effects and QSBS timing with a CPA and attorney.
+Yes. Common methods are a statutory conversion, a statutory merger or a Section 351 exchange. Check the operating agreement vote required, the tax effects and QSBS timing with a CPA and attorney.
 
 **Do LLCs still have to file BOI reports in 2026?**
 

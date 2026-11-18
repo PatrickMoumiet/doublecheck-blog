@@ -6,13 +6,13 @@ pubDate: 'Nov 16 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What should I do first after forming an LLC?'
-    answer: 'Save your approved formation documents, then get an EIN from the IRS, sign an operating agreement and open a business bank account. A 2026 MyCorporation guide lists these early steps, and the IRS says an EIN is free.'
+    answer: 'Save your approved formation documents, then get an EIN from the IRS, sign an operating agreement and open a business bank account. The SBA lists the EIN, formation documents and ownership agreements among what banks commonly ask for, and the IRS says an EIN is free.'
   - question: 'Do I still need to file a BOI report for my LLC in 2026?'
     answer: 'Generally no for a US-formed LLC. Law-firm summaries of FinCEN August 2026 final rule say domestic reporting companies are exempt, while foreign entities registered to do business in the US still report non-US owners. Check FinCEN for current status.'
   - question: 'Is a startup LLC first 30 days checklist a legal deadline?'
     answer: 'No. The 30 days is a practical order of work. Legal deadlines come from your state, the IRS and other agencies, so confirm them with your state filing office.'
   - question: 'Do I need an IP assignment if I am the only founder?'
-    answer: 'It is wise. Per Promise Legal (July 2026), copyright vests in the human author, so work you created stays yours unless you assign it to the company in writing, and investors look for signed assignments.'
+    answer: 'It is wise. Under the Copyright Act, copyright vests initially in the author, and a transfer generally must be in a signed writing, so work you created stays yours unless you assign it to the company in writing.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -47,7 +47,7 @@ Use this as a working checklist. It assumes the LLC is already formed; if you ar
 
 ## 2. Days 1 to 10: EIN, operating agreement, bank account
 
-**Save the paperwork.** Keep the state-approved formation document and any stamped copy, digital and printed. A 2026 post-formation guide from MyCorporation (April 26, 2026) lists this as the first step.
+**Save the paperwork.** Keep the state-approved formation document and any stamped copy, digital and printed. You will need it for the bank, for the EIN and for later filings.
 
 **Get an EIN.** The IRS says you never have to pay a fee for an EIN, and its online tool issues the number immediately if the application is approved (IRS page, last reviewed October 16, 2026). Points from that page:
 
@@ -58,17 +58,17 @@ Use this as a working checklist. It assumes the LLC is already formed; if you ar
 
 If you have no SSN, see [getting an EIN without an SSN as a foreign founder](/blog/get-ein-without-ssn-foreign-founder/) and [how to get an EIN for free](/blog/how-to-get-an-ein-for-your-business-free/).
 
-**Sign an operating agreement.** MyCorporation describes it as the internal rulebook covering ownership, decision-making, profit sharing and who can sign contracts. Even a single-member LLC benefits from one. Update it when ownership or roles change. See [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/).
+**Sign an operating agreement.** The SBA says an operating agreement covers matters such as each member's ownership percentage, voting rights, the powers and duties of members and managers, and how profits and losses are distributed. Even a single-member LLC may benefit from one, and it is worth updating when ownership or roles change. See [LLC operating agreement with AI](/blog/llc-operating-agreement-with-ai/).
 
-**Open a business bank account.** The same guide lists the usual requirements: formation document, EIN confirmation, operating agreement, owner photo ID and proof of business address. Pay business costs from this account only; see [LLC bank account and commingling habits](/blog/llc-startup-bank-account-commingling-liability-protection-habits/).
+**Open a business bank account.** The SBA says banks commonly ask for an EIN, your formation documents, ownership agreements and a business license, and some banks ask for more. The SBA also notes that business banking helps keep business and personal funds separate, so pay business costs from this account only; see [LLC bank account and commingling habits](/blog/llc-startup-bank-account-commingling-liability-protection-habits/).
 
 ![Five-step order of work for the first 30 days after forming an LLC](/images/startup-llc-first-30-days-checklist-after-you-form/steps.webp)
 
 ## 3. Days 10 to 20: registered agent, state and local filings, ownership reporting
 
-**Confirm your registered agent.** Per MyCorporation (January 2026), every US LLC must appoint one, the agent receives lawsuits, court orders and government mail and forwards them, and the agent needs a physical street address in the state because many states do not accept P.O. boxes. It also says a lapse can lead to default judgments, loss of good standing or administrative dissolution. Check that the name and address on file match your records. See [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/) for one state's rules.
+**Confirm your registered agent.** Per Nolo, states require most business entities to have a registered agent, the agent receives court papers (service of process) and state notices, and you must give a physical street address in the state. Check that the name and address on file match your records so lawsuits and state notices actually reach you. See [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/) for one state's rules.
 
-**Check state and local filings.** Annual or biennial reports, franchise taxes, fees and licenses are set by each state and sometimes by your city or county. A July 2026 compliance guide from Stable notes that missing a filing with one agency will not be flagged by the others, and recommends reminders 30 to 60 days before each deadline. We do not quote fees here because they differ by state and change; confirm them with your state filing office. See [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/), [business license requirements](/blog/business-license-requirements-small-business/) and [register for state payroll taxes as a new employer](/blog/register-for-state-payroll-taxes-new-employer/) if you will hire.
+**Check state and local filings.** Annual or biennial reports, franchise taxes, fees and licenses are set by each state and sometimes by your city or county. Each agency tracks its own deadlines, so set calendar reminders well ahead of each one. We do not quote fees here because they differ by state and change; confirm them with your state filing office. See [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/), [business license requirements](/blog/business-license-requirements-small-business/) and [register for state payroll taxes as a new employer](/blog/register-for-state-payroll-taxes-new-employer/) if you will hire.
 
 **Ownership (BOI) reporting, as of November 2026.** Two law-firm summaries agree on the current picture:
 
@@ -80,7 +80,7 @@ So a US-formed LLC generally does not file a BOI report now. State rules are sep
 
 ## 4. Days 20 to 30: IP assignment, insurance, and when to call an attorney
 
-**Assign IP to the LLC.** Per Promise Legal (July 5, 2026), copyright vests automatically in the human author, so a founder's code, documents and designs stay with the founder unless assigned in writing. The same article advises that assignments reach back to the date the first line was written, that investors look for signed assignments from every founder and early contributor, and that gaps should be fixed before a data room link goes out. Do the same for contractors and early hires; see [confidentiality and IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/) and [issuing a founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/).
+**Assign IP to the LLC.** Under 17 U.S.C. 201(a), copyright vests initially in the author, and under 17 U.S.C. 204(a) a transfer of ownership must be in writing and signed by the owner of the rights conveyed. So a founder's code, documents and designs stay with the founder unless assigned in writing. It is common practice to have every founder and early contributor sign an assignment, ideally before you share a data room; ask an attorney how to handle work created before the LLC existed. Do the same for contractors and early hires; see [confidentiality and IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/) and [issuing a founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/).
 
 **Decide on insurance.** The SBA's business insurance page (last updated April 8, 2024) lists general liability, product liability, professional liability, commercial property, home-based business and business owner's policies, and says the federal government requires every business with employees to have workers' compensation, unemployment and disability insurance; it adds that some states require more. That wording is the SBA's, and rules differ by state, so check yours. See [business insurance types](/blog/business-insurance-types-small-business/) and [workers' compensation requirements for startups](/blog/workers-compensation-insurance-requirements-startups/).
 
@@ -92,13 +92,13 @@ So a US-formed LLC generally does not file a BOI report now. State rules are sep
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [IRS, Get an employer identification number (reviewed Oct. 16, 2026)](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online); [Morrison Foerster, FinCEN Ends Beneficial Ownership Reporting Requirements for U.S. Companies (Aug. 2026)](https://www.mofo.com/resources/insights/260820-fincen-ends-beneficial-ownership-reporting); [Stradley Ronon, FinCEN final rule ends BOI reporting for U.S. entities](https://www.stradley.com/publications/fincen-final-rule-ends-beneficial-ownership-reporting-requirements-for-u-s-entities-permanently); [MyCorporation, What to do after forming an LLC (Apr. 26, 2026)](https://www.blog.mycorporation.com/2026/04/what-to-do-after-forming-an-llc/); [MyCorporation, What is a registered agent for an LLC (Jan. 2026)](https://blog.mycorporation.com/2026/01/what-is-a-registered-agent-for-an-llc/); [Stable, Annual LLC compliance requirements (July 2026)](https://www.usestable.com/blog/annual-llc-compliance-requirements); [Promise Legal, Founder IP assignment (July 5, 2026)](https://blog.promise.legal/startup-central/founder-ip-assignment-startup/); [SBA, Get business insurance (updated Apr. 8, 2024)](https://legacy.sba.gov/business-guide/launch-your-business/get-business-insurance).
+**Sources:** [IRS, Get an employer identification number (reviewed Oct. 16, 2026)](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online); [Morrison Foerster, FinCEN Ends Beneficial Ownership Reporting Requirements for U.S. Companies (Aug. 2026)](https://www.mofo.com/resources/insights/260820-fincen-ends-beneficial-ownership-reporting); [Stradley Ronon, FinCEN final rule ends BOI reporting for U.S. entities](https://www.stradley.com/publications/fincen-final-rule-ends-beneficial-ownership-reporting-requirements-for-u-s-entities-permanently); [SBA, Open a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account); [SBA, Basic information about operating agreements](https://www.sba.gov/blog/basic-information-about-operating-agreements); [Nolo, What is a registered agent](https://www.nolo.com/legal-encyclopedia/what-registered-agent.html); [U.S. Copyright Office, Title 17 Chapter 2 (ownership and transfer)](https://www.copyright.gov/title17/92chap2.html); [SBA, Get business insurance (updated Apr. 8, 2024)](https://legacy.sba.gov/business-guide/launch-your-business/get-business-insurance).
 
 ## FAQ
 
 **What should I do first after forming an LLC?**
 
-Save your approved formation documents, then get an EIN from the IRS, sign an operating agreement and open a business bank account. A 2026 MyCorporation guide lists these early steps, and the IRS says an EIN is free.
+Save your approved formation documents, then get an EIN from the IRS, sign an operating agreement and open a business bank account. The SBA lists the EIN, formation documents and ownership agreements among what banks commonly ask for, and the IRS says an EIN is free.
 
 **Do I still need to file a BOI report for my LLC in 2026?**
 
@@ -110,7 +110,7 @@ No. The 30 days is a practical order of work. Legal deadlines come from your sta
 
 **Do I need an IP assignment if I am the only founder?**
 
-It is wise. Per Promise Legal (July 2026), copyright vests in the human author, so work you created stays yours unless you assign it to the company in writing, and investors look for signed assignments.
+It is wise. Under the Copyright Act, copyright vests initially in the author, and a transfer generally must be in a signed writing, so work you created stays yours unless you assign it to the company in writing.
 
 ---
 

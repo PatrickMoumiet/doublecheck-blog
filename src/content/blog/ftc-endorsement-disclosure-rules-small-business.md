@@ -6,9 +6,9 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Do I have to disclose free products given to influencers?'
-    answer: 'Generally yes. Per InfoLawGroup''s summary of the 2023 Endorsement Guides, free or discounted products, even unrelated ones, can be material connections that require disclosure.'
+    answer: 'Generally yes. Free or discounted products can be material connections that call for disclosure; see the FTC''s endorsements guidance.'
   - question: 'Is #ad enough?'
-    answer: 'No specific wording is required. Per InfoLawGroup, vague hashtags like #ambassador or #partner alone were described as insufficient, and the disclosure must fit the format, for example visual and audible in video.'
+    answer: 'No specific wording is required. Vague hashtags like #ambassador or #partner alone may be insufficient, and the disclosure should fit the format, for example visual and audible in video.'
   - question: 'Can I be fined for fake reviews?'
     answer: 'Yes. Per Morgan Lewis, violations of the FTC''s consumer reviews rule can bring civil penalties of up to $51,744 per violation, subject to annual inflation adjustment, plus other relief such as redress.'
   - question: 'Can my terms ban negative reviews?'
@@ -47,13 +47,13 @@ toc:
 
 The [FTC's endorsements and reviews page](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews) says the Guides cover disclosing material connections between advertisers and endorsers, including on social media. The FTC summary of the principle: make a good disclosure of your relationship to the brand.
 
-Per [InfoLawGroup's summary of the 2023 update](https://www.infolawgroup.com/insights/2023/7/31/ftc-releases-updated-endorsement-guides-10-key-takeaways):
+In general terms, FTC guidance on the updated Guides points to these practical takeaways (confirm the details in the FTC's own Guides and FAQs):
 
 - **Endorsement is broad.** Tagging a brand or visibly enjoying a product in a video may count.
 - **Disclosure must match the format.** Visual endorsements need visual disclosures; audio endorsements need audible ones. For video, put it in both where applicable.
-- **Hashtags alone are risky.** Terms like #ad can help, but vague ones such as #ambassador or #partner alone were described as insufficient; naming the brand makes it clearer.
+- **Hashtags alone are risky.** Terms like #ad can help, but vague ones such as #ambassador or #partner alone may be insufficient; naming the brand makes it clearer.
 - **Context counts.** Consider platform, device, and language. A caption may not be enough if the post conveys the endorsement without the viewer reading it.
-- **Affiliate links need disclosure.** "Paid link" next to the link is likely sufficient; "commissionable link" likely is not.
+- **Affiliate links need disclosure.** A clear label such as "paid link" next to the link is more likely to work than a vague one.
 - **Both sides can be liable.** Influencers can be liable for false statements they knew or should have known were inaccurate, and advertisers are liable for misrepresentations made through endorsers.
 - **Monitor.** Brands should train, monitor, and promptly address noncompliant endorsers, including those who only received free products.
 
@@ -97,17 +97,17 @@ For handling a bad review you think is false, read [online reviews and defamatio
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [FTC, Endorsements, Influencers, and Reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews); [InfoLawGroup, 2023 Endorsement Guides](https://www.infolawgroup.com/insights/2023/7/31/ftc-releases-updated-endorsement-guides-10-key-takeaways); [Morgan Lewis, FTC final rule on reviews](https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials); [Wilson Sonsini](https://wsgr.com/en/insights/ftc-issues-final-rule-banning-fake-and-misleading-consumer-reviews-and-testimonials.html); [JD Supra, CRFA](https://jdsupra.com/legalnews/what-the-ftc-wants-businesses-to-know-70083/).
+**Sources:** [FTC, Endorsements, Influencers, and Reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews); [Morgan Lewis, FTC final rule on reviews](https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials); [Wilson Sonsini](https://wsgr.com/en/insights/ftc-issues-final-rule-banning-fake-and-misleading-consumer-reviews-and-testimonials.html); [JD Supra, CRFA](https://jdsupra.com/legalnews/what-the-ftc-wants-businesses-to-know-70083/).
 
 ## FAQ
 
 **Do I have to disclose free products given to influencers?**
 
-Generally yes. Per InfoLawGroup's summary of the 2023 Endorsement Guides, free or discounted products, even unrelated ones, can be material connections that require disclosure.
+Generally yes. Free or discounted products can be material connections that call for disclosure; see the FTC's endorsements guidance.
 
 **Is #ad enough?**
 
-No specific wording is required. Per InfoLawGroup, vague hashtags like #ambassador or #partner alone were described as insufficient, and the disclosure must fit the format, for example visual and audible in video.
+No specific wording is required. Vague hashtags like #ambassador or #partner alone may be insufficient, and the disclosure should fit the format, for example visual and audible in video.
 
 **Can I be fined for fake reviews?**
 

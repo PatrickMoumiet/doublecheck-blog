@@ -8,9 +8,9 @@ faq:
   - question: 'How much does it cost to start an LLC in Texas?'
     answer: 'Per Mosey''s Texas guide, the Certificate of Formation filing fee is $300. A third-party registered agent typically adds about $150 a year, while an owner can serve as agent at no cost.'
   - question: 'Do Texas LLCs pay franchise tax?'
-    answer: 'Only above the no-tax-due threshold, which is $2.65 million in annualized total revenue for the 2026 report year per VJM Global''s summary of the Comptroller''s instructions. Entities under it generally still file a report. Confirm with the Comptroller.'
+    answer: 'Only above the no-tax-due threshold, which is $2.65 million in annualized total revenue for the 2026 report year per the Texas Comptroller. Entities under it generally still file a report. Confirm with the Comptroller.'
   - question: 'When is the Texas LLC report due?'
-    answer: 'May 15 each year for both the franchise tax report and the Public Information Report, per Mosey and VJM Global. An extension gives more time to file, not to pay.'
+    answer: 'May 15 each year for both the franchise tax report and the Public Information Report, per Mosey and the Texas Comptroller. An extension gives more time to file, not to pay.'
   - question: 'Do I need an operating agreement in Texas?'
     answer: 'Mosey says it is not legally required but calls it crucial. It is not filed with the state, and it sets management, distributions, and dispute rules.'
 toc:
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in Texas, confirm your name is available with the Texas Secretary of State, name a registered agent with a physical Texas address, and file a Certificate of Formation (Form 205). Per Mosey's Texas guide, the filing fee is $300. Then adopt an operating agreement, get a free EIN, and each year by May 15 file the franchise tax report and Public Information Report. For the 2026 report year, the no-tax-due threshold is $2.65 million in annualized total revenue, per VJM Global's summary of the Comptroller's instructions.
+**Quick answer:** To start an LLC in Texas, confirm your name is available with the Texas Secretary of State, name a registered agent with a physical Texas address, and file a Certificate of Formation (Form 205). Per Mosey's Texas guide, the filing fee is $300. Then adopt an operating agreement, get a free EIN, and each year by May 15 file the franchise tax report and Public Information Report. For the 2026 report year, the no-tax-due threshold is $2.65 million in annualized total revenue, per the Texas Comptroller.
 
 ![Texas LLC fees and requirements at a glance](/images/how-to-start-an-llc-in-texas/grid.webp)
 
@@ -59,7 +59,7 @@ toc:
 
 ## 3. Ongoing: franchise tax and the May 15 deadline
 
-Texas has no separate LLC annual report fee in the sources we checked. Instead, the recurring work is the Comptroller's franchise tax report. Per Mosey and VJM Global:
+Texas has no separate LLC annual report fee in the sources we checked. Instead, the recurring work is the Comptroller's franchise tax report. Per Mosey and the Texas Comptroller:
 
 - **Due date:** May 15 each year, for both the franchise tax report and the Public Information Report (PIR, Form 05-102).
 - **No-tax-due threshold:** $2.65 million in annualized total revenue for the 2026 report year. At or below it, no tax is owed, but entities generally still file the PIR or an Ownership Information Report.
@@ -80,7 +80,7 @@ A single-member LLC is usually taxed as a disregarded entity federally; see [sin
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mosey: How to start a Texas LLC](https://mosey.com/blog/llc-in-texas/); [VJM Global: Texas franchise tax threshold 2026](https://www.vjmglobal.com/feeds/blog/franchise-tax-threshold-2026-tx); [Texas Comptroller: 2026 franchise tax](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php).
+**Sources:** [Mosey: How to start a Texas LLC](https://mosey.com/blog/llc-in-texas/); [Texas Comptroller: 2026 franchise tax](https://comptroller.texas.gov/taxes/franchise/forms/2026-franchise.php).
 
 ## FAQ
 
@@ -90,11 +90,11 @@ Per Mosey's Texas guide, the Certificate of Formation filing fee is $300. A thir
 
 **Do Texas LLCs pay franchise tax?**
 
-Only above the no-tax-due threshold, which is $2.65 million in annualized total revenue for the 2026 report year per VJM Global's summary of the Comptroller's instructions. Entities under it generally still file a report. Confirm with the Comptroller.
+Only above the no-tax-due threshold, which is $2.65 million in annualized total revenue for the 2026 report year per the Texas Comptroller. Entities under it generally still file a report. Confirm with the Comptroller.
 
 **When is the Texas LLC report due?**
 
-May 15 each year for both the franchise tax report and the Public Information Report, per Mosey and VJM Global. An extension gives more time to file, not to pay.
+May 15 each year for both the franchise tax report and the Public Information Report, per Mosey and the Texas Comptroller. An extension gives more time to file, not to pay.
 
 **Do I need an operating agreement in Texas?**
 

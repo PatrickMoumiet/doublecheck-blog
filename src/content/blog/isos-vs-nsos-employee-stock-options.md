@@ -6,7 +6,7 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is the $100,000 limit on ISOs?'
-    answer: 'Per WilmerHale Launch, shares that first become exercisable in a calendar year, valued at grant-date fair market value, may not exceed $100,000. Per Joe Wallin, the excess is treated as NSOs.'
+    answer: 'Per WilmerHale Launch, shares that first become exercisable in a calendar year, valued at grant-date fair market value, may not exceed $100,000. Per the IRS, the excess is treated as NSOs.'
   - question: 'Do ISOs trigger AMT?'
     answer: 'They can. The IRS says you may be subject to alternative minimum tax in the year you exercise an ISO, and points to the Form 6251 instructions. Whether you owe any depends on your full tax picture, so ask a tax professional.'
   - question: 'Can contractors or advisors get ISOs?'
@@ -55,7 +55,7 @@ ISO requirements listed by WilmerHale:
 - Options that are nontransferable.
 - **The $100,000 limit:** shares that first become exercisable in a calendar year, valued at grant-date FMV, may not exceed $100,000.
 
-Joe Wallin adds that the limit uses grant-date value, not the later spread, and that any excess is treated as an NSO. He also notes that an employee who stops working for you generally has three calendar months to exercise and keep ISO treatment (one year for disability), though the plan sets the actual expiration date. The strike price itself comes from a valuation; see [409A valuations](/blog/stock-options-409a-valuation-startups/).
+The limit uses grant-date value, not the later spread, and any excess is treated as an NSO. An employee who stops working for you generally has three months to exercise and keep ISO treatment (longer for disability), though the plan sets the actual expiration date. The strike price itself comes from a valuation; see [409A valuations](/blog/stock-options-409a-valuation-startups/).
 
 ## 3. How the tax treatment differs
 
@@ -65,7 +65,7 @@ For an NSO whose value is not readily determined (most startup options), grantin
 
 ![Tax events for ISOs and NSOs](/images/isos-vs-nsos-employee-stock-options/grid.webp)
 
-**Holding periods (ISO).** WilmerHale and Wallin both state the test: hold the stock at least two years from grant and one year from exercise. Selling earlier is a disqualifying disposition, which is taxed like an NSO, though WilmerHale notes no income or employment tax withholding is required on it. NSO exercises do require withholding.
+**Holding periods (ISO).** WilmerHale and the IRS state the test: hold the stock at least two years from grant and one year from exercise. Selling earlier is a disqualifying disposition, which is taxed like an NSO, though WilmerHale notes no income or employment tax withholding is required on it. NSO exercises do require withholding.
 
 **Illustration (our arithmetic).** If you exercise 10,000 options at a $1 strike when the stock is worth $5, the spread is $40,000. For an NSO that is ordinary income at exercise. For an ISO it is not regular income at exercise, but the spread is an AMT adjustment, so ask a tax professional whether it creates a bill.
 
@@ -89,13 +89,13 @@ For employees: before exercising, model the AMT, the cash you need, and your 3-m
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [WilmerHale Launch, Tax differences between ISOs and NSOs](https://launch.wilmerhale.com/explore/formation/equity-incentives/tax-differences-between-isos-and-nsos); [Joe Wallin, ISO vs NSO Stock Options Complete Guide](https://www.thestartuplawblog.com/iso-vs-nso-stock-options-complete-guide/); [IRS, Topic no. 427, Stock options](https://www.irs.gov/taxtopics/tc427).
+**Sources:** [WilmerHale Launch, Tax differences between ISOs and NSOs](https://launch.wilmerhale.com/explore/formation/equity-incentives/tax-differences-between-isos-and-nsos); [IRS, Topic no. 427, Stock options](https://www.irs.gov/taxtopics/tc427).
 
 ## FAQ
 
 **What is the $100,000 limit on ISOs?**
 
-Per WilmerHale Launch, shares that first become exercisable in a calendar year, valued at grant-date fair market value, may not exceed $100,000. Per Joe Wallin, the excess is treated as NSOs.
+Per WilmerHale Launch, shares that first become exercisable in a calendar year, valued at grant-date fair market value, may not exceed $100,000. Per the IRS, the excess is treated as NSOs.
 
 **Do ISOs trigger AMT?**
 

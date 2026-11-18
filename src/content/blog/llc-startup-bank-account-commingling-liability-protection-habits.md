@@ -6,9 +6,9 @@ pubDate: 'Nov 16 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Does a separate bank account protect my LLC from veil piercing?'
-    answer: 'It helps but does not guarantee protection. Nolo says an LLC should have its own bank account and the owner should keep personal and business money separate, and ZenBusiness lists commingled funds as one factor courts weigh.'
+    answer: 'It helps but does not guarantee protection. Nolo says an LLC should have its own bank account and the owner should keep personal and business money separate, and commingled funds are a commonly cited factor courts weigh in veil-piercing cases.'
   - question: 'What happens if I commingle funds in my LLC?'
-    answer: 'It can be used as evidence that the LLC is not truly separate. ZenBusiness says commingling can cost you the liability protection through veil piercing, and suggests identifying personal transactions and getting CPA help to fix them.'
+    answer: 'It can be used as evidence that the LLC is not truly separate. Commingling can contribute to a court disregarding the LLC’s liability protection through veil piercing. If you have already mixed funds, ask an accountant or attorney how to identify and document the personal transactions.'
   - question: 'Do single-member LLCs need an operating agreement for liability protection?'
     answer: 'Nolo recommends one for single-member LLCs along with records of important decisions. Whether your state requires one varies, so check your state rules.'
   - question: 'Can I sign contracts in my own name for my LLC?'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** To keep an LLC's liability protection, treat it as a separate legal entity in practice: open a separate business bank account, never mix personal and business money, sign contracts in the LLC's name, keep an operating agreement and records, and fund the business adequately. Nolo explains that courts can ignore an entity's limited liability and hold owners personally liable, which is most likely for closely held corporations and small LLCs, including single-member LLCs. Courts also treat limited liability as a strong presumption and rarely pierce the veil lightly. ZenBusiness (last modified September 1, 2026) calls commingling "more of a legal problem than a tax problem."
+**Quick answer:** To keep an LLC's liability protection, treat it as a separate legal entity in practice: open a separate business bank account, never mix personal and business money, sign contracts in the LLC's name, keep an operating agreement and records, and fund the business adequately. Nolo explains that courts can ignore an entity's limited liability and hold owners personally liable, which is most likely for closely held corporations and small LLCs, including single-member LLCs. Courts also treat limited liability as a strong presumption and rarely pierce the veil lightly.
 
 The habits below are the practical side of an LLC startup bank account and commingling. They lower risk; they do not guarantee protection, because each state's courts decide on the facts.
 
@@ -47,13 +47,13 @@ The habits below are the practical side of an LLC startup bank account and commi
 
 ## 2. What commingling is and why it matters
 
-Per ZenBusiness (published February 1, 2024, last modified September 1, 2026), commingling means treating the business's money as your own. Its examples include depositing client payments into a personal account, paying personal expenses from business accounts without documentation, and using a personal credit card for business expenses. It lists "the presence of commingled funds" as one important factor courts weigh in veil piercing.
+Commingling means treating the business's money as your own, for example depositing client payments into a personal account, paying personal expenses from business accounts without documentation, or using a personal credit card for business expenses. Commingled funds are a commonly cited factor courts weigh in veil piercing.
 
 Nolo gives similar examples: paying personal bills from the business account or depositing company checks into a personal account. Its fix is simple: the business should have its own bank account and the owner should keep personal and business money separate.
 
-It also helps with taxes. ZenBusiness says "You can't deduct what you can't document," and that a separate account makes tax preparation easier. For tax treatment of a one-owner LLC, see [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/).
+It also helps with taxes, because a separate account makes expenses easier to document. For tax treatment of a one-owner LLC, see [single-member LLC taxes](/blog/single-member-llc-taxes-disregarded-entity/).
 
-**If you already mixed funds:** ZenBusiness suggests identifying the personal transactions first and getting CPA help for things like shareholder loans. Do not backdate paperwork; ask an accountant or attorney how to document and correct it going forward.
+**If you already mixed funds:** Start by identifying the personal transactions, and get CPA help for things like owner loans. Do not backdate paperwork; ask an accountant or attorney how to document and correct it going forward.
 
 ![Three groups of veil-piercing factors: commingling, weak formalities, undercapitalization or fraud](/images/llc-startup-bank-account-commingling-liability-protection-habits/cols.webp)
 
@@ -90,17 +90,17 @@ Use this as a starting list, not a legal standard.
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Nolo, Personal liability and piercing the corporate veil](https://www.nolo.com/legal-encyclopedia/personal-liability-piercing-corporate-veil-33006.html); [ZenBusiness, The Dangers of Mixing Business and Personal Funds (published Feb. 1, 2024; modified Sept. 1, 2026)](https://www.zenbusiness.com/blog/commingle-funds/); [Digital Media Law Project, Piercing the Corporate Veil (older content, about 2014)](https://www.dmlp.org/node/958). A Wolters Kluwer article on this topic failed to load, so no claims are drawn from it.
+**Sources:** [Nolo, Personal liability and piercing the corporate veil](https://www.nolo.com/legal-encyclopedia/personal-liability-piercing-corporate-veil-33006.html); [Digital Media Law Project, Piercing the Corporate Veil (older content, about 2014)](https://www.dmlp.org/node/958). A Wolters Kluwer article on this topic failed to load, so no claims are drawn from it.
 
 ## FAQ
 
 **Does a separate bank account protect my LLC from veil piercing?**
 
-It helps but does not guarantee protection. Nolo says an LLC should have its own bank account and the owner should keep personal and business money separate, and ZenBusiness lists commingled funds as one factor courts weigh.
+It helps but does not guarantee protection. Nolo says an LLC should have its own bank account and the owner should keep personal and business money separate, and commingled funds are a commonly cited factor courts weigh in veil-piercing cases.
 
 **What happens if I commingle funds in my LLC?**
 
-It can be used as evidence that the LLC is not truly separate. ZenBusiness says commingling can cost you the liability protection through veil piercing, and suggests identifying personal transactions and getting CPA help to fix them.
+It can be used as evidence that the LLC is not truly separate. Commingling can contribute to a court disregarding the LLC's liability protection through veil piercing. If you have already mixed funds, ask an accountant or attorney how to identify and document the personal transactions.
 
 **Do single-member LLCs need an operating agreement for liability protection?**
 

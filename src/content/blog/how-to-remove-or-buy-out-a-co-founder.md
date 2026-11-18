@@ -6,9 +6,9 @@ pubDate: 'Nov 10 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can I fire a co-founder who owns equity?'
-    answer: 'You can generally end an officer or employee role according to your documents, but not take their vested stock. Per Capbase, a non-board co-founder can be removed at any time, while a board member requires a board vote. Shares are handled separately, usually by repurchase or buyout.'
+    answer: 'You can generally end an officer or employee role according to your documents, but not take their vested stock. Under Delaware law, officers are removed as the bylaws or the board provide, while directors are removed by stockholders. Shares are handled separately, usually by repurchase or buyout.'
   - question: 'What happens to a co-founder''s unvested shares when they leave?'
-    answer: 'Per Clerky and DLA Piper, the company typically has a right to repurchase unvested shares at the price originally paid, and the right may expire after a set period. Document the notice and payment before the deadline in your agreement.'
+    answer: 'Per DLA Piper, the company typically has a right to repurchase unvested shares at the price originally paid, and the right may expire after a set period. Document the notice and payment before the deadline in your agreement.'
   - question: 'Can stockholders remove a director in Delaware?'
     answer: 'Per Richards, Layton & Finger on DGCL Section 141(k), a director can be removed with or without cause by a majority of shares entitled to vote, unless the board is classified or has cumulative voting. Check your charter and voting agreements.'
   - question: 'What if I skip the formalities?'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** You usually cannot simply "fire" a co-founder who owns stock. Start with the paper: the co-founder or stockholder agreement, the stock purchase agreement and vesting schedule, and the bylaws. If the person's shares are unvested, the company typically has a right to repurchase them, often at the price originally paid, per Clerky and DLA Piper. If they are vested, you generally need a negotiated buyout. A director can be removed by a stockholder vote under Delaware law, and an officer by the board, but each step has to follow the formalities, or a court can undo it.
+**Quick answer:** You usually cannot simply "fire" a co-founder who owns stock. Start with the paper: the co-founder or stockholder agreement, the stock purchase agreement and vesting schedule, and the bylaws. If the person's shares are unvested, the company typically has a right to repurchase them, often at the price originally paid, per DLA Piper. If they are vested, you generally need a negotiated buyout. A director can be removed by a stockholder vote under Delaware law, and an officer by the board, but each step has to follow the formalities, or a court can undo it.
 
 ![Five steps to remove or buy out a co-founder](/images/how-to-remove-or-buy-out-a-co-founder/steps.webp)
 
@@ -47,11 +47,11 @@ toc:
 
 Before any conversation, pull these and read them in this order:
 
-- **Stock purchase agreement and vesting schedule.** Per [Clerky](https://help.clerky.com/article/1748-what-needs-to-be-addressed-if-a-founder-separates-from-the-company), the company typically repurchases unvested shares at the original purchase price under the founder's stock purchase agreement, and the repurchase should be documented along with the payment. [DLA Piper](https://www.dlapiper.com/insights/publications/accelerate/employee-other-service-provider-matters/early-stage-breakups-a-few-pointers-to-keep-in-mind) adds that the right may expire after a set period, so check the deadline and pay the full amount before it. See [cofounder vesting and cliffs](/blog/cofounder-vesting-cliff-explained/).
+- **Stock purchase agreement and vesting schedule.** Per [DLA Piper](https://www.dlapiper.com/insights/publications/accelerate/employee-other-service-provider-matters/early-stage-breakups-a-few-pointers-to-keep-in-mind), the company typically repurchases unvested shares at the original purchase price under the founder's stock purchase agreement, so document the repurchase and the payment. The same source adds that the right may expire after a set period, so check the deadline and pay the full amount before it. See [cofounder vesting and cliffs](/blog/cofounder-vesting-cliff-explained/).
 - **Co-founder agreement and bylaws.** They may set roles, decision rights, and any buyout or transfer terms. See [co-founder agreements](/blog/co-founder-agreement-startups/). For a company with a few owners and no vesting, a [buy-sell agreement](/blog/buy-sell-agreement-small-business-partners/) may govern what happens on exit.
-- **Confidentiality and IP assignment.** DLA Piper says to confirm you have a signed agreement from the departing founder assigning their work to the company, because ownership claims tend to appear at awkward moments, like a financing or acquisition. Clerky notes the CIIAA includes a termination certification the company should have signed. See [IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/).
+- **Confidentiality and IP assignment.** DLA Piper says to confirm you have a signed agreement from the departing founder assigning their work to the company, because ownership claims tend to appear at awkward moments, like a financing or acquisition. See [IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/).
 
-If there is no vesting and no written agreement, your options narrow to negotiation. Ownership already earned is generally theirs, which is why vesting on founder stock matters. Capbase makes the same point, recommending vesting provisions on founder shares from the start.
+If there is no vesting and no written agreement, your options narrow to negotiation. Ownership already earned is generally theirs, which is why vesting on founder stock matters. This is why founders are commonly advised to put vesting on their stock from the start.
 
 ![How unvested shares, vested shares and no documents differ in a co-founder exit](/images/how-to-remove-or-buy-out-a-co-founder/cols.webp)
 
@@ -59,9 +59,9 @@ If there is no vesting and no written agreement, your options narrow to negotiat
 
 Ownership, board seat, and job are three separate things, and each is changed differently.
 
-- **Officer or employee role.** Per Capbase, a co-founder who is not on the board can be removed at any time, while a board member requires a board vote. This changes the job, not the stock.
+- **Officer or employee role.** Under [Delaware law](https://delcode.delaware.gov/title8/c001/sc004/index.html), officers are chosen and removed as the bylaws or the board provide, so a co-founder who is only an officer is typically removed by the board, while a director is removed by stockholders (next bullet). This changes the job, not the stock.
 - **Board seat.** Under Delaware law, stockholders can remove a director "with or without cause" by a majority of the shares entitled to vote, per [Richards, Layton & Finger](https://www.rlf.com/in-re-vaalco-energy-inc-stockholder-litigation-court-of-chancery-finds-that-certificate-and-bylaw-provisions-providing-that-directors-may-be-removed-for-cause-only-are-invalid-unless-board-is-class/) on Section 141(k). That firm notes removal can be limited to cause only for a classified board or cumulative voting. Check your charter and any voting agreement, because the founder may have a board-designation right.
-- **Voluntary resignation.** The cleanest route. Per Clerky, get a short written resignation from all director and officer positions, and consider reducing board size if no successor is planned. DLA Piper notes that if a founder will not resign, the board can consider removal.
+- **Voluntary resignation.** The cleanest route. Get a short written resignation from all director and officer positions, and consider reducing board size if no successor is planned. DLA Piper notes that if a founder will not resign, the board can consider removal.
 
 **Follow the formalities.** In *Foley v. Session Corp.* (Delaware Court of Chancery, summarized by [Troutman Pepper Locke](https://www.troutman.com/insights/delaware-court-of-chancery-rescinds-stock-cancellation-and-stock-repurchase-agreements-for-board-of-directors-failure-to-adhere-to-corporate-formalities/) in September 2025), one of four equal founders signed board consents alone as the supposed sole director, then terminated two others and repurchased their unvested shares for nominal sums. The court rescinded the agreements, because a non-unanimous director written consent is invalid under the DGCL and the board never properly authorized them. The lesson is procedural: hold a real board meeting or get a valid consent, count the votes correctly, and record them.
 
@@ -77,7 +77,7 @@ Ownership, board seat, and job are three separate things, and each is changed di
 
 **When you can handle this yourself vs. when to get an attorney.**
 
-- **Reasonable to handle with the right forms:** an amicable departure, clear vesting, signed IP assignment, and a founder who agrees to the terms. Clerky and similar guides provide templates.
+- **Reasonable to handle with the right forms:** an amicable departure, clear vesting, signed IP assignment, and a founder who agrees to the terms. Standard form documents exist for simple cases.
 - **Get an attorney's review:** any disagreement, vested shares you want to buy, a board or investor involved, missing agreements, or a founder with a board-designation right. Missed steps here are expensive and hard to reverse. For cap table context, see [how co-founders split equity](/blog/how-co-founders-split-equity-data/) and, if you are choosing counsel, [finding a startup lawyer in San Francisco](/blog/find-startup-lawyer-san-francisco/) and [how to know if your lawyer is good](/blog/how-do-i-know-if-my-lawyer-is-good/). Setting up the company correctly in the first place is covered in [how to incorporate in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/).
 
 **Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Cap Table Cleanup Before Series A: Common Problems and How to Fix Them](/blog/cap-table-cleanup-before-series-a-common-problems/)
@@ -86,17 +86,17 @@ Ownership, board seat, and job are three separate things, and each is changed di
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Clerky](https://help.clerky.com/article/1748-what-needs-to-be-addressed-if-a-founder-separates-from-the-company); [DLA Piper](https://www.dlapiper.com/insights/publications/accelerate/employee-other-service-provider-matters/early-stage-breakups-a-few-pointers-to-keep-in-mind); [Capbase](https://capbase.com/how-to-properly-deal-with-a-co-founder-leaving-your-startup/); [Troutman Pepper Locke on Foley v. Session Corp.](https://www.troutman.com/insights/delaware-court-of-chancery-rescinds-stock-cancellation-and-stock-repurchase-agreements-for-board-of-directors-failure-to-adhere-to-corporate-formalities/); [Richards, Layton & Finger on DGCL 141(k)](https://www.rlf.com/in-re-vaalco-energy-inc-stockholder-litigation-court-of-chancery-finds-that-certificate-and-bylaw-provisions-providing-that-directors-may-be-removed-for-cause-only-are-invalid-unless-board-is-class/); [Davis Wright Tremaine on 83(b)](https://dwt.com/blogs/startup-law-blog/2020/10/section-83b-election-for-startup-founders).
+**Sources:** [DLA Piper](https://www.dlapiper.com/insights/publications/accelerate/employee-other-service-provider-matters/early-stage-breakups-a-few-pointers-to-keep-in-mind); [Delaware Code Title 8, Chapter 1, Subchapter IV (DGCL 141-142)](https://delcode.delaware.gov/title8/c001/sc004/index.html); [Troutman Pepper Locke on Foley v. Session Corp.](https://www.troutman.com/insights/delaware-court-of-chancery-rescinds-stock-cancellation-and-stock-repurchase-agreements-for-board-of-directors-failure-to-adhere-to-corporate-formalities/); [Richards, Layton & Finger on DGCL 141(k)](https://www.rlf.com/in-re-vaalco-energy-inc-stockholder-litigation-court-of-chancery-finds-that-certificate-and-bylaw-provisions-providing-that-directors-may-be-removed-for-cause-only-are-invalid-unless-board-is-class/); [Davis Wright Tremaine on 83(b)](https://dwt.com/blogs/startup-law-blog/2020/10/section-83b-election-for-startup-founders).
 
 ## FAQ
 
 **Can I fire a co-founder who owns equity?**
 
-You can generally end an officer or employee role according to your documents, but not take their vested stock. Per Capbase, a non-board co-founder can be removed at any time, while a board member requires a board vote. Shares are handled separately, usually by repurchase or buyout.
+You can generally end an officer or employee role according to your documents, but not take their vested stock. Under Delaware law, officers are removed as the bylaws or the board provide, while directors are removed by stockholders. Shares are handled separately, usually by repurchase or buyout.
 
 **What happens to a co-founder's unvested shares when they leave?**
 
-Per Clerky and DLA Piper, the company typically has a right to repurchase unvested shares at the price originally paid, and the right may expire after a set period. Document the notice and payment before the deadline in your agreement.
+Per DLA Piper, the company typically has a right to repurchase unvested shares at the price originally paid, and the right may expire after a set period. Document the notice and payment before the deadline in your agreement.
 
 **Can stockholders remove a director in Delaware?**
 

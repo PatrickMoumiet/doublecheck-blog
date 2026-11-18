@@ -6,9 +6,9 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Do I have to withhold taxes for the state where my remote employee lives?'
-    answer: 'Generally you withhold for the state where the work is performed, per KPM, though reciprocity agreements between some states can change that. Confirm with the state revenue agency.'
+    answer: 'Generally you withhold for the state where the work is performed (Colorado''s withholding guide, for example, covers nonresident employees working in Colorado), though reciprocity agreements between some states can change that. Confirm with the state revenue agency.'
   - question: 'Which state gets unemployment insurance for a remote employee?'
-    answer: 'Per KPM, SUI follows localization of work: where most services are performed, then base of operations, place of direction and control, and finally the employee''s state of residence. It is typically paid to one state.'
+    answer: 'Per the New York State Department of Labor and the U.S. DOL four-factor test, SUI follows localization of work: where most services are performed, then base of operations, place of direction and control, and finally the employee''s state of residence. It is typically paid to one state.'
   - question: 'Does my company need to register in the employee''s state?'
     answer: 'Possibly. Wolters Kluwer notes you may need to qualify your corporation or LLC in the employee''s state, which can require a registered agent and annual reports. Requirements vary by state.'
   - question: 'Do state harassment-training laws apply to remote workers?'
@@ -32,24 +32,24 @@ toc:
 
 **Key takeaways:**
 
-- Income tax withholding generally follows where the work is performed (KPM).
+- Income tax withholding generally follows where the work is performed (Colorado Department of Revenue).
 - Unemployment insurance follows localization rules and usually goes to one state per employee.
 - Overtime, vacation pay, and harassment-training rules differ by state; verify each one.
 - Document where people work and require notice before they move.
 
 ## 1. The quick answer
 
-**Quick answer:** When an employee works remotely from another state, that state's rules generally follow the worker. Per [KPM](https://www.kpmcpa.com/hiring-remote-employees-in-other-states-tax-rules/), income tax withholding generally follows where the work is performed, and you may need a state withholding account, state unemployment insurance (SUI) registration, and workers' compensation coverage there. State wage-and-hour, leave, and harassment-training laws can also apply. Check each new state before the first day of work, not after the first paycheck.
+**Quick answer:** When an employee works remotely from another state, that state's rules generally follow the worker. Per [Colorado's wage withholding guide](https://tax.colorado.gov/sites/tax/files/documents/Wage_Withholding_Tax_Guide_Jan_2026.pdf), as one state's example, income tax withholding generally follows where the work is performed, and you may need a state withholding account, state unemployment insurance (SUI) registration, and workers' compensation coverage there. State wage-and-hour, leave, and harassment-training laws can also apply. Check each new state before the first day of work, not after the first paycheck.
 
 ![Six obligations a remote employee can trigger in a new state](/images/multi-state-remote-employees-compliance-startups/grid.webp)
 
 ## 2. Tax withholding and unemployment insurance
 
-**Withholding.** Per KPM, employers generally withhold based on where the employee performs the work, not where the employer sits. Its example: a Texas employer with a Colorado remote employee may need Colorado withholding. If an employee moves, withholding changes should begin on the date they start working in the new state. Some state pairs have reciprocity agreements that let an employee pay tax only to the home state, usually with paperwork given to the employer; these exist only between certain states, so confirm one applies. Wolters Kluwer also warns that double taxation can occur.
+**Withholding.** Employers generally withhold based on where the employee performs the work, not where the employer sits. Colorado's guide, for example, says an employer must withhold Colorado income tax from wages paid to a nonresident employee for services performed in Colorado, even if the employer has no permanent place of business there. If an employee moves, review withholding for the new state promptly. Some state pairs have reciprocity agreements that let an employee pay tax only to the home state, usually with paperwork given to the employer; these exist only between certain states, so confirm one applies. Wolters Kluwer also warns that double taxation can occur.
 
-**Registration.** You may need a state withholding account, periodic returns, remittance of withheld tax, and state W-2 filings (KPM). Wolters Kluwer adds that you may need to qualify your corporation or LLC to do business in the employee's state, which can mean a registered agent and annual reports. See [registering for state payroll taxes](/blog/register-for-state-payroll-taxes-new-employer/).
+**Registration.** You may need a state withholding account, periodic returns, remittance of withheld tax, and state wage reporting (Colorado's guide, for example, requires an active withholding account). Wolters Kluwer adds that you may need to qualify your corporation or LLC to do business in the employee's state, which can mean a registered agent and annual reports. See [registering for state payroll taxes](/blog/register-for-state-payroll-taxes-new-employer/).
 
-**Unemployment insurance.** Per KPM, SUI follows "localization of work" rules rather than the withholding rules, in this order: where most services are performed, base of operations, place of direction and control, then the employee's state of residence. SUI is typically paid to only one state per employee. Do not assume it matches the withholding state.
+**Unemployment insurance.** Per the [New York State Department of Labor](https://dol.ny.gov/determination-jurisdiction-ia1163), SUI follows "localization of work" rules rather than the withholding rules, in this order: where most services are performed, base of operations, place of direction and control, then the employee's state of residence. SUI is typically paid to only one state per employee. Do not assume it matches the withholding state.
 
 **New-hire reporting.** Report each hire to the state where the employee works; per [Bernstein Shur](https://bipc.com/hiring-your-team-initial-steps-new-employers-must-take), multistate employers can use a multistate form to file in one state.
 
@@ -66,13 +66,13 @@ Worker classification is state-specific too; working from home does not by itsel
 
 ## 4. A repeatable process for each new state
 
-Treat every new state as a mini-launch. KPM's best practices translate into a checklist:
+Treat every new state as a mini-launch. a practical checklist looks like this:
 
 1. **Ask before hiring:** where will the person actually work, and for how long?
 2. **Check registrations:** withholding, SUI, workers' compensation, and business registration.
 3. **Update the paperwork:** the offer letter and handbook should reflect the state; Wolters Kluwer recommends documenting remote arrangements in offer letters and contracts. Use state-specific handbook addenda ([handbook contents](/blog/employee-handbook-small-business-what-to-include/)).
 4. **Require relocation notice,** and update payroll promptly when someone moves.
-5. **Review annually:** KPM suggests periodic reviews of multi-state payroll setups.
+5. **Review annually:** revisit your multi-state payroll setups periodically.
 
 Hybrid workers who split time between states make this harder, so track locations (Wolters Kluwer). For workers outside the U.S., the analysis is different; see [hiring international employees: EOR vs. contractor vs. sponsorship](/blog/hire-international-employees-remote-eor-vs-contractor-vs-sponsorship/). If you are still setting up your company, [how to incorporate in the US](/blog/how-to-incorporate-a-company-in-the-us/) is the starting point, and the [first-employee checklist](/blog/how-to-hire-first-employee-legal-checklist/) covers the basics.
 
@@ -84,17 +84,17 @@ Hybrid workers who split time between states make this harder, so track location
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [KPM, Hiring Remote Employees in Other States](https://www.kpmcpa.com/hiring-remote-employees-in-other-states-tax-rules/); [Wolters Kluwer, Compliance Considerations for Remote Employees](https://wolterskluwer.com/en/expert-insights/6-compliance-considerations-for-remote-employees); [Bernstein Shur](https://bipc.com/hiring-your-team-initial-steps-new-employers-must-take); [Paycor](https://www.paycor.com/resource-center/articles/pto-payout-laws-by-state/); [JD Supra](https://www.jdsupra.com/legalnews/status-quo-dol-final-rule-keeps-9356944/); [CalChamber](https://www.calchamber.com/california-labor-law/harassment-training); [NFIB](https://www.nfib.com/news/news/reminder-new-york-state-mandated-sexual-harassment-prevention-training-is-required-every-year/); [Taft](https://www.taftlaw.com/news-events/law-bulletins/illinois-department-of-human-rights-releases-model-sexual-harassment-training-and-guidance/).
+**Sources:** [Colorado Department of Revenue, Wage Withholding Tax Guide (Jan. 2026)](https://tax.colorado.gov/sites/tax/files/documents/Wage_Withholding_Tax_Guide_Jan_2026.pdf); [New York State DOL, Determination of jurisdiction](https://dol.ny.gov/determination-jurisdiction-ia1163); [Ogletree Deakins, Multistate compliance for out-of-state remote employees](https://ogletree.com/insights/multistate-compliance-for-employers-with-out-of-state-remote-employees/); [Wolters Kluwer, Compliance Considerations for Remote Employees](https://wolterskluwer.com/en/expert-insights/6-compliance-considerations-for-remote-employees); [Bernstein Shur](https://bipc.com/hiring-your-team-initial-steps-new-employers-must-take); [Paycor](https://www.paycor.com/resource-center/articles/pto-payout-laws-by-state/); [JD Supra](https://www.jdsupra.com/legalnews/status-quo-dol-final-rule-keeps-9356944/); [CalChamber](https://www.calchamber.com/california-labor-law/harassment-training); [NFIB](https://www.nfib.com/news/news/reminder-new-york-state-mandated-sexual-harassment-prevention-training-is-required-every-year/); [Taft](https://www.taftlaw.com/news-events/law-bulletins/illinois-department-of-human-rights-releases-model-sexual-harassment-training-and-guidance/).
 
 ## FAQ
 
 **Do I have to withhold taxes for the state where my remote employee lives?**
 
-Generally you withhold for the state where the work is performed, per KPM, though reciprocity agreements between some states can change that. Confirm with the state revenue agency.
+Generally you withhold for the state where the work is performed (Colorado's withholding guide, for example, covers nonresident employees working in Colorado), though reciprocity agreements between some states can change that. Confirm with the state revenue agency.
 
 **Which state gets unemployment insurance for a remote employee?**
 
-Per KPM, SUI follows localization of work: where most services are performed, then base of operations, place of direction and control, and finally the employee's state of residence. It is typically paid to one state.
+Per the New York State Department of Labor and the U.S. DOL four-factor test, SUI follows localization of work: where most services are performed, then base of operations, place of direction and control, and finally the employee's state of residence. It is typically paid to one state.
 
 **Does my company need to register in the employee's state?**
 

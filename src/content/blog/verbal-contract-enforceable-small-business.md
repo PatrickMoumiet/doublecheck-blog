@@ -6,13 +6,13 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Are verbal contracts legally binding?'
-    answer: 'They can be. Per UpCounsel, oral agreements can be binding, even under $500, but proving them can be challenging. They still need an offer, acceptance, consideration, and mutual intent.'
+    answer: 'They can be. Per Cornell LII, oral contracts are generally enforceable, though the terms must be proven without a signed writing. They still need an offer, acceptance, consideration, and mutual intent.'
   - question: 'What contracts must be in writing?'
     answer: 'Per Chicago-Kent, the statute of frauds covers land sales, contracts that cannot be performed within a year, promises to pay another''s debt, promises tied to marriage, goods over $500, and certain executor promises. Some states add categories.'
   - question: 'Is a text message or email a contract?'
     answer: 'It can be evidence of one. Messages can show the terms and that both sides agreed. Whether they satisfy a writing requirement depends on the contract type and your state, so confirm with an attorney for high-value deals.'
   - question: 'What if a verbal contract is for more than $500?'
-    answer: 'Per UpCounsel, the UCC generally requires a writing for goods of $500 or more, with exceptions such as specially manufactured goods, an admission in court, and partial performance. The threshold and rules vary by state and by whether it is a sale of goods or services.'
+    answer: 'Per UCC 2-201 (Cornell LII), a sale of goods for $500 or more generally needs a signed writing, with exceptions such as specially manufactured goods, an admission in court, and partial performance. The threshold and rules vary by state and by whether it is a sale of goods or services.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,15 +39,15 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** Yes, verbal contracts can be legally binding if they meet the basic elements: an offer, acceptance, consideration, and mutual intent. The problem is proof. Per UpCounsel, without a writing each side must back up its own version of the deal, and it can become one person's word against the other's. Certain contracts, such as land sales, deals that cannot be performed within a year, and generally sales of goods over $500, must be in writing under the statute of frauds, and details vary by state.
+**Quick answer:** Yes, verbal contracts can be legally binding if they meet the basic elements: an offer, acceptance, consideration, and mutual intent. The problem is proof. Without a writing each side must back up its own version of the deal, and it can become one person's word against the other's. Certain contracts, such as land sales, deals that cannot be performed within a year, and generally sales of goods over $500, must be in writing under the statute of frauds, and details vary by state.
 
 ![Verbal contracts: can be binding, hard to prove, must be written](/images/verbal-contract-enforceable-small-business/cols.webp)
 
 ## 2. When a handshake deal is enforceable
 
-Per [UpCounsel](https://www.upcounsel.com/validity-of-oral-contracts), oral agreements can be binding, even under $500, but proving them is challenging. To be enforceable a verbal deal needs an offer, acceptance, consideration, and mutual intent (see [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/)).
+Per [Cornell LII](https://www.law.cornell.edu/wex/oral_contract), oral contracts are generally enforceable, though the terms must be proven without a signed writing. To be enforceable a verbal deal needs an offer, acceptance, consideration, and mutual intent (see [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/)).
 
-If a dispute reaches a court, UpCounsel says judges may look at witness testimony, the parties' conduct (course of conduct), and each party's credibility. Risks it lists include misremembered terms over time and difficulty proving breach or damages.
+If a dispute reaches a court, an express contract may be evidenced by the parties' spoken words, and a contract implied in fact can arise from their conduct, per [The Colorado Lawyer](https://cl.cobar.org/features/enforcing-oral-contracts/). Because the terms must be definite enough for a court to tell whether the contract was performed, memories that fade over time can make proof difficult.
 
 Texts and emails can help. A message that says "confirming we agreed to $4,000 for the logo by March 1" is evidence of the deal. Whether it also meets a statute of frauds writing requirement depends on your state and the facts, so ask an attorney if a large amount is at stake.
 
@@ -66,7 +66,7 @@ Some states add others, such as contracts to pay a real estate agent's commissio
 
 **Two nuances.** The one-year rule applies only if the contract cannot be fully performed within a year, per Chicago-Kent. A delivery date more than a year out does not trigger it by itself. And a contract in these categories is not automatically void; FindLaw says it may be voidable, so either side may affirm or reject it.
 
-**Exceptions for goods.** UpCounsel lists three: specially manufactured goods, an admission in court that a contract was made, and partial performance (payment accepted or goods delivered and accepted). Chicago-Kent's notes describe similar reliance and restitution ideas.
+**Exceptions for goods.** [UCC 2-201](https://www.law.cornell.edu/ucc/2/2-201) lists three: specially manufactured goods, an admission in court that a contract was made, and payment made and accepted or goods received and accepted. Chicago-Kent's notes describe similar reliance and restitution ideas.
 
 ![Six contract types that generally need to be in writing](/images/verbal-contract-enforceable-small-business/grid.webp)
 
@@ -87,13 +87,13 @@ An AI tool can draft a confirming message or a one-page agreement from your note
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UpCounsel](https://www.upcounsel.com/validity-of-oral-contracts); [Chicago-Kent, Notes on the Statute of Frauds](https://blogs.kentlaw.iit.edu/harriscontracts/home/written-contracts/notes-on-the-statute-of-frauds); [FindLaw, What Contracts Are Required to Be in Writing](https://www.findlaw.com/smallbusiness/business-contracts-forms/what-contracts-are-required-to-be-in-writing.html).
+**Sources:** [Cornell LII, Oral contract](https://www.law.cornell.edu/wex/oral_contract); [Cornell LII, UCC 2-201](https://www.law.cornell.edu/ucc/2/2-201); [The Colorado Lawyer, Enforcing Oral Contracts](https://cl.cobar.org/features/enforcing-oral-contracts/); [Chicago-Kent, Notes on the Statute of Frauds](https://blogs.kentlaw.iit.edu/harriscontracts/home/written-contracts/notes-on-the-statute-of-frauds); [FindLaw, What Contracts Are Required to Be in Writing](https://www.findlaw.com/smallbusiness/business-contracts-forms/what-contracts-are-required-to-be-in-writing.html).
 
 ## FAQ
 
 **Are verbal contracts legally binding?**
 
-They can be. Per UpCounsel, oral agreements can be binding, even under $500, but proving them can be challenging. They still need an offer, acceptance, consideration, and mutual intent.
+They can be. Per Cornell LII, oral contracts are generally enforceable, though the terms must be proven without a signed writing. They still need an offer, acceptance, consideration, and mutual intent.
 
 **What contracts must be in writing?**
 
@@ -105,7 +105,7 @@ It can be evidence of one. Messages can show the terms and that both sides agree
 
 **What if a verbal contract is for more than $500?**
 
-Per UpCounsel, the UCC generally requires a writing for goods of $500 or more, with exceptions such as specially manufactured goods, an admission in court, and partial performance. The threshold and rules vary by state and by whether it is a sale of goods or services.
+Per UCC 2-201 (Cornell LII), a sale of goods for $500 or more generally needs a signed writing, with exceptions such as specially manufactured goods, an admission in court, and partial performance. The threshold and rules vary by state and by whether it is a sale of goods or services.
 
 ---
 

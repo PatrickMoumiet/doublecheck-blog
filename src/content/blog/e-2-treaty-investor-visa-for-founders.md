@@ -8,7 +8,7 @@ faq:
   - question: 'How much do I need to invest for an E-2 visa?'
     answer: 'USCIS sets no fixed amount. The investment must be substantial relative to the cost of the business, and the business cannot be marginal.'
   - question: 'Can Chinese or Indian citizens get an E-2?'
-    answer: 'Per law-firm country lists, India and mainland China are not E-2 treaty countries. Confirm on the State Department''s treaty table.'
+    answer: 'Per the State Department''s treaty table, India and mainland China are not listed as E-2 treaty countries. Confirm the current table before you plan.'
   - question: 'Can my spouse work on an E-2?'
     answer: 'USCIS says spouses in valid E-2 status are generally employment authorized incident to status.'
   - question: 'Does an E-2 lead to a green card?'
@@ -35,7 +35,7 @@ toc:
 - E-2 requires treaty-country nationality, a substantial investment, and at least 50% ownership or operational control, per USCIS.
 - There is no fixed minimum; the business must not be marginal.
 - Initial stay is up to two years, with unlimited two-year extensions.
-- Law firms list France as a treaty country and say India and mainland China are not.
+- The State Department's treaty table lists France as an E-2 treaty country and does not list India or mainland China.
 
 ## 1. The quick answer
 
@@ -45,11 +45,11 @@ toc:
 
 ## 2. Investment and the "not marginal" test
 
-USCIS says the investment must be substantial in proportion to the cost of buying or starting the business: the cheaper the business, the larger the proportion expected. The enterprise must be able to generate more than a minimal living for you and your family, or have the capacity to do so within five years. Some law firms say investments above $100,000 are viewed more favorably, but that is practitioner opinion, not a rule. Form the company first ([how to incorporate](/blog/how-to-incorporate-a-company-in-the-us/)).
+USCIS says the investment must be substantial in proportion to the cost of buying or starting the business: the cheaper the business, the larger the proportion expected. The enterprise must be able to generate more than a minimal living for you and your family, or have the capacity to do so within five years. Form the company first ([how to incorporate](/blog/how-to-incorporate-a-company-in-the-us/)).
 
 ## 3. Which countries qualify
 
-Treaty status follows nationality, not residence. Law-firm summaries list France as a treaty country and say India and mainland China are not (Taiwan is listed). Lehigh Valley Immigration Lawyers says treaty nationals must own at least 50% traced through every ownership layer, and that Portugal was added in March 2024 while the treaties with Ecuador and Bolivia ended. Check the State Department's treaty table before you plan.
+Treaty status follows nationality, not residence. The State Department's treaty table lists France, Taiwan, and Portugal (in force March 15, 2024), does not list India or mainland China, and lists Ecuador and Bolivia only with restrictions. USCIS says you must show at least 50% ownership of the enterprise or operational control through a managerial position or other corporate device. Check the State Department's treaty table before you plan.
 
 ![Steps in an E-2 treaty investor case](/images/e-2-treaty-investor-visa-for-founders/steps.webp)
 
@@ -61,7 +61,7 @@ Per USCIS, if you are in the U.S. you can change to or extend E-2 with Form I-12
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS E-2 treaty investors](https://www.uscis.gov/working-in-the-united-states/temporary-workers/e-2-treaty-investors); [Lighthouse](https://www.lighthousehq.com/blog/e2-treaty-countries); [Grape Law](https://www.grapelaw.com/blog/us-immigration/e-2-visa-countries-list-treaty-nations); [Lehigh Valley Immigration Lawyers](https://www.lehighvalleyimmigrationlawyers.com/blog/e-2-treaty-countries-list-investment-threshold-2026).
+**Sources:** [USCIS E-2 treaty investors](https://www.uscis.gov/working-in-the-united-states/temporary-workers/e-2-treaty-investors); [U.S. Department of State: Treaty countries](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html).
 
 ## FAQ
 
@@ -71,7 +71,7 @@ USCIS sets no fixed amount. The investment must be substantial relative to the c
 
 **Can Chinese or Indian citizens get an E-2?**
 
-Per law-firm country lists, India and mainland China are not E-2 treaty countries. Confirm on the State Department's treaty table.
+Per the State Department's treaty table, India and mainland China are not listed as E-2 treaty countries. Confirm the current table before you plan.
 
 **Can my spouse work on an E-2?**
 

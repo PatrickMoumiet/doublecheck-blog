@@ -6,13 +6,13 @@ pubDate: 'Nov 6 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What is a buy-sell agreement?'
-    answer: 'Per Bay Legal, it is a pre-agreed contract among a business''s owners that settles who can buy a departing owner''s share, how the price is set, and how the purchase is paid for.'
+    answer: 'Per FindLaw, it is a pre-agreed contract among a business''s owners that settles who can buy a departing owner''s share, how the price is set, and what events trigger a buyout.'
   - question: 'What is the difference between cross-purchase and redemption?'
-    answer: 'Per SVA, in a cross-purchase the remaining co-owners buy the departing owner''s interest; in a redemption the entity buys it. The tax and administrative effects differ, so choose with a CPA and attorney.'
+    answer: 'Per FindLaw, in a cross-purchase the remaining co-owners buy the departing owner''s interest; in a redemption the entity buys it. The tax and administrative effects differ, so choose with a CPA and attorney.'
   - question: 'How is the buyout price decided?'
-    answer: 'Per Bay Legal, common methods are a fixed price the owners update periodically, a formula tied to financials, or an independent appraisal at the time of the trigger. The method should be chosen beforehand.'
+    answer: 'Per the Journal of Accountancy and FindLaw, common methods include a formula, a price the owners agree on and update periodically, or an independent appraisal. The method should be chosen beforehand.'
   - question: 'Do we need life insurance to fund a buy-sell agreement?'
-    answer: 'Not required, but Belfint calls life insurance a common funding source and warns that insufficient funding can leave the buyout unpaid or force asset sales. SVA says any uninsured portion should be paid in installments over several years.'
+    answer: 'Not required, but FindLaw and the Journal of Accountancy call life insurance a common funding source, since the remaining owners may not have the cash for a buyout right away. FindLaw lists installment payments to the departing owner as another option.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -39,32 +39,32 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** A buy-sell agreement is a contract among business co-owners that decides in advance what happens to an owner's stake when a triggering event occurs, such as death, disability, retirement, or divorce. Per Bay Legal, it settles who can buy the departing owner's share, how the price is set, and how the purchase is paid for, so none of that is negotiated in a crisis. Without one, a deceased owner's stake may pass to heirs the surviving owners never chose as partners.
+**Quick answer:** A buy-sell agreement is a contract among business co-owners that decides in advance what happens to an owner's stake when a triggering event occurs, such as death, disability, retirement, or divorce. Per [FindLaw](https://www.findlaw.com/smallbusiness/incorporation-and-legal-structures/partnership-change-plan-ahead-with-a-buy-sell-agreement.html), it covers who can buy the departing owner's share, how the interest is valued, and what events trigger a buyout, so none of that is negotiated in a crisis. Without one, a deceased owner's stake may pass to heirs the surviving owners never chose as partners.
 
 ![Six things a buy-sell agreement decides](/images/buy-sell-agreement-small-business-partners/grid.webp)
 
 ## 2. Triggering events and who can buy
 
-The owners choose which events trigger a buyout. Common ones listed by [Bay Legal](https://baylegal.com/what-is-a-buy-sell-agreement-and-why-every-california-partner-needs-one/) are death, disability, retirement, divorce, bankruptcy, and a voluntary departure or falling-out. [Belfint](https://www.belfint.com/buy-sell-business-risks/) adds loss of a professional license or certification. Bay Legal cautions against copying a generic list and suggests tailoring triggers with an attorney.
+The owners choose which events trigger a buyout. Common ones listed by [FindLaw](https://www.findlaw.com/smallbusiness/incorporation-and-legal-structures/partnership-change-plan-ahead-with-a-buy-sell-agreement.html) are death, permanent disability, retirement, divorce, personal bankruptcy, and an outside offer for a partner's interest. The [Journal of Accountancy](https://www.journalofaccountancy.com/issues/2004/oct/makethemostofbuysellagreements/) adds termination of employment and loss of a professional license. FindLaw recommends having a business organization attorney review the agreement.
 
 There are two main structures:
 
-- **Cross-purchase:** the remaining owners buy the departing owner's interest. Per SVA, this is a contract among the co-owners.
-- **Entity redemption:** the business buys the interest back. Per SVA, this is a contract between the entity and its co-owners.
+- **Cross-purchase:** the remaining owners buy the departing owner's interest. Per FindLaw, the other partners buy the departing owner's share.
+- **Entity redemption:** the business buys the interest back. Per FindLaw, the business itself buys the share.
 
-Bay Legal notes cross-purchase can be simple with few owners but gets complicated as ownership grows, while redemption can be easier to administer with several owners but has its own tax and structural effects. Choose with a CPA and an attorney.
+The Journal of Accountancy notes that cross-purchase becomes harder to administer as the number of owners grows, while in a redemption the business bears the funding burden and has its own tax effects. FindLaw also describes hybrid and wait-and-see approaches. Choose with a CPA and an attorney.
 
 ## 3. Valuation and funding
 
-Per Bay Legal, valuation methods include a fixed price the owners update periodically, a formula tied to financials such as a multiple of earnings or revenue, or an independent appraisal at the time of the trigger. The point is to make the price "a calculation rather than a negotiation in the middle of a crisis."
+Per the [Journal of Accountancy](https://www.journalofaccountancy.com/issues/2004/oct/makethemostofbuysellagreements/), valuation methods include formula pricing and a value the owners agree on and update at regular meetings; FindLaw's succession guide also lists an independent appraisal. FindLaw warns that disputes over price have led to costly litigation, so the agreement should say how the price is calculated.
 
-Funding matters as much as price. Belfint says a buyout may require substantial cash, and that life insurance is a common source that can also be used for events beyond death. Its listed benefits: timely payment at the agreed price, less strain on cash flow, and a lower chance of selling assets to pay for the buyout. SVA says any portion not covered by insurance should be paid in installments over several years.
+Funding matters as much as price. Per [FindLaw](https://www.findlaw.com/smallbusiness/buy-sell-agreements-for-business-succession.html), the remaining owners may not have the cash for a buyout right away, and life insurance is a common choice; disability insurance can serve the same role for a disability. Other options include a lump-sum payment from the business or installment payments to the departing owner.
 
 Tax points reported by these sources:
 
-- With two owners using cross-purchase, SVA says each owner buys a policy on the other, and the death benefit is generally free of federal income tax when the survivor is the original purchaser.
-- Belfint says in a redemption the remaining owners do not get a basis step-up, which may mean higher capital gains taxes when they later sell.
-- SVA says a properly drafted price can also set the interest's value for federal estate tax purposes.
+- In a cross-purchase, the Journal of Accountancy says each owner typically holds insurance on the others, and survivors usually receive the policy proceeds tax-free.
+- FindLaw says that in a redemption the remaining owners generally do not get a basis increase, which may mean higher capital gains taxes when they later sell.
+- The Journal of Accountancy says the agreement may set the estate tax value if the IRS accepts it, but a contract price may not bind the IRS, and IRC section 2703 can invalidate an agreement that undervalues the interest.
 
 Treat these as questions for your CPA, not conclusions.
 
@@ -74,9 +74,9 @@ Use this order when you draft with an attorney. A buy-sell often works alongside
 
 ![Checklist for drafting a buy-sell agreement](/images/buy-sell-agreement-small-business-partners/cols.webp)
 
-Common mistakes flagged by Bay Legal and Belfint: copying a generic trigger list, leaving valuation until the crisis, and weak funding that can leave a buyout unpaid or force asset sales. Bay Legal also says adopting the agreement early, while owners are aligned, is easier than after someone is preparing to leave. Belfint recommends reviewing it periodically.
+Common mistakes suggested by these sources: leaving valuation until a dispute arises, and having no funding source when the buyout is triggered. FindLaw recommends reviewing the agreement regularly.
 
-SVA stresses these agreements are not do-it-yourself projects. For a sale of the whole business, see [how to buy or sell a small business](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/). To decide when professional help is worth it, read [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
+FindLaw recommends having an attorney review the agreement; it is not a do-it-yourself project. For a sale of the whole business, see [how to buy or sell a small business](/blog/how-to-buy-or-sell-a-small-business-legal-checklist/). To decide when professional help is worth it, read [when to hire a lawyer](/blog/when-to-hire-lawyer-small-business/).
 
 **Related reading:** [Corporate Bylaws vs Operating Agreement: What Each Covers](/blog/corporate-bylaws-vs-operating-agreement-what-each-covers/); [Shareholder Agreement for a Small Business: What to Include](/blog/shareholder-agreement-small-business-what-to-include/); [Asset Sale vs Stock Sale for a Small Business: Buyer and Seller Differences](/blog/asset-sale-vs-stock-sale-small-business-buyer-seller-differences/)
 
@@ -84,25 +84,25 @@ SVA stresses these agreements are not do-it-yourself projects. For a sale of the
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Bay Legal, Buy-sell agreements](https://baylegal.com/what-is-a-buy-sell-agreement-and-why-every-california-partner-needs-one/); [SVA Certified Public Accountants, Buy-sell agreements](https://accountants.sva.com/biz-tips/businesses-with-co-owners-probably-need-a-buy-sell-agreement); [Belfint, Buy-sell agreements](https://www.belfint.com/buy-sell-business-risks/).
+**Sources:** [FindLaw, partnership buy-sell agreements](https://www.findlaw.com/smallbusiness/incorporation-and-legal-structures/partnership-change-plan-ahead-with-a-buy-sell-agreement.html); [FindLaw, buy-sell agreements for business succession](https://www.findlaw.com/smallbusiness/buy-sell-agreements-for-business-succession.html); [Journal of Accountancy, Make the most of buy-sell agreements](https://www.journalofaccountancy.com/issues/2004/oct/makethemostofbuysellagreements/).
 
 ## FAQ
 
 **What is a buy-sell agreement?**
 
-Per Bay Legal, it is a pre-agreed contract among a business's owners that settles who can buy a departing owner's share, how the price is set, and how the purchase is paid for.
+Per FindLaw, it is a pre-agreed contract among a business's owners that settles who can buy a departing owner's share, how the price is set, and what events trigger a buyout.
 
 **What is the difference between cross-purchase and redemption?**
 
-Per SVA, in a cross-purchase the remaining co-owners buy the departing owner's interest; in a redemption the entity buys it. The tax and administrative effects differ, so choose with a CPA and attorney.
+Per FindLaw, in a cross-purchase the remaining co-owners buy the departing owner's interest; in a redemption the entity buys it. The tax and administrative effects differ, so choose with a CPA and attorney.
 
 **How is the buyout price decided?**
 
-Per Bay Legal, common methods are a fixed price the owners update periodically, a formula tied to financials, or an independent appraisal at the time of the trigger. The method should be chosen beforehand.
+Per the Journal of Accountancy and FindLaw, common methods include a formula, a price the owners agree on and update periodically, or an independent appraisal. The method should be chosen beforehand.
 
 **Do we need life insurance to fund a buy-sell agreement?**
 
-Not required, but Belfint calls life insurance a common funding source and warns that insufficient funding can leave the buyout unpaid or force asset sales. SVA says any uninsured portion should be paid in installments over several years.
+Not required, but FindLaw and the Journal of Accountancy call life insurance a common funding source, since the remaining owners may not have the cash for a buyout right away. FindLaw lists installment payments to the departing owner as another option.
 
 ---
 

@@ -6,7 +6,7 @@ pubDate: 'Nov 4 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Is an LLC or a partnership better for a family business?'
-    answer: 'An LLC generally protects members from personal liability, while general partners are each fully liable, per the SBA and LegalZoom. Ask a professional about your situation.'
+    answer: 'An LLC generally protects members from personal liability, while general partners are each fully liable, per the SBA. Ask a professional about your situation.'
   - question: 'Do I need a seller''s permit for a retail store?'
     answer: 'Per Nolo, most retail sellers need one in each state where they operate. Fees and rules vary by state.'
   - question: 'Do partners get a W-2?'
@@ -39,7 +39,7 @@ toc:
 
 ## 1. The quick answer
 
-**Quick answer:** For a small retail store or family business, an LLC is a common choice because members are protected from personal liability in most instances, while general partners in a partnership are each fully liable for the business's debts and lawsuits, per the SBA and LegalZoom. Put the rules in writing in an operating agreement, get an EIN, and apply for your state's seller's permit before you sell.
+**Quick answer:** For a small retail store or family business, an LLC is a common choice because members are protected from personal liability in most instances, while general partners in a partnership are each fully liable for the business's debts and lawsuits, per the SBA. Put the rules in writing in an operating agreement, get an EIN, and apply for your state's seller's permit before you sell.
 
 ![LLC versus general partnership for a small business](/images/retail-store-family-business-llc-or-partnership/compare.webp)
 
@@ -55,19 +55,19 @@ Nolo says most retail sellers need a seller's permit in each state where they op
 
 ## 4. Going into business with family
 
-The SBA recommends an operating agreement for protection even when a state does not require one, and LegalZoom says it covers profit distribution, contributions, decision-making, and admitting or removing members. Family members should agree in writing on who decides what and who can join or leave. Draft with [AI and an operating agreement checklist](/blog/llc-operating-agreement-with-ai/), then have an attorney review it. Solo owner? See [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/).
+The SBA recommends an operating agreement for protection even when a state does not require one, and Nolo says it covers profit distribution, member contributions, decision-making, and handling the departure and addition of members. Family members should agree in writing on who decides what and who can join or leave. Draft with [AI and an operating agreement checklist](/blog/llc-operating-agreement-with-ai/), then have an attorney review it. Solo owner? See [sole proprietor vs. LLC](/blog/sole-proprietor-vs-llc-solo-founder/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [SBA: Choose a structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure); [SBA: Tax IDs](https://www.sba.gov/business-guide/launch-your-business/get-federal-state-tax-id-numbers); [SBA: Licenses and permits](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits); [IRS: Partnerships](https://www.irs.gov/businesses/small-businesses-self-employed/partnerships); [IRS: Limited liability company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc); [LegalZoom](https://www.legalzoom.com/articles/llc-vs-partnership); [Nolo](https://www.nolo.com/legal-encyclopedia/how-to-get-a-sellers-permit.html); [U.S. Chamber](https://uschamber.com/co/start/strategy/sellers-permit-and-tax-id).
+**Sources:** [SBA: Choose a structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure); [SBA: Tax IDs](https://www.sba.gov/business-guide/launch-your-business/get-federal-state-tax-id-numbers); [SBA: Licenses and permits](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits); [IRS: Partnerships](https://www.irs.gov/businesses/small-businesses-self-employed/partnerships); [IRS: Limited liability company](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc); [Nolo: LLC operating agreement](https://www.nolo.com/legal-encyclopedia/llc-operating-agreement-30232.html); [Nolo: seller's permit](https://www.nolo.com/legal-encyclopedia/how-to-get-a-sellers-permit.html); [U.S. Chamber](https://uschamber.com/co/start/strategy/sellers-permit-and-tax-id).
 
 ## FAQ
 
 **Is an LLC or a partnership better for a family business?**
 
-An LLC generally protects members from personal liability, while general partners are each fully liable, per the SBA and LegalZoom. Ask a professional about your situation.
+An LLC generally protects members from personal liability, while general partners are each fully liable, per the SBA. Ask a professional about your situation.
 
 **Do I need a seller's permit for a retail store?**
 

@@ -6,11 +6,11 @@ pubDate: 'Nov 5 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'When must the Form I-9 be completed?'
-    answer: 'Per USCIS and Berardi, the employee completes Section 1 by the first day of employment and the employer completes Section 2 within three business days of the start date.'
+    answer: 'Per USCIS, the employee completes Section 1 by the first day of employment and the employer completes Section 2 within three business days of the start date.'
   - question: 'What are List A, B, and C documents?'
     answer: 'Per USCIS, List A shows identity and work authorization together. List B shows identity only and List C shows work authorization only. The employee presents one List A document or one from each of B and C.'
   - question: 'How long do I keep Form I-9?'
-    answer: 'Berardi says to keep it for the later of three years from the hire date or one year after employment ends, and not to send it to the government.'
+    answer: 'Federal rules generally require keeping it for the later of three years from the hire date or one year after employment ends, and it is not sent to the government.'
   - question: 'Is E-Verify required for my startup?'
     answer: 'The E-Verify quick reference guide describes it as a choice for most employers. Federal contractors with the FAR clause and employers in states with mandates, such as those Paylocity lists, may be required to use it.'
 toc:
@@ -45,7 +45,7 @@ toc:
 
 ## 2. Timing and who does what
 
-Per Berardi Immigration Law, the employee completes Section 1 no later than the first day of employment, and it cannot be completed before the job offer is accepted. Per USCIS's M-274 handbook, the employer or authorized representative completes Section 2 within three business days of the start date, and if someone is hired for fewer than three business days, Section 2 must be done by the first day. Section 3 is used for reverification, for example when work authorization is about to expire or after a rehire, per Berardi.
+Per USCIS, the employee completes Section 1 no later than the first day of employment, and it cannot be completed before the job offer is accepted. Per USCIS's M-274 handbook, the employer or authorized representative completes Section 2 within three business days of the start date, and if someone is hired for fewer than three business days, Section 2 must be done by the first day. Section 3 is used for reverification, for example when work authorization is about to expire or after a rehire.
 
 USCIS says employers generally must review documents in person: "you or your authorized representative must review the employee's documentation in their physical presence." Copies are not acceptable, except certified copies of birth certificates. Employers enrolled in E-Verify may be able to use an alternative remote examination procedure authorized by DHS; confirm the requirements with USCIS before using it. Startups with remote hires should plan for an authorized representative near the employee.
 
@@ -64,11 +64,11 @@ Keep the process consistent for every hire, and see the DoubleCheck guide to [hi
 
 ## 4. Retention, E-Verify, and penalties
 
-**Retention.** Berardi says to keep each I-9 for the later of three years from the hire date or one year after employment ends, and not to submit it to the government. Keep them separate from personnel files so they are easy to produce in an audit.
+**Retention.** Federal rules generally require keeping each I-9 for the later of three years from the hire date or one year after employment ends, and it is not submitted to the government. Keep them separate from personnel files so they are easy to produce in an audit.
 
 **E-Verify.** The E-Verify quick reference guide describes E-Verify as a choice for most employers. If you enroll, you complete the I-9 first, then create a case no later than the third business day after the employee starts work for pay, you may not use it to pre-screen applicants, and you must not take adverse action over a mismatch unless there is a Final Nonconfirmation. Federal contractors with the FAR E-Verify clause generally must enroll within 30 calendar days of contract award, per E-Verify. State rules vary: Paylocity's 2026 summary lists Alabama, Arizona, Mississippi, and Louisiana as requiring E-Verify for all private employers, and Tennessee, Georgia, Florida, North Carolina, South Carolina, and Utah for employers above set headcounts (6, 10, 25, 25, 25, and 150). State laws change, so verify yours.
 
-**Penalties.** A law-firm summary of a DHS final rule reports per-form paperwork penalties of $288 to $2,861 for violations assessed after January 2, 2025. These are inflation-adjusted regularly and knowing-hire penalties are separate, so check the current amounts before relying on them. See also [self-employment and contractor basics](/blog/independent-contractor-vs-employee/) and [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/).
+**Penalties.** A DHS final rule published in the Federal Register on January 2, 2025 raised per-form paperwork penalties to a range of $288 to $2,861 for violations assessed after that date (as summarized by Littler). These are inflation-adjusted regularly and knowing-hire penalties are separate, so check the current amounts before relying on them. See also [self-employment and contractor basics](/blog/independent-contractor-vs-employee/) and [sponsoring an H-1B employee](/blog/startup-sponsor-h1b-employee-requirements/).
 
 **Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Remote Work Policy Legal Checklist for Small Business: What to Cover Before You Allow It](/blog/remote-work-policy-legal-checklist-small-business/)
 
@@ -76,13 +76,13 @@ Keep the process consistent for every hire, and see the DoubleCheck guide to [hi
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS M-274: Section 2](https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/40-completing-section-2-employer-review-and-verification); [Berardi Immigration Law](https://berardiimmigrationlaw.com/need-know-form-9/); [E-Verify: create a case](https://www.e-verify.gov/e-verify-user-manual-20-initial-verification/22-create-a-case); [E-Verify quick reference guide](https://www.e-verify.gov/book/export/html/3625); [E-Verify: federal contractor timeframes](https://www.e-verify.gov/employers/federal-contractors/timeframes-for-enrollment-and-use); [Paylocity E-Verify states](https://www.paylocity.com/resources/learn/articles/e-verify-states/); [NEP York on 2025 I-9 penalties](https://nepyork.com/2025/01/30/hire-authorized-workers-and-maintain-i-9-compliance-or-risk-fines-of-up-to-2861-legal-experts-caution-employers/).
+**Sources:** [USCIS M-274: Section 2](https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/40-completing-section-2-employer-review-and-verification); [USCIS: Completing Section 1](https://uscis.gov/node/41765); [E-Verify: create a case](https://www.e-verify.gov/e-verify-user-manual-20-initial-verification/22-create-a-case); [E-Verify quick reference guide](https://www.e-verify.gov/book/export/html/3625); [E-Verify: federal contractor timeframes](https://www.e-verify.gov/employers/federal-contractors/timeframes-for-enrollment-and-use); [Paylocity E-Verify states](https://www.paylocity.com/resources/learn/articles/e-verify-states/); [Federal Register, 2025 DHS penalty adjustments](https://www.govinfo.gov/content/pkg/FR-2025-01-02/html/2024-31204.htm); [Littler on 2025 DHS penalty increases](https://www.littler.com/news-analysis/asap/penalties-dhs-immigration-related-violations-rise-again-2025).
 
 ## FAQ
 
 **When must the Form I-9 be completed?**
 
-Per USCIS and Berardi, the employee completes Section 1 by the first day of employment and the employer completes Section 2 within three business days of the start date.
+Per USCIS, the employee completes Section 1 by the first day of employment and the employer completes Section 2 within three business days of the start date.
 
 **What are List A, B, and C documents?**
 
@@ -90,7 +90,7 @@ Per USCIS, List A shows identity and work authorization together. List B shows i
 
 **How long do I keep Form I-9?**
 
-Berardi says to keep it for the later of three years from the hire date or one year after employment ends, and not to send it to the government.
+Federal rules generally require keeping it for the later of three years from the hire date or one year after employment ends, and it is not sent to the government.
 
 **Is E-Verify required for my startup?**
 

@@ -6,11 +6,11 @@ pubDate: 'Nov 6 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Which state privacy laws take effect in 2027?'
-    answer: 'Per Ecorpit, Oklahoma and Louisiana on January 1, 2027, and Alabama on May 1, 2027. Per Kelley Drye, California''s ADMT rules apply January 1, 2027. Per JD Supra, a Kentucky amendment takes effect July 1, 2027.'
+    answer: 'Per Mayer Brown, WilmerHale and Hunton, Oklahoma and Louisiana take effect January 1, 2027, and Alabama May 1, 2027. Per Kelley Drye, California''s ADMT rules apply January 1, 2027. Per JD Supra, a Kentucky amendment takes effect July 1, 2027.'
   - question: 'Do state privacy laws apply to small businesses?'
-    answer: 'Often only above thresholds. Oklahoma uses 100,000 consumers, for example, and Alabama exempts businesses under 500 employees that do not sell personal data, per Ecorpit. Check each state''s test.'
+    answer: 'Often only above thresholds. Oklahoma uses 100,000 consumers, for example, and Alabama exempts businesses under 500 employees that do not sell personal data, per Mayer Brown and Hunton. Check each state''s test.'
   - question: 'When does Vermont''s privacy law take effect?'
-    answer: 'Per Ecorpit, January 1, 2028, although some roundups list 2027. The enacted text sets 2028.'
+    answer: 'Per Covington, January 1, 2028, although some roundups list 2027.'
   - question: 'What should I do first to prepare?'
     answer: 'Count consumers and revenue by state, check whether you sell personal data, update your privacy policy, and set up a rights-request process. Confirm applicability with a privacy attorney.'
 toc:
@@ -45,7 +45,7 @@ toc:
 
 ## 2. Laws that took effect in 2026
 
-Per Kelley Drye's compliance calendar, Indiana, Kentucky and Rhode Island comprehensive privacy laws took effect January 1, 2026, Connecticut's amendments took effect July 1, 2026 (expanding applicability to businesses that process sensitive data or offer personal data for sale in trade or commerce), and Oregon's amendments took effect January 1, 2026, including a ban on selling precise location data. Per a JD Supra summary, Virginia's amendment effective July 1, 2026 prohibits selling precise geolocation data with no consent exception.
+Per [Kelley Drye's compliance calendar](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/mark-your-calendars-upcoming-compliance-dates-in-state-privacy-laws), Indiana, Kentucky and Rhode Island comprehensive privacy laws took effect January 1, 2026, Oregon's amendments also took effect January 1, 2026, and Connecticut's amendments took effect July 1, 2026. Per a JD Supra summary, Virginia's amendment effective July 1, 2026 prohibits selling precise geolocation data with no consent exception.
 
 California's CCPA regulations added obligations effective January 1, 2026, and, per Kelley Drye, its automated decision-making rules apply January 1, 2027 to "significant decisions." The same source lists risk assessment deadlines of December 31, 2027 for ongoing pre-2026 processing, and cybersecurity audit submissions starting April 1, 2028.
 
@@ -53,14 +53,14 @@ If you sell to California consumers, start with [CCPA and CPRA compliance for sm
 
 ## 3. New in 2027: Oklahoma, Louisiana, Alabama
 
-Per Ecorpit's roundup of the enacted laws:
+Per law-firm summaries of the enacted laws (Mayer Brown on Oklahoma, WilmerHale on Louisiana, Hunton on Alabama):
 
 - **Oklahoma (SB 546), January 1, 2027:** applies at 100,000 or more consumers in a year, or 25,000 or more if over 50% of gross revenue comes from selling personal data. 30-day cure period; penalties up to $7,500 per violation.
 - **Louisiana, January 1, 2027:** applies if any one test is met: annual gross revenue above $25 million; handling data of 75,000 or more consumers, households, or devices; or 50% or more of revenue from selling personal data. 30-day cure period until July 31, 2027.
-- **Alabama, May 1, 2027:** applies above 25,000 consumers (excluding payment-only data) or over 25% of revenue from sales of personal data; businesses with fewer than 500 employees are exempt if they do not sell personal data. 45-day cure period; penalties up to $15,000 per violation. Per JD Supra, opt-out preference signals must be honored by January 1, 2028.
+- **Alabama, May 1, 2027:** applies above 25,000 consumers (excluding payment-only data) or over 25% of revenue from sales of personal data; businesses with fewer than 500 employees are exempt if they do not sell personal data. 45-day cure period; penalties up to $15,000 per violation.
 - **Kentucky amendment, July 1, 2027:** per JD Supra, adds automated content recognition data to sensitive data and requires opt-in consent before collection.
 
-Per Ecorpit, Vermont's Act 145 takes effect January 1, 2028, although some roundups list 2027. These summaries are secondary sources, so read each statute or ask an attorney before relying on a threshold.
+Per [Covington's Inside Privacy](https://www.insideprivacy.com/state-privacy/vermont-data-privacy-bill-signed-into-law/), Vermont's law, signed June 16, 2026, takes effect January 1, 2028, although some roundups list 2027. These summaries are secondary sources, so read each statute or ask an attorney before relying on a threshold.
 
 ![Comparison of Oklahoma, Louisiana and Alabama privacy law thresholds](/images/state-privacy-laws-2027-small-business-checklist/cols.webp)
 
@@ -83,21 +83,21 @@ If you have EU users too, compare [GDPR for U.S. startups](/blog/gdpr-for-us-sta
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Kelley Drye compliance calendar](https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/pdf-snapshots/mark-your-calendars-upcoming-compliance-dates-in-state-privacy-laws-20260526155811.pdf); [Ecorpit on 2027 state laws](https://ecorpit.com/us-state-privacy-laws-2027-oklahoma-louisiana-vermont-alabama/); [JD Supra on Oklahoma, Alabama, Kentucky and Virginia](https://www.jdsupra.com/legalnews/privacy-in-bloom-four-states-reshape-4302715/).
+**Sources:** [Kelley Drye compliance calendar](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/mark-your-calendars-upcoming-compliance-dates-in-state-privacy-laws); [Mayer Brown on Oklahoma](https://www.mayerbrown.com/zh-hans/insights/publications/2026/03/oklahoma-enacts-comprehensive-consumer-data-privacy-law); [WilmerHale on Louisiana](https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260622-louisiana-enacts-nations-twenty-second-state-comprehensive-privacy-law); [Hunton on Alabama](https://www.hunton.com/privacy-and-cybersecurity-law-blog/alabama-becomes-21st-state-with-comprehensive-consumer-privacy-law); [Covington Inside Privacy on Vermont](https://www.insideprivacy.com/state-privacy/vermont-data-privacy-bill-signed-into-law/); [JD Supra on Oklahoma, Alabama, Kentucky and Virginia](https://www.jdsupra.com/legalnews/privacy-in-bloom-four-states-reshape-4302715/).
 
 ## FAQ
 
 **Which state privacy laws take effect in 2027?**
 
-Per Ecorpit, Oklahoma and Louisiana on January 1, 2027, and Alabama on May 1, 2027. Per Kelley Drye, California's ADMT rules apply January 1, 2027. Per JD Supra, a Kentucky amendment takes effect July 1, 2027.
+Per Mayer Brown, WilmerHale and Hunton, Oklahoma and Louisiana take effect January 1, 2027, and Alabama May 1, 2027. Per Kelley Drye, California's ADMT rules apply January 1, 2027. Per JD Supra, a Kentucky amendment takes effect July 1, 2027.
 
 **Do state privacy laws apply to small businesses?**
 
-Often only above thresholds. Oklahoma uses 100,000 consumers, for example, and Alabama exempts businesses under 500 employees that do not sell personal data, per Ecorpit. Check each state's test.
+Often only above thresholds. Oklahoma uses 100,000 consumers, for example, and Alabama exempts businesses under 500 employees that do not sell personal data, per Mayer Brown and Hunton. Check each state's test.
 
 **When does Vermont's privacy law take effect?**
 
-Per Ecorpit, January 1, 2028, although some roundups list 2027. The enacted text sets 2028.
+Per Covington, January 1, 2028, although some roundups list 2027.
 
 **What should I do first to prepare?**
 

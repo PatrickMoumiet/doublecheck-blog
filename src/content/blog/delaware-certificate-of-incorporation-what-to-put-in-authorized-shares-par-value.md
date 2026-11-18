@@ -8,11 +8,11 @@ faq:
   - question: 'What goes in a Delaware certificate of incorporation?'
     answer: 'Per Delaware General Corporation Law section 102(a): the corporation name, the Delaware registered office and agent, the purpose, the total authorized shares and par value (with class rights if more than one class), and the incorporator. Initial directors are named only if the incorporator powers end at filing.'
   - question: 'How many authorized shares should a Delaware startup put in its certificate?'
-    answer: 'Stripe (September 2026) calls 10,000,000 a common starting point, and Clerky says most startup attorneys advise against only 5,000. Franchise tax depends on the method, so confirm with Delaware and a professional before filing.'
+    answer: 'There is no single required number. Delaware franchise tax depends on the method, and a very low count leaves little room for later issuances, so confirm with Delaware and a professional before filing.'
   - question: 'What par value should I use in a Delaware certificate of incorporation?'
-    answer: 'Clerky says startups almost always use $0.0001 or $0.00001. A high par can raise franchise tax, since $1.00 par on 10,000,000 authorized shares means at least $4,000 a year under Delaware formula, per Rho.'
+    answer: 'Startups commonly use a very low par value. A high par can raise franchise tax: under Delaware’s assumed par value capital formula, 10,000,000 authorized shares at $1.00 par count at $10,000,000 when the assumed par is below $1.00, which is $4,000 at $400 per $1,000,000.'
   - question: 'Can I change authorized shares after I file?'
-    answer: 'Yes, with a certificate of amendment. Per Stripe it typically needs board approval, then a stockholder vote, and a state fee. Delaware says stock or par changes must be reported within 30 days and the tax is prorated.'
+    answer: 'Yes, with a certificate of amendment. Under the DGCL an amendment generally needs board approval and a stockholder vote, plus a state fee. Delaware says stock or par changes must be reported within 30 days and the tax is prorated.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -47,7 +47,7 @@ This post is about what to type into each line and what each choice does later. 
 
 ## 2. Authorized shares: how many and what it costs
 
-Authorized shares are the maximum the company may issue, not shares anyone owns (Wolters Kluwer, November 6, 2025). The gap between authorized and issued shares is room for option grants, later founders and priced rounds; Stripe (updated September 1, 2026) calls 10,000,000 a common starting point.
+Authorized shares are the maximum the company may issue, not shares anyone owns (Wolters Kluwer, November 6, 2025). The gap between authorized and issued shares is room for option grants, later founders and priced rounds. There is no single required number; it depends on how many shares you expect to issue.
 
 Delaware's own franchise tax page (last modified April 2021) sets two methods, and you pay the lower:
 
@@ -55,22 +55,22 @@ Delaware's own franchise tax page (last modified April 2021) sets two methods, a
 - **Assumed par value capital method:** $400 per $1,000,000 of assumed par value capital (rounded up), with a $400 minimum. The inputs are total gross assets, issued shares and authorized shares.
 - **Cap:** the tax is never less than $175 or more than $200,000.
 
-Applying Delaware's first formula to 10,000,000 authorized shares gives $85,165, the figure Wolters Kluwer also prints. That is why the second method matters: Stripe says it usually gives a much smaller bill for early-stage companies with few assets and few issued shares. Delaware says corporations owing $5,000 or more make estimated payments (40% June 1, 20% September 1, 20% December 1, remainder March 1). More detail is in [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/).
+Applying Delaware's first formula to 10,000,000 authorized shares gives $85,165, the figure Wolters Kluwer also prints. That is why the second method matters: it is based on gross assets and issued shares, so it can give a much smaller bill for early-stage companies with few assets. Delaware says corporations owing $5,000 or more make estimated payments (40% June 1, 20% September 1, 20% December 1, remainder March 1). More detail is in [Delaware franchise tax for startups](/blog/delaware-franchise-tax-startups/).
 
-**Should you authorize only 5,000 shares to hit the $175 minimum?** Clerky says some advisors suggest it but most startup attorneys recommend against it, because it limits issuances to 0.02% increments and would likely need a costly split later. Stripe adds that raising the authorized number needs a certificate of amendment, usually board approval then a stockholder vote, plus a state fee.
+**Should you authorize only 5,000 shares to hit the $175 minimum?** Be cautious: a very small authorized count limits how finely you can issue shares and leaves little room for option grants, and raising it later needs a certificate of amendment, which generally requires board approval, a stockholder vote, and a state fee. Ask an attorney before choosing a very low number.
 
 ## 3. Par value, classes of stock and the other lines
 
-**Par value.** Wolters Kluwer describes par value as the minimum price at which a share can be sold, not market value. It says no-par shares can raise franchise tax, and that the incorporation filing fee depends on both authorized shares and par value. Clerky says startups almost always pick $0.0001 or $0.00001, and that a higher par raises the minimum fair market value per share, which reduces the worth of equity compensation. Rho (October 2026) gives an example: $1.00 par on 10,000,000 authorized shares guarantees at least $4,000 a year, which matches Delaware's formula (authorized shares above the assumed par are multiplied by their par value).
+**Par value.** Wolters Kluwer describes par value as the minimum price at which a share can be sold, not market value. It says no-par shares can raise franchise tax, and that the incorporation filing fee depends on both authorized shares and par value. Startups commonly pick a very low par such as $0.0001. A higher par can also raise franchise tax: Delaware's assumed par value capital method values shares with par above the assumed par at their own par, so $1.00 par on 10,000,000 authorized shares counts at $10,000,000 when the assumed par is below $1.00, or $4,000 at $400 per $1,000,000.
 
 ![Comparison of three authorized share and par value combinations](/images/delaware-certificate-of-incorporation-what-to-put-in-authorized-shares-par-value/cols.webp)
 
 
-**Classes.** Under section 102(a)(4), multiple classes must be listed with the number of shares in each and the designations, powers, preferences and rights. Clerky says startups typically start with one class of common stock and that incorporating with preferred stock for future investors is generally misguided, since its terms are negotiated later and the certificate would likely be amended anyway. Total authorized shares include every class.
+**Classes.** Under section 102(a)(4), multiple classes must be listed with the number of shares in each and the designations, powers, preferences and rights. Many startups begin with a single class of common stock, since preferred stock terms are usually negotiated with investors later and the certificate would likely be amended then. Total authorized shares include every class.
 
-**Registered agent.** Section 102(a)(2) requires the Delaware registered office and agent name. Clerky says the agent must be physically located in Delaware and should not double as your business address. See [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/).
+**Registered agent.** Section 102(a)(2) requires the Delaware registered office and agent name. The registered office must be in Delaware, so most companies hire a commercial registered agent rather than use their own address. See [Delaware registered agent requirements](/blog/delaware-registered-agent-requirements/).
 
-**Optional lines.** Section 102(b)(7) lets the certificate limit directors and officers personal monetary liability to the company or stockholders, but not for loyalty breaches, bad faith, unlawful dividends or buybacks, improper personal benefit, or (for officers) claims brought by or for the corporation. Clerky also notes the effective date is immediate by default, and that some founders set a later date, often January 1, to avoid the current year franchise tax.
+**Optional lines.** Section 102(b)(7) lets the certificate limit directors and officers personal monetary liability to the company or stockholders, but not for loyalty breaches, bad faith, unlawful dividends or buybacks, improper personal benefit, or (for officers) claims brought by or for the corporation. A certificate can also specify a future effective date under section 103 of the DGCL.
 
 ## 4. Changing it later, and who should review it
 
@@ -84,7 +84,7 @@ Decisions are easier to make than to undo. Delaware says changes to stock or par
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Delaware Code Title 8, Chapter 1 (section 102)](https://delcode.delaware.gov/title8/c001/sc01); [Delaware Division of Corporations, franchise tax calculation (last modified April 2021)](https://corp.delaware.gov/frtaxcalc/); [Wolters Kluwer (November 6, 2025)](https://www.wolterskluwer.com/en/expert-insights/delaware-incorporation-why-the-number-of-authorized-shares-matters); [Stripe (updated September 1, 2026)](https://stripe.com/resources/more/how-many-shares-should-a-startup-authorize-at-incorporation); [Clerky Handbook](https://handbooks.clerky.com/startup-incorporation/certificate-of-incorporation-contents); [Rho (October 2026)](https://www.rho.co/blog/delaware-franchise-tax).
+**Sources:** [Delaware Code Title 8, Chapter 1 (section 102)](https://delcode.delaware.gov/title8/c001/sc01); [Delaware Division of Corporations, franchise tax calculation (last modified April 2021)](https://corp.delaware.gov/frtaxcalc/); [Wolters Kluwer (November 6, 2025)](https://www.wolterskluwer.com/en/expert-insights/delaware-incorporation-why-the-number-of-authorized-shares-matters).
 
 ## FAQ
 
@@ -94,15 +94,15 @@ Per Delaware General Corporation Law section 102(a): the corporation name, the D
 
 **How many authorized shares should a Delaware startup put in its certificate?**
 
-Stripe (September 2026) calls 10,000,000 a common starting point, and Clerky says most startup attorneys advise against only 5,000. Franchise tax depends on the method, so confirm with Delaware and a professional before filing.
+There is no single required number. Delaware franchise tax depends on the method, and a very low count leaves little room for later issuances, so confirm with Delaware and a professional before filing.
 
 **What par value should I use in a Delaware certificate of incorporation?**
 
-Clerky says startups almost always use $0.0001 or $0.00001. A high par can raise franchise tax, since $1.00 par on 10,000,000 authorized shares means at least $4,000 a year under Delaware formula, per Rho.
+Startups commonly use a very low par value. A high par can raise franchise tax: under Delaware's assumed par value capital formula, 10,000,000 authorized shares at $1.00 par count at $10,000,000 when the assumed par is below $1.00, which is $4,000 at $400 per $1,000,000.
 
 **Can I change authorized shares after I file?**
 
-Yes, with a certificate of amendment. Per Stripe it typically needs board approval, then a stockholder vote, and a state fee. Delaware says stock or par changes must be reported within 30 days and the tax is prorated.
+Yes, with a certificate of amendment. Under the DGCL an amendment generally needs board approval and a stockholder vote, plus a state fee. Delaware says stock or par changes must be reported within 30 days and the tax is prorated.
 
 ---
 

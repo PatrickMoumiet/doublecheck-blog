@@ -8,7 +8,7 @@ faq:
   - question: 'Is the 540-day EAD automatic extension still available?'
     answer: 'Generally no for renewals filed on or after October 30, 2025. Ogletree and the Berkeley International Office report the interim final rule removed it, and Mintz reports an October 2026 final rule adopted it. Earlier timely renewals may keep it.'
   - question: 'When can I file an EAD renewal?'
-    answer: 'Immiva reports renewals can be filed up to 180 days before the current EAD expires. Confirm the current window on the USCIS Form I-765 page, since filing rules can change.'
+    answer: 'Renewals have generally been accepted up to 180 days before the current EAD expires. Confirm the current window on the USCIS Form I-765 page, since filing rules can change.'
   - question: 'Can I keep working if my EAD expires while the renewal is pending?'
     answer: 'For categories that lost the extension and renewals filed on or after October 30, 2025, Ogletree says an expired EAD is no longer valid for work. E and L spouses with an E-1S, E-2S, E-3S or L-2S I-94 notation may work without an EAD.'
   - question: 'Did EAD validity periods get shorter?'
@@ -35,7 +35,7 @@ toc:
 - The 540-day automatic EAD extension ended for I-765 renewals filed on or after October 30, 2025, per Ogletree.
 - Affected categories include pending adjustment (c)(9) and H-4 (c)(26); TPS and STEM OPT follow separate rules.
 - Fragomen reports an 18-month maximum EAD validity for several categories from December 5, 2025.
-- Renewals can be filed up to 180 days early, per Immiva; file early and track the receipt.
+- Renewals have generally been accepted up to 180 days early; confirm on the USCIS Form I-765 page, file early and track the receipt.
 
 ## 1. The quick answer
 
@@ -64,7 +64,7 @@ Two separate changes affect how long you can work.
 
 **Shorter cards.** Fragomen reports that USCIS cut the maximum EAD validity from five years to 18 months for adjustment of status applicants, refugees, asylees, people granted withholding of removal, and people with pending asylum, withholding, cancellation or NACARA applications. It covers initial and renewal EADs on Form I-765 applications pending or filed on or after December 5, 2025. Existing cards stay valid through their printed dates.
 
-**No safety net.** Immiva reports that renewals can be filed up to 180 days before the current EAD expires and, using USCIS data as of December 31, 2025, that about 1.67 million I-765 applications were pending, with roughly 64% waiting 180 days or more. Those figures are a snapshot, so check USCIS processing times before relying on them.
+**No safety net.** Renewals have generally been accepted up to 180 days before the current EAD expires, and I-765 processing can take months. Check the USCIS Form I-765 page and USCIS processing times for the current window and wait times before relying on any estimate.
 
 The practical result: if your card expires and your renewal was filed on or after October 30, 2025, an employer cannot treat the expired card as valid, per Ogletree. An employer may still accept an I-797 receipt for a timely renewal filed before that date.
 
@@ -82,7 +82,7 @@ Edge cases, such as a card with a code you do not recognize, a pending renewal f
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mintz on the final rule](https://www.mintz.com/insights-center/viewpoints/2806/2026-10-15-uscis-final-rule-ends-540-day-automatic-ead-extension); [Ogletree](https://ogletree.com/insights-resources/blog-posts/uscis-ends-automatic-extension-of-employment-authorization-with-interim-final-rule/); [UC Berkeley International Office](https://internationaloffice.berkeley.edu/news/dhs-rule-ending-automatic-ead-extensions); [Fragomen on 18-month validity](https://www.fragomen.com/insights/united-states-uscis-reduces-maximum-validity-period-from-five-years-to-18-months-for-several-categories-of-eads-including-adjustment-of-status-eads.html); [Immiva](https://immiva.com/blog/ead-renewal-file-early-backlog-2026).
+**Sources:** [Mintz on the final rule](https://www.mintz.com/insights-center/viewpoints/2806/2026-10-15-uscis-final-rule-ends-540-day-automatic-ead-extension); [Ogletree](https://ogletree.com/insights-resources/blog-posts/uscis-ends-automatic-extension-of-employment-authorization-with-interim-final-rule/); [UC Berkeley International Office](https://internationaloffice.berkeley.edu/news/dhs-rule-ending-automatic-ead-extensions); [Fragomen on 18-month validity](https://www.fragomen.com/insights/united-states-uscis-reduces-maximum-validity-period-from-five-years-to-18-months-for-several-categories-of-eads-including-adjustment-of-status-eads.html).
 
 ## FAQ
 
@@ -92,7 +92,7 @@ Generally no for renewals filed on or after October 30, 2025. Ogletree and the B
 
 **When can I file an EAD renewal?**
 
-Immiva reports renewals can be filed up to 180 days before the current EAD expires. Confirm the current window on the USCIS Form I-765 page, since filing rules can change.
+Renewals have generally been accepted up to 180 days before the current EAD expires. Confirm the current window on the USCIS Form I-765 page, since filing rules can change.
 
 **Can I keep working if my EAD expires while the renewal is pending?**
 

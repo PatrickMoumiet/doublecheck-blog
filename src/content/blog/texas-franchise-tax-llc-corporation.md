@@ -36,7 +36,7 @@ toc:
 
 - The Texas franchise tax report is due May 15 each year.
 - Rates are 0.375% for retail or wholesale and 0.75% for other businesses.
-- Zenind reports a $2,650,000 no tax due threshold for reports due in 2026 and 2027, but entities below it may still need to file.
+- A no tax due revenue threshold applies, set by the Comptroller for each report period; entities below it may still need to file.
 - Sole proprietorships are generally not taxable entities.
 
 
@@ -61,7 +61,7 @@ Sole proprietorships are generally not taxable entities (the summary notes an ex
 
 - **Due date:** May 15 each year, or the next business day if it falls on a weekend or holiday.
 - **Rates:** 0.375% for retail or wholesale businesses and 0.75% for other businesses.
-- **No tax due threshold:** Zenind's guide reports $2,650,000 for reports due in 2026 and 2027. Entities below it owe no tax for that period, but may still need to file a report.
+- **No tax due threshold:** the Comptroller sets a revenue threshold for each report period (confirm the current figure on the Comptroller's website). Entities below it owe no tax for that period, but may still need to file a report.
 - **Taxable margin:** generally the greater of 70% of total revenue, revenue minus cost of goods sold, revenue minus compensation, or revenue minus $1 million.
 
 Thresholds change by period, so confirm the number for your report year.
@@ -82,7 +82,7 @@ See [how much it costs to form an LLC in different states](/blog/llc-formation-c
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [CPA Practice Advisor: What to know about Texas franchise tax](https://www.cpapracticeadvisor.com/2025/04/02/what-to-know-about-texas-franchise-tax/158228/); [Zenind: Texas franchise tax guide](https://www.zenind.com/help/post/texas-franchise-tax-guide-for-llcs-and-corporations-deadlines-thresholds-and-filing-steps).
+**Sources:** [CPA Practice Advisor: What to know about Texas franchise tax](https://www.cpapracticeadvisor.com/2025/04/02/what-to-know-about-texas-franchise-tax/158228/).
 
 ## FAQ
 

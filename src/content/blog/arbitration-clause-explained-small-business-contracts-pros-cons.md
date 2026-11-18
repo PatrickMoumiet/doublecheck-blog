@@ -14,7 +14,7 @@ faq:
   - question: 'Should my small business put an arbitration clause in its own contracts?'
     answer: 'It depends on your typical claim size, counterparties and need for privacy. Some lawyers recommend it for confidentiality, while others warn about cost for small claims. Consider a carve-out for small claims and injunctions, and have an attorney review the clause.'
   - question: 'Is an arbitration clause the same as a governing law clause?'
-    answer: 'No. An arbitration clause decides who hears a dispute, while a governing law clause decides which state law applies. Revision Legal (updated May 2026) suggests pairing venue and choice-of-law terms with arbitration when you want finality, and the clauses should be consistent.'
+    answer: 'No. An arbitration clause decides who hears a dispute, while a governing law clause decides which state law applies. If you want finality, consider pairing venue and choice-of-law terms with arbitration, and keep the clauses consistent.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -58,7 +58,7 @@ An arbitration clause says that some or all disputes under the contract will be 
 Three effects matter in practice:
 
 - **You usually cannot go straight to court.** Per Mark Hamilton of Tucker Arensberg (December 2, 2025), if your contract has an arbitration provision, a lawsuit is likely to be stayed or even dismissed, so you will probably have to arbitrate.
-- **The process is set by the clause and the rules it names.** A clause can name an arbitration provider's rules, the city where hearings happen (the seat), and the number of arbitrators. Revision Legal (modified May 31, 2026) recommends specifying the rules, seat and number of arbitrators when you want to avoid public litigation.
+- **The process is set by the clause and the rules it names.** A clause can name an arbitration provider's rules, the city where hearings happen (the seat), and the number of arbitrators. Specify the rules, seat and number of arbitrators when you want to avoid public litigation.
 - **It covers what the words cover.** A narrow clause ("disputes about payment") and a broad one ("any dispute arising out of or relating to this agreement") give very different reach, so read the scope sentence closely.
 
 An arbitration clause is different from a governing law clause: the first decides who decides, the second which state's law applies, and the two should agree.
@@ -71,7 +71,7 @@ Different sources weigh the trade-offs differently, so here they are with attrib
 
 - **Privacy.** Arbitration is generally much more private than litigation, which is why lawyers often recommend it.
 - **Speed.** Depending on the circumstances, arbitration can resolve a dispute faster than a lawsuit, and earlier resolution can mean lower attorney fees.
-- **Easier cross-border enforcement.** Revision Legal notes that arbitral awards under the New York Convention are often easier to enforce across borders than court judgments, which matters if a counterparty is abroad.
+- **Easier cross-border enforcement.** Arbitral awards under the New York Convention are often easier to enforce across borders than court judgments, which matters if a counterparty is abroad.
 
 **Arguments commonly made against it for small businesses:**
 
@@ -108,7 +108,7 @@ Use this checklist when a contract arrives with an arbitration clause, or when y
 - **Consistency.** Does the clause match the [governing law and venue clause](/blog/governing-law-and-venue-clause-explained-which-state-law-applies/), the [termination clause](/blog/how-to-terminate-a-contract-early-termination-clause/) and any notice requirement before a claim?
 - **Who is on the other side.** Consumer, employee and franchise relationships are often subject to extra rules that vary by state and by contract type. Do not assume a form clause will hold; ask an attorney.
 
-If a clause is lopsided, you can ask to change it. Common requests are a carve-out for small claims or injunctions, a mutual fee split, and a seat in a neutral or shared location. Whether you get them depends on leverage, a point also stressed by Revision Legal. For a full read of the other terms that surround a clause like this, see [contract red flags for small business](/blog/contract-red-flags-small-business/) and [what to check before signing an AI-reviewed contract](/blog/ai-contract-review-what-to-check-before-signing/).
+If a clause is lopsided, you can ask to change it. Common requests are a carve-out for small claims or injunctions, a mutual fee split, and a seat in a neutral or shared location. Whether you get them depends on leverage, a point worth keeping in mind. For a full read of the other terms that surround a clause like this, see [contract red flags for small business](/blog/contract-red-flags-small-business/) and [what to check before signing an AI-reviewed contract](/blog/ai-contract-review-what-to-check-before-signing/).
 
 ![Five steps to review an arbitration clause in a business contract](/images/arbitration-clause-explained-small-business-contracts-pros-cons/steps.webp)
 
@@ -129,7 +129,7 @@ AI can help you read the clause, list the questions above and compare it with yo
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Above the Law, Arbitration Might Not Make Sense For Small Businesses (June 18, 2026)](https://abovethelaw.com/2026/06/arbitration-might-not-make-sense-for-small-businesses/); [JD Supra, Tucker Arensberg: Beware the Arbitration Clause Trap (Dec. 2, 2025)](https://www.jdsupra.com/legalnews/note-to-small-business-owners-beware-2448860/); [Today's General Counsel, Challenging Arbitration Awards (Feb. 5, 2026)](https://todaysgeneralcounsel.com/challenging-arbitration-awards-rare-but-possible/); [Revision Legal, Choice of Law and Venue Clauses Explained (modified May 31, 2026)](https://revisionlegal.com/corporate/choice-of-law-venue-contract-clauses/). Not fetched: a Legal 500 article on arbitration clauses (blocked). The AAA fee figures are one example from a law firm article and are not current schedule numbers.
+**Sources:** [Above the Law, Arbitration Might Not Make Sense For Small Businesses (June 18, 2026)](https://abovethelaw.com/2026/06/arbitration-might-not-make-sense-for-small-businesses/); [JD Supra, Tucker Arensberg: Beware the Arbitration Clause Trap (Dec. 2, 2025)](https://www.jdsupra.com/legalnews/note-to-small-business-owners-beware-2448860/); [Today's General Counsel, Challenging Arbitration Awards (Feb. 5, 2026)](https://todaysgeneralcounsel.com/challenging-arbitration-awards-rare-but-possible/). Not fetched: a Legal 500 article on arbitration clauses (blocked). The AAA fee figures are one example from a law firm article and are not current schedule numbers.
 
 ## FAQ
 
@@ -151,7 +151,7 @@ It depends on your typical claim size, counterparties and need for privacy. Some
 
 **Is an arbitration clause the same as a governing law clause?**
 
-No. An arbitration clause decides who hears a dispute, while a governing law clause decides which state law applies. Revision Legal (updated May 2026) suggests pairing venue and choice-of-law terms with arbitration when you want finality, and the clauses should be consistent.
+No. An arbitration clause decides who hears a dispute, while a governing law clause decides which state law applies. If you want finality, consider pairing venue and choice-of-law terms with arbitration, and keep the clauses consistent.
 
 ---
 

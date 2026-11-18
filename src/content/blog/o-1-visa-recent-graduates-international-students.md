@@ -6,9 +6,9 @@ pubDate: 'Nov 9 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can a recent graduate qualify for the O-1A?'
-    answer: 'Possibly. Per the National Law Review, there is no minimum age or years of experience, but you need a major internationally recognized award or at least three of eight evidence types, and USCIS weighs the whole record. Most new graduates do not yet have a record at that level, per f1jobs.io.'
+    answer: 'Possibly. Per the National Law Review, there is no minimum age or years of experience, but you need a major internationally recognized award or at least three of eight evidence types, and USCIS weighs the whole record. Most new graduates do not yet have a record at that level.'
   - question: 'Do hackathon wins count toward an O-1?'
-    answer: 'Rarely on their own. Per f1jobs.io, top placement in a national-level competition with a documented selection process is possible but rare, and campus or hackathon prizes seldom carry weight alone.'
+    answer: 'Rarely on their own. Top placement in a national-level competition with a documented selection process is possible but rare, and campus or hackathon prizes seldom carry weight alone.'
   - question: 'Can I file my own O-1 petition as a student?'
     answer: 'No. Per the National Law Review, a U.S. employer or qualifying agent must file Form I-129, and self-petitioning is not allowed.'
   - question: 'Does a pending O-1 petition extend my OPT?'
@@ -45,17 +45,17 @@ toc:
 
 ## 2. The criteria, matched to student and early-career evidence
 
-Meeting three criteria is the threshold, not the finish line. Per [f1jobs.io](https://www.f1jobs.io/resources/blog/o1-visa-requirements-criteria-new-grad-examples) (September 29, 2026), USCIS then weighs the whole file for sustained acclaim. Here is how common student evidence maps, drawing on that source and on [WeGreened's guide for Ph.D. students](https://www.wegreened.com/o1-visa/o1a-visa-for-phd-students):
+Meeting three criteria is the threshold, not the finish line. USCIS then weighs the whole file for sustained acclaim (see [USCIS Policy Alert PA-2025-02](https://uscis.gov/sites/default/files/document/policy-manual-updates/20250108-ExtraordinaryAbility.pdf) on how O-1A evidence is evaluated). Here is how common student evidence may map; these are general observations, not a guarantee for any one case:
 
-- **Peer-reviewed work (authorship).** First-author papers at peer-reviewed venues are realistic for people with a master's or doctoral research record; per f1jobs.io, fewer well-cited papers beat many weak ones. WeGreened says preprints and technical reports add context only. Patents and conference presentations can add support, per the National Law Review summary below.
-- **Judging.** Completed peer reviews for recognized journals or conferences are often the most reachable for engineers, per f1jobs.io. An unanswered invitation does not count.
-- **Awards, hackathons and competitions.** Per f1jobs.io, top placement in a national-level competition with a documented selection process is possible but rare; campus or hackathon prizes rarely carry weight alone. WeGreened notes that awards limited to one school or locality usually do not qualify.
-- **Scholarships and fellowships.** WeGreened does not list scholarships as a separate criterion; it treats a competitively funded government research grant or stipend as a positive factor in the overall review. Competitive fellowships are named as useful evidence by the [National Law Review](https://natlawreview.com/article/transitioning-f-1-student-visa-o-1-visa) (August 7, 2026).
-- **Press.** Articles in professional or major media that substantially discuss your work can count; a passing mention does not, and your own posts or company press releases generally do not, per the two sources above.
-- **High salary.** Per f1jobs.io, a strong but ordinary offer for your level does not qualify by itself; a doctoral stipend rarely meets the comparison, per WeGreened.
+- **Peer-reviewed work (authorship).** First-author papers at peer-reviewed venues are realistic for people with a master's or doctoral research record; a few well-cited papers will usually say more than many weak ones. Preprints and technical reports may add context but are less likely to carry weight alone. Patents and conference presentations can add support, per the National Law Review summary below.
+- **Judging.** Completed peer reviews for recognized journals or conferences are often among the more reachable criteria for engineers. An unanswered invitation does not count.
+- **Awards, hackathons and competitions.** Top placement in a national-level competition with a documented selection process is possible but rare; campus or hackathon prizes rarely carry weight alone. Awards limited to one school or locality are unlikely to qualify.
+- **Scholarships and fellowships.** Scholarships are not a separate regulatory criterion; a competitively funded research grant or stipend may still be a positive factor in the overall review. Competitive fellowships are named as useful evidence by the [National Law Review](https://natlawreview.com/article/transitioning-f-1-student-visa-o-1-visa) (August 7, 2026).
+- **Press.** Articles in professional or major media that substantially discuss your work can count; a passing mention does not, and your own posts or company press releases generally do not.
+- **High salary.** A strong but ordinary offer for your level does not qualify by itself, and a doctoral stipend rarely meets the comparison.
 - **Critical role at a distinguished organization.** Difficult early on; it needs both a distinguished organization and a shown critical role, supported by letters.
 - **Membership.** Paid or student-level memberships do not count.
-- **Original contributions of major significance.** An open-source library adopted by other organizations can fit, but you need independent evidence of use, per f1jobs.io.
+- **Original contributions of major significance.** An open-source library adopted by other organizations can fit, but you need independent evidence of use.
 
 Recommendation letters from independent experts matter; see [O-1 recommendation letters](/blog/o-1-recommendation-letters-expert-opinion/).
 
@@ -63,16 +63,16 @@ Recommendation letters from independent experts matter; see [O-1 recommendation 
 
 ## 3. Realistic expectations and F-1 timing
 
-Per f1jobs.io, most new graduates do not yet have a record at the required level, and a file that checks three boxes thinly can still fail the overall review. Comparable evidence can help when a criterion does not fit your occupation, but it does not lower the standard. Whether you qualify is a question for an immigration attorney who has seen your evidence.
+Most new graduates do not yet have a record at the required level, and a file that checks three boxes thinly can still fail the overall review. Comparable evidence can help when a criterion does not fit your occupation, but it does not lower the standard. Whether you qualify is a question for an immigration attorney who has seen your evidence.
 
-Things that trip up students, per the National Law Review and WeGreened:
+Things that trip up students, per the National Law Review:
 
 - **No self-petition.** A U.S. employer or qualifying agent files Form I-129, so you need an offer or an agent, and your university may not sponsor students.
-- **OPT is not extended.** Unlike H-1B cap-gap, a pending O-1 petition does not extend F-1 work authorization, and WeGreened notes OPT ends on the O-1 effective date. You cannot work in O-1 status until USCIS approves the change.
+- **OPT is not extended.** Unlike H-1B cap-gap, a pending O-1 petition does not extend F-1 work authorization, and OPT may end on the O-1 effective date. You cannot work in O-1 status until USCIS approves the change.
 - **Start early.** The National Law Review suggests starting about six months or more before OPT or STEM OPT expires.
 - **Tied to the employer.** O-1 work authorization covers the listed employment; changes need a new or amended petition.
 - **Consultation.** Per USCIS, the petition needs a written advisory opinion from a peer group or an expert in the field.
-- **J-1 home residency.** If it applies, WeGreened says you cannot change status inside the U.S.; you would apply abroad.
+- **J-1 home residency.** If it applies, you may not be able to change status inside the U.S.; ask your DSO and an attorney.
 
 Per USCIS, the initial stay can be up to three years. For costs and speed, see [O-1 cost](/blog/o-1-visa-cost-filing-and-attorney-fees/) and [processing and premium processing](/blog/o-1-visa-processing-time-premium-processing/).
 
@@ -86,17 +86,17 @@ If your record is not there yet, the lower-risk plan is often: stay in status th
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS, O-1 Visa](https://uscis.gov/o-1); [f1jobs.io, O-1 criteria with new grad examples](https://www.f1jobs.io/resources/blog/o1-visa-requirements-criteria-new-grad-examples); [WeGreened, O-1A for Ph.D. students](https://www.wegreened.com/o1-visa/o1a-visa-for-phd-students); [National Law Review, transitioning from F-1 to O-1](https://natlawreview.com/article/transitioning-f-1-student-visa-o-1-visa).
+**Sources:** [USCIS, O-1 Visa](https://uscis.gov/o-1); [USCIS Policy Alert PA-2025-02, O-1A and O-1B evidence](https://uscis.gov/sites/default/files/document/policy-manual-updates/20250108-ExtraordinaryAbility.pdf); [USCIS Policy Manual, Part M (O nonimmigrants)](https://uscis.gov/es/node/71206); [National Law Review, transitioning from F-1 to O-1](https://natlawreview.com/article/transitioning-f-1-student-visa-o-1-visa).
 
 ## FAQ
 
 **Can a recent graduate qualify for the O-1A?**
 
-Possibly. Per the National Law Review, there is no minimum age or years of experience, but you need a major internationally recognized award or at least three of eight evidence types, and USCIS weighs the whole record. Most new graduates do not yet have a record at that level, per f1jobs.io.
+Possibly. Per the National Law Review, there is no minimum age or years of experience, but you need a major internationally recognized award or at least three of eight evidence types, and USCIS weighs the whole record. Most new graduates do not yet have a record at that level.
 
 **Do hackathon wins count toward an O-1?**
 
-Rarely on their own. Per f1jobs.io, top placement in a national-level competition with a documented selection process is possible but rare, and campus or hackathon prizes seldom carry weight alone.
+Rarely on their own. Top placement in a national-level competition with a documented selection process is possible but rare, and campus or hackathon prizes seldom carry weight alone.
 
 **Can I file my own O-1 petition as a student?**
 

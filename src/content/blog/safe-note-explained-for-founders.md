@@ -71,7 +71,7 @@ Numbers below are our own arithmetic on hypothetical terms, using the YC guide's
 
 ![Ownership before and after two SAFEs and a Series A](/images/safe-note-explained-for-founders/cols.webp)
 
-The lesson from Wilson Sonsini's analysis of the post-money form: every additional dollar raised on a fixed post-money cap dilutes founders, so model the total you plan to raise before you sign. The older pre-money form, which excluded other SAFEs from the cap calculation, is described by [Terms.law](https://terms.law/Invest-USA/startup-investing/safe-agreements.html) as a legacy form. Also compare with [priced-round terms](/blog/term-sheet-key-terms-explained/) and the [funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/).
+The lesson from Wilson Sonsini's analysis of the post-money form: every additional dollar raised on a fixed post-money cap dilutes founders, so model the total you plan to raise before you sign. The older pre-money form, which excluded other SAFEs from the cap calculation, is the older form, now largely replaced by the post-money form. Also compare with [priced-round terms](/blog/term-sheet-key-terms-explained/) and the [funding stages](/blog/startup-funding-stages-pre-seed-to-series-b/).
 
 **Related reading:** [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Reg CF Equity Crowdfunding for Startups: Legal Basics Founders Need](/blog/reg-cf-equity-crowdfunding-startups-legal-basics/); [Angel Investor Agreement: What to Expect and a Documents Checklist](/blog/angel-investor-agreement-what-to-expect-docs-checklist/)
 
@@ -79,7 +79,7 @@ The lesson from Wilson Sonsini's analysis of the post-money form: every addition
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Y Combinator, Safe User Guide](https://bookface-static.ycombinator.com/assets/ycdc/SAFE%20User%20Guide-a47c6588327d73aa2799e61ed7c2cae9f1a0ee9acfa9c43b62039dc06e715832.pdf); [Wilson Sonsini, Post-Money Safes](https://wsgr.com/publications/PDFSearch/Practitioner-Insight-Post-Money-web.html); [Haynes Boone, SAFEs and Convertible Notes](https://www.haynesboone.com/news/publications/safes-and-convertible-notes); [CRV, SAFE Agreements for Startups](https://www.crv.com/content/safe-agreements-for-startups); [Terms.law, SAFE Agreements](https://terms.law/Invest-USA/startup-investing/safe-agreements.html).
+**Sources:** [Y Combinator, Safe User Guide](https://bookface-static.ycombinator.com/assets/ycdc/SAFE%20User%20Guide-a47c6588327d73aa2799e61ed7c2cae9f1a0ee9acfa9c43b62039dc06e715832.pdf); [Wilson Sonsini, Post-Money Safes](https://wsgr.com/publications/PDFSearch/Practitioner-Insight-Post-Money-web.html); [Haynes Boone, SAFEs and Convertible Notes](https://www.haynesboone.com/news/publications/safes-and-convertible-notes); [CRV, SAFE Agreements for Startups](https://www.crv.com/content/safe-agreements-for-startups).
 
 ## FAQ
 

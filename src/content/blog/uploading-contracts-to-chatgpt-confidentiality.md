@@ -10,7 +10,7 @@ faq:
   - question: 'Does ChatGPT train on my uploaded contracts?'
     answer: 'Per OpenAI''s enterprise privacy page, it does not train on business data. Consumer terms differ and I could not verify them for this article, so check your plan''s Data Controls and the provider''s current terms.'
   - question: 'Are my ChatGPT conversations privileged?'
-    answer: 'No. Sam Altman has said privilege does not yet apply to ChatGPT, per Benzinga, and a federal court held one defendant''s AI chats were not privileged in United States v. Heppner.'
+    answer: 'No. Sam Altman has called for an "AI privilege," which suggests it does not exist today, per VentureBeat, and a federal court held one defendant''s AI chats were not privileged in United States v. Heppner.'
   - question: 'Can deleted ChatGPT chats be retrieved?'
     answer: 'Sometimes. Per VentureBeat, a May 13, 2025 court order required OpenAI to preserve deleted and temporary chats for several plans. Per Yahoo News, it was lifted October 9, but previously saved logs remain accessible to the plaintiffs.'
 toc:
@@ -55,7 +55,7 @@ The ABA's Formal Opinion 512 (July 29, 2024) gives lawyers a useful model. Per t
 
 Confidentiality and privilege are different. Attorney-client privilege protects confidential communications with a lawyer. An AI chatbot is not a lawyer.
 
-- **No privilege for the chat itself.** Sam Altman said on a podcast in 2025 that legal privilege does not yet apply to ChatGPT ("We haven't figured that out yet") and that OpenAI could be required to produce conversations in a lawsuit, per Benzinga. A federal court reached a similar result for one defendant's AI chats in *United States v. Heppner*; see [are your AI chats privileged?](/blog/ai-chats-not-privileged-heppner/).
+- **No privilege for the chat itself.** Sam Altman has said the need for something like "AI privilege" is worth thinking about, which suggests that protection does not exist today, per VentureBeat, and a court order in *NYT v. OpenAI* required OpenAI to preserve chat logs for a period. A federal court reached a similar result for one defendant's AI chats in *United States v. Heppner*; see [are your AI chats privileged?](/blog/ai-chats-not-privileged-heppner/).
 - **Preservation orders happen.** Per VentureBeat, on May 13, 2025, Magistrate Judge Ona T. Wang ordered OpenAI to preserve output log data that would otherwise be deleted, in *New York Times v. OpenAI and Microsoft*. It covered ChatGPT Free, Plus, Pro, and Team users and API customers without zero data retention, including deleted and temporary chats. ChatGPT Enterprise, Edu, and zero-retention API users were excluded.
 - **That order ended, with caveats.** Per Yahoo News, a new order on October 9 lifted it, but logs saved under the original order remain accessible to the plaintiffs, and OpenAI must keep logs for accounts the Times flagged.
 
@@ -82,7 +82,7 @@ Companies can formalize this in an [AI policy for small businesses](/blog/ai-pol
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [OpenAI, Enterprise privacy](https://openai.com/enterprise-privacy/); [VentureBeat, OpenAI court order and AI privilege](https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions); [Yahoo News, judge lifts preservation order](https://www.yahoo.com/news/articles/judge-lifts-order-requiring-openai-151518813.html); [Benzinga, Altman on AI conversations](https://www.benzinga.com/markets/tech/25/07/46744816/sam-altman-warns-chatgpt-conversations-arent-protected-like-talking-with-your-psychologist-or-lawyer-we-could-be-required-to-produce-that-in-court); [National Law Review, ABA Formal Opinion 512](https://natlawreview.com/article/american-bar-association-issues-formal-opinion-use-generative-ai-tools).
+**Sources:** [OpenAI, Enterprise privacy](https://openai.com/enterprise-privacy/); [VentureBeat, OpenAI court order and AI privilege](https://venturebeat.com/ai/sam-altman-calls-for-ai-privilege-as-openai-clarifies-court-order-to-retain-temporary-and-deleted-chatgpt-sessions); [Yahoo News, judge lifts preservation order](https://www.yahoo.com/news/articles/judge-lifts-order-requiring-openai-151518813.html); [National Law Review, ABA Formal Opinion 512](https://natlawreview.com/article/american-bar-association-issues-formal-opinion-use-generative-ai-tools).
 
 ## FAQ
 
@@ -96,7 +96,7 @@ Per OpenAI's enterprise privacy page, it does not train on business data. Consum
 
 **Are my ChatGPT conversations privileged?**
 
-No. Sam Altman has said privilege does not yet apply to ChatGPT, per Benzinga, and a federal court held one defendant's AI chats were not privileged in United States v. Heppner.
+No. Sam Altman has called for an "AI privilege," which suggests it does not exist today, per VentureBeat, and a federal court held one defendant's AI chats were not privileged in United States v. Heppner.
 
 **Can deleted ChatGPT chats be retrieved?**
 

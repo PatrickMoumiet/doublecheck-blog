@@ -8,11 +8,11 @@ faq:
   - question: 'Can I sue Google or Yelp over a defamatory review?'
     answer: 'Usually not. Per Eric Goldman''s summary of Daniloff v. Google (D. Or. 2023), the court dismissed the claim against Google under Section 230, including for refusing to remove the review.'
   - question: 'Is a harsh negative review defamation?'
-    answer: 'Not by itself. Per Revision Legal, opinion is not actionable and a defamation claim requires a false statement of fact, fault, and harm.'
+    answer: 'Not by itself. Opinion is not actionable, and a defamation claim generally requires a false statement of fact, fault, and harm.'
   - question: 'Can I make customers agree not to post negative reviews?'
     answer: 'Not in a form contract. Per JD Supra''s summary of FTC guidance, the Consumer Review Fairness Act voids clauses that restrict reviews, penalize reviewers, or take their IP rights, with exceptions for employment and contractor agreements.'
   - question: 'What is an anti-SLAPP law and why does it matter?'
-    answer: 'Per Revision Legal, over 30 states have anti-SLAPP statutes that let a defendant seek early dismissal of claims over protected speech and recover attorney''s fees from the plaintiff. They are a real cost risk if you sue over a review.'
+    answer: 'Many states have anti-SLAPP statutes that let a defendant seek early dismissal of claims over protected speech and, in some cases, recover attorney''s fees from the plaintiff. They are a real cost risk if you sue over a review.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,7 +45,7 @@ toc:
 
 ## 2. Fact, opinion, and defamation basics
 
-Per [Revision Legal](https://revisionlegal.com/internet-law/when-does-negative-review-become-defamation/), citing the Restatement (Second) of Torts, a defamation claim generally requires:
+Under general U.S. defamation principles, which vary by state, a defamation claim generally requires:
 
 - a false statement of fact, not opinion;
 - publication to a third party;
@@ -64,7 +64,7 @@ What that means for you:
 
 - Suing Google or Yelp over a reviewer's words is usually a dead end.
 - Platforms respond to their own content policies (spam, conflicts of interest, harassment), so reports citing a specific policy can work without litigation, per Chambers.
-- Per Revision Legal, platforms must respond to properly documented court orders compelling removal of content a court has found defamatory.
+- Platforms generally act on properly documented court orders compelling removal of content a court has found defamatory, though procedures differ.
 - If the reviewer is anonymous, a lawyer may be able to seek pre-suit discovery to identify them, per Chambers.
 
 Fake reviews are also a regulatory issue. The FTC's fake reviews rule bars fake reviews and, in some cases, suppression of reviews; see [FTC endorsement and review rules](/blog/ftc-endorsement-disclosure-rules-small-business/).
@@ -73,7 +73,7 @@ Fake reviews are also a regulatory issue. The FTC's fake reviews rule bars fake 
 
 **Do:**
 
-- Reply calmly and factually. Per Revision Legal, use the reply to correct an inaccurate statement.
+- Reply calmly and factually. Use the reply to correct an inaccurate statement.
 - Invite satisfied customers to leave honest reviews. Per the FTC's rule, do not reward only positive ones.
 - Report fabricated or policy-violating reviews through the platform.
 - Have a lawyer send a demand letter if the statement is clearly false and costly; it may prompt a deletion or apology.
@@ -83,7 +83,7 @@ Fake reviews are also a regulatory issue. The FTC's fake reviews rule bars fake 
 - Argue in the comments. Chambers notes it often worsens reputational damage.
 - Write fake reviews of competitors or yourself. See the FTC rule above.
 - Threaten customers with penalties for reviewing. The Consumer Review Fairness Act voids such clauses in form contracts, though you may remove libelous, harassing, or clearly false reviews, per JD Supra's summary of FTC guidance.
-- Sue without a plan. Per Revision Legal, more than 30 states have anti-SLAPP statutes; if a court finds the review protected, the defendant can seek fees and costs from the business, and in California the motion is heard early.
+- Sue without a plan. Many states have anti-SLAPP statutes; if a court finds the review protected, the defendant may be able to seek fees and costs from the business, and the motion is typically heard early.
 
 ![Six questions to screen whether a review is actionable defamation](/images/online-reviews-defamation-what-business-can-do/grid.webp)
 
@@ -93,7 +93,7 @@ If you receive a demand yourself, see [how to respond to a cease and desist lett
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Revision Legal, When Does a Negative Review Become Defamation](https://revisionlegal.com/internet-law/when-does-negative-review-become-defamation/); [Chambers, Can a Business Sue for a Bad Review](https://chambers.com/articles/can-a-business-sue-for-a-bad-review); [Eric Goldman, Daniloff v. Google](https://blog.ericgoldman.org/?p=24855); [JD Supra, What the FTC Wants Businesses to Know (CRFA)](https://jdsupra.com/legalnews/what-the-ftc-wants-businesses-to-know-70083/).
+**Sources:** [Chambers, Can a Business Sue for a Bad Review](https://chambers.com/articles/can-a-business-sue-for-a-bad-review); [Eric Goldman, Daniloff v. Google](https://blog.ericgoldman.org/?p=24855); [JD Supra, What the FTC Wants Businesses to Know (CRFA)](https://jdsupra.com/legalnews/what-the-ftc-wants-businesses-to-know-70083/).
 
 ## FAQ
 
@@ -103,7 +103,7 @@ Usually not. Per Eric Goldman's summary of Daniloff v. Google (D. Or. 2023), the
 
 **Is a harsh negative review defamation?**
 
-Not by itself. Per Revision Legal, opinion is not actionable and a defamation claim requires a false statement of fact, fault, and harm.
+Not by itself. Opinion is not actionable, and a defamation claim generally requires a false statement of fact, fault, and harm.
 
 **Can I make customers agree not to post negative reviews?**
 
@@ -111,7 +111,7 @@ Not in a form contract. Per JD Supra's summary of FTC guidance, the Consumer Rev
 
 **What is an anti-SLAPP law and why does it matter?**
 
-Per Revision Legal, over 30 states have anti-SLAPP statutes that let a defendant seek early dismissal of claims over protected speech and recover attorney's fees from the plaintiff. They are a real cost risk if you sue over a review.
+Many states have anti-SLAPP statutes that let a defendant seek early dismissal of claims over protected speech and, in some cases, recover attorney's fees from the plaintiff. They are a real cost risk if you sue over a review.
 
 ---
 

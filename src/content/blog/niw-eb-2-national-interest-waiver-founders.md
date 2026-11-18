@@ -55,7 +55,7 @@ The NIW sits in the EB-2 category and focuses on the endeavor's national importa
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Greenberg Traurig](https://www.gtlaw-insidebusinessimmigration.com/department-of-homeland-security/new-framework-for-adjudicating-national-interest-waivers/); [Ashoori Law](https://www.ashoorilaw.com/blog/eb1a-criteria).
+**Sources:** [Greenberg Traurig](https://www.gtlaw-insidebusinessimmigration.com/department-of-homeland-security/new-framework-for-adjudicating-national-interest-waivers/); [USCIS Policy Manual, advanced degree or exceptional ability (NIW)](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-5); [USCIS Policy Manual, extraordinary ability (EB-1A)](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2); [Matter of Dhanasar, 26 I&N Dec. 884 (AAO 2016)](https://www.justice.gov/eoir/page/file/920996/dl).
 
 ## FAQ
 

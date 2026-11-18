@@ -6,9 +6,9 @@ pubDate: 'Nov 13 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'When should a foreign founder incorporate in the US?'
-    answer: 'Per Every.io, the ideal time is when an investor has committed or a customer contract requires an entity, since incorporating earlier adds cost. If your visa route needs a U.S. company at filing, plan the timing with an attorney.'
+    answer: 'There is no single right date: incorporating earlier adds cost, but some visa routes need a U.S. company in place at filing. Plan the timing with an immigration attorney.'
   - question: 'Should founder stock vest before filing for a visa?'
-    answer: 'Cooley says vesting can show an at risk investment and ongoing commitment, and Every.io describes 4 years with a 1-year cliff as standard. How vesting interacts with your specific route is a question for an immigration attorney.'
+    answer: 'Cooley says vesting can show an at risk investment and ongoing commitment. How vesting interacts with your specific route is a question for an immigration attorney.'
   - question: 'What is the deadline for an 83(b) election?'
     answer: 'Carta says the election must be postmarked and mailed to the IRS within 30 days of the grant. Missing it loses the benefit. Confirm current filing methods with the IRS or a tax professional.'
   - question: 'How many days in the US make me a tax resident?'
@@ -46,9 +46,9 @@ toc:
 ## 2. The checklist, in order
 
 1. **Shortlist the visa route first.** Ownership rules differ by route. Cooley says E-2 requires at least 50% treaty-country ownership and that dropping below 50% ends status for the founder and E-2 employees. H-1B self-sponsorship needs a genuine employment relationship, and Cooley says a founder with a controlling interest should have a board that is independent from the founder's control. Read the visa guides before you split equity: [E-2](/blog/e-2-treaty-investor-visa-for-founders/), [H-1B for founders](/blog/h-1b-for-founders-owning-your-own-company-employer-employee-rule/), [O-1A](/blog/o-1a-visa-for-startup-founders-evidence/).
-2. **Form the entity.** Every.io says the ideal time to incorporate is when you have an investor committed or a customer contract that needs an entity, and that most VCs and angels expect a Delaware C corporation. Follow [how to incorporate in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/) and [starting a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/). Without an SSN, Every.io says an EIN by mail or fax can take 4 to 6 weeks (see [getting an EIN without an SSN](/blog/get-ein-without-ssn-foreign-founder/)).
+2. **Form the entity.** Time the incorporation with your visa route and funding plans, since incorporating earlier adds cost but some routes need a company at filing. Follow [how to incorporate in the U.S.](/blog/how-to-incorporate-a-company-in-the-us/) and [starting a U.S. company as a non-U.S. resident](/blog/start-us-company-as-non-us-resident/). Without an SSN, the IRS says applicants outside the U.S. can apply by phone, fax or mail, and the IRS Taxpayer Advocate Service says mailed applications take about four weeks (see [getting an EIN without an SSN](/blog/get-ein-without-ssn-foreign-founder/)).
 3. **Assign your IP.** Sign an assignment so the company owns what you built. Check that nothing was built on an employer's time or equipment. See [confidentiality and IP assignment agreements](/blog/confidentiality-ip-assignment-agreements-startups/).
-4. **Issue founder stock with vesting.** Every.io describes the standard schedule as 4 years with a 1-year cliff. Cooley says vesting can also help show an "at risk" investment and ongoing commitment. Document it in an [issue founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/) and keep a clean [cap table](/blog/cap-table-basics-for-first-time-founders/).
+4. **Issue founder stock with vesting.** Cooley says vesting can also help show an "at risk" investment and ongoing commitment. Document it in an [issue founder stock purchase agreement](/blog/issue-founder-stock-purchase-agreement/) and keep a clean [cap table](/blog/cap-table-basics-for-first-time-founders/).
 5. **File the 83(b) election if stock is unvested.** Carta says the form must be postmarked and mailed to the IRS within 30 days, and that the benefit is lost if you miss it. Confirm current filing methods with the IRS or a tax professional. See [83(b) for founders](/blog/83b-election-startup-founders/).
 6. **Write down your role and the oversight.** Cooley recommends defining the founder's role in bylaws, employment agreements, offer letters and stockholder agreements, and deciding early whether the board can supervise or remove the founder.
 7. **Only then file immigration paperwork and relocate.**
@@ -84,17 +84,17 @@ See [how to find a good immigration lawyer](/blog/how-to-find-good-immigration-l
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Cooley, June 2025](https://www.cooley.com/news/insight/2025/2025-06-03-what-foreign-founders-need-to-know-about-us-visas-and-corporate-structure); [Every.io](https://www.every.io/blueprint-posts/startup-incorporation-faqs); [Carta](https://carta.com/learn/equity/stock-options/taxes/83b-election/); [IRS, substantial presence test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test); [USCIS O-1](https://uscis.gov/o-1); [National Law Review, L-1 new offices](https://natlawreview.com/article/l-1-visa-new-offices-2026-practical-guide-companies-expanding-united-states); [Fisher Phillips](https://www.fisherphillips.com/en/insights/insights/visa-pathways-for-international-tech-startups). The Beyond Border page on Delaware C corps for O-1 founders did not cover formation timing and was not used for those points.
+**Sources:** [Cooley, June 2025](https://www.cooley.com/news/insight/2025/2025-06-03-what-foreign-founders-need-to-know-about-us-visas-and-corporate-structure); [IRS: Get an EIN](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number); [IRS Taxpayer Advocate Service: EIN](https://www.taxpayeradvocate.irs.gov/?p=3135); [Carta](https://carta.com/learn/equity/stock-options/taxes/83b-election/); [IRS, substantial presence test](https://www.irs.gov/individuals/international-taxpayers/substantial-presence-test); [USCIS O-1](https://uscis.gov/o-1); [National Law Review, L-1 new offices](https://natlawreview.com/article/l-1-visa-new-offices-2026-practical-guide-companies-expanding-united-states); [Fisher Phillips](https://www.fisherphillips.com/en/insights/insights/visa-pathways-for-international-tech-startups).
 
 ## FAQ
 
 **When should a foreign founder incorporate in the US?**
 
-Per Every.io, the ideal time is when an investor has committed or a customer contract requires an entity, since incorporating earlier adds cost. If your visa route needs a U.S. company at filing, plan the timing with an attorney.
+There is no single right date: incorporating earlier adds cost, but some visa routes need a U.S. company in place at filing. Plan the timing with an immigration attorney.
 
 **Should founder stock vest before filing for a visa?**
 
-Cooley says vesting can show an at risk investment and ongoing commitment, and Every.io describes 4 years with a 1-year cliff as standard. How vesting interacts with your specific route is a question for an immigration attorney.
+Cooley says vesting can show an at risk investment and ongoing commitment. How vesting interacts with your specific route is a question for an immigration attorney.
 
 **What is the deadline for an 83(b) election?**
 

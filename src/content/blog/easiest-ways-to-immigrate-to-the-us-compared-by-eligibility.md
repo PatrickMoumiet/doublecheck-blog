@@ -10,7 +10,7 @@ faq:
   - question: 'Is the diversity visa lottery an easy option?'
     answer: 'It is open only to eligible countries and selection is random. Per Nolo, more people are selected than visas available, and winners must still meet education and admissibility requirements. Check the State Department site for current registration status.'
   - question: 'Which route has the shortest wait?'
-    answer: 'Immediate relatives of US citizens have no visa number wait. In the November 2026 Visa Bulletin as reported by Wolfsdorf Rosenberg, EB-1 was current for most countries, while some categories for India, China, and Mexico had much older cutoff dates.'
+    answer: 'Immediate relatives of US citizens have no visa number wait. Other family and employment categories depend on category and country of birth, and some categories for countries such as India, China, and Mexico have much longer backlogs. Check the State Department''s monthly Visa Bulletin for current cutoff dates.'
   - question: 'Can I switch routes if I do not qualify for the one I want?'
     answer: 'Sometimes. People often qualify under more than one category, for example family and employment, or EB-1 and EB-2. An immigration attorney can compare the options for your facts before you file.'
 toc:
@@ -34,7 +34,7 @@ toc:
 
 - Immediate relatives of US citizens have no annual cap or resulting wait, per Nolo; other routes involve caps, sponsors, capital, or a lottery.
 - Wait times depend on category and country of birth, so check the monthly Visa Bulletin.
-- EB-5 minimums are $800,000 (targeted area) or $1,050,000, per Global Immigration (May 2026), with an adjustment scheduled for 2027.
+- EB-5 minimums are $800,000 (targeted area) or $1,050,000, per CRS; confirm current amounts with USCIS.
 - Verify your fit with a licensed attorney before filing when more than one route could apply.
 
 ## 1. The quick answer
@@ -47,23 +47,23 @@ toc:
 
 Family is the only category where the main requirement is a relationship, not a skill or money. Per the Migration Policy Institute (MPI), the immigration law sets the family-sponsored total at 480,000 including immediate relatives, who are not numerically limited. The preference categories (adult children, siblings, and spouses and children of green card holders) are capped, and the family preference level may not fall below 226,000.
 
-What drives the wait is the category and your country of birth. As examples from the November 2026 Visa Bulletin as reported by Wolfsdorf Rosenberg (the State Department page itself did not load for us): F2A (spouses and minor children of green card holders) was at October 22, 2026 for most countries; F1 (unmarried adult children of citizens) at January 22, 2021; F3 at October 22, 2015, and for Mexico at July 15, 2001. A priority date must be earlier than the listed cutoff. See [how to read the visa bulletin](/blog/visa-bulletin-explained-priority-dates-eb-categories/).
+What drives the wait is the category and your country of birth. Each month the State Department's Visa Bulletin lists a cutoff date for each family category and country, and the dates for countries such as Mexico, India, and the Philippines can be many years behind the dates for most other countries. A priority date must be earlier than the listed cutoff. We did not cite specific cutoff dates here because they change monthly. See [how to read the visa bulletin](/blog/visa-bulletin-explained-priority-dates-eb-categories/).
 
 What drives the cost: filing fees, the sponsor's financial support obligation (see [the I-864 affidavit of support](/blog/affidavit-of-support-i-864-sponsor-requirements/)), medical exams, and attorney fees if you hire one. For the marriage route, see [marriage-based green card timeline](/blog/marriage-based-green-card-process-timeline/) and [the I-130 petition](/blog/i-130-petition-spouse-green-card-marriage-based-process/). A relationship must be genuine; a sham marriage is a crime and a bar to future benefits.
 
 ## 3. Employment, investment, and the diversity lottery
 
-**Employment (EB-1, EB-2, EB-3).** US law allows 140,000 employment-based green cards a year, per Shusterman, with a 7% per-country limit that causes long backlogs for people born in India and mainland China. Eligibility bars differ:
+**Employment (EB-1, EB-2, EB-3).** US law allows about 140,000 employment-based green cards a year, per CRS, with a 7% per-country limit that causes long backlogs for people born in India and mainland China. Eligibility bars differ:
 
 - **EB-1:** extraordinary ability, outstanding professors and researchers, or multinational executives and managers. No PERM labor certification.
 - **EB-2:** an advanced degree or exceptional ability. PERM is generally required unless a national interest waiver is granted.
 - **EB-3:** professionals, skilled workers (at least two years of training or experience), and other workers (capped at 10,000).
 
-Wait time drivers are category and birth country. In the November 2026 bulletin (per Wolfsdorf), EB-1 was current for most countries, EB-2 was April 1, 2025, and India EB-2 was November 1, 2013. Costs are driven by the employer's recruitment and legal work for PERM and by the petition fees. Read more in [EB-2 vs EB-3](/blog/eb-2-vs-eb-3-green-card-categories/), [PERM](/blog/perm-labor-certification-green-card-process/), [EB-1A for tech employees](/blog/eb-1a-for-software-engineers-and-tech-employees/), and [the national interest waiver](/blog/niw-eb-2-national-interest-waiver-founders/).
+Wait time drivers are category and birth country. Cutoff dates differ by category and country and change monthly, so check the current Visa Bulletin. Costs are driven by the employer's recruitment and legal work for PERM and by the petition fees. Read more in [EB-2 vs EB-3](/blog/eb-2-vs-eb-3-green-card-categories/), [PERM](/blog/perm-labor-certification-green-card-process/), [EB-1A for tech employees](/blog/eb-1a-for-software-engineers-and-tech-employees/), and [the national interest waiver](/blog/niw-eb-2-national-interest-waiver-founders/).
 
-**Investment (EB-5).** Per Global Immigration (updated May 2026), the current minimums are $800,000 in a targeted employment area and $1,050,000 otherwise. A CanAm Marketing article says an inflation adjustment is scheduled for January 1, 2027, with final figures still to be published in the Federal Register. The cost driver here is the capital at risk, plus fees. Details: [EB-5 requirements](/blog/eb-5-investor-visa-requirements-2026/).
+**Investment (EB-5).** Per [CRS](https://www.everycrsreport.com/files/2024-11-04_R42866_45adab25e6609dc1a2884659162539e205019e77.html), the general minimum is $1.05 million, or $800,000 in rural areas, areas of high unemployment, or infrastructure projects. The amounts may be adjusted over time, so confirm current figures with USCIS before planning. The cost driver here is the capital at risk, plus fees. Details: [EB-5 requirements](/blog/eb-5-investor-visa-requirements-2026/).
 
-**Diversity lottery.** About 50,000 visas are made available a year (the law provides 55,000, reduced by up to 5,000, per a CRS report). Per Nolo, applicants need minimum education, must show they can support themselves, and must not be inadmissible; selection is random and more people are selected than visas exist. A State Department final rule, reported by Greenberg Traurig as published April 10, 2026, requires passport information at registration starting with DV-2027. Check the State Department site for current registration dates. See [the diversity visa guide](/blog/diversity-visa-lottery-green-card-lottery-eligibility-how-to-apply/).
+**Diversity lottery.** About 50,000 visas are made available a year (the law provides 55,000, reduced by up to 5,000, per a CRS report). Per Nolo, applicants need minimum education, must show they can support themselves, and must not be inadmissible; selection is random and more people are selected than visas exist. Registration requirements and dates change by year, so check the State Department site for the current rules. See [the diversity visa guide](/blog/diversity-visa-lottery-green-card-lottery-eligibility-how-to-apply/).
 
 ## 4. Student-to-work routes, humanitarian status, and how to choose
 
@@ -79,7 +79,7 @@ Handle the early research yourself: list your relationships, degrees, employer, 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Nolo, What is the easiest way to get a US green card](https://www.nolo.com/legal-encyclopedia/whats-the-easiest-way-get-us-green-card.html); [MPI, How the US legal immigration system works](https://www.migrationpolicy.org/explainer/how-us-legal-immigration-system-works); [CRS, Permanent Legal Immigration to the United States (Nov 2024)](https://www.everycrsreport.com/files/2024-11-04_R42866_45adab25e6609dc1a2884659162539e205019e77.html); [Shusterman, employment-based categories](https://www.shusterman.com/?p=99384); [Wolfsdorf Rosenberg, November 2026 Visa Bulletin](https://wolfsdorf.com/november-2026-visa-bulletin-selected-employment-categories-make-gains-family-categories-advance/); [Global Immigration, EB-5 investment amount](https://www.globalimmigration.com/eb-5-investment-amount-tea-requirements-explained/); [CanAm Enterprises, 2027 EB-5 adjustment](https://www.canamenterprises.com/2026/07/eb-5-investment-amount-increase-2027/); [Greenberg Traurig, DV-2027 final rule](https://www.gtlaw-insidebusinessimmigration.com/u-s-department-of-state-dos/state-department-final-rule-reinstates-passport-requirement-for-diversity-visa-lottery-entries-beginning-with-dv-2027/). The State Department visa bulletin page did not load, so bulletin dates are attributed to Wolfsdorf Rosenberg.
+**Sources:** [Nolo, What is the easiest way to get a US green card](https://www.nolo.com/legal-encyclopedia/whats-the-easiest-way-get-us-green-card.html); [MPI, How the US legal immigration system works](https://www.migrationpolicy.org/explainer/how-us-legal-immigration-system-works); [CRS, Permanent Legal Immigration to the United States (Nov 2024)](https://www.everycrsreport.com/files/2024-11-04_R42866_45adab25e6609dc1a2884659162539e205019e77.html). The State Department visa bulletin page was not fetched, so no specific bulletin dates are cited.
 
 ## FAQ
 
@@ -93,7 +93,7 @@ It is open only to eligible countries and selection is random. Per Nolo, more pe
 
 **Which route has the shortest wait?**
 
-Immediate relatives of US citizens have no visa number wait. In the November 2026 Visa Bulletin as reported by Wolfsdorf Rosenberg, EB-1 was current for most countries, while some categories for India, China, and Mexico had much older cutoff dates.
+Immediate relatives of US citizens have no visa number wait. Other family and employment categories depend on category and country of birth, and some categories for countries such as India, China, and Mexico have much longer backlogs. Check the State Department's monthly Visa Bulletin for current cutoff dates.
 
 **Can I switch routes if I do not qualify for the one I want?**
 

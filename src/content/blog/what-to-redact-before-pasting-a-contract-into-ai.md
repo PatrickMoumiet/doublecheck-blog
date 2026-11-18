@@ -93,7 +93,7 @@ This is general information, and the rules depend on your location and the data 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [OpenAI Help, How your data is used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance); [Wiggin LLP, Anonymisation and pseudonymisation: ICO issues guidance (Apr. 14, 2025)](https://wiggin.co.uk/insight/anonymisation-and-pseudonymisation-ico-issues-guidance/); [NCBE Bar Examiner on ABA Formal Opinion 512](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/); [Legal Moves Law Firm, Using AI before you send something to your lawyer](https://legalmoveslawfirm.com/working-with-ai); [Ollama README (GitHub)](https://github.com/0x77dev/ollama).
+**Sources:** [OpenAI Help, How your data is used to improve model performance](https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance); [Wiggin LLP, Anonymisation and pseudonymisation: ICO issues guidance (Apr. 14, 2025)](https://wiggin.co.uk/insight/anonymisation-and-pseudonymisation-ico-issues-guidance/); [NCBE Bar Examiner on ABA Formal Opinion 512](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/); [Ollama README (GitHub)](https://github.com/ollama/ollama).
 
 ## FAQ
 

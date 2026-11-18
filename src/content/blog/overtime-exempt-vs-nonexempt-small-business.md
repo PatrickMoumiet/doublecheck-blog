@@ -52,7 +52,7 @@ The 2024 DOL rule would have raised the standard threshold to $844 per week in J
 - **Computer employees paid hourly:** $27.63 per hour, per the [DOL fact sheet](https://dol.gov/agencies/whd/fact-sheets/17a-overtime).
 - **Bonuses:** nondiscretionary bonuses and commissions paid at least annually can count toward up to 10% of the standard salary level (DOL).
 
-The same article notes that rescinding the rule does not stop the DOL from proposing a new increase later, and that some state and local laws set higher thresholds. If you operate in more than one state, check each state labor agency. The [Phillips Lytle](https://phillipslytle.com/overtime-exemptions-under-fair-labor-standards-act-rolled-back-to-2019-standards/) summary reports the same $684 and $107,432 figures.
+The same article notes that rescinding the rule does not stop the DOL from proposing a new increase later, and that some state and local laws set higher thresholds. If you operate in more than one state, check each state labor agency. A [Polsinelli client alert](https://www.polsinelli.com/polsinelli-at-work/dol-rolls-back-2024-biden-era-overtime-rule) likewise reports the $684 per week ($35,568) level and notes that the reversion does not supersede higher state salary thresholds.
 
 ## 3. The duties tests
 
@@ -86,7 +86,7 @@ Nonexempt employees need timekeeping, and the DOL fact sheet sets the premium at
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [DOL Fact Sheet 17A](https://dol.gov/agencies/whd/fact-sheets/17a-overtime); [JD Supra, DOL final rule keeps 2019 levels](https://www.jdsupra.com/legalnews/status-quo-dol-final-rule-keeps-9356944/); [Phillips Lytle, May 2026 client alert](https://phillipslytle.com/overtime-exemptions-under-fair-labor-standards-act-rolled-back-to-2019-standards/); [KZA Law](https://kzalaw.com/knowledge-center/employer-reports/dol-officially-returns-to-2019-overtime-rule/).
+**Sources:** [DOL Fact Sheet 17A](https://dol.gov/agencies/whd/fact-sheets/17a-overtime); [JD Supra, DOL final rule keeps 2019 levels](https://www.jdsupra.com/legalnews/status-quo-dol-final-rule-keeps-9356944/); [Polsinelli, DOL rolls back 2024 overtime rule](https://www.polsinelli.com/polsinelli-at-work/dol-rolls-back-2024-biden-era-overtime-rule); [Foley Hoag, DOL reverses Biden-era overtime rule](https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2026/may/dol-reverses-biden-era-overtime-rule-what-employers-need-to-know/).
 
 ## FAQ
 

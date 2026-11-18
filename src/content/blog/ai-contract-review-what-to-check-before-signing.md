@@ -8,11 +8,11 @@ faq:
   - question: 'Can AI review a contract for me?'
     answer: 'It can give a useful first pass, but not a final answer. A Stanford study of commercial legal research tools found hallucinations on 17% to 33% of queries, per VentureBeat, so verify important points.'
   - question: 'Is it safe to paste a contract into ChatGPT?'
-    answer: 'Not automatically. Frantz Ward notes that entering information into a public tool without an enterprise agreement may count as disclosure to a third party, and the terms on retention and training matter. Redact sensitive details first.'
+    answer: 'Not automatically. entering information into a public tool may mean sharing it with a third party, and the tool’s terms on retention and training matter (ABA Formal Opinion 512 tells lawyers to review them). Redact sensitive details first.'
   - question: 'Are my AI chats attorney-client privileged?'
-    answer: 'Not by default. In United States v. Heppner (S.D.N.Y., February 2026), a court held a defendant''s chats with a public AI assistant were not privileged. It is one ruling, but treat chats as potentially discoverable.'
+    answer: 'Not by default. In United States v. Heppner (S.D.N.Y., February 2026), a court held a defendant’’s chats with a public AI assistant were not privileged. It is one ruling, but treat chats as potentially discoverable.'
   - question: 'Which contract terms matter most?'
-    answer: 'Per Bind Legal and TermScout: term and renewal, termination, liability cap and exclusions, indemnity, IP ownership, and governing law and venue.'
+    answer: 'Term and renewal, termination, liability cap and exclusions, indemnity, IP ownership, and governing law and venue. Nolo describes indemnification, limits on damages, choice of law, and venue as common contract provisions.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -58,21 +58,21 @@ ABA Formal Opinion 512 (July 29, 2024) tells lawyers that the level of verificat
 
 ## 3. The seven-term checklist
 
-Bind Legal's contract review checklist and TermScout's IT contract checklist agree on the core items. Use them as prompts for the AI and for your own read:
+These are common contract provisions; Nolo's overview of boilerplate provisions covers indemnification, limits on damages, choice of law, and venue. Use the list as prompts for the AI and for your own read:
 
-- **Term and renewal.** Confirm start and end dates, whether it renews automatically, and the notice period to stop renewal. Bind Legal advises putting the notice date in your calendar. TermScout flags auto-renewal with no opt-out.
-- **Termination.** Can either side terminate for convenience, and on what notice? How is material breach defined, is there a cure period, and what happens to payments, data, and transition help? Without any customer termination right you may have no exit if the vendor underperforms (TermScout).
-- **Liability cap.** Is there a cap, how is it calculated, and does it apply to both sides? Bind Legal says to read the exclusions together with the cap, since they often hold the real risk. TermScout treats a vendor cap below 12 months of fees as a flag.
-- **Indemnity.** Who indemnifies whom, and for what? Is it inside or outside the cap? TermScout says a vendor should at least indemnify for IP infringement and that this should sit outside the cap.
-- **IP.** Who owns what is created under the contract, and what license does the other side receive? A vendor claiming ownership of your data is a flag (TermScout).
-- **Governing law and venue.** Which law applies and where disputes are heard. Bind Legal warns a foreign forum can make a small claim impossible to pursue.
-- **Before signing.** Confirm the final version matches what you approved, the signer has authority, and all exhibits are attached (Bind Legal).
+- **Term and renewal.** Confirm start and end dates, whether it renews automatically, and the notice period to stop renewal. Put the notice date in your calendar, and be wary of auto-renewal with no way to opt out.
+- **Termination.** Can either side terminate for convenience, and on what notice? How is material breach defined, is there a cure period, and what happens to payments, data, and transition help? Without any customer termination right you may have no exit if the vendor underperforms.
+- **Liability cap.** Is there a cap, how is it calculated, and does it apply to both sides? Read the exclusions together with the cap, since they can change how much risk you actually carry, and consider whether the cap is high enough to matter.
+- **Indemnity.** Who indemnifies whom, and for what? Is it inside or outside the cap? Consider whether a vendor should indemnify you for IP infringement claims and whether that should sit outside the cap.
+- **IP.** Who owns what is created under the contract, and what license does the other side receive? A vendor claiming ownership of your data is a red flag.
+- **Governing law and venue.** Which law applies and where disputes are heard. A distant or foreign forum can make a small claim impractical to pursue.
+- **Before signing.** Confirm the final version matches what you approved, the signer has authority, and all exhibits are attached.
 
 ![Five-step workflow for reviewing a contract with AI](/images/ai-contract-review-what-to-check-before-signing/steps.webp)
 
 ## 4. Confidentiality, privilege, and why verification matters
 
-**What you paste may not stay private.** In *United States v. Heppner* (S.D.N.Y., February 2026), a federal court held a defendant's conversations with a public AI assistant were not protected by attorney-client privilege; we summarize it in [AI chats are not privileged](/blog/ai-chats-not-privileged-heppner/). It is one ruling on specific facts, but it is a warning. Frantz Ward explains that putting client information into a public tool without an enterprise agreement may count as disclosure to a third party, which could waive privilege, and that risk rises when the terms let the provider retain or use inputs. A Daily Journal analysis adds that chats with consumer AI may be discoverable and recommends tools with no-retention modes and contractual promises that inputs will not be used for training.
+**What you paste may not stay private.** In *United States v. Heppner* (S.D.N.Y., February 2026), a federal court held a defendant's conversations with a public AI assistant were not protected by attorney-client privilege; we summarize it in [AI chats are not privileged](/blog/ai-chats-not-privileged-heppner/). It is one ruling on specific facts, but it is a warning. Putting confidential information into a public tool may mean sharing it with a third party, and the risk rises when the terms let the provider retain or use inputs. A Daily Journal analysis adds that chats with consumer AI may be discoverable and recommends tools with no-retention modes and contractual promises that inputs will not be used for training.
 
 ABA Formal Opinion 512 says lawyers must assess the risk that others could access information entered into a generative AI tool, and that self-learning tools may require informed client consent before client information is entered. If lawyers have those duties, you should apply the same care to your contracts, which may include pricing, customer names, and trade secrets. Some contracts also have their own confidentiality clauses that forbid sharing them with third parties; check before pasting. See [using AI for legal work safely](/blog/small-business-ai-legal-work-safely/).
 
@@ -84,7 +84,7 @@ ABA Formal Opinion 512 says lawyers must assess the risk that others could acces
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [VentureBeat: Stanford study on AI legal research tools](https://venturebeat.com/ai/stanford-study-finds-ai-legal-research-tools-prone-to-hallucinations); [NCBE Bar Examiner: ABA Formal Opinion 512 summary](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/); [Frantz Ward: Privilege and generative AI](https://www.frantzward.com/privilege-considerations-when-using-generative-artificial-intelligence-in-legal-practice/); [Daily Journal: AI chats aren't privileged](https://www.dailyjournal.com/articles/387206-ai-chats-aren-t-privileged-what-california-lawyers-need-to-do-now); [Bind Legal: Contract review checklist](https://bindlegal.com/resources/guides/contract-review-checklist/); [TermScout: IT contract review checklist](https://blog.termscout.com/contract-review-checklist-19-crucial-clauses-for-it-contracts).
+**Sources:** [VentureBeat: Stanford study on AI legal research tools](https://venturebeat.com/ai/stanford-study-finds-ai-legal-research-tools-prone-to-hallucinations); [NCBE Bar Examiner: ABA Formal Opinion 512 summary](https://thebarexaminer.ncbex.org/article/fall-2024/generative-artificial-intelligence-tools/); [Daily Journal: AI chats aren't privileged](https://www.dailyjournal.com/articles/387206-ai-chats-aren-t-privileged-what-california-lawyers-need-to-do-now); [Nolo: Common boilerplate provisions in contracts](https://www.nolo.com/legal-encyclopedia/common-boilerplate-provisions-contracts-32654.html).
 
 ## FAQ
 
@@ -94,7 +94,7 @@ It can give a useful first pass, but not a final answer. A Stanford study of com
 
 **Is it safe to paste a contract into ChatGPT?**
 
-Not automatically. Frantz Ward notes that entering information into a public tool without an enterprise agreement may count as disclosure to a third party, and the terms on retention and training matter. Redact sensitive details first.
+Not automatically. entering information into a public tool may mean sharing it with a third party, and the tool's terms on retention and training matter (ABA Formal Opinion 512 tells lawyers to review them). Redact sensitive details first.
 
 **Are my AI chats attorney-client privileged?**
 
@@ -102,7 +102,7 @@ Not by default. In United States v. Heppner (S.D.N.Y., February 2026), a court h
 
 **Which contract terms matter most?**
 
-Per Bind Legal and TermScout: term and renewal, termination, liability cap and exclusions, indemnity, IP ownership, and governing law and venue.
+Term and renewal, termination, liability cap and exclusions, indemnity, IP ownership, and governing law and venue. Nolo describes indemnification, limits on damages, choice of law, and venue as common contract provisions.
 
 ---
 

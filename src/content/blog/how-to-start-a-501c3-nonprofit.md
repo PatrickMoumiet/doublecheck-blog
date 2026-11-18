@@ -8,9 +8,9 @@ faq:
   - question: 'How much does it cost to apply for 501(c)(3) status?'
     answer: 'The IRS user fee is $600 for Form 1023 and $275 for Form 1023-EZ, paid on Pay.gov. State fees are separate.'
   - question: 'How long does the IRS take?'
-    answer: 'Harbor Compliance says processing takes roughly two weeks to six months. Confirm with the IRS.'
+    answer: 'Processing time varies with the type of application and the IRS workload. Check the IRS application page for current timing.'
   - question: 'Do I need to incorporate first?'
-    answer: 'Yes. Harbor Compliance lists state-level incorporation as the first step, with purposes and a dissolution clause in the articles.'
+    answer: 'Usually, if you form as a corporation. Per the IRS organizational test, the articles must limit purposes to 501(c)(3) purposes and dedicate assets to exempt purposes on dissolution.'
   - question: 'What is the difference between a public charity and a private foundation?'
     answer: 'Public charities draw broad support and face lighter regulation; private foundations are typically funded by one person or a small group and file Form 990-PF.'
 toc:
@@ -45,7 +45,7 @@ toc:
 
 ## 2. What the IRS requires
 
-Per the IRS, the organization must be organized and operated exclusively for exempt purposes and none of its earnings may benefit a private shareholder or individual. The entity can be a corporation, unincorporated association, fund, or foundation, but not an individual. The articles must limit purposes to 501(c)(3) purposes and dedicate assets to exempt purposes on dissolution. Excess-benefit transactions can trigger excise tax on the insider and approving managers. Harbor Compliance says the application should include a conflict of interest policy, and the IRS sample policy has the interested person disclose and leave the vote.
+Per the IRS, the organization must be organized and operated exclusively for exempt purposes and none of its earnings may benefit a private shareholder or individual. The entity can be a corporation, unincorporated association, fund, or foundation, but not an individual. The articles must limit purposes to 501(c)(3) purposes and dedicate assets to exempt purposes on dissolution. Excess-benefit transactions can trigger excise tax on the insider and approving managers. A conflict of interest policy is a good practice for the application, and the IRS sample policy has the interested person disclose and leave the vote.
 
 ![Form 1023 versus Form 1023-EZ](/images/how-to-start-a-501c3-nonprofit/fees.webp)
 
@@ -61,7 +61,7 @@ Form 990-N (the e-Postcard) is available if gross receipts are normally $50,000 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [IRS: Exemption requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations); [IRS: Organizational test](https://www.irs.gov/charities-non-profits/charitable-organizations/organizational-test-internal-revenue-code-section-501c3); [IRS: Form 1023 fees](https://www.irs.gov/charities-non-profits/form-1023-and-1023-ez-amount-of-user-fee); [IRS: Application for recognition](https://www.irs.gov/charities-non-profits/application-for-recognition-of-exemption); [IRS: Form 990-N](https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard); [Harbor Compliance](https://www.harborcompliance.com/information/how-to-start-a-501c3).
+**Sources:** [IRS: Exemption requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations); [IRS: Organizational test](https://www.irs.gov/charities-non-profits/charitable-organizations/organizational-test-internal-revenue-code-section-501c3); [IRS: Form 1023 fees](https://www.irs.gov/charities-non-profits/form-1023-and-1023-ez-amount-of-user-fee); [IRS: Application for recognition](https://www.irs.gov/charities-non-profits/application-for-recognition-of-exemption); [IRS: Form 990-N](https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard).
 
 ## FAQ
 
@@ -71,11 +71,11 @@ The IRS user fee is $600 for Form 1023 and $275 for Form 1023-EZ, paid on Pay.go
 
 **How long does the IRS take?**
 
-Harbor Compliance says processing takes roughly two weeks to six months. Confirm with the IRS.
+Processing time varies with the type of application and the IRS workload. Check the IRS application page for current timing.
 
 **Do I need to incorporate first?**
 
-Yes. Harbor Compliance lists state-level incorporation as the first step, with purposes and a dissolution clause in the articles.
+Usually, if you form as a corporation. Per the IRS organizational test, the articles must limit purposes to 501(c)(3) purposes and dedicate assets to exempt purposes on dissolution.
 
 **What is the difference between a public charity and a private foundation?**
 

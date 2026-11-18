@@ -6,7 +6,7 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can I terminate a contract early?'
-    answer: 'Only if the contract or the facts allow it. Per Lizerbram Law, first read the termination clauses to see whether the contract allows termination for cause, for convenience, or based on time.'
+    answer: 'Only if the contract or the facts allow it. First read the termination clauses to see whether the contract allows termination for cause, for convenience, or based on time.'
   - question: 'What is termination for cause?'
     answer: 'Ending the contract because the other side materially breached. Per Morgan Lewis, the terminating party must show the conduct meets the contract''s definition of cause, and many contracts give the breaching party a window to cure.'
   - question: 'What is termination for convenience?'
@@ -45,26 +45,26 @@ toc:
 
 ## 2. For cause vs. for convenience
 
-**Termination for cause.** Per [Morgan Lewis](https://www.morganlewis.com/de/blogs/sourcingatmorganlewis/2023/02/contract-corner-key-terms-when-it-comes-time-to-terminate), nearly all agreements include a for-cause right, usually triggered by a material breach. The terminating party must show the other side's conduct meets the contract's definition of cause, and the other party may dispute it. Per [Lizerbram Law](https://www.lizerbramlaw.com/blog/how-to-terminate-a-contract/), a material breach is usually required and a minor one, like a payment a day late, typically isn't enough.
+**Termination for cause.** Per [Morgan Lewis](https://www.morganlewis.com/de/blogs/sourcingatmorganlewis/2023/02/contract-corner-key-terms-when-it-comes-time-to-terminate), nearly all agreements include a for-cause right, usually triggered by a material breach. The terminating party must show the other side's conduct meets the contract's definition of cause, and the other party may dispute it. A material breach is usually required, and a minor one typically isn't enough on its own.
 
 **Cure periods.** Many for-cause rights let the breaching party fix the problem within a set window; if it does, the termination right no longer exists, per Morgan Lewis.
 
-**Termination for convenience.** This lets a party end the agreement without showing fault. Per Morgan Lewis, some agreements give it to both parties, some to only one, and some omit it entirely, so check rather than assume. [Sirion](https://www.sirion.ai/library/legal/termination-for-convenience/) notes the right is exercised through the contract's notice and compensation terms, and that terminating mainly to re-source work more cheaply can be challenged as bad faith.
+**Termination for convenience.** This lets a party end the agreement without showing fault. Per Morgan Lewis, some agreements give it to both parties, some to only one, and some omit it entirely, so check rather than assume. The right is usually exercised through the contract's notice and compensation terms, so read those carefully, and a termination that looks like bad faith may be challenged.
 
 ![Termination for cause, convenience, and mutual agreement](/images/how-to-terminate-a-contract-early-termination-clause/cols.webp)
 
 ## 3. Notice, fees, and auto-renewals
 
-- **Notice:** confirm the period (for example 30 days), who receives it, and the accepted delivery method. Per Lizerbram, methods may include mail, courier, email, or fax. Send it the way the contract says, and keep proof.
+- **Notice:** confirm the period (for example 30 days), who receives it, and the accepted delivery method. Methods may include mail, courier, or email. Send it the way the contract says, and keep proof.
 - **Fees:** look for early termination fees or liquidated damages. Per Morgan Lewis, termination may require payment for services through the termination date or for the rest of a term, and agreements may require refunds or credits of amounts already paid.
-- **Auto-renewal:** some contracts renew unless you give notice not to renew, per Lizerbram. Calendar the deadline now. See [auto-renewal clauses in business contracts](/blog/auto-renewal-clauses-business-contracts/).
-- **No termination clause?** Per Lizerbram, other grounds can include frustration (performance is impossible) or a force majeure clause, but unprofitability does not count as impossibility.
+- **Auto-renewal:** some contracts renew unless you give notice not to renew. Calendar the deadline now. See [auto-renewal clauses in business contracts](/blog/auto-renewal-clauses-business-contracts/).
+- **No termination clause?** Other grounds can include frustration (performance is impossible) or a force majeure clause, but unprofitability generally does not count as impossibility.
 
 Consumer subscriptions have separate federal and state cancellation rules; see our post on [FTC click-to-cancel rules for SaaS](/blog/ftc-click-to-cancel-subscription-rules-saas/).
 
 ## 4. Mistakes that turn an exit into a lawsuit
 
-Walking away without following the contract is the usual mistake. Terminating on a weak basis, such as a deal that simply is not profitable, may not hold up, per Lizerbram, and it can expose you to a breach claim yourself.
+Walking away without following the contract is the usual mistake. Terminating on a weak basis, such as a deal that simply is not profitable, may not hold up, and it can expose you to a breach claim yourself.
 
 Before you send notice:
 
@@ -80,13 +80,13 @@ Before you send notice:
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Morgan Lewis, Key Terms When It Comes Time to Terminate](https://www.morganlewis.com/de/blogs/sourcingatmorganlewis/2023/02/contract-corner-key-terms-when-it-comes-time-to-terminate); [Lizerbram Law, How to Terminate a Contract](https://www.lizerbramlaw.com/blog/how-to-terminate-a-contract/); [Sirion, Termination for Convenience](https://www.sirion.ai/library/legal/termination-for-convenience/).
+**Sources:** [Morgan Lewis, Key Terms When It Comes Time to Terminate](https://www.morganlewis.com/de/blogs/sourcingatmorganlewis/2023/02/contract-corner-key-terms-when-it-comes-time-to-terminate).
 
 ## FAQ
 
 **Can I terminate a contract early?**
 
-Only if the contract or the facts allow it. Per Lizerbram Law, first read the termination clauses to see whether the contract allows termination for cause, for convenience, or based on time.
+Only if the contract or the facts allow it. First read the termination clauses to see whether the contract allows termination for cause, for convenience, or based on time.
 
 **What is termination for cause?**
 

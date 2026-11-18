@@ -6,7 +6,7 @@ pubDate: 'Nov 18 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'What does an entire agreement clause do?'
-    answer: 'It states that the written contract is the final and complete agreement, so prior discussions that the contract does not mention are not part of the deal, per an UpCounsel guide. It works with the parol evidence rule, which limits outside evidence when the contract is clear.'
+    answer: 'It states that the written contract is the final and complete agreement, so prior discussions that the contract does not mention are not part of the deal. It works with the parol evidence rule, which limits outside evidence when the contract is clear.'
   - question: 'Is a merger clause the same as an entire agreement clause?'
     answer: 'Yes, in practice. Merger, integration and entire agreement clauses are different names for language saying the written contract is the complete agreement. The wording and scope still vary by contract, so read the actual text.'
   - question: 'Does a merger clause stop a fraud claim?'
@@ -49,11 +49,11 @@ toc:
 
 ## 2. What an entire agreement clause actually says
 
-The wording is usually short. A typical version says the agreement is the entire agreement between the parties on its subject and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written. One clause library (terms.law) uses exactly that phrasing in its balanced version and notes that it covers oral promises made during negotiations and earlier drafts with different terms.
+The wording is usually short. A typical version says the agreement is the entire agreement between the parties on its subject and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written.
 
 Two ideas sit behind it:
 
-- **Integration.** Per an UpCounsel guide, the clause states that the written contract is the final and complete agreement, so prior discussions the contract does not mention are not part of the deal.
+- **Integration.** The clause states that the written contract is the final and complete agreement, so prior discussions the contract does not mention are not part of the deal.
 - **The parol evidence rule.** Per the same guide, the clause works with this rule so that a court generally looks only at the written contract when it is clear, and prior negotiations or statements are barred as evidence in that situation.
 
 In plain terms: the sales call where someone said "we will also include onboarding at no charge" is the kind of statement that can disappear once you sign a contract that says nothing about onboarding and contains a merger clause. For how binding terms get formed in the first place, see [what makes a contract legally binding](/blog/what-makes-a-contract-legally-binding/) and [when a verbal contract is enforceable](/blog/verbal-contract-enforceable-small-business/).
@@ -67,13 +67,13 @@ In plain terms: the sales call where someone said "we will also include onboardi
 - Verbal promises made on calls or at meetings.
 - Pitch decks, proposals and email assurances that are not repeated in the contract.
 - Earlier drafts and term sheets on the same subject, unless the contract says otherwise.
-- Earlier agreements on the same subject, depending on the wording. The terms.law NDA page notes some versions keep prior NDAs in place while others expressly terminate them, so the exact text matters.
+- Earlier agreements on the same subject, depending on the wording. Some versions keep prior NDAs in place while others expressly terminate them, so the exact text matters.
 
 **Not automatically wiped out:**
 
-- **Fraud and fraudulent inducement.** A law firm article republished on Mondaq (updated October 20, 2025) says a merger clause does not always block a claim that a party was induced to sign by a false statement it relied on. It notes courts differ: some enforce the contract as written, some enforce the clause only if the specific representation is disclaimed, and some weigh the parties' sophistication. It adds that New York courts require the clause to reference the specific misrepresentation. The terms.law page also notes you cannot contract away the right to sue for fraud. Treat this as an area where state law decides the outcome.
+- **Fraud and fraudulent inducement.** A law firm article republished on Mondaq (updated October 20, 2025) says a merger clause does not always block a claim that a party was induced to sign by a false statement it relied on. It notes courts differ: some enforce the contract as written, some enforce the clause only if the specific representation is disclaimed, and some weigh the parties' sophistication. It adds that New York courts require the clause to reference the specific misrepresentation. Treat this as an area where state law decides the outcome.
 - **Vague or generic wording.** The same Mondaq article says boilerplate such as "entire agreement" may not bar claims unless it specifically disclaims reliance on the representation at issue, and that unclear terms can open the door to outside evidence.
-- **Documents you incorporate.** Per terms.law, exhibits and schedules are part of the agreement only if they are incorporated by reference. A [master services agreement and SOW](/blog/master-services-agreement-and-sow-small-business/) setup, for example, should say which documents form the contract and which controls in a conflict.
+- **Documents you incorporate.** Exhibits and schedules should be incorporated by reference to be safely part of the agreement. A [master services agreement and SOW](/blog/master-services-agreement-and-sow-small-business/) setup, for example, should say which documents form the contract and which controls in a conflict.
 - **Other live agreements.** Some versions expressly keep obligations under other agreements, such as a license or services agreement, in full force. Check whether yours does.
 
 ![Five steps to make sure pre-signing promises are written into the contract](/images/entire-agreement-merger-clause-explained-what-it-wipes-out/steps.webp)
@@ -99,7 +99,7 @@ Before you sign any contract that has an entire agreement clause, work through t
 1. **Inventory the promises.** Write down every commitment from the negotiation: pricing, scope, service levels, timelines, exclusivity, support and anything described as "included."
 2. **Match them to the text.** Anything important that is not in the contract should be added now. A merger clause makes this the last easy moment.
 3. **Read the clause wording.** Does it say the agreement supersedes prior discussions? Does it list the documents that make up the contract? Does it disclaim reliance on outside statements?
-4. **Look for the fraud carve-out.** Balanced drafts, such as the terms.law version, state that nothing limits liability for fraud or intentional misrepresentation. Notice if yours does not.
+4. **Look for the fraud carve-out.** Balanced drafts often state that nothing limits liability for fraud or intentional misrepresentation. Notice if yours does not.
 5. **Check the amendment clause.** The same Mondaq article recommends a separate no-oral-modification clause. Know how a change must be made.
 6. **Confirm related documents.** Exhibits, order forms, statements of work and policies should be incorporated by reference, with an order of precedence.
 7. **Keep the record.** Even if outside promises do not become terms, the emails still show what happened, and they may matter in a dispute about fraud.
@@ -114,13 +114,13 @@ If you are the drafter, use recognized language such as "completely integrated" 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [UpCounsel, Understanding a Merger Clause in Contracts](https://upcounsel.com/merger-clause); [Mondaq, They Promised Me Everything Before I Signed: Why Doesn't It Matter (article updated October 20, 2025)](https://www.mondaq.com/unitedstates/contracts-and-commercial-law/1799176/they-promised-me-everything-before-i-signed-why-doesnt-it-matter), read via the summary of the fetched page; [terms.law, Entire Agreement clause library](https://terms.law/NDA/clause-library/entire-agreement/). Blocked: the Legal 500 copy of the Mondaq article did not load.
+**Sources:** [Mondaq, They Promised Me Everything Before I Signed: Why Doesn't It Matter (article updated October 20, 2025)](https://www.mondaq.com/unitedstates/contracts-and-commercial-law/1799176/they-promised-me-everything-before-i-signed-why-doesnt-it-matter), read via the summary of the fetched page. Blocked: the Legal 500 copy of the Mondaq article did not load.
 
 ## FAQ
 
 **What does an entire agreement clause do?**
 
-It states that the written contract is the final and complete agreement, so prior discussions that the contract does not mention are not part of the deal, per an UpCounsel guide. It works with the parol evidence rule, which limits outside evidence when the contract is clear.
+It states that the written contract is the final and complete agreement, so prior discussions that the contract does not mention are not part of the deal. It works with the parol evidence rule, which limits outside evidence when the contract is clear.
 
 **Is a merger clause the same as an entire agreement clause?**
 

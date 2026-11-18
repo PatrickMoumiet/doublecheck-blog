@@ -6,13 +6,13 @@ pubDate: 'Nov 10 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Is every state at-will?'
-    answer: 'Not quite. Per TriNet''s July 2026 guide, Montana is the only state that does not follow the doctrine. Under its Wrongful Discharge from Employment Act, employers need good cause after the probationary period, which is 12 months by default and cannot exceed 18.'
+    answer: 'Not quite. Montana is generally described as the one state that does not follow the doctrine. Under its Wrongful Discharge from Employment Act (Mont. Code Ann. 39-2-901 to 39-2-915), termination after the probationary period generally requires good cause. Confirm the current rules and probation length with a Montana attorney.'
   - question: 'Can I fire someone for any reason in an at-will state?'
-    answer: 'No. Per TriNet, discrimination, retaliation, and protected leave laws apply everywhere, and many states add public-policy, implied-contract, or good-faith limits.'
+    answer: 'No. Federal discrimination, retaliation, and protected leave laws apply everywhere, and many states add public-policy, implied-contract, or good-faith limits.'
   - question: 'Does an at-will disclaimer in the handbook protect me?'
     answer: 'It helps but is not a guarantee. FindLaw says that in states with the implied-contract exception, courts generally treat a disclaimer as one factor among all the evidence, not as conclusive.'
   - question: 'What is the implied covenant of good faith?'
-    answer: 'Per TriNet, it is recognized in only a small number of states and is applied narrowly. Its example is firing an employee shortly before a commission or bonus is earned.'
+    answer: 'It is recognized in only some states and is generally applied narrowly. A typical example is firing an employee shortly before a commission or bonus is earned. Check your state.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -32,41 +32,41 @@ toc:
 
 **Key takeaways:**
 
-- Per TriNet (July 2026), Montana is the only state that does not follow at-will; after probation, good cause is required.
+- Montana is generally described as the one state that does not follow at-will; after probation, good cause is required under its statute.
 - Public-policy, implied-contract, and implied-covenant exceptions vary by state, so verify yours.
 - Federal discrimination and retaliation laws apply in every state.
 - Consistent, dated documentation and manager training lower risk.
 
 ## 1. The quick answer
 
-**Quick answer:** At-will employment means an employer can end the relationship for any lawful reason, or no reason, and the employee can leave the same way. It is the default in nearly every state. Per TriNet's July 2026 guide, Montana is the one state that does not follow it: after a probationary period (12 months by default, no more than 18), the employer needs good cause. Everywhere else, at-will still has limits: federal and state discrimination and retaliation laws, and in some states, public-policy, implied-contract, and implied-covenant exceptions. Which exceptions apply depends on your state, so check yours before you rely on any general rule.
+**Quick answer:** At-will employment means an employer can end the relationship for any lawful reason, or no reason, and the employee can leave the same way. It is the default in nearly every state. Montana is generally described as the one state that does not follow it: after a probationary period, the employer needs good cause under the Wrongful Discharge from Employment Act. Everywhere else, at-will still has limits: federal and state discrimination and retaliation laws, and in some states, public-policy, implied-contract, and implied-covenant exceptions. Which exceptions apply depends on your state, so check yours before you rely on any general rule.
 
 ![Six limits on at-will employment](/images/at-will-employment-by-state-exceptions-employers/grid.webp)
 
 ## 2. The three common-law exceptions and Montana
 
-Courts in many states carve out exceptions to at-will. Per [TriNet](https://www.trinet.com/insights/at-will-employment-states), they vary by state:
+Courts in many states carve out exceptions to at-will. They vary by state:
 
 - **Public policy.** Many states recognize it, though what is protected varies. Examples include refusing to do something illegal, serving on a jury, filing a workers' compensation claim, and whistleblowing.
 - **Implied contract.** This varies significantly by state. Examples are oral "for cause" assurances and handbook language on progressive discipline.
-- **Implied covenant of good faith and fair dealing.** TriNet says only a small number of states recognize it and it is narrowly applied. Its example is ending someone just before a commission or bonus is earned.
+- **Implied covenant of good faith and fair dealing.** Only some states recognize it, and it is generally applied narrowly. A typical example is ending someone just before a commission or bonus is earned.
 
 On implied contracts, [FindLaw](https://www.findlaw.com/employment/losing-a-job/implied-employment-contracts-and-wrongful-termination.html) says that in states with this exception, courts have generally held that a handbook disclaimer does not by itself settle the question; they weigh it with all the other evidence, including emails, evaluations, and what managers said.
 
-**Montana.** Per [ALFA International's Montana summary](https://www.alfainternational.com/compendium/labor-employment/montana/), the Wrongful Discharge from Employment Act (Mont. Code Ann. 39-2-901 to 39-2-915) is the exclusive remedy for wrongful discharge. Termination is at will only during the probationary period. After it, a discharge is wrongful if it was not for good cause, if it retaliated against refusing to violate public policy or reporting a violation, or if the employer violated the express provisions of its own written personnel policy. Good cause means reasonable job-related grounds, such as poor performance, disruption, or repeated policy violations.
+**Montana.** The Wrongful Discharge from Employment Act (Mont. Code Ann. 39-2-901 to 39-2-915) is generally the exclusive remedy for wrongful discharge; read the statute or ask a Montana attorney for the current text. Termination is at will only during the probationary period. After it, a discharge is wrongful if it was not for good cause, if it retaliated against refusing to violate public policy or reporting a violation, or if the employer violated the express provisions of its own written personnel policy. Good cause means reasonable job-related grounds, such as poor performance, disruption, or repeated policy violations.
 
 We are not listing which other states recognize which exceptions. The sources we read did not give a reliable state-by-state breakdown, and it changes with court decisions.
 
 ## 3. Discrimination and retaliation apply in every state
 
-Federal law overrides at-will. TriNet lists Title VII, the ADEA, and the ADA, covering race, sex, religion, national origin, age (40 and older), disability, and genetic information. It also lists protected leave under the FMLA, and retaliation for filing complaints, taking part in investigations, reporting unsafe conditions, or whistleblowing. Many states add their own protected classes, so a state with a longer list can reach more employers and more reasons.
+Federal law overrides at-will. Title VII, the ADEA, and the ADA cover protected traits such as race, sex, religion, national origin, age (40 and older), and disability. Federal law also protects leave under the FMLA and bars retaliation for filing complaints, taking part in investigations, reporting unsafe conditions, or whistleblowing. Many states add their own protected classes, so a state with a longer list can reach more employers and more reasons.
 
 Two practical points for a small employer:
 
 - **Timing looks like motive.** A termination soon after a complaint, a leave request, or an injury report invites a retaliation claim even when the performance problem is real.
 - **A stated reason must be true.** If the reason in the file differs from the reason you give later, that gap is usually what a claimant or agency focuses on.
 
-Also check whether a written agreement overrides at-will. TriNet notes that employment contracts and collective bargaining agreements can. An offer letter promising a fixed term, or "termination only for cause," is a contract term, not a formality. For the termination process itself, see [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
+Also check whether a written agreement overrides at-will. Employment contracts and collective bargaining agreements can. An offer letter promising a fixed term, or "termination only for cause," is a contract term, not a formality. For the termination process itself, see [how to terminate an employee legally](/blog/how-to-terminate-an-employee-legally-small-business/).
 
 ## 4. Practical steps and when to ask an attorney
 
@@ -89,17 +89,17 @@ You can usually handle routine documentation yourself. Consider an employment at
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [TriNet, At-will employment states](https://www.trinet.com/insights/at-will-employment-states); [ALFA International, Montana labor and employment](https://www.alfainternational.com/compendium/labor-employment/montana/); [FindLaw, implied employment contracts](https://www.findlaw.com/employment/losing-a-job/implied-employment-contracts-and-wrongful-termination.html); [Rocket Lawyer, exceptions to at-will](https://www.rocketlawyer.com/the-briefing-room/the-big-exceptions-to-at-will-employment).
+**Sources:** [FindLaw, implied employment contracts](https://www.findlaw.com/employment/losing-a-job/implied-employment-contracts-and-wrongful-termination.html); Montana Wrongful Discharge from Employment Act, Mont. Code Ann. 39-2-901 to 39-2-915; Title VII, ADEA, ADA and FMLA (federal statutes). Check your state's current law.
 
 ## FAQ
 
 **Is every state at-will?**
 
-Not quite. Per TriNet's July 2026 guide, Montana is the only state that does not follow the doctrine. Under its Wrongful Discharge from Employment Act, employers need good cause after the probationary period, which is 12 months by default and cannot exceed 18.
+Not quite. Montana is generally described as the one state that does not follow the doctrine. Under its Wrongful Discharge from Employment Act (Mont. Code Ann. 39-2-901 to 39-2-915), termination after the probationary period generally requires good cause. Confirm the current rules and probation length with a Montana attorney.
 
 **Can I fire someone for any reason in an at-will state?**
 
-No. Per TriNet, discrimination, retaliation, and protected leave laws apply everywhere, and many states add public-policy, implied-contract, or good-faith limits.
+No. Federal discrimination, retaliation, and protected leave laws apply everywhere, and many states add public-policy, implied-contract, or good-faith limits.
 
 **Does an at-will disclaimer in the handbook protect me?**
 
@@ -107,7 +107,7 @@ It helps but is not a guarantee. FindLaw says that in states with the implied-co
 
 **What is the implied covenant of good faith?**
 
-Per TriNet, it is recognized in only a small number of states and is applied narrowly. Its example is firing an employee shortly before a commission or bonus is earned.
+It is recognized in only some states and is generally applied narrowly. A typical example is firing an employee shortly before a commission or bonus is earned. Check your state.
 
 ---
 

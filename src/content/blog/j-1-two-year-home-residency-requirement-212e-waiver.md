@@ -10,7 +10,7 @@ faq:
   - question: 'How do I know if I am subject to 212(e)?'
     answer: 'Per Stony Brook and WashU, check the visa stamp and the preliminary endorsement on your DS-2019, but those markings may not be final. If unsure, request an Advisory Opinion from the State Department.'
   - question: 'What are the 212(e) waiver options?'
-    answer: 'Per VisaServe and NC State, grounds include a home-government No Objection Statement, a request from an interested U.S. government agency, exceptional hardship to a U.S. citizen or permanent resident spouse or child, persecution, and state programs such as Conrad 30 for physicians.'
+    answer: 'Per NC State and the State Department, grounds include a home-government No Objection Statement, a request from an interested U.S. government agency, exceptional hardship to a U.S. citizen or permanent resident spouse or child, persecution, and state programs such as Conrad 30 for physicians.'
   - question: 'How does Conrad 30 work?'
     answer: 'Per the Rural Health Information Hub, each state can request up to 30 physician waivers a year, and physicians commit to three continuous years in H-1B status in a federally designated shortage area with the sponsoring employer.'
 toc:
@@ -63,7 +63,7 @@ While subject and not yet cleared, Stony Brook lists H-1B, L, K, a green card, a
 
 The State Department's Waiver Review Division (WRD) handles most requests. Per [travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html), the DS-3035 requests a WRD recommendation, and hardship and persecution applicants must also file Form I-612 with USCIS. Per [UMass](https://www.umass.edu/global-affairs/international-students-scholars/212e-waiver), the WRD recommends approval or denial and USCIS makes the final decision, usually following the recommendation.
 
-Per [VisaServe](https://visaserve.com/j-waivers-of-section-212e-of-the-immigration-and-nationality-act/) (a 2011 post) and NC State, the grounds are:
+Per NC State and the State Department, the grounds are:
 
 1. **No Objection Statement.** Your home government states it does not object. This is the most common route, per UMass. Those with U.S. government funding, such as Fulbright, may not be eligible, since the WRD generally expects them to return home.
 2. **Interested Government Agency (IGA).** A U.S. government agency requests the waiver. NC State advises talking to your international office first.
@@ -94,7 +94,7 @@ Outcomes are never guaranteed, and a waiver may limit options under your J progr
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Stony Brook University, Two-Year Home Residency Requirement](https://www.stonybrook.edu/visa/faculty-scholars-staff/j-1-scholars-and-student-interns/other-topics/2-year-home-residency-requirement-212-e.html); [WashU OISS](https://oiss.washu.edu/two-year-home-residence-requirement-212e/); [NC State International Services](https://internationalservices.ncsu.edu/212e-two-year-home-country-physical-presence-requirement/); [UMass Global Affairs, 212(e) waiver](https://www.umass.edu/global-affairs/international-students-scholars/212e-waiver); [U.S. Department of State, Waiver of the Exchange Visitor Two-Year Requirement](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html); [VisaServe, J waivers of 212(e)](https://visaserve.com/j-waivers-of-section-212e-of-the-immigration-and-nationality-act/); [Rural Health Information Hub, J-1 visa waiver](https://www.ruralhealthinfo.org/topics/j-1-visa-waiver); [Yale OISS, travel in employment-based status](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status).
+**Sources:** [Stony Brook University, Two-Year Home Residency Requirement](https://www.stonybrook.edu/visa/faculty-scholars-staff/j-1-scholars-and-student-interns/other-topics/2-year-home-residency-requirement-212-e.html); [WashU OISS](https://oiss.washu.edu/two-year-home-residence-requirement-212e/); [NC State International Services](https://internationalservices.ncsu.edu/212e-two-year-home-country-physical-presence-requirement/); [UMass Global Affairs, 212(e) waiver](https://www.umass.edu/global-affairs/international-students-scholars/212e-waiver); [U.S. Department of State, Waiver of the Exchange Visitor Two-Year Requirement](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html); [Rural Health Information Hub, J-1 visa waiver](https://www.ruralhealthinfo.org/topics/j-1-visa-waiver); [Yale OISS, travel in employment-based status](https://oiss.yale.edu/immigration/h-1b-temporary-worker/maintaining-legal-status/international-travel-in-employment-based-visa-status).
 
 ## FAQ
 
@@ -108,7 +108,7 @@ Per Stony Brook and WashU, check the visa stamp and the preliminary endorsement 
 
 **What are the 212(e) waiver options?**
 
-Per VisaServe and NC State, grounds include a home-government No Objection Statement, a request from an interested U.S. government agency, exceptional hardship to a U.S. citizen or permanent resident spouse or child, persecution, and state programs such as Conrad 30 for physicians.
+Per NC State and the State Department, grounds include a home-government No Objection Statement, a request from an interested U.S. government agency, exceptional hardship to a U.S. citizen or permanent resident spouse or child, persecution, and state programs such as Conrad 30 for physicians.
 
 **How does Conrad 30 work?**
 

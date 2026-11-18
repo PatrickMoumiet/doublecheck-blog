@@ -1,18 +1,18 @@
 ---
 title: 'Green Card Renewal: How to File Form I-90 for an Expired or Lost Card'
 seoTitle: 'Green Card Renewal: How to File I-90 (Nov 2026)'
-description: 'How to file Form I-90 to renew or replace a green card: 6-month window, fees and biometrics as of Nov 2026, proof of status, travel, and I-751.'
+description: 'How to file Form I-90 to renew or replace a green card: 6-month window, fees and biometrics, proof of status, travel, and I-751.'
 pubDate: 'Nov 10 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'When can I file Form I-90 to renew my green card?'
-    answer: 'Per Beyond Border Global, up to 180 days before a 10-year card expires, or after it has expired. Filing earlier may be rejected and fees are not refunded.'
+    answer: 'Per USCIS, you can file if your card will expire within six months or has already expired. Check the USCIS I-90 page for current filing guidance.'
   - question: 'How much does Form I-90 cost?'
-    answer: 'As of August 2026, Immigration Direct and Beyond Border Global report $415 online or $465 on paper, with biometrics included. Confirm on USCIS''s fee schedule, since you may qualify for an exemption or fee waiver.'
+    answer: 'Fees change, so confirm the current amount on the USCIS I-90 page and fee schedule (Form G-1055) before paying. USCIS lists some situations with no fee, such as a card never received or a DHS error.'
   - question: 'Is my status valid while the I-90 is pending?'
     answer: 'Per USCIS, a receipt notice for a properly filed I-90 extends the card''s validity by 36 months from the printed expiration date and can be shown with the expired card as evidence of continued status.'
   - question: 'Do conditional residents use Form I-90?'
-    answer: 'No. Per Beyond Border Global and Immigration Direct, marriage-based conditional residents file Form I-751 and investor-based residents file Form I-829 within 90 days before the card expires.'
+    answer: 'No. Marriage-based conditional residents file Form I-751 and investor-based conditional residents file Form I-829, within the 90 days before the card expires. See USCIS for details.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -32,28 +32,28 @@ toc:
 
 **Key takeaways:**
 
-- File Form I-90 up to 180 days before your 10-year card expires, or after it has expired.
-- As of August 2026, reported fees are $415 online and $465 on paper, with biometrics included.
+- Per USCIS, you can file Form I-90 if your 10-year card will expire within six months or has already expired.
+- Fees change; confirm the current amount on the USCIS I-90 page and fee schedule before paying.
 - Per USCIS, the I-90 receipt notice extends the card's validity by 36 months and serves as proof of status with your expired card.
 - Two-year conditional cards use Form I-751 (or I-829), not Form I-90.
 
 ## 1. The quick answer
 
-**Quick answer:** If you have a 10-year green card that is expiring, expired, lost, stolen or damaged, you file Form I-90 to renew or replace it. Per Beyond Border Global, you can file up to 180 days (six months) before the card expires or after it has expired. As of August 2026, secondary sources report a filing fee of $415 online or $465 on paper, with biometrics included and no separate fee. Your permanent resident status does not end when the card expires; the card is the proof. Conditional residents with a 2-year card do not use Form I-90; they file Form I-751 instead.
+**Quick answer:** If you have a 10-year green card that is expiring, expired, lost, stolen or damaged, you file Form I-90 to renew or replace it. Per USCIS, you can file if your card will expire within six months or has already expired. Fees change, so confirm the current amount on the USCIS I-90 page and fee schedule before paying. Your permanent resident status does not end when the card expires; the card is the proof. Conditional residents with a 2-year card do not use Form I-90; they file Form I-751 instead.
 
 ![Situations where you file Form I-90 and where you do not](/images/green-card-renewal-i-90-expired-card-how-to/grid.webp)
 
 ## 2. When to renew, fees, and biometrics
 
-**Who files.** Per [Immigration Direct](https://www.immigrationdirect.com/?p=157676), Form I-90 applies to holders of an expired or expiring 10-year card, and replacement covers lost, stolen or damaged cards.
+**Who files.** Per [USCIS](https://www.uscis.gov/i-90), Form I-90 applies to holders of an expired or expiring card, and replacement covers other qualifying reasons such as a lost, stolen or damaged card.
 
-**Window.** Per [Beyond Border Global](https://www.beyondborderglobal.com/resources/green-card-renewal), file up to 180 days before expiration or after it. Filing earlier may lead to rejection, and fees are not refunded.
+**Window.** USCIS lists "my card will expire within six months or has already expired" as a qualifying reason to file. Filing much earlier may lead to rejection, so check the USCIS page before you send anything.
 
-**Fees (as of the sources' August to September 2026 updates).** Immigration Direct, last verified August 24, 2026, lists $415 online and $465 on paper and says there is no separate biometrics fee, with no new increase in 2026. Beyond Border Global reports the same figures. Both note that USCIS may still require fingerprints and a photo, with the notice arriving a few weeks after filing. Some older pages still list $455 plus an $85 biometrics fee; that was the structure before April 2024. Check USCIS's G-1055 fee schedule before you send payment.
+**Fees and biometrics.** USCIS fees change, and older pages still list a separate biometrics fee, so check the current USCIS I-90 page and the G-1055 fee schedule before you send payment. USCIS may still require fingerprints and a photo after you file.
 
-**Fee exemptions and waivers.** Per Immigration Direct, a $0 fee applies if you reach age 14 and your card expires after age 16, if a card was never received and returned undeliverable, or if DHS made an error. A means-based fee waiver uses Form I-912, filed on paper.
+**Fee exemptions and waivers.** USCIS lists situations with no fee, such as a card that was never received and was returned as undeliverable, or a card with incorrect information because of a DHS error. A means-based fee waiver uses Form I-912.
 
-**Filing.** You can file online or by mail. Update your address promptly if it changes, so the card is not sent to an old one. Per Beyond Border Global, a new card takes about 8 to 14 months as of August 2026, though times vary.
+**Filing.** You can file online or by mail. Update your address promptly if it changes, so the card is not sent to an old one. Processing times vary, so check USCIS case processing times.
 
 ![Five steps to renew a green card with Form I-90](/images/green-card-renewal-i-90-expired-card-how-to/steps.webp)
 
@@ -61,9 +61,9 @@ toc:
 
 **Your receipt notice is proof.** Per [USCIS](https://uscis.gov/newsroom/alerts/uscis-extends-green-card-validity-extension-to-36-months-for-green-card-renewals), effective September 10, 2024, a properly filed I-90 receipt notice extends the green card's validity by 36 months from the expiration date on the current card, up from 24. The notice can be presented with an expired green card as evidence of continued status and work authorization. [Fragomen](https://www.fragomen.com/insights/united-states-uscis-increases-green-card-validity-extension-to-36-months-for-renewal-applicants.html) adds that USCIS was expected to update the employer I-9 handbook to reflect this; see [I-9 and E-Verify for startups](/blog/i-9-and-e-verify-for-startups/) if you are an employer or employee asked about it.
 
-Beyond Border Global says to carry the receipt notice with the expired card, and that the notice alone is not sufficient. Keep copies.
+Carry the receipt notice together with the expired card, and keep copies.
 
-**Travel while pending.** Per Immigration Direct and Beyond Border Global, you can generally travel with your expired card and receipt notice. If your card will expire while you are abroad, contact the nearest U.S. embassy or consulate before flying, because airlines may not board you without valid proof of status. Beyond Border also warns that long periods abroad may prompt questions about whether you abandoned residency. Our [green card holder travel article](/blog/green-card-holder-travel-abroad-abandonment/) covers abandonment in detail.
+**Travel while pending.** Many green card holders travel with an expired card and the receipt notice, but if your card will expire while you are abroad, confirm your options with USCIS or an attorney before flying, because airlines may not board you without valid proof of status. Long periods abroad may also prompt questions about whether you abandoned residency. Our [green card holder travel article](/blog/green-card-holder-travel-abroad-abandonment/) covers abandonment in detail.
 
 **Lost or stolen cards abroad.** Do not assume the I-90 is enough to board a flight. Contact the nearest consulate for guidance on what travel document you need.
 
@@ -71,7 +71,7 @@ Per USCIS (as summarized in the alert above), you may request a Field Office app
 
 ## 4. 10-year card vs conditional residents, and when to get help
 
-**Which form?** A 10-year card renews with Form I-90. A 2-year conditional card, issued for example after a marriage-based green card, does not. Per Beyond Border Global and Immigration Direct, marriage-based conditional residents file Form I-751 and investor-based residents file Form I-829, both within the 90 days before the card expires. Approval results in a 10-year card, and later renewals use Form I-90. See [removing conditions with Form I-751](/blog/remove-conditions-on-residence-i-751/) and [the marriage-based green card timeline](/blog/marriage-based-green-card-process-timeline/).
+**Which form?** A 10-year card renews with Form I-90. A 2-year conditional card, issued for example after a marriage-based green card, does not. Marriage-based conditional residents file Form I-751 and investor-based residents file Form I-829, both within the 90 days before the card expires. Approval results in a 10-year card, and later renewals use Form I-90. See [removing conditions with Form I-751](/blog/remove-conditions-on-residence-i-751/) and [the marriage-based green card timeline](/blog/marriage-based-green-card-process-timeline/).
 
 **Handle it yourself when** the card is a standard 10-year card, your name, birth date and address are unchanged or simply updated, you have no travel or criminal history issues, and you can pay the fee online. Many people file Form I-90 without a lawyer.
 
@@ -89,17 +89,17 @@ If you want a second look at your documents or a quote, see [how to find a good 
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [USCIS alert on the 36-month extension](https://uscis.gov/newsroom/alerts/uscis-extends-green-card-validity-extension-to-36-months-for-green-card-renewals); [Fragomen on the 36-month extension](https://www.fragomen.com/insights/united-states-uscis-increases-green-card-validity-extension-to-36-months-for-renewal-applicants.html); [Immigration Direct on I-90 fees](https://www.immigrationdirect.com/?p=157676); [Immigration Direct renewal guide](https://www.immigrationdirect.com/immigration-articles/renew-green-card/); [Beyond Border Global](https://www.beyondborderglobal.com/resources/green-card-renewal). The USCIS I-90 page could not be loaded, so fees and timing are attributed to secondary sources.
+**Sources:** [USCIS alert on the 36-month extension](https://uscis.gov/newsroom/alerts/uscis-extends-green-card-validity-extension-to-36-months-for-green-card-renewals); [Fragomen on the 36-month extension](https://www.fragomen.com/insights/united-states-uscis-increases-green-card-validity-extension-to-36-months-for-renewal-applicants.html); [USCIS: Form I-90](https://www.uscis.gov/i-90). Fee amounts are not stated here because they change; confirm them with USCIS.
 
 ## FAQ
 
 **When can I file Form I-90 to renew my green card?**
 
-Per Beyond Border Global, up to 180 days before a 10-year card expires, or after it has expired. Filing earlier may be rejected and fees are not refunded.
+Per USCIS, you can file if your card will expire within six months or has already expired. Check the USCIS I-90 page for current filing guidance.
 
 **How much does Form I-90 cost?**
 
-As of August 2026, Immigration Direct and Beyond Border Global report $415 online or $465 on paper, with biometrics included. Confirm on USCIS's fee schedule, since you may qualify for an exemption or fee waiver.
+Fees change, so confirm the current amount on the USCIS I-90 page and fee schedule (Form G-1055) before paying. USCIS lists some situations with no fee, such as a card never received or a DHS error.
 
 **Is my status valid while the I-90 is pending?**
 
@@ -107,7 +107,7 @@ Per USCIS, a receipt notice for a properly filed I-90 extends the card's validit
 
 **Do conditional residents use Form I-90?**
 
-No. Per Beyond Border Global and Immigration Direct, marriage-based conditional residents file Form I-751 and investor-based residents file Form I-829 within 90 days before the card expires.
+No. Marriage-based conditional residents file Form I-751 and investor-based residents file Form I-829 within 90 days before the card expires.
 
 ---
 

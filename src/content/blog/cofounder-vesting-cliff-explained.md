@@ -52,7 +52,7 @@ If you are starting a company with a co-founder, decide how vesting works before
 
 Founder vesting means a founder receives stock up front, but the company can repurchase or the founder can forfeit the **unvested** portion if the founder leaves early. It protects the remaining team from a situation where someone leaves after a few months and keeps a large stake.
 
-According to Stripe's guide, investors often require vesting as a condition of funding.
+According to WilmerHale and Orrick, angel and venture investors generally expect founder shares to be subject to vesting.
 
 For the broader agreement between founders, see our [co-founder agreement guide](/blog/co-founder-agreement-startups/).
 
@@ -62,13 +62,13 @@ The usual structure is **four years with a one-year cliff**. Nothing vests in th
 
 ![The standard four-year schedule: stock issued on day one, 25% vests at the month 12 cliff, about 1/48 vests monthly through month 48, then fully vested; unvested shares can be repurchased if you leave](/images/cofounder-vesting-cliff-explained/schedule.webp)
 
-Both Stripe's guide and a WilmerHale founder-stock summary describe this as the usual set of terms.
+Both Orrick and WilmerHale describe this as the typical set of terms.
 
 ## 3. What you keep if you leave
 
 ![What you keep if you leave: nothing before 12 months, about 37.5% at 18 months, everything at 48 months](/images/cofounder-vesting-cliff-explained/if-you-leave.webp)
 
-Stripe's example: a founder who leaves after 18 months would keep about **37.5%**. That is the 25% at the cliff, plus six months of monthly vesting.
+As an illustration under the standard schedule, a founder who leaves after 18 months would keep about **37.5%**. That is the 25% at the cliff, plus six months of monthly vesting.
 
 Leave before the cliff and, under the standard schedule, nothing has vested.
 
@@ -107,7 +107,7 @@ Write the answers down. See also [LLC operating agreements](/blog/llc-operating-
 
 **Related reading:** [50/50 co-founder deadlock clauses](/blog/co-founder-agreement-5050-deadlock-clauses-that-prevent-a-stalemate/); [Co-founder agreement clauses checklist](/blog/co-founder-agreement-clauses-checklist-with-sample-language-and-common-mistakes/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Founder Vesting Acceleration: Single Trigger vs Double Trigger Explained for Startups](/blog/founder-vesting-acceleration-single-vs-double-trigger/); [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Cap Table Cleanup Before Series A: Common Problems and How to Fix Them](/blog/cap-table-cleanup-before-series-a-common-problems/)
 
-**Sources:** [Stripe: Founder vesting](https://stripe.com/au/resources/more/founder-vesting); [WilmerHale: Five things about founder stock vesting](https://launch.wilmerhale.com/research/blog/five-things-about-founder-stock-vesting).
+**Sources:** [WilmerHale: Five things about founder stock vesting](https://launch.wilmerhale.com/research/blog/five-things-about-founder-stock-vesting); [WilmerHale: Should my shares be subject to vesting?](https://launch.wilmerhale.com/research/blog/founder-shares-and-vesting); [Orrick: Should initial shares sold to founders be subject to vesting?](https://www.orrick.com/en/tech-studio/resources/faq/what-is-vesting-should-initial-shares-sold-to-founders-be-subject-to-vesting).
 
 ## FAQ
 

@@ -6,13 +6,13 @@ pubDate: 'Nov 7 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'When is Form D due?'
-    answer: 'Per the SEC, within 15 days after the first sale of securities. Per Daeryun Law, the first sale generally occurs when an investor becomes irrevocably contractually committed, and a weekend or holiday deadline moves to the next business day.'
+    answer: 'Per the SEC, within 15 days after the first sale of securities. Per the SEC, the first sale occurs when the first investor becomes irrevocably contractually committed to invest, and a weekend or holiday deadline moves to the next business day.'
   - question: 'Does it cost anything to file a Form D?'
     answer: 'The SEC says it does not charge any filing fee for a Form D notice or amendment. State notice filings may carry their own fees, per the SEC page on Rule 506(b).'
   - question: 'Can I talk about my round on social media?'
     answer: 'Not under Rule 506(b), which prohibits general solicitation. Rule 506(c) permits it if all purchasers are accredited and you take reasonable steps to verify. Ask a securities attorney before publicizing a round.'
   - question: 'Do I also file in every state?'
-    answer: 'Possibly. Per the SEC, states cannot require registration of Rule 506 offerings but may require notice filings and fees. Daeryun Law advises checking each state where purchasers are located, since deadlines may differ.'
+    answer: 'Possibly. Per the SEC, states cannot require registration of Rule 506 offerings but may require notice filings and fees. The SEC says many states require their own notice filings and fees, so contact the securities regulator in each state where purchasers are located.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -53,7 +53,7 @@ Per the [SEC](https://sec.gov/smallbusiness/exemptofferings/rule506b), Rule 506(
 - If you sell to non-accredited investors, you must give them specified disclosure documents and financial statement information.
 - Offerings are subject to bad actor disqualification provisions.
 
-Per the [SEC's exempt offerings page](https://www.sec.gov/smallbusiness/exemptofferings), Rule 506(c) permits general solicitation where all purchasers are accredited investors and the issuer takes reasonable steps to verify that. Daeryun Law notes that for 506(b) the issuer needs a reasonable belief about investor status, while 506(c) requires verification steps based on each investor's circumstances.
+Per the [SEC's exempt offerings page](https://www.sec.gov/smallbusiness/exemptofferings), Rule 506(c) permits general solicitation where all purchasers are accredited investors and the issuer takes reasonable steps to verify that. For 506(b), the issuer should have a reasonable belief about each investor's status, while 506(c) requires reasonable verification steps based on each investor's circumstances.
 
 In practice, a founder emailing a few angels they already know is typically in 506(b) territory; a founder posting the round on social media or a demo day stage should talk to counsel about 506(c) before doing so. Purchasers in either case receive restricted securities.
 
@@ -61,11 +61,11 @@ In practice, a founder emailing a few angels they already know is typically in 5
 
 Per the SEC, Form D is required for offerings relying on Rule 504, 506(b), or 506(c), and must be filed within 15 days after the first sale of securities. It is filed online through EDGAR, and the SEC charges no filing fee.
 
-Daeryun Law adds that the first sale generally occurs when an investor becomes irrevocably contractually committed, not when the money arrives, and that a deadline falling on a weekend or holiday moves to the next business day. It also says ongoing offerings generally need an annual amendment.
+The SEC's compliance guide adds that the first sale occurs when the first investor becomes irrevocably contractually committed to invest, and that a deadline falling on a weekend or holiday moves to the next business day. It also says an offering that is still continuing needs an amendment by the first anniversary of the most recent notice filed.
 
 ![Five steps to rely on Rule 506](/images/form-d-rule-506-fundraising-startups/steps.webp)
 
-**State notices.** The SEC says federal law preempts state registration but states may still require notice filings and collect fees. Daeryun Law says an SEC filing does not satisfy state obligations, you should check every state where purchasers are located, and state deadlines may differ from the 15-day SEC rule. Fees and deadlines vary by state, so confirm each on the state securities regulator's site.
+**State notices.** The SEC says federal law preempts state registration but states may still require notice filings and collect fees. The SEC's compliance guide says many states also require Form D notices and most charge a fee, so check every state where purchasers are located, since state requirements and deadlines may differ from the federal ones. Fees and deadlines vary by state, so confirm each on the state securities regulator's site.
 
 ## 4. Founder checklist before you take the first check
 
@@ -84,13 +84,13 @@ For terms on a priced round, read [term sheet key terms](/blog/term-sheet-key-te
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [SEC, Private Placements - Rule 506(b)](https://sec.gov/smallbusiness/exemptofferings/rule506b); [SEC, Exempt Offerings](https://www.sec.gov/smallbusiness/exemptofferings); [Daeryun Law, Form D Filing Requires Federal Deadlines and State Notices](https://www.daeryunlaw.com/us_ar/insights/form-d-filing-us).
+**Sources:** [SEC, Private Placements - Rule 506(b)](https://sec.gov/smallbusiness/exemptofferings/rule506b); [SEC, Exempt Offerings](https://www.sec.gov/smallbusiness/exemptofferings); [SEC, Filing and Amending a Form D Notice](https://www.sec.gov/resources-small-businesses/small-business-compliance-guides/filing-amending-form-d-notice).
 
 ## FAQ
 
 **When is Form D due?**
 
-Per the SEC, within 15 days after the first sale of securities. Per Daeryun Law, the first sale generally occurs when an investor becomes irrevocably contractually committed, and a weekend or holiday deadline moves to the next business day.
+Per the SEC, within 15 days after the first sale of securities. Per the SEC, the first sale occurs when the first investor becomes irrevocably contractually committed to invest, and a weekend or holiday deadline moves to the next business day.
 
 **Does it cost anything to file a Form D?**
 
@@ -102,7 +102,7 @@ Not under Rule 506(b), which prohibits general solicitation. Rule 506(c) permits
 
 **Do I also file in every state?**
 
-Possibly. Per the SEC, states cannot require registration of Rule 506 offerings but may require notice filings and fees. Daeryun Law advises checking each state where purchasers are located, since deadlines may differ.
+Possibly. Per the SEC, states cannot require registration of Rule 506 offerings but may require notice filings and fees. The SEC says many states require their own notice filings and fees, so contact the securities regulator in each state where purchasers are located.
 
 ---
 

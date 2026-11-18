@@ -6,13 +6,13 @@ pubDate: 'Nov 5 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Can a software engineer get an NIW?'
-    answer: 'Possibly. Bay Legal lists engineers among typical NIW applicants, but you must have an advanced degree or exceptional ability and show the three Dhanasar prongs. Approval is discretionary.'
+    answer: 'Possibly. Engineers and researchers are among typical NIW applicants, but you must have an advanced degree or exceptional ability and show the three Dhanasar prongs. Approval is discretionary.'
   - question: 'Do I need a master''s degree for an NIW?'
     answer: 'Not necessarily. Under 8 CFR 204.5(k), a bachelor''s degree plus at least five years of progressive experience counts as the equivalent of a master''s, or you can show exceptional ability with three of six types of evidence.'
   - question: 'Does the NIW need PERM or an employer?'
-    answer: 'No. The NIW waives the job offer and labor certification, so you can file Form I-140 for yourself, per Mintz and Bay Legal.'
+    answer: 'No. The NIW waives the job offer and labor certification, so you can file Form I-140 for yourself, per Mintz.'
   - question: 'Is premium processing available for the NIW?'
-    answer: 'Klasko reports USCIS began phasing in premium processing for NIWs in 2022, with an initial decision within 45 days. Bay Legal says availability may vary, so check USCIS for the current fee.'
+    answer: 'USCIS has made premium processing available for some NIW petitions, but availability and fees change, so check the current USCIS premium processing page.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -57,15 +57,15 @@ As summarized by Mintz, the prongs are:
 2. **Well positioned to advance it.** Education, skills, track record, plans, progress, and interest from customers, investors, or others. The endeavor does not have to be more likely than not to succeed.
 3. **Waiving the job offer benefits the U.S. on balance.** The petitioner need not show harm to the national interest or compare themselves to U.S. workers.
 
-Klasko Immigration summarizes January 2022 USCIS guidance: STEM education, especially a STEM PhD, is a strong positive factor, but a degree alone does not establish positioning. Work in a critical and emerging technology can support the waiver even where similar U.S. workers exist. That guidance is from 2022, so confirm current USCIS policy with counsel.
+USCIS policy guidance has treated STEM education as a positive factor, but a degree alone does not establish that you are well positioned to advance your proposed endeavor, and work in a critical or emerging technology may support the waiver. Policy guidance changes, so confirm current USCIS policy with counsel.
 
 ![Steps in building a national interest waiver case](/images/niw-for-software-engineers-and-researchers/steps.webp)
 
 ## 4. No PERM, premium processing, and how it compares
 
-Bay Legal says the NIW is a self-petition and lists researchers, scientists, and engineers among typical applicants. Evidence it names includes independent expert letters, publications and citations, patents and licensing, business metrics, and a specific plan for future work. Because the job offer is waived, [PERM labor certification](/blog/perm-labor-certification-green-card-process/) is skipped, which also means you are not tied to one sponsoring employer.
+The NIW can be self-petitioned, and researchers, scientists, and engineers are among typical applicants. Evidence commonly submitted includes independent expert letters, publications and citations, patents and licensing, business metrics, and a specific plan for future work. Because the job offer is waived, [PERM labor certification](/blog/perm-labor-certification-green-card-process/) is skipped, which also means you are not tied to one sponsoring employer.
 
-Premium processing: Klasko reports USCIS began a phased rollout of premium processing for NIWs in 2022, with an initial decision due in 45 days, though that decision can be a request for evidence. Bay Legal says availability may vary and does not state the fee, so check the current USCIS premium processing page.
+Premium processing: Premium processing has been offered for some NIW petitions, and the initial decision can be a request for evidence. Availability and the fee change, so check the current USCIS premium processing page.
 
 How to choose: the [EB-1A](/blog/eb-1a-for-software-engineers-and-tech-employees/) needs sustained acclaim at the top of the field; the NIW does not, but it needs a persuasive endeavor and a discretionary waiver. Founders can read the [NIW guide for founders](/blog/niw-eb-2-national-interest-waiver-founders/). Waiting times after approval depend on your country; see the [visa bulletin explained](/blog/visa-bulletin-explained-priority-dates-eb-categories/). If you are on H-1B, compare the [sponsored route](/blog/h-1b-to-green-card-timeline-tech-workers/). Bring a draft to [an immigration lawyer](/blog/how-to-find-good-immigration-lawyer-startup-founder/) before filing.
 
@@ -73,13 +73,13 @@ How to choose: the [EB-1A](/blog/eb-1a-for-software-engineers-and-tech-employees
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Mintz on Matter of Dhanasar](https://www.mintz.com/insights-center/viewpoints/2017-01-matter-dhanasar-breathes-new-life-niw-green-card-category); [8 CFR 204.5 (GovInfo)](https://www.govinfo.gov/content/pkg/CFR-2012-title8-vol1/pdf/CFR-2012-title8-vol1-sec204-5.pdf); [Klasko Immigration](https://www.klaskolaw.com/national-interest-waivers-current-state-of-play/); [Bay Legal](https://baylegal.com/eb-2-niw-national-interest-waiver-requirements-and-how-to-qualify/).
+**Sources:** [Mintz on Matter of Dhanasar](https://www.mintz.com/insights-center/viewpoints/2017-01-matter-dhanasar-breathes-new-life-niw-green-card-category); [8 CFR 204.5 (GovInfo)](https://www.govinfo.gov/content/pkg/CFR-2012-title8-vol1/pdf/CFR-2012-title8-vol1-sec204-5.pdf).
 
 ## FAQ
 
 **Can a software engineer get an NIW?**
 
-Possibly. Bay Legal lists engineers among typical NIW applicants, but you must have an advanced degree or exceptional ability and show the three Dhanasar prongs. Approval is discretionary.
+Possibly. Engineers and researchers are among typical NIW applicants, but you must have an advanced degree or exceptional ability and show the three Dhanasar prongs. Approval is discretionary.
 
 **Do I need a master's degree for an NIW?**
 
@@ -87,11 +87,11 @@ Not necessarily. Under 8 CFR 204.5(k), a bachelor's degree plus at least five ye
 
 **Does the NIW need PERM or an employer?**
 
-No. The NIW waives the job offer and labor certification, so you can file Form I-140 for yourself, per Mintz and Bay Legal.
+No. The NIW waives the job offer and labor certification, so you can file Form I-140 for yourself, per Mintz.
 
 **Is premium processing available for the NIW?**
 
-Klasko reports USCIS began phasing in premium processing for NIWs in 2022, with an initial decision within 45 days. Bay Legal says availability may vary, so check USCIS for the current fee.
+USCIS has made premium processing available for some NIW petitions, but availability and fees change, so check the current USCIS premium processing page.
 
 ---
 

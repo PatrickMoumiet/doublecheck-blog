@@ -6,9 +6,9 @@ pubDate: 'Nov 15 2026'
 authorName: 'Patrick Moumiet'
 faq:
   - question: 'Does running AI locally keep my data private?'
-    answer: 'Largely yes for prompts: per Hostinger, Ollama keeps data on your machine and can work offline once a model is downloaded. But your files, backups and device security still matter, and downloading models needs the internet.'
+    answer: 'Largely yes for prompts: LM Studio describes its models as running locally through its own runtime, and local tools such as Ollama run models on your machine once downloaded. But your files, backups and device security still matter, and downloading models needs the internet.'
   - question: 'What do I need to run Ollama or LM Studio?'
-    answer: 'LM Studio docs recommend 16GB+ RAM on Apple Silicon Macs (macOS 14 or newer) and at least 16GB of RAM plus 4GB of dedicated VRAM on Windows. Per Hostinger (September 2026), Ollama can run without a GPU but is slower, and bigger models need much more memory.'
+    answer: 'LM Studio docs recommend 16GB+ RAM on Apple Silicon Macs (macOS 14 or newer) and at least 16GB of RAM plus 4GB of dedicated VRAM on Windows. Bigger models need much more memory, so check each model page before you download.'
   - question: 'Is local AI safe from hackers?'
     answer: 'Not automatically. A Cloud Security Alliance note (May 2026) cited a scan where about 31% of roughly 5,200 internet-reachable Ollama servers answered without authentication. Keep the service on localhost, require authentication if shared, and apply updates.'
   - question: 'Are local AI answers more accurate than ChatGPT or Claude?'
@@ -32,20 +32,20 @@ toc:
 
 **Key takeaways:**
 
-- Ollama and LM Studio run open-weight models on your own computer, so prompts are processed locally (per Hostinger and LM Studio).
+- Ollama and LM Studio run open-weight models on your own computer, so prompts are processed locally (per LM Studio's documentation).
 - LM Studio recommends 16GB of RAM on Mac and Windows; bigger models need much more memory, and a GPU speeds things up.
 - Local does not mean correct or secure by default: keep the service on localhost, patch it, and verify outputs.
 - A mix of local and business-plan hosted models is common for small businesses.
 
 ## 1. The quick answer
 
-**Quick answer:** You can run an open-weight AI model on your own computer with free tools such as Ollama or LM Studio, so your prompts are processed on your machine instead of a vendor's servers. Per Hostinger (updated 2026), Ollama is a free, open-source tool for running models locally, works on macOS, Linux and Windows, and can work offline once a model is downloaded. Per LM Studio's documentation, a Mac needs Apple Silicon and 16GB of RAM is recommended, while Windows also recommends at least 16GB of RAM. Local AI is a good fit for a small business that wants control over sensitive text and has a reasonably modern computer. It is not magic: the model can still be wrong, the files still sit on your device, and quality on hard tasks may trail the big hosted models.
+**Quick answer:** You can run an open-weight AI model on your own computer with free tools such as Ollama or LM Studio, so your prompts are processed on your machine instead of a vendor's servers. Ollama and LM Studio are free tools for running models locally. Per LM Studio's documentation, a Mac needs Apple Silicon and 16GB of RAM is recommended, while Windows also recommends at least 16GB of RAM. Local AI is a good fit for a small business that wants control over sensitive text and has a reasonably modern computer. It is not magic: the model can still be wrong, the files still sit on your device, and quality on hard tasks may trail the big hosted models.
 
 ![Basics of running AI models locally](/images/run-ai-locally-for-privacy-ollama-lm-studio-small-business/grid.webp)
 
 ## 2. What stays on your machine, and what does not
 
-**What stays local.** Per Hostinger, using Ollama keeps data on your machine and the tool can work without an internet connection, although downloading models requires one. LM Studio describes itself as natively local, with models running through its own runtime, and says voice and audio data is processed locally and never leaves your device. In practice: the prompts, documents and answers you run through a downloaded model are handled by software on your computer, not sent to an AI vendor.
+**What stays local.** Downloading a model requires an internet connection, but running it does not need to send your prompts to a vendor. LM Studio describes itself as natively local, with models running through its own runtime, and says voice and audio data is processed locally and never leaves your device. In practice: the prompts, documents and answers you run through a downloaded model are handled by software on your computer, not sent to an AI vendor.
 
 **What does not change.**
 - **The model download.** You fetch weights from the internet once, and update tools periodically. Check each tool's own settings and documentation for anything it may send or check online.
@@ -57,11 +57,11 @@ toc:
 
 ## 3. Setup realities and hardware
 
-**Setup is easier than it was, but not zero effort.** Per Hostinger, Ollama is command-line first, which suits technical users; an official desktop app exists for macOS and Windows but not Linux. LM Studio is presented as the more beginner-friendly app with a graphical interface for downloading and chatting with models. Many tools also offer a local OpenAI-compatible API so other apps can use your model.
+**Setup is easier than it was, but not zero effort.** Ollama is typically used from the command line, which suits technical users, while LM Studio is a desktop app with a graphical interface for downloading and chatting with models. Many tools also offer a local OpenAI-compatible API so other apps can use your model.
 
 **Hardware, from the tools' own docs.**
 - **LM Studio (docs).** macOS requires Apple Silicon (M1 to M4) and macOS 14 or newer, with 16GB+ RAM recommended; 8GB Macs may work with smaller models. Windows supports x64 and ARM, needs AVX2 on x64, and recommends at least 16GB of RAM and at least 4GB of dedicated VRAM.
-- **Model size vs memory.** Per a Hostinger guide dated September 10, 2026, Ollama does not need a GPU: without one the model loads into system RAM and the CPU does the work, which was slower in its benchmark. As rough guidance from that guide, a 7B to 8B model at common quantization needs about 6 to 7 GB of VRAM, while a 70B model needs around 50 GB. Treat these as ballpark figures and check the model page.
+- **Model size vs memory.** Larger models need more memory, and LM Studio's documentation lists minimum RAM and VRAM recommendations for its app. Check the specific model page for its memory needs before downloading.
 
 **Tradeoffs to plan for.** Bigger models give better answers but need more memory; smaller ones are faster and run on ordinary laptops but may struggle with long or complex documents. You also choose which model to use, read its license, and update it. Our guide to [open-weight vs open-source licenses](/blog/open-weight-vs-open-source-ai-licenses-what-businesses-can-do/) covers what you may do commercially.
 
@@ -86,17 +86,17 @@ Many businesses mix both: local for the most sensitive drafts, hosted for everyt
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Hostinger, What is Ollama](https://www.hostinger.com/uk/tutorials/?p=117485); [Hostinger, Ollama GPU requirements (Sept 10, 2026)](https://www.hostinger.com/tutorials/?p=156543); [LM Studio, system requirements](https://lmstudio.ai/docs/app/system-requirements); [LM Studio](https://lmstudio.ai:443); [Cloud Security Alliance research note (May 7, 2026)](https://labs.cloudsecurityalliance.org/research/csa-research-note-exposed-ai-infrastructure-selfhosted-secur/); [Epoch AI, open-weight models](https://epoch.ai/topics/open-models); [OpenAI, business data](https://openai.com/business-data/); [Anthropic privacy center](https://privacy.claude.com/en/articles/7996868-how-long-do-you-store-my-organization-s-data). The Ollama dev.to guide and Google Gemini terms pages did not load.
+**Sources:** [LM Studio, system requirements](https://lmstudio.ai/docs/app/system-requirements); [LM Studio](https://lmstudio.ai:443); [Cloud Security Alliance research note (May 7, 2026)](https://labs.cloudsecurityalliance.org/research/csa-research-note-exposed-ai-infrastructure-selfhosted-secur/); [Epoch AI, open-weight models](https://epoch.ai/topics/open-models); [OpenAI, business data](https://openai.com/business-data/); [Anthropic privacy center](https://privacy.claude.com/en/articles/7996868-how-long-do-you-store-my-organization-s-data). The Ollama dev.to guide and Google Gemini terms pages did not load.
 
 ## FAQ
 
 **Does running AI locally keep my data private?**
 
-Largely yes for prompts: per Hostinger, Ollama keeps data on your machine and can work offline once a model is downloaded. But your files, backups and device security still matter, and downloading models needs the internet.
+Largely yes for prompts: LM Studio describes its models as running locally through its own runtime, and local tools such as Ollama run models on your machine once downloaded. But your files, backups and device security still matter, and downloading models needs the internet.
 
 **What do I need to run Ollama or LM Studio?**
 
-LM Studio docs recommend 16GB+ RAM on Apple Silicon Macs (macOS 14 or newer) and at least 16GB of RAM plus 4GB of dedicated VRAM on Windows. Per Hostinger (September 2026), Ollama can run without a GPU but is slower, and bigger models need much more memory.
+LM Studio docs recommend 16GB+ RAM on Apple Silicon Macs (macOS 14 or newer) and at least 16GB of RAM plus 4GB of dedicated VRAM on Windows. Bigger models need much more memory, so check each model page before you download.
 
 **Is local AI safe from hackers?**
 

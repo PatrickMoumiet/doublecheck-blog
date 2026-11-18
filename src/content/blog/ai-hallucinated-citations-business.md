@@ -30,7 +30,7 @@ toc:
     anchor: 'faq'
 ---
 
-*Courts have seen over a thousand cases involving AI-generated hallucinations. Here is what business owners can learn from them.*
+*Courts around the world have seen many cases involving AI-generated hallucinations. Here is what business owners can learn from them.*
 
 **Key takeaways:**
 
@@ -46,7 +46,7 @@ AI can write a legal-sounding paragraph in seconds. It can also invent the sourc
 
 ## 1. Why this is a business problem, not just a lawyer problem
 
-Courts around the world have been dealing with filings that cite cases that do not exist. A public database run by researcher Damien Charlotin tracks decisions involving AI-generated hallucinated content. One March 2026 summary of the database reported more than 1,000 cases, with about half involving people representing themselves.
+Courts around the world have been dealing with filings that cite cases that do not exist. Researchers and court watchers have been tracking decisions involving AI-generated hallucinated content, and the cases involve both lawyers and people representing themselves. We do not cite a case count here because the numbers change quickly.
 
 If lawyers and court filers can be caught out, businesses can too. The same failure shows up when AI invents a contract clause, a regulation, a deadline, or a source in a document you rely on.
 
@@ -98,7 +98,7 @@ Useful instructions include: *"Tell me when you are not sure."* *"Do not cite a 
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Source:** [How Many Lawyers Have Gotten in Trouble Because of AI Hallucinations?](https://jlellis.net/blog/how-many-lawyers-have-gotten-in-trouble-because-of-ai-hallucinations-a-lot/), summarizing the AI Hallucination Cases Database by Damien Charlotin.
+**Sources:** This article is general guidance and cites no statistics. To check any case or rule mentioned in AI output, open the court opinion, statute, or agency page itself.
 
 ## FAQ
 

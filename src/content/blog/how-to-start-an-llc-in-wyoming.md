@@ -10,9 +10,9 @@ faq:
   - question: 'What is the Wyoming annual report license tax?'
     answer: 'Per the Secretary of State, it is the greater of $60 or 0.02% of the company''s Wyoming-located and -employed assets. No separate LLC annual report fee is listed.'
   - question: 'When is the Wyoming LLC annual report due?'
-    answer: 'On the first day of the anniversary month of formation, per Zenind. An LLC not paid within 60 days after the due date can be subject to dissolution.'
+    answer: 'The fee schedule does not state the due date, so check the Wyoming Secretary of State for the current deadline and the consequences of missing it. Reinstatement for tax is listed at $100.'
   - question: 'Do I need a registered agent in Wyoming?'
-    answer: 'Yes, with a physical Wyoming street address; a P.O. box or mailbox service does not qualify, per Zenind. The Secretary of State charges $5 to appoint a new agent and office.'
+    answer: 'Yes. The fee schedule lists $5 to appoint a new agent and office and $350 for reinstatement after having no registered agent. Check the Secretary of State for the agent address requirements.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -33,21 +33,21 @@ toc:
 **Key takeaways:**
 
 - The Wyoming Secretary of State lists $100 for Articles of Organization, effective July 1, 2026.
-- A registered agent with a physical Wyoming street address is required.
+- A registered agent in Wyoming is required; check the Secretary of State for address rules.
 - The annual report license tax is the greater of $60 or 0.02% of Wyoming-located assets.
 - A low filing fee does not settle whether Wyoming is right for your situation.
 
 ## 1. The quick answer
 
-**Quick answer:** To start an LLC in Wyoming, check your name in the Wyoming business records database, appoint a registered agent with a physical Wyoming street address, and file Articles of Organization. The Secretary of State's fee schedule effective July 1, 2026 lists $100 for the articles. Wyoming then charges an annual report license tax of the greater of $60 or 0.02% of Wyoming-located and -employed assets, due each year on the first day of the anniversary month, per Zenind.
+**Quick answer:** To start an LLC in Wyoming, check your name in the Wyoming business records database, appoint a registered agent in Wyoming, and file Articles of Organization. The Secretary of State's fee schedule effective July 1, 2026 lists $100 for the articles. Wyoming then charges an annual report license tax of the greater of $60 or 0.02% of Wyoming-located and -employed assets, per the Secretary of State fee schedule. Confirm the due date with the Secretary of State.
 
 ![Wyoming LLC fees and requirements at a glance](/images/how-to-start-an-llc-in-wyoming/grid.webp)
 
 ## 2. Step by step: name, agent, and filing
 
-**1. Check your name.** Search the Wyoming business records database. The name must include an approved designator such as "LLC" and be distinguishable from other registered entities, per Zenind.
+**1. Check your name.** Search the Wyoming business records database. Confirm the Wyoming Secretary of State's current naming rules before you file.
 
-**2. Appoint a registered agent.** Every Wyoming LLC needs one with a physical street address in Wyoming; a P.O. box or mailbox service does not qualify, per Zenind. Per the Secretary of State's fee schedule, appointing a new agent and office costs $5, and reinstatement after losing an agent is $350.
+**2. Appoint a registered agent.** Every Wyoming LLC needs one; confirm the address requirements with the Secretary of State. Per the Secretary of State's fee schedule, appointing a new agent and office costs $5, and reinstatement after losing an agent is $350.
 
 **3. File Articles of Organization.** The fee is $100 and can be filed electronically, per the Wyoming Secretary of State (effective July 1, 2026). Expedited service is $700 for next business day or $1,400 for same day.
 
@@ -61,11 +61,7 @@ toc:
 
 Wyoming has no separate LLC annual report fee in the Secretary of State schedule; instead the annual report license tax applies: the greater of $60 or 0.02% ($.0002) of the company's Wyoming-located and -employed assets.
 
-Per Zenind:
-
-- Reports are due on the first day of the anniversary month of formation.
-- You can usually file up to 120 days early.
-- If the report is not paid within 60 days after the due date, the LLC can be subject to dissolution.
+The fee schedule does not state the report due date or the consequences of missing it, so check the Wyoming Secretary of State for the current deadline. The schedule lists $100 for reinstatement for tax.
 
 Budget for the registered agent too; commercial agents charge their own fees. See [annual report requirements by state](/blog/annual-report-requirements-by-state-llc/).
 
@@ -74,15 +70,15 @@ Budget for the registered agent too; commercial agents charge their own fees. Se
 Wyoming is popular for its low filing fee, but a cheap filing is not the same as the right choice. Two checks matter:
 
 - **Operating location.** The license tax is based on Wyoming-located assets, and the fee is only part of total cost. If you live or work elsewhere, that state's rules still need review; see [best state to form an LLC](/blog/best-state-to-form-an-llc-comparison/).
-- **Local licenses.** Zenind says whether you need a Wyoming business license depends on industry, location, and operations. See [business license requirements](/blog/business-license-requirements-small-business/).
+- **Local licenses.** Whether you need a Wyoming business license depends on industry, location, and operations. See [business license requirements](/blog/business-license-requirements-small-business/).
 
-Zenind's Wyoming guide makes no privacy or anonymity claims, so do not assume any without checking the current statute with an attorney. For an overview, read [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/) and compare [Nevada](/blog/how-to-start-an-llc-in-nevada/).
+Do not assume any privacy or anonymity benefit without checking the current statute with an attorney. For an overview, read [how to incorporate a company in the US](/blog/how-to-incorporate-a-company-in-the-us/) and compare [Nevada](/blog/how-to-start-an-llc-in-nevada/).
 
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Wyoming Secretary of State business fees](https://sos.wyo.gov/Business/docs/BusinessFees.pdf); [Zenind: Wyoming LLC fees, licenses, and filing requirements](https://www.zenind.com/help/post/wyoming-llc-fees-licenses-and-filing-requirements-2026-guide).
+**Sources:** [Wyoming Secretary of State business fees](https://sos.wyo.gov/Business/docs/BusinessFees.pdf).
 
 ## FAQ
 
@@ -96,11 +92,11 @@ Per the Secretary of State, it is the greater of $60 or 0.02% of the company's W
 
 **When is the Wyoming LLC annual report due?**
 
-On the first day of the anniversary month of formation, per Zenind. An LLC not paid within 60 days after the due date can be subject to dissolution.
+The fee schedule does not state the due date, so check the Wyoming Secretary of State for the current deadline and the consequences of missing it. Reinstatement for tax is listed at $100.
 
 **Do I need a registered agent in Wyoming?**
 
-Yes, with a physical Wyoming street address; a P.O. box or mailbox service does not qualify, per Zenind. The Secretary of State charges $5 to appoint a new agent and office.
+Yes. The fee schedule lists $5 to appoint a new agent and office and $350 for reinstatement after having no registered agent. Check the Secretary of State for the agent address requirements.
 
 ---
 

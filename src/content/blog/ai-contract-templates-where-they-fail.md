@@ -8,11 +8,11 @@ faq:
   - question: 'Are AI-generated contract templates legally valid?'
     answer: 'A contract''s validity depends on its terms, the parties, and applicable law, not on whether AI wrote it. The risk is that an AI draft may be incomplete or wrong for your state, so verify it and consider attorney review.'
   - question: 'What are the most common mistakes in AI-written contracts?'
-    answer: 'Per Lawpath: jurisdiction mismatch, invented cross-references, missing termination and dispute provisions, lopsided indemnities, unclear payment terms, and vague IP ownership.'
+    answer: 'Common problems to check for include jurisdiction mismatch, invented cross-references, missing termination and dispute provisions, lopsided indemnities, unclear payment terms, and vague IP ownership.'
   - question: 'Does AI hallucinate in legal work?'
     answer: 'Yes. Per LLRX''s 2026 review, Magesh et al. found Lexis+ AI hallucinated 17% of the time and Westlaw AI-Assisted Research 33% on legal research queries. These studies test research, not contract drafting, and tools change.'
   - question: 'Can I ask the AI to check its own contract?'
-    answer: 'You can, but Lawpath warns against asking the same AI to check its own output. Use a separate check against your deal terms, then a lawyer for high-stakes contracts.'
+    answer: 'You can, but do not rely on the same AI to check its own output. Use a separate check against your deal terms, then a lawyer for high-stakes contracts.'
 toc:
   - label: '1. Quick answer'
     anchor: '1-the-quick-answer'
@@ -45,7 +45,7 @@ toc:
 
 ## 2. The failure modes, one by one
 
-Lawpath, an Australian legal platform, lists common problems in contracts written by ChatGPT or Claude. The examples are Australian, but the patterns apply anywhere:
+These are common problems to look for in contracts drafted by ChatGPT or Claude. Check each one against your deal and your state's law:
 
 - **Jurisdiction mismatch.** AI often defaults to US law and wording, so the governing-law clause may not name the right state or country.
 - **Invented cross-references.** A draft may cite a schedule, clause, or definition that does not exist.
@@ -54,7 +54,7 @@ Lawpath, an Australian legal platform, lists common problems in contracts writte
 - **Unclear payment terms.** The draft may not say when invoices are triggered or what is included.
 - **Vague IP ownership.** Who owns work product, and when ownership passes, may be unclear.
 
-Lawpath also warns against trusting polished writing, asking the same AI to check its own output, and skipping schedules and definitions, where errors often hide. A good test: ask how the contract ends, what happens on breach, and how disputes get resolved. If you cannot find those answers in plain words, the template is not ready.
+Also avoid trusting polished writing, asking the same AI to check its own output, and skipping schedules and definitions, where errors often hide. A good test: ask how the contract ends, what happens on breach, and how disputes get resolved. If you cannot find those answers in plain words, the template is not ready.
 
 For a deeper review routine, see [AI contract review: what to check before signing](/blog/ai-contract-review-what-to-check-before-signing/) and [contract red flags for small businesses](/blog/contract-red-flags-small-business/).
 
@@ -92,7 +92,7 @@ When a lawyer reviews your AI draft, bring the facts, your goals, and the questi
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [Lawpath, how to review a contract written by ChatGPT or Claude](https://lawpath.com.au/blog/review-ai-written-contract); [LLRX, what the science says about hallucinations in legal research](https://www.llrx.com/2026/02/what-the-science-says-about-hallucinations-in-legal-research/); [Cooley GO, drafting offer letters](https://www.cooleygo.com/drafting-offer-letters/); [Mondaq, FTC abandons non-compete rule](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1706482/ftc-officially-abandons-prior-non-compete-rule-but-its-work-on-this-issue-isnt-over-yet).
+**Sources:** [LLRX, what the science says about hallucinations in legal research](https://www.llrx.com/2026/02/what-the-science-says-about-hallucinations-in-legal-research/); [Cooley GO, drafting offer letters](https://www.cooleygo.com/drafting-offer-letters/); [Mondaq, FTC abandons non-compete rule](https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1706482/ftc-officially-abandons-prior-non-compete-rule-but-its-work-on-this-issue-isnt-over-yet).
 
 ## FAQ
 
@@ -102,7 +102,7 @@ A contract's validity depends on its terms, the parties, and applicable law, not
 
 **What are the most common mistakes in AI-written contracts?**
 
-Per Lawpath: jurisdiction mismatch, invented cross-references, missing termination and dispute provisions, lopsided indemnities, unclear payment terms, and vague IP ownership.
+Common problems to check for include jurisdiction mismatch, invented cross-references, missing termination and dispute provisions, lopsided indemnities, unclear payment terms, and vague IP ownership.
 
 **Does AI hallucinate in legal work?**
 
@@ -110,7 +110,7 @@ Yes. Per LLRX's 2026 review, Magesh et al. found Lexis+ AI hallucinated 17% of t
 
 **Can I ask the AI to check its own contract?**
 
-You can, but Lawpath warns against asking the same AI to check its own output. Use a separate check against your deal terms, then a lawyer for high-stakes contracts.
+You can, but do not rely on the same AI to check its own output. Use a separate check against your deal terms, then a lawyer for high-stakes contracts.
 
 ---
 

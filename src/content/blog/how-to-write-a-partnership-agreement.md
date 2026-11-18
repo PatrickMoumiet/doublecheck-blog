@@ -8,9 +8,9 @@ faq:
   - question: 'Do I need a written partnership agreement?'
     answer: 'A partnership can form through your actions without a signed document, per FindLaw, and then state default rules apply. A written agreement lets you set your own terms, within limits state law imposes.'
   - question: 'What happens if partners don''t have an agreement?'
-    answer: 'Per LexPlug''s RUPA outline, profits are shared equally and each partner gets one vote. Bay Legal adds that disputes may end in court-supervised dissolution in California. Details vary by state.'
+    answer: 'Under many states'' versions of the Uniform Partnership Act, default rules cover profit sharing, management rights, and what happens when someone leaves, and they may not match what the partners assumed. Details vary by state, so check your state''s statute.'
   - question: 'Are partners personally liable?'
-    answer: 'In a general partnership, yes, according to FindLaw and Bay Legal. Limited partnerships and LLPs offer different protection, and rules vary by state.'
+    answer: 'In a general partnership, partners generally have personal liability for the partnership''s debts, according to FindLaw. Limited partnerships and LLPs offer different protection, and rules vary by state.'
   - question: 'Can I use an AI-generated partnership agreement?'
     answer: 'It can help you organize terms, but verify it against your state''s law. Consider an independent attorney to review it, especially for liability, buyout, and tax terms.'
 toc:
@@ -33,7 +33,7 @@ toc:
 **Key takeaways:**
 
 - A partnership can exist without a written agreement, and state law fills the gaps.
-- Common defaults: equal profit shares, one vote each, no salary, and personal liability in a general partnership.
+- Default rules vary by state, and partners in a general partnership generally have personal liability.
 - Cover contributions, profits, authority, entry and exit, disputes, and wind-down.
 - Structure choice affects liability; have an attorney review before signing.
 
@@ -45,27 +45,24 @@ toc:
 
 ## 2. Why the written terms matter: the default rules
 
-Without an agreement, state default rules apply, and they may not match what you assumed. As summarized by LexPlug's outline of the RUPA framework and by Bay Legal for California:
+Without an agreement, state default rules apply, and they may not match what you assumed. FindLaw says state laws based on the Uniform Partnership Act or RUPA supply default rules for profit sharing, management rights, a partner's authority, and what happens when someone leaves. Common default features in many states include equal profit shares regardless of capital contributed, equal management rights, and no salary for working in the business, but the details differ by state, so check your state's statute or ask an attorney.
 
-- **Profits:** shared equally by default, regardless of how much capital each partner put in. Losses follow profits.
-- **Votes:** one partner, one vote. Ordinary decisions by majority; extraordinary decisions and amendments to the agreement need unanimous consent.
-- **Pay:** no default right to a salary for working in the business.
-- **Liability:** in a general partnership, Bay Legal says partners have unlimited personal liability and are jointly and severally liable, including for another partner's misconduct.
-- **Departure:** Bay Legal says that in California any partner may dissociate at any time, and without an agreement, disputes often end in court-supervised dissolution, which it calls slow and expensive.
+- **Liability:** FindLaw says partners in a general partnership generally have personal liability for the partnership's debts and obligations.
+- **Departure and disputes:** without agreed exit terms, a partner's departure or a dispute can leave the business in an uncertain position, which is why the agreement should cover entry, exit, and wind-down.
 
-These are descriptions from secondary sources, and each state's statute differs in details. A 60/40 capital split with a silent agreement can still mean a 50/50 profit split, which is exactly the surprise a written agreement prevents.
+A 60/40 capital split with a silent agreement can still produce a different profit split than you expected in some states, which is exactly the surprise a written agreement prevents.
 
 ![Steps to write a partnership agreement](/images/how-to-write-a-partnership-agreement/steps.webp)
 
 ## 3. What to put in it, section by section
 
-FindLaw's minimum list and Bay Legal's longer one overlap heavily. A practical outline:
+FindLaw's list of what to include is a good starting point. A practical outline:
 
 - **Basics:** business name, purpose, partner names, principal place of business.
 - **Ownership and money:** each partner's interest, initial contributions, how additional capital is called, how profits and losses are allocated, and when distributions are paid. Consider tax distributions.
 - **Management:** who runs daily operations, which decisions need a vote or written approval (for example, spending above a set dollar amount), and what approval percentage applies.
 - **Banking and records:** who can access accounts and books.
-- **Restrictions:** confidentiality, conflicts of interest, and outside business activities. If you want a non-compete, check your state first: Bay Legal notes that in California post-departure non-competes are generally unenforceable under Bus. & Prof. Code section 16600, with a possible exception when a partner sells their entire interest. See our [non-compete guide by state](/blog/non-compete-agreements-by-state-2026/).
+- **Restrictions:** confidentiality, conflicts of interest, and outside business activities. If you want a non-compete, check your state first, since some states, including California under Bus. & Prof. Code section 16600, restrict them. See our [non-compete guide by state](/blog/non-compete-agreements-by-state-2026/).
 - **Entry and exit:** how new partners join, whether a share can be transferred, a notice period for leaving, and buyout terms if a partner quits, dies, or cannot work. A [buy-sell agreement](/blog/buy-sell-agreement-small-business-partners/) can hold these terms.
 - **Disputes and wind-down:** mediation or arbitration, governing law, and how debts and remaining property are handled on closing.
 
@@ -73,11 +70,11 @@ The same questions come up in a [co-founder agreement](/blog/co-founder-agreemen
 
 ## 4. Choosing the structure, and when to involve an attorney
 
-The agreement works inside a legal structure, and the structure drives personal liability. Bay Legal describes the California options:
+The agreement works inside a legal structure, and the structure drives personal liability. Common options include:
 
 - **General partnership:** simplest, but personal liability for partnership debts.
 - **Limited partnership:** at least one general partner has unlimited liability; limited partners are liable up to their investment. FindLaw notes it typically needs a state filing such as a certificate of limited partnership.
-- **Limited liability partnership:** Bay Legal says California limits these to certain licensed professions. Other states differ.
+- **Limited liability partnership:** FindLaw says LLPs have different liability and filing rules and may need a different agreement and state filing. Some states limit them to certain licensed professions, so check yours.
 
 Many small owners find an LLC fits better than a general partnership; compare in [LLC vs. C-corp](/blog/llc-vs-c-corp-startups/) and the [family-business LLC or partnership](/blog/retail-store-family-business-llc-or-partnership/) post.
 
@@ -89,7 +86,7 @@ An AI draft or a template is a fine starting point for organizing the conversati
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [FindLaw: How to write a partnership agreement](https://www.findlaw.com/smallbusiness/business-contracts-forms/how-to-write-a-partnership-agreement.html); [LexPlug: Management rights and profit sharing](https://www.lexplug.com/outlines/business-associations/management-rights-and-profit-sharing); [Bay Legal](https://baylegal.com/what-is-a-partnership-agreement-and-why-does-every-california-business-partnership-need-one/).
+**Sources:** [FindLaw: How to write a partnership agreement](https://www.findlaw.com/smallbusiness/business-contracts-forms/how-to-write-a-partnership-agreement.html). State partnership statutes (your state's Uniform Partnership Act or RUPA version) control the default rules; confirm them with your Secretary of State or an attorney.
 
 ## FAQ
 
@@ -99,11 +96,11 @@ A partnership can form through your actions without a signed document, per FindL
 
 **What happens if partners don't have an agreement?**
 
-Per LexPlug's RUPA outline, profits are shared equally and each partner gets one vote. Bay Legal adds that disputes may end in court-supervised dissolution in California. Details vary by state.
+Under many states' versions of the Uniform Partnership Act, default rules cover profit sharing, management rights, and what happens when someone leaves, and they may not match what the partners assumed. Details vary by state, so check your state's statute.
 
 **Are partners personally liable?**
 
-In a general partnership, yes, according to FindLaw and Bay Legal. Limited partnerships and LLPs offer different protection, and rules vary by state.
+In a general partnership, partners generally have personal liability for the partnership''s debts, according to FindLaw. Limited partnerships and LLPs offer different protection, and rules vary by state.
 
 **Can I use an AI-generated partnership agreement?**
 

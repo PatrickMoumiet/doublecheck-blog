@@ -51,8 +51,6 @@ The rule is in 20 CFR 655.731(c)(6) and (c)(7). Per [Fragomen's summary of the r
 - **Employer-caused time (c)(7)(i).** Covers lack of assigned work, a missing permit or license, or any reason not listed as employee-caused. Salaried workers get the full pro-rata amount. Hourly workers get a full-time week, 40 hours or another number the employer can show is full-time, at the wage on the LCA.
 - **Employee-caused or unrelated time (c)(7)(ii).** No required wage is owed when the worker is away at their own request and convenience, or cannot work because of a condition such as an incapacitating accident or maternity leave. The regulation's examples include touring the U.S. and caring for an ill relative.
 
-Per [RN Law Group](https://www.rnlawgroup.com/h-1b-wage-compliance-unproductive-time-unpaid-leave-and-benching-rules), the required wage must be paid as guaranteed salary, so discretionary bonuses or commissions do not satisfy it, and the same firm says an employer that cannot show the leave was employee-initiated may be treated as having committed a wage violation.
-
 Agency decisions summarized by Fragomen show how this works in practice: time spent waiting for a license (*Greater Missouri Medical Pro-Care Providers*, ARB 2014) and for a Social Security number while willing and able to work (*University of Miami*, ARB 2012) was compensable, while time away for surgery was treated as voluntary (*Rajan v. International Business Solutions*, ARB 2004).
 
 For how the LCA wage ties into the rest of the filing, see our [LCA public access file guide](/blog/h-1b-lca-public-access-file-employer-requirements-startups/).
@@ -61,7 +59,7 @@ For how the LCA wage ties into the rest of the filing, see our [LCA public acces
 
 **Part-time workers.** Per the [DOL fact sheet on nonproductive time](https://www.dol.gov/agencies/whd/fact-sheets/62i-h1b-nonproductive-time), part-time workers "must be paid for at least the number of hours indicated on the Forms I-129/I-129W petition." If the petition lists a range of hours, the worker must be paid for at least the average hours normally worked, as long as that average falls within the range, and never below the range's minimum. A founder who files for 20 hours and then cuts to 10 has a gap to explain.
 
-**Employee-requested leave.** Unpaid time can be permissible when the employee asks for it for personal reasons. Per RN Law Group, the key issue is whether the employee chose not to work, and it advises keeping a written leave request and internal messages made at the time. DOL also notes employers must still follow other laws, such as the FMLA.
+**Employee-requested leave.** Unpaid time can be permissible when the employee asks for it for personal reasons. The key issue is whether the employee chose not to work, so keep a written leave request and internal messages made at the time. DOL also notes employers must still follow other laws, such as the FMLA.
 
 **Slow periods and shutdowns.** An employer-wide slowdown does not make the time employee-caused. Per [SHRM](https://www.shrm.org/in/topics-tools/news/talent-acquisition/h-1b-worker-terminations-must-follow-three-step-process), employers must keep paying the LCA wage even during nonproductive status or company-wide shutdowns. Options that stay inside the rules include assigning internal projects, training, or R&D work, or, if the role really is ending, a proper termination.
 
@@ -80,7 +78,7 @@ Per [SHRM](https://www.shrm.org/in/topics-tools/news/talent-acquisition/h-1b-wor
 ![Five steps to end H-1B employment correctly](/images/h-1b-benching-required-wage-payments-employers/steps.webp)
 
 
-**Why it matters.** SHRM describes one case in which a health care staffing firm was ordered to pay $55,587 in back wages after waiting nearly five months to send a termination letter, and another in which a chemical manufacturer was ordered to pay $182,943 after failing to notify USCIS, with back wages running until the worker left the U.S. nearly three years later. Capitol Immigration Law Group reports a similar Administrative Review Board holding that an employer that does not terminate and notify USCIS is liable for back wages. These are examples, not predictions.
+**Why it matters.** SHRM describes one case in which a health care staffing firm was ordered to pay $55,587 in back wages after waiting nearly five months to send a termination letter, and another in which a chemical manufacturer was ordered to pay $182,943 after failing to notify USCIS, with back wages running until the worker left the U.S. nearly three years later. These are examples, not predictions.
 
 **When you can handle it yourself vs. get an attorney.**
 
@@ -91,7 +89,7 @@ Per [SHRM](https://www.shrm.org/in/topics-tools/news/talent-acquisition/h-1b-wor
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
-**Sources:** [DOL Fact Sheet 62I: H-1B nonproductive time](https://www.dol.gov/agencies/whd/fact-sheets/62i-h1b-nonproductive-time); [Fragomen, benching explained](https://www.visalaw.com/hce-basics-xix-what-is-benching); [RN Law Group](https://www.rnlawgroup.com/h-1b-wage-compliance-unproductive-time-unpaid-leave-and-benching-rules); [SHRM, H-1B terminations](https://www.shrm.org/in/topics-tools/news/talent-acquisition/h-1b-worker-terminations-must-follow-three-step-process); [Capitol Immigration Law Group](https://cilawgroup.com/?p=209). The regulation text itself (20 CFR 655.731) was not fetched; its content is cited via the secondary sources above.
+**Sources:** [DOL Fact Sheet 62I: H-1B nonproductive time](https://www.dol.gov/agencies/whd/fact-sheets/62i-h1b-nonproductive-time); [Fragomen, benching explained](https://www.visalaw.com/hce-basics-xix-what-is-benching); [SHRM, H-1B terminations](https://www.shrm.org/in/topics-tools/news/talent-acquisition/h-1b-worker-terminations-must-follow-three-step-process). The regulation text itself (20 CFR 655.731) was not fetched; its content is cited via DOL and Fragomen above.
 
 ## FAQ
 
