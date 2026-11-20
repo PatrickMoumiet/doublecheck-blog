@@ -96,6 +96,8 @@ If you are still choosing a structure, see [how to incorporate a company in the 
 
 **Source:** [FinCEN Finalizes Exemption of U.S. Companies From Beneficial Ownership Reporting (Adams and Reese)](https://www.adamsandreese.com/insights/fincen-finalizes-exemption-of-us-companies-from-beneficial-ownership-reporting).
 
+For full exemption details and 30-day update rules, see our [Corporate Transparency Act 2026 compliance guide](/blog/corporate-transparency-act-finsea-compliance-startups-2026/).
+
 ## FAQ
 
 **Do U.S. companies still have to file BOI reports?**

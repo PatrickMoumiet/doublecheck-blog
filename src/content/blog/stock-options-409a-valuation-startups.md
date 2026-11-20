@@ -81,6 +81,8 @@ For founders, see [founder equity splits](/blog/founder-equity-split-how-to-divi
 
 **Related reading:** [Corporate Minutes and Board Consents: Small Corporation Records Guide](/blog/corporate-minutes-and-board-consents-small-corporation-records/); [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Employee Equity Grants for First Hires: How to Structure Them](/blog/employee-equity-grants-for-first-hires-how-to-structure/); [Option Pool Size and Dilution in a First Round Explained for Founders](/blog/option-pool-size-and-dilution-first-round-explained/); [Cap Table Cleanup Before Series A: Common Problems and How to Fix Them](/blog/cap-table-cleanup-before-series-a-common-problems/); [Secondary Sales for Founders: Startup Liquidity Rules to Know](/blog/secondary-sales-founder-liquidity-startup-rules/)
 
+To avoid the 20% federal excise tax on discounted options, verify [IRS safe harbor 409A valuation rules for startups](/blog/safe-harbor-409a-valuation-startup-stock-options-irs-rules/).
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

@@ -83,6 +83,8 @@ Penalties differ by regime. Under California Labor Code section 226.8, willful m
 
 **Related reading:** [Offer Letter vs Employment Contract: Differences for a Startup](/blog/offer-letter-vs-employment-contract-differences-startup/); [Meal and Rest Break Laws for Small Business Employers: State Rules and Federal Basics](/blog/meal-and-rest-break-laws-small-business-employers/); [Independent Contractor Misclassification Penalties for Employers: What You Can Owe](/blog/independent-contractor-misclassification-penalties-employers/); [Work for Hire vs Assignment: Designer or Developer, Who Owns the IP?](/blog/work-for-hire-vs-assignment-designer-developer-who-owns-the-ip/)
 
+For California B2B exemptions bypassing the ABC test, review the [California AB 5 B2B contractor exemption checklist](/blog/california-ab5-b2b-contractor-exemption-checklist-business/).
+
 ## Where DoubleCheck fits
 
 [DoubleCheck](https://www.contactdoublecheck.com) helps businesses and founders start legal work with AI, verify it, and, when professional advice is warranted, connect with an independent attorney, including for immigration questions. Attorney availability and practice areas vary. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.

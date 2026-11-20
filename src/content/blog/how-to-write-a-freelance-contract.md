@@ -274,6 +274,8 @@ AI can accelerate almost every part of that process, but it should not replace u
 
 When an attorney is needed, you can approach that review with the contract already drafted and the major questions already identified. That can make legal work faster without treating an AI-generated document as automatically correct.
 
+For New York State statutory contracting rules, see the [New York Freelance Isn’t Free Act statewide requirements](/blog/new-york-freelance-isnt-free-act-statewide-requirements-contracts/).
+
 ## FAQ
 
 **What should be included in a freelance contract?**

@@ -80,6 +80,8 @@ If someone claims your name infringes theirs, do not panic or admit anything. Se
 
 [DoubleCheck](https://www.contactdoublecheck.com) is built for businesses that start legal work with AI. Bring your question or draft, use an AI-first workflow to understand and verify it, and when professional advice is warranted, you can connect with an independent attorney. Attorneys on DoubleCheck are independent professionals; an attorney-client relationship forms only if an attorney accepts your engagement.
 
+If your application encounters a likelihood of confusion objection, see [how to respond to a Section 2(d) trademark refusal](/blog/trademark-office-action-section-2d-likelihood-of-confusion-response/).
+
 ## FAQ
 
 **Is a registered LLC name the same as a trademark?**

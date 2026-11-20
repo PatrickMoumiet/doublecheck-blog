@@ -102,6 +102,8 @@ This article covers corporations. Delaware LLCs have their own annual requiremen
 
 **Sources:** [Delaware Division of Corporations: Pay Taxes](https://corp.delaware.gov/paytaxes/) and [Delaware fees and calculators](https://corp.delaware.gov/fee/).
 
+To recalculate an unexpected ,000+ assessment, read our step-by-step breakdown of the [Delaware franchise tax assumed par value method](/blog/delaware-franchise-tax-assumed-par-value-method-calculation/).
+
 ## FAQ
 
 **When is the Delaware franchise tax due?**

@@ -113,6 +113,8 @@ This is exactly the kind of workflow where [DoubleCheck](https://www.contactdoub
 
 Then you can inspect the supporting sources rather than relying entirely on generated text. If the facts remain unclear, human verification or professional assistance can be added as another layer.
 
+To establish irrefutable proof of timely postmark, check the [Section 83(b) election certified mail checklist](/blog/section-83b-election-certified-mail-proof-irs-filing/).
+
 ## FAQ
 
 **What is an 83(b) election?**
