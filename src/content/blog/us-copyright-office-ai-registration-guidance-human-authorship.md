@@ -109,6 +109,8 @@ Creative agencies, software startups, and authors should implement the following
 [DoubleCheck](https://www.contactdoublecheck.com) provides businesses, general counsel, and enterprise teams with automated contract review, AI-assisted verification, and legal workflow assurance. DoubleCheck helps teams verify citations, audit regulatory compliance across California, Colorado, New York, and federal agencies, and connect with experienced attorneys to ensure compliance with emerging AI standards.
 
 **Related reading:**
+- [Tennessee ELVIS Act: AI Voice Cloning & Likeness Protections](/blog/tennessee-elvis-act-ai-voice-cloning-likeness-rights/)
+- [California AB 2602 & AB 1836: AI Digital Replica Contract Rules](/blog/california-ab-2602-ab-1836-ai-digital-replicas-entertainment-contracts/)
 - [AI-Generated Code and Startup IP Protection](/blog/ai-generated-code-ip-startup-founders/)
 - [AI-Generated Content Copyright for Solo Businesses](/blog/ai-generated-content-copyright-solo-business/)
 - [Trademark Business Name Check and Clearance Guide](/blog/trademark-business-name-check/)

@@ -110,6 +110,8 @@ Compliance officers should conduct an immediate internal review to eliminate AI 
 [DoubleCheck](https://www.contactdoublecheck.com) provides businesses, general counsel, and enterprise teams with automated contract review, AI-assisted verification, and legal workflow assurance. DoubleCheck helps teams verify citations, audit regulatory compliance across California, Colorado, New York, and federal agencies, and connect with experienced attorneys to ensure compliance with emerging AI standards.
 
 **Related reading:**
+- [FTC Operation AI Comply: Enforcement & Rules](/blog/ftc-operation-ai-comply-deceptive-ai-claims-enforcement/)
+- [FINRA Notice 24-09 on Generative AI for Broker-Dealers](/blog/finra-regulatory-notice-24-09-generative-ai-broker-dealers/)
 - [Corporate Transparency Act BOI Compliance for Startups](/blog/corporate-transparency-act-finsea-compliance-startups-2026/)
 - [Safe Harbor 409A Valuation for Startup Stock Options](/blog/safe-harbor-409a-valuation-startup-stock-options-irs-rules/)
 - [Section 83(b) Election Proof and IRS Filing Guide](/blog/section-83b-election-certified-mail-proof-irs-filing/)

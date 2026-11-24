@@ -118,6 +118,8 @@ Companies recruiting talent in the New York metropolitan area should execute an 
 [DoubleCheck](https://www.contactdoublecheck.com) provides businesses, general counsel, and enterprise teams with automated contract review, AI-assisted verification, and legal workflow assurance. DoubleCheck helps teams verify citations, audit regulatory compliance across California, Colorado, New York, and federal agencies, and connect with experienced attorneys to ensure compliance with emerging AI standards.
 
 **Related reading:**
+- [EEOC Title VII Guidance: AI Hiring & Disparate Impact](/blog/eeoc-title-vii-ai-selection-procedures-disparate-impact/)
+- [Illinois HB 3773: AI Employment Bias Rules](/blog/illinois-human-rights-act-hb-3773-ai-employment-bias/)
 - [New York Freelance Isn’t Free Act Statewide Rules](/blog/new-york-freelance-isnt-free-act-statewide-requirements-contracts/)
 - [Multi-State Remote Employee Compliance for Startups](/blog/multi-state-remote-employees-compliance-startups/)
 - [AI Employment Agreement Review Checklist](/blog/ai-employment-agreement-review-checklist/)

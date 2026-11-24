@@ -111,6 +111,9 @@ Technology companies releasing generative AI tools in California should execute 
 [DoubleCheck](https://www.contactdoublecheck.com) provides businesses, general counsel, and enterprise teams with automated contract review, AI-assisted verification, and legal workflow assurance. DoubleCheck helps teams verify citations, audit regulatory compliance across California, Colorado, New York, and federal agencies, and connect with experienced attorneys to ensure compliance with emerging AI standards.
 
 **Related reading:**
+- [Utah AI Policy Act SB 149: Disclosure & Rules](/blog/utah-artificial-intelligence-policy-act-sb-149-compliance/)
+- [DOJ ECCP Guidance: Corporate AI Risk Governance](/blog/doj-eccp-corporate-compliance-ai-risk-governance/)
+- [CFPB Circular on AI Adverse Action: ECOA & FCRA Rules](/blog/cfpb-circular-ai-advisers-adverse-action-ecoa-fcra/)
 - [California AB 5 B2B Contractor Exemption Checklist](/blog/california-ab5-b2b-contractor-exemption-checklist-business/)
 - [AI-Generated Code and Startup IP Protection](/blog/ai-generated-code-ip-startup-founders/)
 - [State Data Breach Notification Laws for Small Business](/blog/state-data-breach-notification-laws-small-business/)
