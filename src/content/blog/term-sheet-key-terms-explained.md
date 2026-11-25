@@ -101,3 +101,6 @@ A binding provision that stops the company from soliciting other investment or a
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [Board Control and Protective Provisions](/blog/board-control-protective-provisions-series-a-term-sheets).

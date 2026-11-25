@@ -106,3 +106,6 @@ Yes. Haynes Boone says almost all convertible instruments today contain a valuat
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [Post-Money SAFE Conversion Mechanics & Dilution](/blog/post-money-safe-conversion-mechanics-cap-table-dilution).

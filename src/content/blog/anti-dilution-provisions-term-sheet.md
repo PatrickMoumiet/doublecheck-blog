@@ -109,3 +109,6 @@ It can depend on the charter. Options, warrants, notes, and SAFEs can trigger de
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [Weighted Average vs Full Ratchet Anti-Dilution Mechanics](/blog/anti-dilution-weighted-average-vs-full-ratchet-mechanics).

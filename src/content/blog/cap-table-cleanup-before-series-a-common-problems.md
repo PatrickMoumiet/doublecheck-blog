@@ -134,3 +134,6 @@ You can organize records and find gaps yourself, but repairing unapproved issuan
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [NVCA Series A Preferred Stock Purchase Agreements](/blog/series-a-nvca-preferred-stock-purchase-agreement-clauses).
