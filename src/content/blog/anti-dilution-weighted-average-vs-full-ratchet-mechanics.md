@@ -151,3 +151,6 @@ AI tools parse term sheets and charter drafts to verify mathematical definitions
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper legal breakdown of venture debt and financing structures, review our complete guide on [Pay-to-Play Provisions in Down-Round Recapitalizations](/blog/pay-to-play-provisions-down-round-recapitalization/).

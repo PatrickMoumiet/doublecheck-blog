@@ -151,3 +151,6 @@ AI contract review engines detect non-standard side letters, ambiguous unallocat
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper legal breakdown of venture debt and financing structures, review our complete guide on [Most-Favored Nation (MFN) Clauses in SAFEs & Side Letters](/blog/side-letter-most-favored-nation-mfn-clauses-safe-seed/).

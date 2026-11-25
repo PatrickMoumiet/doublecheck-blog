@@ -143,3 +143,6 @@ AI legal tools benchmark registration rights covenants, verify Major Investor cu
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For a deeper legal breakdown of venture debt and financing structures, review our complete guide on [Information Rights & Board Observer Covenants in Side Letters](/blog/information-rights-side-letters-major-investor-board-observer/).

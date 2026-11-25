@@ -109,3 +109,5 @@ Yes. Haynes Boone says almost all convertible instruments today contain a valuat
 
 
 For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [Post-Money SAFE Conversion Mechanics & Dilution](/blog/post-money-safe-conversion-mechanics-cap-table-dilution).
+
+For a deeper legal breakdown of venture debt and financing structures, review our complete guide on [Convertible Note Maturity Date: Extension, Amendment & Default](/blog/convertible-promissory-note-maturity-date-extension-default/).
