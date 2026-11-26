@@ -193,3 +193,6 @@ Consider it when core technology, fundraising, acquisition diligence, licensing,
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+When contracting directly with commercial content houses or foundational model vendors, review our breakdown of [AI Training Data Licensing Agreements and Copyright Terms](/blog/ai-training-data-licensing-agreements-publisher-copyright-terms).

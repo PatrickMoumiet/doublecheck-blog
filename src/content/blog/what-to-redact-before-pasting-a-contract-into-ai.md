@@ -116,3 +116,6 @@ Government ID and bank numbers, other peoples personal data, trade secrets and d
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For corporate trade secret defense and zero-retention configurations across commercial LLMs, see our protocol on [Safeguarding Trade Secrets in LLM Prompts and Enterprise AI Policies](/blog/safeguarding-trade-secrets-llm-prompts-enterprise-ai-policies).

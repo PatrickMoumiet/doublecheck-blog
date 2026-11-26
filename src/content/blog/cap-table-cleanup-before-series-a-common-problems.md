@@ -137,3 +137,5 @@ You can organize records and find gaps yourself, but repairing unapproved issuan
 
 
 For a deeper breakdown of fundraising mechanics and legal diligence, review our detailed guide on [NVCA Series A Preferred Stock Purchase Agreements](/blog/series-a-nvca-preferred-stock-purchase-agreement-clauses).
+
+For international founders transitioning overseas entities into US investment vehicles, see our comprehensive manual on [Foreign Founder US Holding Company Restructuring and the Delaware Flip](/blog/foreign-founder-us-holding-company-delaware-flip-tax-structure).

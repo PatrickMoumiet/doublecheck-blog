@@ -143,3 +143,6 @@ Yes, provided human programmers wrote or substantially edited the source code. P
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For technical risk mitigation and privacy laundering avoidance in machine-generated training sets, review our analysis of [Synthetic Data Compliance, Copyright, and Model Training Rules](/blog/synthetic-data-compliance-copyright-privacy-model-training-rules).

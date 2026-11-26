@@ -107,3 +107,6 @@ Per Mondaq, most transparency obligations were not delayed and apply from August
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For enterprise teams navigating mandatory content authentication and cryptographic disclosure protocols under state transparency mandates, explore our guide on [California SB 942 AI Transparency Act Watermarking Compliance](/blog/california-sb-942-ai-transparency-act-watermarking-compliance).

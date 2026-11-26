@@ -107,3 +107,6 @@ Term and renewal, termination, liability cap and exclusions, indemnity, IP owner
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+To structure warranty disclaimers and avoid statutory negligence exposure when automated systems yield flawed legal outputs, review [AI Hallucination Liability, Negligence, and Commercial Contract Warranties](/blog/ai-hallucination-liability-negligence-commercial-contract-warranties).

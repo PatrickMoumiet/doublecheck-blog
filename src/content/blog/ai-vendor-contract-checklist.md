@@ -178,3 +178,6 @@ Professional review becomes more valuable when the vendor receives sensitive or 
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+If processing clinical workflows or protected health information through external inference APIs, examine our compliance checklist for [HIPAA Compliance in AI Healthcare Startups and BAA Safeguards](/blog/hipaa-compliance-ai-healthcare-startups-baa-safeguards).

@@ -110,3 +110,6 @@ Ask how operating expenses are defined, how your share is calculated, whether th
 ---
 
 *General information only. This article is not legal, tax, investment, or accounting advice.*
+
+
+For practical leasing risk management and limiting personal downside when executing commercial office space leases, read [Commercial Lease Personal Guarantees and Good Guy Clause Negotiation](/blog/commercial-lease-personal-guarantee-good-guy-clause-negotiation).
