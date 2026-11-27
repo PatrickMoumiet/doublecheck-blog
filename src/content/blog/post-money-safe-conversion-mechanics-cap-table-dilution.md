@@ -156,3 +156,5 @@ AI contract review engines detect non-standard side letters, ambiguous unallocat
 For a deeper legal breakdown of venture debt and financing structures, review our complete guide on [Most-Favored Nation (MFN) Clauses in SAFEs & Side Letters](/blog/side-letter-most-favored-nation-mfn-clauses-safe-seed/).
 
 For detailed tactics on countering unallocated option pool expansions during venture pricing, read our guide on [Venture Capital ESOP Pool Expansion and the Pre-Money Option Shuffle](/blog/venture-capital-esop-pool-expansion-pre-money-option-shuffle).
+
+For a direct side-by-side comparison between YC instruments and alternative convertible models, explore our guide on [SAFE vs KISS Convertible Instruments in Startup Seed Financing](/blog/safe-vs-kiss-keep-it-simple-security-startup-seed-financing).

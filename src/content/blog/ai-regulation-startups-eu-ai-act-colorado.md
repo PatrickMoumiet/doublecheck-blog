@@ -110,3 +110,5 @@ Per Mondaq, most transparency obligations were not delayed and apply from August
 
 
 For enterprise teams navigating mandatory content authentication and cryptographic disclosure protocols under state transparency mandates, explore our guide on [California SB 942 AI Transparency Act Watermarking Compliance](/blog/california-sb-942-ai-transparency-act-watermarking-compliance).
+
+If deploying automated scoring models or applicant profiling algorithms, read our deep-dive on [California CCPA Automated Decisionmaking Technology (ADMT) Regulations and AI Opt-Out Compliance](/blog/california-ccpa-automated-decision-making-technology-admt-regulations).

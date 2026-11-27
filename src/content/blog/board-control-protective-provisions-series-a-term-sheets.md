@@ -162,3 +162,5 @@ AI tools benchmark term sheets against national venture databases, flag non-stan
 
 
 To preserve strategic control through multi-class equity structures prior to institutional financing, review our guide on [Delaware Charter Amendments for Dual-Class Stock and Founder Voting Rights](/blog/delaware-charter-amendment-dual-class-stock-founder-voting-rights).
+
+To balance investor oversight against corporate governance exposure and evidentiary risks, see our guide on [Board Observer Rights vs Director Fiduciary Duties](/blog/board-observer-rights-vs-director-fiduciary-duty-liabilities).
