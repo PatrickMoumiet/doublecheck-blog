@@ -198,3 +198,5 @@ Consider it when core technology, fundraising, acquisition diligence, licensing,
 When contracting directly with commercial content houses or foundational model vendors, review our breakdown of [AI Training Data Licensing Agreements and Copyright Terms](/blog/ai-training-data-licensing-agreements-publisher-copyright-terms).
 
 For technical remediation protocols and preventing viral open-source contamination, review our playbook on [AI Code Licensing, GPL Contamination, and Cleanroom Audits](/blog/ai-code-licensing-gpl-contamination-cleanroom-audit-startups).
+
+For foundation model developers leveraging generative distillation, explore our in-depth examination of [synthetic data copyright, model collapse, and fair use liabilities](/blog/synthetic-data-copyright-fair-use-ai-model-training-legal-risks/).

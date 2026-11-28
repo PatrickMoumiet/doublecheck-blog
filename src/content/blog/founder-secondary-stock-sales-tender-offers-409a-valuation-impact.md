@@ -116,6 +116,10 @@ When a secondary transaction takes the form of a **company share repurchase** (r
 
 ---
 
+
+
+To safeguard early equity value from unexpected IRS phantom income liabilities before secondary rounds, consult our detailed analysis on [Section 83(b) election late filing remedies and protective measures](/blog/83b-election-late-filing-remedies-irs-protective-measures/).
+
 ## Statutory Authorities and Benchmark References
 
 - **Internal Revenue Code (IRC § 409A & § 302):** Inclusion in gross income of deferred compensation and distributions in redemption of stock.

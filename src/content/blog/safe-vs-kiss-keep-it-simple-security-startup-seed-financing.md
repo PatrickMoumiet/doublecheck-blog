@@ -102,6 +102,10 @@ A key operational feature distinguishing both securities is how they handle subs
 
 ---
 
+
+
+Note that convertible securities and SAFEs must also be audited on a fully-diluted basis to maintain compliance with federal [FinCEN Corporate Transparency Act (CTA) beneficial ownership reporting rules](/blog/delaware-corporate-transparency-act-cta-fin-cen-compliance-founders/).
+
 ## Statutory Authorities and Benchmark References
 
 - **Delaware General Corporation Law (DGCL § 151 & § 157):** Governing authority for corporate power to issue stock, convertibles, rights, and options.
